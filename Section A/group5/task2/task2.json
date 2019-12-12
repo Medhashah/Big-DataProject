@@ -1,0 +1,4164 @@
+{
+  "predicted_types": [
+    {
+      "column_name": "ZIP",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "label": "zip_code",
+          "count": 9361
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "column_name": "Independent Website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "label": "website",
+          "count": 421
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 845
+        }
+      ]
+    },
+    {
+      "column_name": "PREM_TYP_DESC",
+      "semantic_types": [
+        {
+          "semantic_type": "location_type",
+          "label": "location_type",
+          "count": 6463167
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 37703
+        }
+      ]
+    },
+    {
+      "column_name": "Provider Last Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 1854
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 86
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 91
+        }
+      ]
+    },
+    {
+      "column_name": "Owner's Street Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 22145
+        },
+        {
+          "semantic_type": "street_name",
+          "label": "street_name",
+          "count": 27242
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 2
+        },
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1816
+        }
+      ]
+    },
+    {
+      "column_name": "VendorAddress",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "label": "address",
+          "count": 31596
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 502509
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 515
+        }
+      ]
+    },
+    {
+      "column_name": "BROOKLYN CONDOMINIUM PROPERTY Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 595
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Make",
+      "semantic_types": [
+        {
+          "semantic_type": "car_make",
+          "label": "car_make",
+          "count": 2339311
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 12646
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "column_name": "BROOKLYN \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 5640
+        },
+        {
+          "semantic_type": "building_classification",
+          "label": "building_classification",
+          "count": 958
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE TYPE CODE 4",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1520537
+        },
+        {
+          "semantic_type": "vehicle_type",
+          "label": "vehicle_type",
+          "count": 48889
+        }
+      ]
+    },
+    {
+      "column_name": "PREM_TYP_DESC",
+      "semantic_types": [
+        {
+          "semantic_type": "location_type",
+          "label": "location_type",
+          "count": 221461
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 937
+        }
+      ]
+    },
+    {
+      "column_name": "ACCOUNT CITY",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 10806
+        },
+        {
+          "semantic_type": "city",
+          "label": "city",
+          "count": 4147
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 941
+        }
+      ]
+    },
+    {
+      "column_name": "Provider First Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 1832
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 97
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 102
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_MAKE",
+      "semantic_types": [
+        {
+          "semantic_type": "DVC_MAKE",
+          "label": "DVC_MAKE",
+          "count": 335174
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Body Type",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "label": "vehicle_type",
+          "count": 2343147
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 8642
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 177
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "label": "borough",
+          "count": 2835
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 68
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 29
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "column_name": "Owner\u2019s House Zip Code",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "label": "zip_code",
+          "count": 2229005
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 37423
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 162098
+        }
+      ]
+    },
+    {
+      "column_name": "Street Address 1 ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 24628
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 29587
+        },
+        {
+          "semantic_type": "address",
+          "label": "address",
+          "count": 245
+        }
+      ]
+    },
+    {
+      "column_name": "DBA",
+      "semantic_types": [
+        {
+          "semantic_type": "DBA",
+          "label": "DBA",
+          "count": 391543
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 588
+        }
+      ]
+    },
+    {
+      "column_name": "Property Address",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 12235
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 75
+        },
+        {
+          "semantic_type": "address",
+          "label": "address",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "column_name": "CrossStreetName",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "label": "street_name",
+          "count": 97006
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 7586981
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 84276
+        }
+      ]
+    },
+    {
+      "column_name": "STATEN ISLAND CONDOMINIUM PROPERTY Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 56
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "column_name": "StartCity",
+      "semantic_types": [
+        {
+          "semantic_type": "city",
+          "label": "city",
+          "count": 64207
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 43794
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 11535
+        }
+      ]
+    },
+    {
+      "column_name": "interest1",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "label": "area_of_study",
+          "count": 440
+        }
+      ]
+    },
+    {
+      "column_name": "CORE COURSE (MS CORE and 9-12 ONLY)",
+      "semantic_types": [
+        {
+          "semantic_type": "CORE COURSE (MS CORE and 9-12 ONLY)",
+          "label": "CORE COURSE (MS CORE and 9-12 ONLY)",
+          "count": 24012
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1464
+        }
+      ]
+    },
+    {
+      "column_name": "NeighborhoodName",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 323
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 213
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Location (City)",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 13347033
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 3305777
+        }
+      ]
+    },
+    {
+      "column_name": "website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "label": "website",
+          "count": 437
+        }
+      ]
+    },
+    {
+      "column_name": "City",
+      "semantic_types": [
+        {
+          "semantic_type": "city",
+          "label": "city",
+          "count": 12910710
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 7346010
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1310915
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1503
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "column_name": "Website",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 43959
+        },
+        {
+          "semantic_type": "website",
+          "label": "website",
+          "count": 72456
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 234
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Make",
+      "semantic_types": [
+        {
+          "semantic_type": "car_make",
+          "label": "car_make",
+          "count": 10563178
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 63578
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 143
+        }
+      ]
+    },
+    {
+      "column_name": "CANDMI",
+      "semantic_types": [
+        {
+          "semantic_type": "CANDMI",
+          "label": "CANDMI",
+          "count": 116500
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 77241
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 1220
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 57
+        }
+      ]
+    },
+    {
+      "column_name": "Website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "label": "website",
+          "count": 6500
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 2718
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 154
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL \u00e2\u0080\u0093 1 \u00e2\u0080\u0093 Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "label": "building_classification",
+          "count": 1381
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1575
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 18043
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 11860
+        }
+      ]
+    },
+    {
+      "column_name": "Owner Last Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 197744
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 2936
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 5801
+        }
+      ]
+    },
+    {
+      "column_name": "phone",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "label": "phone_number",
+          "count": 1885
+        }
+      ]
+    },
+    {
+      "column_name": "Address1",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 889
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 841
+        },
+        {
+          "semantic_type": "address",
+          "label": "address",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "column_name": "CrossStreet2",
+      "semantic_types": [
+        {
+          "semantic_type": "CrossStreet2",
+          "label": "CrossStreet2",
+          "count": 503983
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 80079
+        }
+      ]
+    },
+    {
+      "column_name": "Cross Street 2",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 394045
+        },
+        {
+          "semantic_type": "Cross Street 2",
+          "label": "Cross Street 2",
+          "count": 1389088
+        }
+      ]
+    },
+    {
+      "column_name": "interest",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "label": "area_of_study",
+          "count": 769
+        }
+      ]
+    },
+    {
+      "column_name": "Street Name",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "label": "street_name",
+          "count": 1352464
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 419683
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 102550
+        }
+      ]
+    },
+    {
+      "column_name": "fax",
+      "semantic_types": [
+        {
+          "semantic_type": "fax",
+          "label": "fax",
+          "count": 5480
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 3892
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 4
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 905
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 2528
+        }
+      ]
+    },
+    {
+      "column_name": "interest4",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 383
+        },
+        {
+          "semantic_type": "area_of_study",
+          "label": "area_of_study",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "column_name": "School Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1115468
+        },
+        {
+          "semantic_type": "school_name",
+          "label": "school_name",
+          "count": 2818
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 1602
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 95
+        }
+      ]
+    },
+    {
+      "column_name": "Location 1",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 32852
+        },
+        {
+          "semantic_type": "lat_lon_cord",
+          "label": "lat_lon_cord",
+          "count": 35453
+        }
+      ]
+    },
+    {
+      "column_name": "AUTH_REP_FIRST_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 34097
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 87614
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Body Type",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "label": "vehicle_type",
+          "count": 11417113
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 49763
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 630
+        }
+      ]
+    },
+    {
+      "column_name": "INTEREST",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "label": "area_of_study",
+          "count": 719
+        }
+      ]
+    },
+    {
+      "column_name": "Location1",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 8543
+        },
+        {
+          "semantic_type": "lat_lon_cord",
+          "label": "lat_lon_cord",
+          "count": 7394
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 2
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 7352
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 5144
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "label": "color",
+          "count": 10496985
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 129911
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "column_name": "Address 1",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1923
+        },
+        {
+          "semantic_type": "address",
+          "label": "address",
+          "count": 60
+        }
+      ]
+    },
+    {
+      "column_name": "Location",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 143565
+        },
+        {
+          "semantic_type": "lat_lon_cord",
+          "label": "lat_lon_cord",
+          "count": 1645794
+        }
+      ]
+    },
+    {
+      "column_name": "STATEN ISLAND CONDOMINIUM PROPERTY Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE TYPE CODE 5",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1558930
+        },
+        {
+          "semantic_type": "vehicle_type",
+          "label": "vehicle_type",
+          "count": 10496
+        }
+      ]
+    },
+    {
+      "column_name": "CANDMI",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 27320
+        },
+        {
+          "semantic_type": "CANDMI",
+          "label": "CANDMI",
+          "count": 40985
+        }
+      ]
+    },
+    {
+      "column_name": "interest6",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 401
+        },
+        {
+          "semantic_type": "area_of_study",
+          "label": "area_of_study",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "column_name": "FromStreetName",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "label": "street_name",
+          "count": 8477521
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 682751
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 300727
+        }
+      ]
+    },
+    {
+      "column_name": "CrossStreet2",
+      "semantic_types": [
+        {
+          "semantic_type": "CrossStreet2",
+          "label": "CrossStreet2",
+          "count": 40173
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 36813
+        }
+      ]
+    },
+    {
+      "column_name": "Location",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 79495
+        },
+        {
+          "semantic_type": "lat_lon_cord",
+          "label": "lat_lon_cord",
+          "count": 119500
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1239
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "column_name": "Org Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Org Name",
+          "label": "Org Name",
+          "count": 11702
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "label": "borough",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1503
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 143
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "column_name": "FirstName",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 8659
+        },
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 9945
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 190
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 278
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "column_name": "interest3",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 364
+        },
+        {
+          "semantic_type": "area_of_study",
+          "label": "area_of_study",
+          "count": 71
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent Address (City)",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 6939953
+        },
+        {
+          "semantic_type": "city",
+          "label": "city",
+          "count": 6880005
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 2832852
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX \u00e2\u0080\u0093 CONDOMINIUMS COMPARABLE PROPERTIES \u00e2\u0080\u0093 Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 69
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 270
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "column_name": "Middle Initial",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 4303
+        },
+        {
+          "semantic_type": "Middle Initial",
+          "label": "Middle Initial",
+          "count": 594
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent Address (Zip Code)",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 4205386
+        },
+        {
+          "semantic_type": "zip_code",
+          "label": "zip_code",
+          "count": 12444132
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 3292
+        }
+      ]
+    },
+    {
+      "column_name": "Park Facility Name",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "label": "park_playground",
+          "count": 1882407
+        }
+      ]
+    },
+    {
+      "column_name": "School Type",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1722
+        }
+      ]
+    },
+    {
+      "column_name": "Owner's Business Name",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "label": "business_name",
+          "count": 49387
+        }
+      ]
+    },
+    {
+      "column_name": "PRINCIPAL_PHONE_NUMBER",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "label": "phone_number",
+          "count": 1826
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 3670
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1816
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "column_name": "BROOKLYN CONDOMINIUM PROPERTY Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1728
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 396
+        }
+      ]
+    },
+    {
+      "column_name": "EMPCITY",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 37831
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 50207
+        },
+        {
+          "semantic_type": "city",
+          "label": "city",
+          "count": 34609
+        }
+      ]
+    },
+    {
+      "column_name": "RESPONDENT_ZIP",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "label": "zip_code",
+          "count": 1241713
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 160764
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 868
+        }
+      ]
+    },
+    {
+      "column_name": "parkname",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "label": "park_playground",
+          "count": 1219
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 659
+        }
+      ]
+    },
+    {
+      "column_name": "Owner Street Address",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 38724
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 204
+        },
+        {
+          "semantic_type": "address",
+          "label": "address",
+          "count": 878
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1743
+        }
+      ]
+    },
+    {
+      "column_name": "DBA",
+      "semantic_types": [
+        {
+          "semantic_type": "DBA",
+          "label": "DBA",
+          "count": 24422
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 76611
+        }
+      ]
+    },
+    {
+      "column_name": "interest1",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "label": "area_of_study",
+          "count": 427
+        }
+      ]
+    },
+    {
+      "column_name": "Park Facility Name",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "label": "park_playground",
+          "count": 21567211
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 424
+        }
+      ]
+    },
+    {
+      "column_name": "CITY",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 809
+        },
+        {
+          "semantic_type": "city",
+          "label": "city",
+          "count": 8642
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 5135
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE TYPE CODE 2",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "label": "vehicle_type",
+          "count": 1312350
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 257073
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 6
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 141
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 409
+        }
+      ]
+    },
+    {
+      "column_name": "street",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 4576
+        },
+        {
+          "semantic_type": "street",
+          "label": "street",
+          "count": 34781
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL",
+      "semantic_types": [
+        {
+          "semantic_type": "SCHOOL",
+          "label": "SCHOOL",
+          "count": 1743
+        }
+      ]
+    },
+    {
+      "column_name": "CANDMI",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 23834
+        },
+        {
+          "semantic_type": "CANDMI",
+          "label": "CANDMI",
+          "count": 26668
+        }
+      ]
+    },
+    {
+      "column_name": "BusinessName",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "label": "business_name",
+          "count": 36051
+        }
+      ]
+    },
+    {
+      "column_name": "Agency ID",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 567
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "column_name": "BUSINESS_NAME2",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "label": "business_name",
+          "count": 1039
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 425
+        }
+      ]
+    },
+    {
+      "column_name": "School Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "label": "school_name",
+          "count": 783
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 799
+        }
+      ]
+    },
+    {
+      "column_name": "DBA",
+      "semantic_types": [
+        {
+          "semantic_type": "DBA",
+          "label": "DBA",
+          "count": 5226
+        }
+      ]
+    },
+    {
+      "column_name": "BORO",
+      "semantic_types": [
+        {
+          "semantic_type": "BORO",
+          "label": "BORO",
+          "count": 4630167
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 564609
+        }
+      ]
+    },
+    {
+      "column_name": "Address 1",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1740
+        },
+        {
+          "semantic_type": "address",
+          "label": "address",
+          "count": 59
+        }
+      ]
+    },
+    {
+      "column_name": "PRINCIPAL_PHONE_NUMBER",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "label": "phone_number",
+          "count": 1805
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 3644
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "column_name": "MANHATTAN \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 15585
+        },
+        {
+          "semantic_type": "building_classification",
+          "label": "building_classification",
+          "count": 2646
+        }
+      ]
+    },
+    {
+      "column_name": "org_website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "label": "website",
+          "count": 74
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE TYPE CODE 3",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1438765
+        },
+        {
+          "semantic_type": "vehicle_type",
+          "label": "vehicle_type",
+          "count": 130661
+        }
+      ]
+    },
+    {
+      "column_name": "Landmark",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 21256542
+        },
+        {
+          "semantic_type": "Landmark",
+          "label": "Landmark",
+          "count": 311093
+        }
+      ]
+    },
+    {
+      "column_name": "Last Name (only 2014-15)",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 8273
+        },
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 4836
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 107
+        }
+      ]
+    },
+    {
+      "column_name": "Owner\u2019s House City",
+      "semantic_types": [
+        {
+          "semantic_type": "city",
+          "label": "city",
+          "count": 1859355
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1731067
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 556
+        }
+      ]
+    },
+    {
+      "column_name": "PERSON LAST NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 50133
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1770
+        }
+      ]
+    },
+    {
+      "column_name": "CITY",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 3658
+        },
+        {
+          "semantic_type": "city",
+          "label": "city",
+          "count": 26558
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 28312
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 66
+        }
+      ]
+    },
+    {
+      "column_name": "StreetName",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "label": "street_name",
+          "count": 1713713
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 114848
+        }
+      ]
+    },
+    {
+      "column_name": "DBA",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 21010
+        },
+        {
+          "semantic_type": "DBA",
+          "label": "DBA",
+          "count": 5489
+        }
+      ]
+    },
+    {
+      "column_name": "AUTH_REP_LAST_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 33717
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 87994
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "column_name": "DVT_MAKE",
+      "semantic_types": [
+        {
+          "semantic_type": "DVT_MAKE",
+          "label": "DVT_MAKE",
+          "count": 76674
+        }
+      ]
+    },
+    {
+      "column_name": "QUEENS CONDOMINIUM PROPERTY Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1438
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 251
+        }
+      ]
+    },
+    {
+      "column_name": "Incident Zip",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "label": "zip_code",
+          "count": 1660084
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 122851
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 198
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 2
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 7354
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 5029
+        }
+      ]
+    },
+    {
+      "column_name": "address",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 35102
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 2938
+        },
+        {
+          "semantic_type": "address",
+          "label": "address",
+          "count": 1317
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1677
+        }
+      ]
+    },
+    {
+      "column_name": "DVV_MAKE",
+      "semantic_types": [
+        {
+          "semantic_type": "DVV_MAKE",
+          "label": "DVV_MAKE",
+          "count": 688766
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 280
+        },
+        {
+          "semantic_type": "building_classification",
+          "label": "building_classification",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "column_name": "Applicant's First Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 1679575
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 18372
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "column_name": "MI",
+      "semantic_types": [
+        {
+          "semantic_type": "MI",
+          "label": "MI",
+          "count": 798422
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 639914
+        }
+      ]
+    },
+    {
+      "column_name": "Park Facility Name",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "label": "park_playground",
+          "count": 1874697
+        }
+      ]
+    },
+    {
+      "column_name": "LastName",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 8681
+        },
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 9878
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 235
+        }
+      ]
+    },
+    {
+      "column_name": "EMPCITY",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 43664
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 51478
+        },
+        {
+          "semantic_type": "city",
+          "label": "city",
+          "count": 27694
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "label": "borough",
+          "count": 342
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "column_name": "STREET_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "label": "street_name",
+          "count": 115235
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 6496
+        }
+      ]
+    },
+    {
+      "column_name": "Location 1",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 4163
+        },
+        {
+          "semantic_type": "lat_lon_cord",
+          "label": "lat_lon_cord",
+          "count": 10423
+        }
+      ]
+    },
+    {
+      "column_name": "Applicant Last Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 46507
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 2880
+        }
+      ]
+    },
+    {
+      "column_name": "School Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 746
+        },
+        {
+          "semantic_type": "school_name",
+          "label": "school_name",
+          "count": 825
+        }
+      ]
+    },
+    {
+      "column_name": "StreetName",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 15382
+        },
+        {
+          "semantic_type": "street_name",
+          "label": "street_name",
+          "count": 312437
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "label": "color",
+          "count": 2295761
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 56204
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "column_name": "Incident Zip",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 136135
+        },
+        {
+          "semantic_type": "zip_code",
+          "label": "zip_code",
+          "count": 1746135
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 137
+        }
+      ]
+    },
+    {
+      "column_name": "School Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1848
+        },
+        {
+          "semantic_type": "school_name",
+          "label": "school_name",
+          "count": 1407
+        }
+      ]
+    },
+    {
+      "column_name": "ADDRESS",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 709513
+        },
+        {
+          "semantic_type": "address",
+          "label": "address",
+          "count": 17367
+        }
+      ]
+    },
+    {
+      "column_name": "ZipCode(s)",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "label": "zip_code",
+          "count": 44734
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "column_name": "QUEENS CONDOMINIUM PROPERTY Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 306
+        }
+      ]
+    },
+    {
+      "column_name": "BOROUGH / COMMUNITY",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "label": "borough",
+          "count": 105
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 116
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 113
+        }
+      ]
+    },
+    {
+      "column_name": "Phone Number",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "label": "phone_number",
+          "count": 959
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "column_name": "HOUSE_NUMBER",
+      "semantic_types": [
+        {
+          "semantic_type": "house_number",
+          "label": "house_number",
+          "count": 1742841
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 31179
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "column_name": "Vendor_DBA",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 8205
+        },
+        {
+          "semantic_type": "Vendor_DBA",
+          "label": "Vendor_DBA",
+          "count": 1167
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 2
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 273
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 230
+        }
+      ]
+    },
+    {
+      "column_name": "interest5",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 402
+        },
+        {
+          "semantic_type": "area_of_study",
+          "label": "area_of_study",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "column_name": "Address City",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 78098
+        },
+        {
+          "semantic_type": "city",
+          "label": "city",
+          "count": 120193
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 704
+        }
+      ]
+    },
+    {
+      "column_name": "interest1",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "label": "area_of_study",
+          "count": 435
+        }
+      ]
+    },
+    {
+      "column_name": "School Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "label": "school_name",
+          "count": 752
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 806
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1239
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 23
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1715
+        }
+      ]
+    },
+    {
+      "column_name": "Cross Street 1",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 469553
+        },
+        {
+          "semantic_type": "Cross Street 1",
+          "label": "Cross Street 1",
+          "count": 1412854
+        }
+      ]
+    },
+    {
+      "column_name": "PERSON FIRST NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 50779
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 296
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 828
+        }
+      ]
+    },
+    {
+      "column_name": "STATEN ISLAND CONDOMINIUM PROPERTY Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "column_name": "BORO",
+      "semantic_types": [
+        {
+          "semantic_type": "BORO",
+          "label": "BORO",
+          "count": 30215
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE MAKE",
+      "semantic_types": [
+        {
+          "semantic_type": "car_make",
+          "label": "car_make",
+          "count": 7487
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 137
+        }
+      ]
+    },
+    {
+      "column_name": "Last Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 4695
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 202
+        }
+      ]
+    },
+    {
+      "column_name": "TOP VEHICLE MODELS - 5",
+      "semantic_types": [
+        {
+          "semantic_type": "TOP VEHICLE MODELS - 5",
+          "label": "TOP VEHICLE MODELS - 5",
+          "count": 647
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 124
+        }
+      ]
+    },
+    {
+      "column_name": "Incident_Address_Street_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "label": "street_name",
+          "count": 50724
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 3566
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 287
+        }
+      ]
+    },
+    {
+      "column_name": "Intersection Street 2",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1430832
+        },
+        {
+          "semantic_type": "Intersection Street 2",
+          "label": "Intersection Street 2",
+          "count": 352301
+        }
+      ]
+    },
+    {
+      "column_name": "Color",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1653
+        },
+        {
+          "semantic_type": "color",
+          "label": "color",
+          "count": 234
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "column_name": "School Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "label": "school_name",
+          "count": 837
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 781
+        }
+      ]
+    },
+    {
+      "column_name": "Street Name",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 382346
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 101431
+        },
+        {
+          "semantic_type": "street_name",
+          "label": "street_name",
+          "count": 1299356
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 248
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 20916
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 585
+        }
+      ]
+    },
+    {
+      "column_name": "neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 435
+        }
+      ]
+    },
+    {
+      "column_name": "CANDMI",
+      "semantic_types": [
+        {
+          "semantic_type": "CANDMI",
+          "label": "CANDMI",
+          "count": 50793
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 24638
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "label": "borough",
+          "count": 520
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 78
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "column_name": "Principal_phone_number",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "label": "phone_number",
+          "count": 2099
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 91
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Body Type",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "label": "vehicle_type",
+          "count": 10586040
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 39271
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1588
+        }
+      ]
+    },
+    {
+      "column_name": "Location",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "label": "lat_lon_cord",
+          "count": 767156
+        }
+      ]
+    },
+    {
+      "column_name": "Telephone Number",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 772
+        }
+      ]
+    },
+    {
+      "column_name": "CORE COURSE(9-12 ONLY)",
+      "semantic_types": [
+        {
+          "semantic_type": "CORE COURSE(9-12 ONLY)",
+          "label": "CORE COURSE(9-12 ONLY)",
+          "count": 16428
+        }
+      ]
+    },
+    {
+      "column_name": "Owner First Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 198451
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 5801
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 2229
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1494
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 15974
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 11260
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "label": "color",
+          "count": 10650693
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 152332
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "column_name": "Name (Last, First)",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 3697
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 2806
+        }
+      ]
+    },
+    {
+      "column_name": "Filing Representative First Name",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 6669
+        },
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 40915
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1803
+        }
+      ]
+    },
+    {
+      "column_name": "MI",
+      "semantic_types": [
+        {
+          "semantic_type": "MI",
+          "label": "MI",
+          "count": 310908
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 207555
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 2
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 1328
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1036
+        }
+      ]
+    },
+    {
+      "column_name": "School Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1781882
+        },
+        {
+          "semantic_type": "school_name",
+          "label": "school_name",
+          "count": 7477
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "label": "borough",
+          "count": 331
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1743
+        }
+      ]
+    },
+    {
+      "column_name": "TOSTREETNAME",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "label": "street_name",
+          "count": 56534
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 8599
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "column_name": "WEBSITE",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "label": "website",
+          "count": 299
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE TYPE CODE 1",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "label": "vehicle_type",
+          "count": 1564289
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 5134
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Make",
+      "semantic_types": [
+        {
+          "semantic_type": "car_make",
+          "label": "car_make",
+          "count": 10729861
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 73047
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 120
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Make",
+      "semantic_types": [
+        {
+          "semantic_type": "car_make",
+          "label": "car_make",
+          "count": 9036978
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 63175
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 125
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 1695
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 80
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "label": "color",
+          "count": 9027829
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 72443
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "column_name": "Agency Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 90
+        },
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 7470
+        }
+      ]
+    },
+    {
+      "column_name": "Lat_Lon",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "label": "lat_lon_cord",
+          "count": 6483531
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 17339
+        }
+      ]
+    },
+    {
+      "column_name": "First Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 83999
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 4969
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 255
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1677
+        }
+      ]
+    },
+    {
+      "column_name": "CITY",
+      "semantic_types": [
+        {
+          "semantic_type": "city",
+          "label": "city",
+          "count": 33816
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 5815
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 26277
+        }
+      ]
+    },
+    {
+      "column_name": "Address",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 68697
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 9990
+        },
+        {
+          "semantic_type": "address",
+          "label": "address",
+          "count": 1922
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT (MS CORE and 9-12 ONLY)",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 154
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 504
+        }
+      ]
+    },
+    {
+      "column_name": "interest4",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 387
+        },
+        {
+          "semantic_type": "area_of_study",
+          "label": "area_of_study",
+          "count": 53
+        }
+      ]
+    },
+    {
+      "column_name": "Website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "label": "website",
+          "count": 52
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 86
+        }
+      ]
+    },
+    {
+      "column_name": "School Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1602
+        },
+        {
+          "semantic_type": "school_name",
+          "label": "school_name",
+          "count": 1345
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "label": "building_classification",
+          "count": 54
+        }
+      ]
+    },
+    {
+      "column_name": "School Phone Number",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1874697
+        }
+      ]
+    },
+    {
+      "column_name": "School Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1778239
+        },
+        {
+          "semantic_type": "school_name",
+          "label": "school_name",
+          "count": 4894
+        }
+      ]
+    },
+    {
+      "column_name": "Site Safety Mgr's Last Name",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 3562282
+        },
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 27216
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1480
+        }
+      ]
+    },
+    {
+      "column_name": "Location",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "label": "lat_lon_cord",
+          "count": 584062
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 875
+        },
+        {
+          "semantic_type": "school_name",
+          "label": "school_name",
+          "count": 1087
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1459
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 190
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "column_name": "Location 1",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "label": "lat_lon_cord",
+          "count": 592355
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "column_name": "Cross Street 1",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 185749
+        },
+        {
+          "semantic_type": "Cross Street 1",
+          "label": "Cross Street 1",
+          "count": 932537
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL \u2013 1 \u2013 Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 13554
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1164
+        },
+        {
+          "semantic_type": "building_classification",
+          "label": "building_classification",
+          "count": 1085
+        }
+      ]
+    },
+    {
+      "column_name": "CORE COURSE (MS CORE and 9-12 ONLY)",
+      "semantic_types": [
+        {
+          "semantic_type": "CORE COURSE (MS CORE and 9-12 ONLY)",
+          "label": "CORE COURSE (MS CORE and 9-12 ONLY)",
+          "count": 18944
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 1  Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "label": "building_classification",
+          "count": 423
+        }
+      ]
+    },
+    {
+      "column_name": "Address ZIP",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "label": "zip_code",
+          "count": 198150
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 115
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 730
+        }
+      ]
+    },
+    {
+      "column_name": "Website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "label": "website",
+          "count": 32
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "column_name": "QUEENS \u00e2\u0080\u0093 CONDOMINIUMS COMPARABLE PROPERTIES \u00e2\u0080\u0093 Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 434
+        }
+      ]
+    },
+    {
+      "column_name": "TruckMake",
+      "semantic_types": [
+        {
+          "semantic_type": "TruckMake",
+          "label": "TruckMake",
+          "count": 119536
+        }
+      ]
+    },
+    {
+      "column_name": "org_neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 75
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "label": "school_name",
+          "count": 299
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 5030
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "column_name": "Site Safety Mgr's First Name",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 3562282
+        },
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 28081
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 615
+        }
+      ]
+    },
+    {
+      "column_name": "Park/Site Name",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "label": "park_playground",
+          "count": 542
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "column_name": "APPLICANT_FIRST_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 121476
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 255
+        }
+      ]
+    },
+    {
+      "column_name": "Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 31348
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Body Type",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "label": "vehicle_type",
+          "count": 10758315
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 42695
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 2018
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "label": "color",
+          "count": 11676087
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 133134
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "column_name": "Upcoming Project Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Upcoming Project Name",
+          "label": "Upcoming Project Name",
+          "count": 501
+        }
+      ]
+    },
+    {
+      "column_name": "Cross Street 2",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 328461
+        },
+        {
+          "semantic_type": "Cross Street 2",
+          "label": "Cross Street 2",
+          "count": 1465313
+        }
+      ]
+    },
+    {
+      "column_name": "Location",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 136897
+        },
+        {
+          "semantic_type": "lat_lon_cord",
+          "label": "lat_lon_cord",
+          "count": 1737800
+        }
+      ]
+    },
+    {
+      "column_name": "BROOKLYN \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 2378
+        },
+        {
+          "semantic_type": "building_classification",
+          "label": "building_classification",
+          "count": 1710
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 154
+        }
+      ]
+    },
+    {
+      "column_name": "Street Address 1",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 18905
+        },
+        {
+          "semantic_type": "address",
+          "label": "address",
+          "count": 6070
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 9818
+        }
+      ]
+    },
+    {
+      "column_name": "neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "label": "neighborhood",
+          "count": 473
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "column_name": "Agency Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 219
+        },
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 18393
+        }
+      ]
+    },
+    {
+      "column_name": "Site Safety Mgr's Last Name",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 2417665
+        },
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 10082
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 779
+        }
+      ]
+    },
+    {
+      "column_name": "BOROUGH",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 12497
+        }
+      ]
+    },
+    {
+      "column_name": "Owner's  Phone #",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 15281
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 66
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 3
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 114
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "column_name": "MI",
+      "semantic_types": [
+        {
+          "semantic_type": "MI",
+          "label": "MI",
+          "count": 161732
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 79689
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "label": "borough",
+          "count": 2830
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "label": "color",
+          "count": 11588649
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 132972
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "column_name": "BORO",
+      "semantic_types": [
+        {
+          "semantic_type": "BORO",
+          "label": "BORO",
+          "count": 575
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "label": "borough",
+          "count": 454
+        }
+      ]
+    },
+    {
+      "column_name": "School Phone Number",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1882407
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "label": "color",
+          "count": 11312532
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 154974
+        }
+      ]
+    },
+    {
+      "column_name": "Business Phone Number",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 24122
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 65101
+        }
+      ]
+    },
+    {
+      "column_name": "First Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 4860
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 18
+        },
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 228
+        }
+      ]
+    },
+    {
+      "column_name": "Business Website or Other URL",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "label": "website",
+          "count": 1450
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 403
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "label": "city_agency",
+          "count": 1644
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 89
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle Make",
+      "semantic_types": [
+        {
+          "semantic_type": "car_make",
+          "label": "car_make",
+          "count": 11733554
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 75510
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 169
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT ",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 5
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 812
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 2244
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 94
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 97
+        },
+        {
+          "semantic_type": "borough",
+          "label": "borough",
+          "count": 84
+        }
+      ]
+    },
+    {
+      "column_name": "First Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "label": "person_name",
+          "count": 240360
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 1060
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Location (Zip Code)",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 15228587
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 1424223
+        }
+      ]
+    },
+    {
+      "column_name": "owner_zip",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "label": "zip_code",
+          "count": 224558
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 44523
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 2828
+        }
+      ]
+    },
+    {
+      "column_name": "CallerZipCode",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "label": "zip_code",
+          "count": 228544
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 67374
+        },
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 109182
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL LEVEL*",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "label": "school_level",
+          "count": 1459
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "column_name": "Park Facility Name",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "label": "park_playground",
+          "count": 1793774
+        }
+      ]
+    },
+    {
+      "column_name": "QUEENS CONDOMINIUM PROPERTY Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "label": "building_classification",
+          "count": 353
+        }
+      ]
+    },
+    {
+      "column_name": "MANHATTAN \u2013 COOPERATIVES COMPARABLE PROPERTIES \u2013 Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "NULL",
+          "label": "NULL",
+          "count": 9032
+        },
+        {
+          "semantic_type": "building_classification",
+          "label": "building_classification",
+          "count": 6117
+        },
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 654
+        }
+      ]
+    },
+    {
+      "column_name": "CORE SUBJECT",
+      "semantic_types": [
+        {
+          "semantic_type": "Other",
+          "label": "Other",
+          "count": 252
+        },
+        {
+          "semantic_type": "subject_in_school",
+          "label": "subject_in_school",
+          "count": 272
+        }
+      ]
+    }
+  ]
+}

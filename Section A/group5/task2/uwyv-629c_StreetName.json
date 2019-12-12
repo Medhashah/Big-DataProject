@@ -1,0 +1,15 @@
+{
+  "column_name": "StreetName",
+  "semantic_types": [
+    {
+      "semantic_type": "street_name",
+      "label": "street_name",
+      "count": 1713713
+    },
+    {
+      "semantic_type": "Other",
+      "label": "Other",
+      "count": 114848
+    }
+  ]
+}

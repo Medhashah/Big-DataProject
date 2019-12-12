@@ -1,0 +1,274 @@
+uwyv-629c,	StreetName,	StreetName
+5694-9szk,	Business_Website_or_Other_URL,	Business Website or Other URL
+qcdj-rwhu,	BUSINESS_NAME2,	BUSINESS_NAME2
+6ypq-ih9a,	CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,	CORE SUBJECT 
+en2c-j6tw,	BRONX_CONDOMINIUM_PROPERTY_Building_Classification,	BRONX CONDOMINIUM PROPERTY Building Classification
+pvqr-7yc4,	Vehicle_Color,	Vehicle Color
+faiq-9dfq,	Vehicle_Color,	Vehicle Color
+uq7m-95z8,	interest6,	interest6
+5ziv-wcy4,	WEBSITE,	WEBSITE
+ydkf-mpxb,	CrossStreetName,	CrossStreetName
+w9ak-ipjd,	Applicant_Last_Name,	Applicant Last Name
+jz4z-kudi,	Respondent_Address__City_,	Respondent Address (City)
+rbx6-tga4,	Owner_Street_Address,	Owner Street Address
+sqmu-2ixd,	Agency_Name,	Agency Name
+aiww-p3af,	Incident_Zip,	Incident Zip
+mmvm-mvi3,	Org_Name,	Org Name
+h9gi-nx95,	VEHICLE_TYPE_CODE_5,	VEHICLE TYPE CODE 5
+uh2w-zjsn,	Borough,	Borough
+tqtj-sjs8,	FromStreetName,	FromStreetName
+mqdy-gu73,	Color,	Color
+7jkp-5w5g,	Agency,	Agency
+s3zn-tf7c,	QUEENS_CONDOMINIUM_PROPERTY_Building_Classification,	QUEENS CONDOMINIUM PROPERTY Building Classification
+sqcr-6mww,	School_Name,	School Name
+vrn4-2abs,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+2sps-j9st,	PERSON_LAST_NAME,	PERSON LAST NAME
+2bmr-jdsv,	DBA,	DBA
+4d7f-74pe,	Address,	Address
+ji82-xba5,	address,	address
+hy4q-igkk,	School_Name,	School Name
+s9d3-x4fz,	EMPCITY,	EMPCITY
+5uac-w243,	PREM_TYP_DESC,	PREM_TYP_DESC
+64gx-bycn,	EMPCITY,	EMPCITY
+e9xc-u3ds,	CANDMI,	CANDMI
+h9gi-nx95,	VEHICLE_TYPE_CODE_3,	VEHICLE TYPE CODE 3
+p937-wjvj,	HOUSE_NUMBER,	HOUSE_NUMBER
+dj4e-3xrn,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+qu8g-sxqf,	MI,	MI
+mdcw-n682,	Middle_Initial,	Middle Initial
+pq5i-thsu,	DVC_MAKE,	DVC_MAKE
+ub9e-s7ai,	CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,	CORE SUBJECT 
+52dp-yji6,	Owner_First_Name,	Owner First Name
+jz4z-kudi,	Respondent_Address__Zip_Code_,	Respondent Address (Zip Code)
+vx8i-nprf,	MI,	MI
+k3cd-yu9d,	Location_1,	Location 1
+p6h4-mpyy,	PRINCIPAL_PHONE_NUMBER,	PRINCIPAL_PHONE_NUMBER
+sybh-s59s,	CORE_SUBJECT___MS_CORE_and__9_12_ONLY_,	CORE SUBJECT 
+kz72-dump,	CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,	CORE SUBJECT 
+7btz-mnc8,	Provider_Last_Name,	Provider Last Name
+ph7v-u5f3,	TOP_VEHICLE_MODELS___5,	TOP VEHICLE MODELS - 5
+mjux-q9d4,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+hjvj-jfc9,	Borough,	Borough
+h9gi-nx95,	VEHICLE_TYPE_CODE_2,	VEHICLE TYPE CODE 2
+easq-ubfe,	CITY,	CITY
+sv2w-rv3k,	BORO,	BORO
+qu8g-sxqf,	First_Name,	First Name
+ipu4-2q9a,	Site_Safety_Mgr_s_First_Name,	Site Safety Mgr's First Name
+ipu4-2q9a,	Site_Safety_Mgr_s_Last_Name,	Site Safety Mgr's Last Name
+pgtq-ht5f,	CORE_SUBJECT___MS_CORE_and__9_12_ONLY_,	CORE SUBJECT 
+52dp-yji6,	Owner_Last_Name,	Owner Last Name
+s3k6-pzi2,	interest4,	interest4
+4y63-yw9e,	SCHOOL_NAME,	SCHOOL NAME
+gez6-674h,	CORE_SUBJECT___MS_CORE_and__9_12_ONLY_,	CORE SUBJECT 
+a9md-ynri,	MI,	MI
+u553-m549,	Independent_Website,	Independent Website
+uzcy-9puk,	Street_Name,	Street Name
+dg92-zbpx,	VendorAddress,	VendorAddress
+jcih-dj9q,	QUEENS_____CONDOMINIUMS_COMPARABLE_PROPERTIES_____Neighborhood,	QUEENS â CONDOMINIUMS COMPARABLE PROPERTIES â Neighborhood
+735p-zed8,	CANDMI,	CANDMI
+vg63-xw6u,	CITY,	CITY
+aiww-p3af,	Cross_Street_1,	Cross Street 1
+sa5w-dn2t,	Agency,	Agency
+cspg-yi7g,	ADDRESS,	ADDRESS
+crbs-vur7,	QUEENS_CONDOMINIUM_PROPERTY_Neighborhood,	QUEENS CONDOMINIUM PROPERTY Neighborhood
+erm2-nwe9,	City,	City
+nyis-y4yr,	Owner_s__Phone__,	Owner's  Phone #
+tukx-dsca,	Address_1,	Address 1
+9b9u-8989,	DBA,	DBA
+e4p3-6ecr,	Agency_Name,	Agency Name
+5mw2-hzqx,	BROOKLYN_CONDOMINIUM_PROPERTY_Neighborhood,	BROOKLYN CONDOMINIUM PROPERTY Neighborhood
+kiv2-tbus,	Vehicle_Make,	Vehicle Make
+w6yt-hctp,	COMPARABLE_RENTAL_1__Building_Classification,	COMPARABLE RENTAL 1  Building Classification
+k3cd-yu9d,	CANDMI,	CANDMI
+ii2w-6fne,	Borough,	Borough
+w7w3-xahh,	Location,	Location
+erm2-nwe9,	Park_Facility_Name,	Park Facility Name
+5nz7-hh6t,	CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,	CORE SUBJECT 
+8wbx-tsch,	Website,	Website
+xne4-4v8f,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+vw9i-7mzq,	neighborhood,	neighborhood
+yayv-apxh,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+aiww-p3af,	Park_Facility_Name,	Park Facility Name
+jz4z-kudi,	Violation_Location__City_,	Violation Location (City)
+kiv2-tbus,	Vehicle_Body_Type,	Vehicle Body Type
+fzv4-jan3,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+w7w3-xahh,	Address_ZIP,	Address ZIP
+i9pf-sj7c,	INTEREST,	INTEREST
+ci93-uc8s,	ZIP,	ZIP
+jtus-srrj,	School_Name,	School Name
+a5td-mswe,	Vehicle_Color,	Vehicle Color
+29bw-z7pj,	Location_1,	Location 1
+vw9i-7mzq,	interest4,	interest4
+pvqr-7yc4,	Vehicle_Make,	Vehicle Make
+3rfa-3xsf,	Incident_Zip,	Incident Zip
+faiq-9dfq,	Vehicle_Body_Type,	Vehicle Body Type
+pvqr-7yc4,	Vehicle_Body_Type,	Vehicle Body Type
+kj4p-ruqc,	StreetName,	StreetName
+4pt5-3vv4,	Location,	Location
+c284-tqph,	Vehicle_Make,	Vehicle Make
+pqg4-dm6b,	Address1,	Address1
+cqc8-am9x,	Borough,	Borough
+6rrm-vxj9,	parkname,	parkname
+tg4x-b46p,	ZipCode_s_,	ZipCode(s)
+jzt2-2f7h,	School_Name,	School Name
+ci93-uc8s,	Website,	Website
+m59i-mqex,	QUEENS_CONDOMINIUM_PROPERTY_Neighborhood,	QUEENS CONDOMINIUM PROPERTY Neighborhood
+uzcy-9puk,	School_Phone_Number,	School Phone Number
+ci93-uc8s,	Vendor_DBA,	Vendor_DBA
+cyfw-hfqk,	STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood,	STATEN ISLAND CONDOMINIUM PROPERTY Neighborhood
+3rfa-3xsf,	Intersection_Street_2,	Intersection Street 2
+uqxv-h2se,	neighborhood,	neighborhood
+w9ak-ipjd,	Owner_s_Street_Name,	Owner's Street Name
+h9gi-nx95,	VEHICLE_TYPE_CODE_1,	VEHICLE TYPE CODE 1
+4twk-9yq2,	CrossStreet2,	CrossStreet2
+fbaw-uq4e,	CITY,	CITY
+mdcw-n682,	First_Name,	First Name
+w7w3-xahh,	Address_City,	Address City
+i4ni-6qin,	PRINCIPAL_PHONE_NUMBER,	PRINCIPAL_PHONE_NUMBER
+imfa-v5pv,	School_Name,	School Name
+sxx4-xhzg,	Park_Site_Name,	Park/Site Name
+vw9i-7mzq,	interest1,	interest1
+sqcr-6mww,	Cross_Street_1,	Cross Street 1
+6anw-twe4,	FirstName,	FirstName
+2bnn-yakx,	Vehicle_Body_Type,	Vehicle Body Type
+uzcy-9puk,	Park_Facility_Name,	Park Facility Name
+pvqr-7yc4,	Vehicle_Make,	Vehicle Make
+c284-tqph,	Vehicle_Color,	Vehicle Color
+m56g-jpua,	COMPARABLE_RENTAL___1___Building_Classification,	COMPARABLE RENTAL – 1 – Building Classification
+tsak-vtv3,	Upcoming_Project_Name,	Upcoming Project Name
+tg3t-nh4h,	BusinessName,	BusinessName
+cgz5-877h,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+jz4z-kudi,	Violation_Location__Zip_Code_,	Violation Location (Zip Code)
+us4j-b5zt,	Agency,	Agency
+vr8p-8shw,	DVT_MAKE,	DVT_MAKE
+3qfc-4tta,	BRONX_____CONDOMINIUMS_COMPARABLE_PROPERTIES_____Neighborhood,	BRONX â CONDOMINIUMS COMPARABLE PROPERTIES â Neighborhood
+bawj-6bgn,	BRONX_CONDOMINIUM_PROPERTY_Neighborhood,	BRONX CONDOMINIUM PROPERTY Neighborhood
+ci93-uc8s,	fax,	fax
+ffnc-f3aa,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+h9gi-nx95,	VEHICLE_TYPE_CODE_4,	VEHICLE TYPE CODE 4
+rbx6-tga4,	Owner_Street_Address,	Owner Street Address
+s3k6-pzi2,	interest5,	interest5
+2sps-j9st,	PERSON_FIRST_NAME,	PERSON FIRST NAME
+ji82-xba5,	street,	street
+f7qh-bcr5,	CORE_SUBJECT___MS_CORE_and__9_12_ONLY_,	CORE SUBJECT 
+3rfa-3xsf,	Street_Name,	Street Name
+n84m-kx4j,	VEHICLE_MAKE,	VEHICLE MAKE
+hy4q-igkk,	Location,	Location
+sxmw-f24h,	Cross_Street_2,	Cross Street 2
+yahh-6yjc,	School_Type,	School Type
+72ss-25qh,	Agency_ID,	Agency ID
+faiq-9dfq,	Vehicle_Body_Type,	Vehicle Body Type
+m56g-jpua,	MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification,	MANHATTAN – COOPERATIVES COMPARABLE PROPERTIES – Building Classification
+3rfa-3xsf,	School_Name,	School Name
+ic3t-wcy2,	Applicant_s_First_Name,	Applicant's First Name
+vw9i-7mzq,	interest3,	interest3
+i6b5-j7bu,	TOSTREETNAME,	TOSTREETNAME
+i5ef-jxv3,	Agency,	Agency
+7crd-d9xh,	website,	website
+mdcw-n682,	Last_Name,	Last Name
+ge8j-uqbf,	interest,	interest
+q2ni-ztsb,	Street_Address_1,	Street Address 1
+8k4x-9mp5,	Last_Name__only_2014_15_,	Last Name (only 2014-15)
+wks3-66bn,	School_Name,	School Name
+43nn-pn8j,	DBA,	DBA
+qgea-i56i,	PREM_TYP_DESC,	PREM_TYP_DESC
+bdjm-n7q4,	CrossStreet2,	CrossStreet2
+nhms-9u6g,	Name__Last__First_,	Name (Last, First)
+bdjm-n7q4,	Location,	Location
+x3kb-2vbv,	School_Name,	School Name
+uzcy-9puk,	Location,	Location
+6anw-twe4,	LastName,	LastName
+tyfh-9h2y,	BROOKLYN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification,	BROOKLYN – COOPERATIVES COMPARABLE PROPERTIES – Building Classification
+3rfa-3xsf,	Cross_Street_2,	Cross Street 2
+bty7-2jhb,	Site_Safety_Mgr_s_Last_Name,	Site Safety Mgr's Last Name
+9jgj-bmct,	Incident_Address_Street_Name,	Incident_Address_Street_Name
+pdpg-nn8i,	BORO,	BORO
+w9ak-ipjd,	Owner_s_Business_Name,	Owner's Business Name
+rb2h-bgai,	Website,	Website
+jt7v-77mi,	Vehicle_Make,	Vehicle Make
+as69-ew8f,	TruckMake,	TruckMake
+mrxb-9w9v,	BOROUGH___COMMUNITY,	BOROUGH / COMMUNITY
+pvqr-7yc4,	Vehicle_Body_Type,	Vehicle Body Type
+dm9a-ab7w,	AUTH_REP_LAST_NAME,	AUTH_REP_LAST_NAME
+9z9b-6hvk,	Borough,	Borough
+wv4q-e75v,	STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood,	STATEN ISLAND CONDOMINIUM PROPERTY Neighborhood
+kwmq-dbub,	CANDMI,	CANDMI
+dvzp-h4k9,	COMPARABLE_RENTAL_____1_____Building_Classification,	COMPARABLE RENTAL â 1 â Building Classification
+6ypq-ih9a,	BOROUGH,	BOROUGH
+p2d7-vcsb,	ACCOUNT_CITY,	ACCOUNT CITY
+2v9c-2k7f,	DBA,	DBA
+erm2-nwe9,	Landmark,	Landmark
+dm9a-ab7w,	APPLICANT_FIRST_NAME,	APPLICANT_FIRST_NAME
+72ss-25qh,	Borough,	Borough
+qpm9-j523,	org_neighborhood,	org_neighborhood
+6wcu-cfa3,	CORE_COURSE__MS_CORE_and_9_12_ONLY_,	CORE COURSE (MS CORE and 9-12 ONLY)
+nfkx-wd79,	Address_1,	Address 1
+jzdn-258f,	Agency,	Agency
+kiv2-tbus,	Vehicle_Color,	Vehicle Color
+w9ak-ipjd,	Filing_Representative_First_Name,	Filing Representative First Name
+irhv-jqz7,	BROOKLYN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification,	BROOKLYN – COOPERATIVES COMPARABLE PROPERTIES – Building Classification
+m3fi-rt3k,	Street_Address_1_,	Street Address 1 
+ipu4-2q9a,	Owner_s_House_City,	Owner’s House City
+qpm9-j523,	org_website,	org_website
+qgea-i56i,	Lat_Lon,	Lat_Lon
+jvce-szsb,	Website,	Website
+d3ge-anaz,	CORE_COURSE__MS_CORE_and_9_12_ONLY_,	CORE COURSE (MS CORE and 9-12 ONLY)
+kiyv-ks3f,	phone,	phone
+qe6k-pu9t,	Agency,	Agency
+5e7x-8jy6,	School_Name,	School Name
+xne4-4v8f,	SCHOOL,	SCHOOL
+7btz-mnc8,	Provider_First_Name,	Provider First Name
+uq7m-95z8,	interest1,	interest1
+n5mv-nfpy,	Location1,	Location1
+8i43-kna8,	CORE_SUBJECT,	CORE SUBJECT
+eccv-9dzr,	Telephone_Number,	Telephone Number
+4n2j-ut8i,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+dm9a-ab7w,	STREET_NAME,	STREET_NAME
+2bnn-yakx,	Vehicle_Make,	Vehicle Make
+2bnn-yakx,	Vehicle_Color,	Vehicle Color
+2bnn-yakx,	Vehicle_Body_Type,	Vehicle Body Type
+jt7v-77mi,	Vehicle_Color,	Vehicle Color
+bty7-2jhb,	Owner_s_House_Zip_Code,	Owner’s House Zip Code
+cvh6-nmyi,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+7yds-6i8e,	CORE_SUBJECT__MS_CORE_and_9_12_ONLY_,	CORE SUBJECT (MS CORE and 9-12 ONLY)
+ajxm-kzmj,	NeighborhoodName,	NeighborhoodName
+3aka-ggej,	CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,	CORE SUBJECT 
+6bgk-3dad,	RESPONDENT_ZIP,	RESPONDENT_ZIP
+fbaw-uq4e,	Location_1,	Location 1
+jxyc-rxiv,	MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification,	MANHATTAN – COOPERATIVES COMPARABLE PROPERTIES – Building Classification
+n2s5-fumm,	BRONX_CONDOMINIUM_PROPERTY_Building_Classification,	BRONX CONDOMINIUM PROPERTY Building Classification
+bjuu-44hx,	DVV_MAKE,	DVV_MAKE
+uzcy-9puk,	Street_Name,	Street Name
+s3k6-pzi2,	interest1,	interest1
+wg9x-4ke6,	Principal_phone_number,	Principal_phone_number
+vhah-kvpj,	Borough,	Borough
+dm9a-ab7w,	AUTH_REP_FIRST_NAME,	AUTH_REP_FIRST_NAME
+3rfa-3xsf,	Street_Name,	Street Name
+urzf-q2g5,	Phone_Number,	Phone Number
+him9-7gri,	Agency,	Agency
+3rfa-3xsf,	Cross_Street_2,	Cross Street 2
+mu46-p9is,	CallerZipCode,	CallerZipCode
+a5qt-5jpu,	STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood,	STATEN ISLAND CONDOMINIUM PROPERTY Neighborhood
+ytjm-yias,	CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,	CORE SUBJECT 
+sxmw-f24h,	Park_Facility_Name,	Park Facility Name
+vuae-w6cg,	Agency,	Agency
+qusa-igsv,	BORO,	BORO
+5tdj-xqd5,	Borough,	Borough
+2bnn-yakx,	Vehicle_Make,	Vehicle Make
+t8hj-ruu2,	Business_Phone_Number,	Business Phone Number
+ajgi-hpq9,	CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,	CORE SUBJECT 
+jhjm-vsp8,	Agency,	Agency
+4nft-bihw,	Property_Address,	Property Address
+6je4-4x7e,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+c284-tqph,	Vehicle_Make,	Vehicle Make
+dpm2-m9mq,	owner_zip,	owner_zip
+gk83-aa6y,	SCHOOL_NAME,	SCHOOL NAME
+t8hj-ruu2,	First_Name,	First Name
+as69-ew8f,	StartCity,	StartCity
+i8ys-e4pm,	CORE_COURSE_9_12_ONLY_,	CORE COURSE(9-12 ONLY)
+myei-c3fa,	Neighborhood_1,	Neighborhood
+upwt-zvh3,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+aiww-p3af,	School_Phone_Number,	School Phone Number
+kiv2-tbus,	Vehicle_Make,	Vehicle Make
+weg5-33pj,	SCHOOL_LEVEL_,	SCHOOL LEVEL*
+rmv8-86p4,	BROOKLYN_CONDOMINIUM_PROPERTY_Neighborhood,	BROOKLYN CONDOMINIUM PROPERTY Neighborhood

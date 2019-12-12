@@ -1,0 +1,41 @@
+
+{
+	"dataset_name" : "",
+	"columns" : [
+		{
+			"column_name": "ComplaintID",
+			"semantic_types":[
+				{
+					"semantic_type":"QUEENS",
+					"count":236529	
+				},
+				{
+					"semantic_type":"BROOKLYN",
+					"count":588911	
+				},
+				{
+					"semantic_type":"BRONX",
+					"count":569213	
+				},
+				{
+					"semantic_type":"MANHATTAN",
+					"count":408262	
+				},
+				{
+					"semantic_type":"STATEN ISLAND",
+					"count":25646
+				},
+				{
+					"semantic_type":"Null",
+					"count":0	
+				},
+				{
+					"semantic_type":"Other",
+					"count":0	
+				}
+
+			]
+		}
+	]
+}
+

@@ -1,0 +1,234 @@
+{
+  "results": [
+    {
+      "website": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 1.0
+        }
+      ]
+    },
+    {
+      "street_name": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.5263157894736842
+        }
+      ]
+    },
+    {
+      "color": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 1.0
+        }
+      ]
+    },
+    {
+      "business_name": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.375
+        }
+      ]
+    },
+    {
+      "subject_in_school": [
+        {
+          "precision": 0.9230769230769231
+        },
+        {
+          "recall": 0.8
+        }
+      ]
+    },
+    {
+      "building_classification": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 1.0
+        }
+      ]
+    },
+    {
+      "area_of_study": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.9090909090909091
+        }
+      ]
+    },
+    {
+      "person_name": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.7419354838709677
+        }
+      ]
+    },
+    {
+      "city": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.9166666666666666
+        }
+      ]
+    },
+    {
+      "address": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.9166666666666666
+        }
+      ]
+    },
+    {
+      "city_agency": [
+        {
+          "precision": 0.9166666666666666
+        },
+        {
+          "recall": 0.9166666666666666
+        }
+      ]
+    },
+    {
+      "zip_code": [
+        {
+          "precision": 0.9
+        },
+        {
+          "recall": 0.9
+        }
+      ]
+    },
+    {
+      "school_name": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.7333333333333333
+        }
+      ]
+    },
+    {
+      "vehicle_type": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.9
+        }
+      ]
+    },
+    {
+      "borough": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.6923076923076923
+        }
+      ]
+    },
+    {
+      "school_level": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 1.0
+        }
+      ]
+    },
+    {
+      "location_type": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 1.0
+        }
+      ]
+    },
+    {
+      "house_number": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 1.0
+        }
+      ]
+    },
+    {
+      "car_make": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.6
+        }
+      ]
+    },
+    {
+      "lat_lon_cord": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 1.0
+        }
+      ]
+    },
+    {
+      "phone_number": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.45454545454545453
+        }
+      ]
+    },
+    {
+      "neighborhood": [
+        {
+          "precision": 1.0
+        },
+        {
+          "recall": 0.8
+        }
+      ]
+    },
+    {
+      "park_playground": [
+        {
+          "precision": 0.8333333333333334
+        },
+        {
+          "recall": 1.0
+        }
+      ]
+    }
+  ]
+}
