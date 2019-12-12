@@ -1,0 +1,932 @@
+{
+    "kevu-8hby.STR_NAME": [
+        "street_name",
+        "other"
+    ],
+    "hy4q-igkk.Cross_Street_2": [
+        "street_name"
+    ],
+    "735p-zed8.EMPCITY": [
+        "city",
+        "borough"
+    ],
+    "6kcb-9g8d.independentwebsite": [
+        "website"
+    ],
+    "4qii-5cz9.BOROUGH": [
+        "other"
+    ],
+    "en2c-j6tw.BRONX_CONDOMINIUM_PROPERTY_Building_Classification": [
+        "building_classification"
+    ],
+    "cyfw-hfqk.STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood": [
+        "neighborhood"
+    ],
+    "gpwd-npar.INCIDENT_ADDRESS": [
+        "address"
+    ],
+    "pvqr-7yc4.Vehicle_Color": [
+        "color",
+        "other"
+    ],
+    "tg3t-nh4h.BusinessName": [
+        "business_name",
+        "address",
+        "street_name"
+    ],
+    "2bmr-jdsv.DBA": [
+        "business_name"
+    ],
+    "ajgi-hpq9.BORO": [
+        "other"
+    ],
+    "dm9a-ab7w.AUTH_REP_LAST_NAME": [
+        "person_name"
+    ],
+    "pf3n-zn2m.StreetAddress": [
+        "street_name",
+        "address"
+    ],
+    "jz4z-kudi.Violation_Location__City_": [
+        "zip_code",
+        "other",
+        "city"
+    ],
+    "eamj-ryxu.Agency": [
+        "city_agency"
+    ],
+    "2sps-j9st.PERSON_FIRST_NAME": [
+        "person_name"
+    ],
+    "faiq-9dfq.Vehicle_Color": [
+        "color",
+        "other"
+    ],
+    "c284-tqph.Vehicle_Make": [
+        "car_make"
+    ],
+    "2bnn-yakx.Vehicle_Body_Type": [
+        "vehicle_type",
+        "other"
+    ],
+    "dj4e-3xrn.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "ac4n-c5re.PRINCIPAL_PHONE_NUMBER": [
+        "phone_number"
+    ],
+    "i8ys-e4pm.CORE_COURSE_9_12_ONLY_": [
+        "subject_in_school"
+    ],
+    "qgea-i56i.PREM_TYP_DESC": [
+        "location_type"
+    ],
+    "vrn4-2abs.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "n8p9-7jxp.EMPCITY": [
+        "city",
+        "borough"
+    ],
+    "7btz-mnc8.Provider_Last_Name": [
+        "person_name"
+    ],
+    "fbaw-uq4e.Location_1": [
+        "lat_lon_cord"
+    ],
+    "kiv2-tbus.Vehicle_Color": [
+        "color",
+        "other"
+    ],
+    "bty7-2jhb.Site_Safety_Mgr_s_Last_Name": [
+        "person_name"
+    ],
+    "pvqr-7yc4.Vehicle_Body_Type": [
+        "vehicle_type",
+        "car_make",
+        "other"
+    ],
+    "72ss-25qh.Agency_ID": [
+        "city_agency"
+    ],
+    "dm9a-ab7w.STREET_NAME": [
+        "street_name",
+        "address"
+    ],
+    "ub9e-s7ai.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "uq7m-95z8.interest3": [
+        "subject_in_school"
+    ],
+    "erm2-nwe9.Landmark": [
+        "street_name",
+        "park_playground"
+    ],
+    "feu5-w2e2.BusinessZip": [
+        "zip_code"
+    ],
+    "mdcw-n682.Agency_Acronym": [
+        "city_agency"
+    ],
+    "cznr-hmrv.School_Name": [
+        "school_name"
+    ],
+    "pdpg-nn8i.SCHOOL_NAME": [
+        "school_name"
+    ],
+    "u35m-9t32.Address": [
+        "address",
+        "street_name"
+    ],
+    "ji82-xba5.address": [
+        "address",
+        "street_name"
+    ],
+    "kiv2-tbus.Vehicle_Body_Type": [
+        "vehicle_type",
+        "car_make",
+        "other"
+    ],
+    "nre2-6m2s.Business_City": [
+        "city",
+        "borough"
+    ],
+    "2bnn-yakx.Vehicle_Make": [
+        "car_make",
+        "other"
+    ],
+    "pchn-eaxn.School_Name": [
+        "school_name"
+    ],
+    "pq5i-thsu.DVC_MAKE": [
+        "car_make",
+        "other"
+    ],
+    "a6zp-tcs3.Agency": [
+        "city_agency"
+    ],
+    "3rfa-3xsf.Cross_Street_2": [
+        "street_name"
+    ],
+    "5nz7-hh6t.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "3rfa-3xsf.Street_Name": [
+        "street_name"
+    ],
+    "p2d7-vcsb.COMPLAINT_INQUIRY_STREET_ADDRESS": [
+        "street_name",
+        "address"
+    ],
+    "qu8g-sxqf.First_Name": [
+        "person_name"
+    ],
+    "956m-xy24.COMPARABLE_RENTAL_1__Building_Classification": [
+        "building_classification"
+    ],
+    "jhjm-vsp8.Agency": [
+        "city_agency"
+    ],
+    "k3cd-yu9d.CANDMI": [
+        "other"
+    ],
+    "956m-xy24.MANHATTAN_CONDOMINIUM_PROPERTY_Building_Classification": [
+        "building_classification"
+    ],
+    "diks-hcwd.School_Name": [
+        "school_name"
+    ],
+    "pvqr-7yc4.Vehicle_Make": [
+        "car_make",
+        "vehicle_type",
+        "other"
+    ],
+    "p2d7-vcsb.ACCOUNT_PHONE": [
+        "phone_number"
+    ],
+    "6ypq-ih9a.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "kz72-dump.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "4n2j-ut8i.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "ytjm-yias.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "xck4-5xd5.phone": [
+        "phone_number"
+    ],
+    "upwt-zvh3.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "43nn-pn8j.DBA": [
+        "business_name",
+        "address"
+    ],
+    "5uac-w243.Lat_Lon": [
+        "lat_lon_cord"
+    ],
+    "xx4a-msrm.Address_1": [
+        "street_name",
+        "address"
+    ],
+    "3btx-p4av.COMPARABLE_RENTAL___2__Building_Classification": [
+        "building_classification"
+    ],
+    "6je4-4x7e.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "uq7m-95z8.website": [
+        "website"
+    ],
+    "wvts-6tdf.Address": [
+        "address",
+        "other"
+    ],
+    "6wcu-cfa3.CORE_COURSE__MS_CORE_and_9_12_ONLY_": [
+        "subject_in_school"
+    ],
+    "uq7m-95z8.interest4": [
+        "subject_in_school"
+    ],
+    "faiq-9dfq.Vehicle_Body_Type": [
+        "vehicle_type",
+        "car_make"
+    ],
+    "8jfz-tjny.Agency": [
+        "city_agency"
+    ],
+    "72ss-25qh.Borough": [
+        "other"
+    ],
+    "h9gi-nx95.VEHICLE_TYPE_CODE_2": [
+        "vehicle_type",
+        "car_make"
+    ],
+    "h9gi-nx95.VEHICLE_TYPE_CODE_3": [
+        "vehicle_type"
+    ],
+    "ic3t-wcy2.Applicant_s_First_Name": [
+        "person_name"
+    ],
+    "aiww-p3af.Incident_Zip": [
+        "zip_code"
+    ],
+    "jxyc-rxiv.MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Neighborhood": [
+        "neighborhood"
+    ],
+    "tvhc-4n5n.REGISTRY_ADDRESS": [
+        "address",
+        "street_name"
+    ],
+    "cvh6-nmyi.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "kwmq-dbub.CANDMI": [
+        "other"
+    ],
+    "yahh-6yjc.School_Type": [
+        "school_level"
+    ],
+    "99br-frp6.BOROUGH___COMMUNITY": [
+        "borough"
+    ],
+    "s3k6-pzi2.interest2": [
+        "subject_in_school"
+    ],
+    "ad4c-mphb.MANHATTAN_CONDOMINIUM_PROPERTY_Building_Classification": [
+        "building_classification"
+    ],
+    "ajxm-kzmj.NeighborhoodName": [
+        "neighborhood"
+    ],
+    "gez6-674h.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "2bnn-yakx.Vehicle_Color": [
+        "color",
+        "other"
+    ],
+    "4twk-9yq2.CrossStreet2": [
+        "street_name"
+    ],
+    "mjux-q9d4.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "ptev-4hud.Zip": [
+        "zip_code"
+    ],
+    "mqdy-gu73.Color": [
+        "color",
+        "other"
+    ],
+    "uq7m-95z8.interest2": [
+        "subject_in_school"
+    ],
+    "qcdj-rwhu.BUSINESS_NAME2": [
+        "business_name",
+        "other"
+    ],
+    "feu5-w2e2.BusinessCity": [
+        "other",
+        "city",
+        "borough",
+        "phone_number"
+    ],
+    "by6m-6zpb.interest": [
+        "subject_in_school"
+    ],
+    "vw9i-7mzq.website": [
+        "website"
+    ],
+    "upwt-zvh3.SCHOOL": [
+        "school_name"
+    ],
+    "c284-tqph.Vehicle_Color": [
+        "other",
+        "color"
+    ],
+    "gpwd-npar.LOCATION": [
+        "lat_lon_cord"
+    ],
+    "ipu4-2q9a.Site_Safety_Mgr_s_First_Name": [
+        "person_name"
+    ],
+    "bty7-2jhb.Owner_s_House_City": [
+        "phone_number",
+        "zip_code",
+        "address",
+        "city",
+        "other"
+    ],
+    "sqcr-6mww.School_Name": [
+        "other",
+        "school_name"
+    ],
+    "vw9i-7mzq.interest6": [
+        "subject_in_school"
+    ],
+    "qbjq-atxv.Agency": [
+        "city_agency"
+    ],
+    "as69-ew8f.StartCity": [
+        "borough",
+        "city",
+        "address"
+    ],
+    "f7qh-bcr5.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "vw9i-7mzq.interest2": [
+        "subject_in_school"
+    ],
+    "6anw-twe4.FirstName": [
+        "person_name"
+    ],
+    "ph7v-u5f3.TOP_VEHICLE_MODELS___5": [
+        "car_make",
+        "other"
+    ],
+    "2xh6-psuq.Project_School_Name": [
+        "school_name"
+    ],
+    "gahm-hu5h.BRONX___COOPERATIVES_COMPARABLE_PROPERTIES___Neighborhood": [
+        "neighborhood"
+    ],
+    "h9gi-nx95.VEHICLE_TYPE_CODE_5": [
+        "vehicle_type"
+    ],
+    "2v9c-2k7f.DBA": [
+        "business_name"
+    ],
+    "aiww-p3af.Park_Facility_Name": [
+        "park_playground",
+        "school_name"
+    ],
+    "fxs2-faah.PRINCIPAL_PHONE_NUMBER": [
+        "phone_number"
+    ],
+    "sxmw-f24h.Park_Facility_Name": [
+        "school_name"
+    ],
+    "jz4z-kudi.Violation_Location__Zip_Code_": [
+        "other",
+        "zip_code"
+    ],
+    "ydkf-mpxb.CrossStreetName": [
+        "street_name",
+        "address"
+    ],
+    "ci93-uc8s.Address1": [
+        "address"
+    ],
+    "n8p9-7jxp.ZIP": [
+        "zip_code",
+        "other"
+    ],
+    "5uac-w243.PREM_TYP_DESC": [
+        "location_type"
+    ],
+    "uq7m-95z8.interest5": [
+        "subject_in_school"
+    ],
+    "bjuu-44hx.DVV_MAKE": [
+        "car_make",
+        "other"
+    ],
+    "jt7v-77mi.Vehicle_Color": [
+        "color",
+        "other",
+        "car_make"
+    ],
+    "4pt5-3vv4.Location": [
+        "lat_lon_cord"
+    ],
+    "52dp-yji6.Owner_Last_Name": [
+        "person_name",
+        "other"
+    ],
+    "jz4z-kudi.Respondent_Address__City_": [
+        "zip_code",
+        "other",
+        "city",
+        "borough",
+        "address"
+    ],
+    "h9gi-nx95.VEHICLE_TYPE_CODE_1": [
+        "vehicle_type",
+        "other"
+    ],
+    "tu4y-7fre.Boro": [
+        "other"
+    ],
+    "k3cd-yu9d.BOROUGH_CITY": [
+        "borough",
+        "city"
+    ],
+    "a5qt-5jpu.STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood": [
+        "neighborhood"
+    ],
+    "ajgi-hpq9.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "p937-wjvj.HOUSE_NUMBER": [
+        "other"
+    ],
+    "xne4-4v8f.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "fgq8-am2v.Website": [
+        "website"
+    ],
+    "s3k6-pzi2.neighborhood": [
+        "neighborhood"
+    ],
+    "fzv4-jan3.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "956m-xy24.MANHATTAN_CONDOMINIUM_PROPERTY_Neighborhood": [
+        "neighborhood"
+    ],
+    "as69-ew8f.TruckMake": [
+        "other",
+        "car_make"
+    ],
+    "735p-zed8.CANDMI": [
+        "other"
+    ],
+    "jz4z-kudi.Respondent_Address__Zip_Code_": [
+        "other",
+        "zip_code",
+        "borough"
+    ],
+    "2sps-j9st.PERSON_LAST_NAME": [
+        "person_name",
+        "business_name"
+    ],
+    "yggg-xf4b.Website": [
+        "website"
+    ],
+    "cwqt-nvfg.Boro": [
+        "other"
+    ],
+    "cgz5-877h.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "7btz-mnc8.Provider_First_Name": [
+        "other",
+        "person_name"
+    ],
+    "8k4x-9mp5.Last_Name__only_2014_15_": [
+        "person_name"
+    ],
+    "cspg-yi7g.ADDRESS": [
+        "address"
+    ],
+    "pgtq-ht5f.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "tqtj-sjs8.FromStreetName": [
+        "street_name",
+        "address"
+    ],
+    "en2c-j6tw.BRONX_CONDOMINIUM_PROPERTY_Neighborhood": [
+        "neighborhood"
+    ],
+    "w9ak-ipjd.Applicant_Last_Name": [
+        "person_name"
+    ],
+    "3aka-ggej.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "fp78-wt5b.address": [
+        "address"
+    ],
+    "a9md-ynri.MI": [
+        "other"
+    ],
+    "ci93-uc8s.Website": [
+        "website",
+        "other"
+    ],
+    "jt7v-77mi.Vehicle_Make": [
+        "zip_code",
+        "other",
+        "car_make"
+    ],
+    "3rfa-3xsf.Incident_Zip": [
+        "zip_code",
+        "other"
+    ],
+    "xk6g-r83g.Agency": [
+        "city_agency"
+    ],
+    "s79c-jgrm.EMPCITY": [
+        "city",
+        "borough"
+    ],
+    "vx8i-nprf.MI": [
+        "other"
+    ],
+    "erm2-nwe9.Park_Facility_Name": [
+        "park_playground",
+        "school_name"
+    ],
+    "hy4q-igkk.School_Name": [
+        "address",
+        "school_name"
+    ],
+    "itd7-gx3g.Location_1": [
+        "lat_lon_cord"
+    ],
+    "bdjm-n7q4.CrossStreet2": [
+        "address",
+        "street_name"
+    ],
+    "bs8b-p36w.STREET": [
+        "address",
+        "street_name"
+    ],
+    "gahm-hu5h.COMPARABLE_RENTAL___2__Neighborhood": [
+        "neighborhood"
+    ],
+    "52dp-yji6.Owner_First_Name": [
+        "person_name",
+        "address",
+        "other"
+    ],
+    "3h2n-5cm9.STREET": [
+        "address",
+        "street_name",
+        "other"
+    ],
+    "p937-wjvj.STREET_NAME": [
+        "other",
+        "street_name",
+        "address"
+    ],
+    "y4fw-iqfr.Location_1": [
+        "lat_lon_cord"
+    ],
+    "9z9b-6hvk.Borough": [
+        "borough"
+    ],
+    "uwyv-629c.StreetName": [
+        "address",
+        "street_name"
+    ],
+    "ci93-uc8s.Vendor_DBA": [
+        "business_name"
+    ],
+    "i6b5-j7bu.TOSTREETNAME": [
+        "address",
+        "street_name"
+    ],
+    "6kcb-9g8d.neighborhood": [
+        "neighborhood"
+    ],
+    "a5td-mswe.Vehicle_Color": [
+        "color",
+        "other"
+    ],
+    "uzcy-9puk.Street_Name": [
+        "address",
+        "street_name",
+        "other"
+    ],
+    "rbx6-tga4.Applicant_Business_Address": [
+        "address",
+        "street_name"
+    ],
+    "8isn-pgv3.Owner_Telephone": [
+        "phone_number"
+    ],
+    "qbce-2kcu.COMPARABLE_RENTAL___2__Neighborhood": [
+        "neighborhood"
+    ],
+    "fp78-wt5b.phonenumber": [
+        "phone_number"
+    ],
+    "6je4-4x7e.SCHOOL": [
+        "school_name"
+    ],
+    "7jkp-5w5g.Agency": [
+        "city_agency"
+    ],
+    "b9km-gdpy.ZIP": [
+        "other",
+        "zip_code"
+    ],
+    "kyad-zm4j.Location": [
+        "lat_lon_cord"
+    ],
+    "kiv2-tbus.Vehicle_Make": [
+        "car_make",
+        "other"
+    ],
+    "sxmw-f24h.Location": [
+        "lat_lon_cord"
+    ],
+    "4fnu-iufz.Agency": [
+        "city_agency"
+    ],
+    "kiyv-ks3f.Website": [
+        "website"
+    ],
+    "mrxb-9w9v.BOROUGH___COMMUNITY": [
+        "borough"
+    ],
+    "hy4q-igkk.Street_Name": [
+        "street_name",
+        "address"
+    ],
+    "3rfa-3xsf.School_Phone_Number": [
+        "phone_number",
+        "other"
+    ],
+    "urzf-q2g5.Phone_Number": [
+        "phone_number",
+        "other"
+    ],
+    "ffnc-f3aa.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "e9xc-u3ds.CANDMI": [
+        "other"
+    ],
+    "vhah-kvpj.Borough": [
+        "borough"
+    ],
+    "dm9a-ab7w.OWNER_ZIP": [
+        "zip_code",
+        "other"
+    ],
+    "bbs3-q5us.EMPCITY": [
+        "city",
+        "borough",
+        "park_playground"
+    ],
+    "8gr8-ngjc.phone": [
+        "phone_number"
+    ],
+    "62mr-ukqs.BROOKLYN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification": [
+        "building_classification"
+    ],
+    "x5tk-fa54.Agency_Name": [
+        "city_agency"
+    ],
+    "72mk-a8z7.ORGANIZATION_PHONE": [
+        "phone_number"
+    ],
+    "aiww-p3af.Intersection_Street_2": [
+        "street_name",
+        "address"
+    ],
+    "8i43-kna8.CORE_SUBJECT": [
+        "other",
+        "subject_in_school"
+    ],
+    "6rrm-vxj9.parkname": [
+        "park_playground"
+    ],
+    "3aka-ggej.BOROUGH": [
+        "other"
+    ],
+    "dm9a-ab7w.APPLICANT_FIRST_NAME": [
+        "person_name"
+    ],
+    "sybh-s59s.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "yayv-apxh.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "bdjm-n7q4.Location": [
+        "lat_lon_cord"
+    ],
+    "kj4p-ruqc.StreetName": [
+        "street_name",
+        "address"
+    ],
+    "vr8p-8shw.DVT_MAKE": [
+        "other",
+        "car_make"
+    ],
+    "wks3-66bn.School_Name": [
+        "school_name"
+    ],
+    "t8hj-ruu2.Business_Phone_Number": [
+        "phone_number",
+        "other"
+    ],
+    "ipu4-2q9a.Site_Safety_Mgr_s_Last_Name": [
+        "other",
+        "person_name"
+    ],
+    "7yds-6i8e.CORE_SUBJECT__MS_CORE_and_9_12_ONLY_": [
+        "subject_in_school",
+        "other"
+    ],
+    "72ss-25qh.Website": [
+        "website"
+    ],
+    "s3k6-pzi2.interest3": [
+        "subject_in_school"
+    ],
+    "tmr6-dfvn.School_Name": [
+        "school_name"
+    ],
+    "t8hj-ruu2.First_Name": [
+        "other",
+        "person_name"
+    ],
+    "jxyc-rxiv.COMPARABLE_RENTAL___2__Building_Classification": [
+        "building_classification"
+    ],
+    "bawj-6bgn.BRONX_CONDOMINIUM_PROPERTY_Building_Classification": [
+        "building_classification"
+    ],
+    "mdcw-n682.First_Name": [
+        "other",
+        "person_name"
+    ],
+    "ykx2-pdw8.QUEENS___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification": [
+        "building_classification"
+    ],
+    "w9ak-ipjd.Filing_Representative_City": [
+        "city",
+        "other",
+        "borough"
+    ],
+    "vw9i-7mzq.interest5": [
+        "subject_in_school"
+    ],
+    "weg5-33pj.SCHOOL_LEVEL_": [
+        "school_level"
+    ],
+    "8vgb-zm6e.City__State__Zip_": [
+        "city",
+        "zip_code",
+        "other"
+    ],
+    "sv2w-rv3k.BORO": [
+        "borough"
+    ],
+    "sqcr-6mww.Street_Name": [
+        "other",
+        "street_name",
+        "address"
+    ],
+    "cwg5-cqkm.QUEENS___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification": [
+        "building_classification"
+    ],
+    "n84m-kx4j.VEHICLE_MAKE": [
+        "car_make"
+    ],
+    "3rfa-3xsf.Location": [
+        "lat_lon_cord"
+    ],
+    "uzcy-9puk.Park_Facility_Name": [
+        "other",
+        "school_name",
+        "park_playground"
+    ],
+    "qjvp-rnsx.Website": [
+        "website"
+    ],
+    "aiww-p3af.Cross_Street_2": [
+        "address",
+        "street_name"
+    ],
+    "mdcw-n682.Last_Name": [
+        "person_name"
+    ],
+    "w9ak-ipjd.Filing_Representative_First_Name": [
+        "person_name",
+        "other"
+    ],
+    "w9ak-ipjd.Owner_s_Business_Name": [
+        "business_name",
+        "other"
+    ],
+    "pqg4-dm6b.Address1": [
+        "address",
+        "other"
+    ],
+    "dm9a-ab7w.AUTH_REP_FIRST_NAME": [
+        "other",
+        "person_name"
+    ],
+    "bss9-579f.BROOKLYN_____CONDOMINIUMS_COMPARABLE_PROPERTIES_____Neighborhood": [
+        "neighborhood"
+    ],
+    "sxx4-xhzg.Park_Site_Name": [
+        "address",
+        "street_name",
+        "park_playground"
+    ],
+    "myei-c3fa.Neighborhood_3": [
+        "neighborhood"
+    ],
+    "k4xi-fxp5.Borough": [
+        "borough"
+    ],
+    "h9gi-nx95.VEHICLE_TYPE_CODE_4": [
+        "vehicle_type",
+        "car_make"
+    ],
+    "d3ge-anaz.CORE_COURSE__MS_CORE_and_9_12_ONLY_": [
+        "other",
+        "subject_in_school"
+    ],
+    "5nz7-hh6t.BORO": [
+        "other"
+    ],
+    "qu8g-sxqf.MI": [
+        "other"
+    ],
+    "mdcw-n682.Middle_Initial": [
+        "other"
+    ],
+    "nhms-9u6g.Name__Last__First_": [
+        "person_name"
+    ],
+    "m3fi-rt3k.Agency_": [
+        "city_agency"
+    ],
+    "3rfa-3xsf.School_Name": [
+        "park_playground",
+        "school_name"
+    ],
+    "sybh-s59s.SCHOOL_NAME": [
+        "school_name"
+    ],
+    "6anw-twe4.LastName": [
+        "person_name"
+    ],
+    "9b9u-8989.DBA": [
+        "business_name"
+    ],
+    "dpm2-m9mq.applicant_zip": [
+        "other",
+        "zip_code"
+    ],
+    "qpm9-j523.org_neighborhood": [
+        "neighborhood"
+    ]
+}

@@ -1,0 +1,4 @@
+Name				NetId				email
+Xiaoran Sun 	xs954				small_reynard@outlook.com
+Peifu Yu			py615				peifugo@gmail.com
+Xuanbin Luo		xl2806			xl2806@nyu.edu

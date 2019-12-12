@@ -1,0 +1,2578 @@
+{
+ "actual_types": [
+  "address",
+  "area_of_study",
+  "borough",
+  "building_classification",
+  "business_name",
+  "car_make",
+  "city",
+  "city_agency",
+  "college_name",
+  "color",
+  "lat_lon_cord",
+  "location_type",
+  "neighborhood",
+  "other",
+  "park_playground",
+  "person_name",
+  "phone_number",
+  "school_level",
+  "school_name",
+  "street_name",
+  "subject_in_school",
+  "vehicle_type",
+  "website",
+  "zip_code"
+ ]
+}
+{
+ "dataset_name": "kevu-8hby",
+ "column_name": "STR_NAME",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "hy4q-igkk",
+ "column_name": "Cross_Street_2",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "735p-zed8",
+ "column_name": "EMPCITY",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "6kcb-9g8d",
+ "column_name": "independentwebsite",
+ "manual_labels": [
+  {
+   "semantic_type": "website"
+  }
+ ]
+}
+{
+ "dataset_name": "4qii-5cz9",
+ "column_name": "BOROUGH",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "en2c-j6tw",
+ "column_name": "BRONX_CONDOMINIUM_PROPERTY_Building_Classification",
+ "manual_labels": [
+  {
+   "semantic_type": "building_classification"
+  }
+ ]
+}
+{
+ "dataset_name": "cyfw-hfqk",
+ "column_name": "STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "gpwd-npar",
+ "column_name": "INCIDENT_ADDRESS",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "pvqr-7yc4",
+ "column_name": "Vehicle_Color",
+ "manual_labels": [
+  {
+   "semantic_type": "color"
+  }
+ ]
+}
+{
+ "dataset_name": "tg3t-nh4h",
+ "column_name": "BusinessName",
+ "manual_labels": [
+  {
+   "semantic_type": "business_name"
+  }
+ ]
+}
+{
+ "dataset_name": "2bmr-jdsv",
+ "column_name": "DBA",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "ajgi-hpq9",
+ "column_name": "BORO",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "dm9a-ab7w",
+ "column_name": "AUTH_REP_LAST_NAME",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "pf3n-zn2m",
+ "column_name": "StreetAddress",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "jz4z-kudi",
+ "column_name": "Violation_Location__City_",
+ "manual_labels": [
+  {
+   "semantic_type": "city"
+  }
+ ]
+}
+{
+ "dataset_name": "eamj-ryxu",
+ "column_name": "Agency",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "2sps-j9st",
+ "column_name": "PERSON_FIRST_NAME",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "faiq-9dfq",
+ "column_name": "Vehicle_Color",
+ "manual_labels": [
+  {
+   "semantic_type": "color"
+  }
+ ]
+}
+{
+ "dataset_name": "c284-tqph",
+ "column_name": "Vehicle_Make",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "2bnn-yakx",
+ "column_name": "Vehicle_Body_Type",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "dj4e-3xrn",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "ac4n-c5re",
+ "column_name": "PRINCIPAL_PHONE_NUMBER",
+ "manual_labels": [
+  {
+   "semantic_type": "phone_number"
+  }
+ ]
+}
+{
+ "dataset_name": "i8ys-e4pm",
+ "column_name": "CORE_COURSE_9_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "qgea-i56i",
+ "column_name": "PREM_TYP_DESC",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "vrn4-2abs",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "n8p9-7jxp",
+ "column_name": "EMPCITY",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "7btz-mnc8",
+ "column_name": "Provider_Last_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "fbaw-uq4e",
+ "column_name": "Location_1",
+ "manual_labels": [
+  {
+   "semantic_type": "lat_lon_cord"
+  }
+ ]
+}
+{
+ "dataset_name": "kiv2-tbus",
+ "column_name": "Vehicle_Color",
+ "manual_labels": [
+  {
+   "semantic_type": "color"
+  }
+ ]
+}
+{
+ "dataset_name": "bty7-2jhb",
+ "column_name": "Site_Safety_Mgr_s_Last_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "pvqr-7yc4",
+ "column_name": "Vehicle_Body_Type",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "72ss-25qh",
+ "column_name": "Agency_ID",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "dm9a-ab7w",
+ "column_name": "STREET_NAME",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "ub9e-s7ai",
+ "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "uq7m-95z8",
+ "column_name": "interest3",
+ "manual_labels": [
+  {
+   "semantic_type": "area_of_study"
+  },
+  {
+   "semantic_type": "subject_in_school"
+  },
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "erm2-nwe9",
+ "column_name": "Landmark",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "feu5-w2e2",
+ "column_name": "BusinessZip",
+ "manual_labels": [
+  {
+   "semantic_type": "zip_code"
+  }
+ ]
+}
+{
+ "dataset_name": "mdcw-n682",
+ "column_name": "Agency_Acronym",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "cznr-hmrv",
+ "column_name": "School_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  }
+ ]
+}
+{
+ "dataset_name": "pdpg-nn8i",
+ "column_name": "SCHOOL_NAME",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  }
+ ]
+}
+{
+ "dataset_name": "u35m-9t32",
+ "column_name": "Address",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "ji82-xba5",
+ "column_name": "address",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "kiv2-tbus",
+ "column_name": "Vehicle_Body_Type",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "nre2-6m2s",
+ "column_name": "Business_City",
+ "manual_labels": [
+  {
+   "semantic_type": "city"
+  }
+ ]
+}
+{
+ "dataset_name": "2bnn-yakx",
+ "column_name": "Vehicle_Make",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "pchn-eaxn",
+ "column_name": "School_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  }
+ ]
+}
+{
+ "dataset_name": "pq5i-thsu",
+ "column_name": "DVC_MAKE",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "a6zp-tcs3",
+ "column_name": "Agency",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "3rfa-3xsf",
+ "column_name": "Cross_Street_2",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "5nz7-hh6t",
+ "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "3rfa-3xsf",
+ "column_name": "Street_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "p2d7-vcsb",
+ "column_name": "COMPLAINT_INQUIRY_STREET_ADDRESS",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "qu8g-sxqf",
+ "column_name": "First_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "956m-xy24",
+ "column_name": "COMPARABLE_RENTAL_1__Building_Classification",
+ "manual_labels": [
+  {
+   "semantic_type": "building_classification"
+  }
+ ]
+}
+{
+ "dataset_name": "jhjm-vsp8",
+ "column_name": "Agency",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "k3cd-yu9d",
+ "column_name": "CANDMI",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "956m-xy24",
+ "column_name": "MANHATTAN_CONDOMINIUM_PROPERTY_Building_Classification",
+ "manual_labels": [
+  {
+   "semantic_type": "building_classification"
+  }
+ ]
+}
+{
+ "dataset_name": "diks-hcwd",
+ "column_name": "School_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  }
+ ]
+}
+{
+ "dataset_name": "pvqr-7yc4",
+ "column_name": "Vehicle_Make",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "p2d7-vcsb",
+ "column_name": "ACCOUNT_PHONE",
+ "manual_labels": [
+  {
+   "semantic_type": "phone_number"
+  }
+ ]
+}
+{
+ "dataset_name": "6ypq-ih9a",
+ "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "kz72-dump",
+ "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "4n2j-ut8i",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "ytjm-yias",
+ "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "xck4-5xd5",
+ "column_name": "phone",
+ "manual_labels": [
+  {
+   "semantic_type": "phone_number"
+  }
+ ]
+}
+{
+ "dataset_name": "upwt-zvh3",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "43nn-pn8j",
+ "column_name": "DBA",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "5uac-w243",
+ "column_name": "Lat_Lon",
+ "manual_labels": [
+  {
+   "semantic_type": "lat_lon_cord"
+  }
+ ]
+}
+{
+ "dataset_name": "xx4a-msrm",
+ "column_name": "Address_1",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "3btx-p4av",
+ "column_name": "COMPARABLE_RENTAL___2__Building_Classification",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "6je4-4x7e",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "uq7m-95z8",
+ "column_name": "website",
+ "manual_labels": [
+  {
+   "semantic_type": "website"
+  }
+ ]
+}
+{
+ "dataset_name": "wvts-6tdf",
+ "column_name": "Address",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "6wcu-cfa3",
+ "column_name": "CORE_COURSE__MS_CORE_and_9_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "uq7m-95z8",
+ "column_name": "interest4",
+ "manual_labels": [
+  {
+   "semantic_type": "area_of_study"
+  },
+  {
+   "semantic_type": "subject_in_school"
+  },
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "faiq-9dfq",
+ "column_name": "Vehicle_Body_Type",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "8jfz-tjny",
+ "column_name": "Agency",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "72ss-25qh",
+ "column_name": "Borough",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "h9gi-nx95",
+ "column_name": "VEHICLE_TYPE_CODE_2",
+ "manual_labels": [
+  {
+   "semantic_type": "vehicle_type"
+  }
+ ]
+}
+{
+ "dataset_name": "h9gi-nx95",
+ "column_name": "VEHICLE_TYPE_CODE_3",
+ "manual_labels": [
+  {
+   "semantic_type": "vehicle_type"
+  }
+ ]
+}
+{
+ "dataset_name": "ic3t-wcy2",
+ "column_name": "Applicant_s_First_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "aiww-p3af",
+ "column_name": "Incident_Zip",
+ "manual_labels": [
+  {
+   "semantic_type": "zip_code"
+  }
+ ]
+}
+{
+ "dataset_name": "jxyc-rxiv",
+ "column_name": "MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "tvhc-4n5n",
+ "column_name": "REGISTRY_ADDRESS",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "pvqr-7yc4",
+ "column_name": "Vehicle_Make",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "2bnn-yakx",
+ "column_name": "Vehicle_Make",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "cvh6-nmyi",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "kwmq-dbub",
+ "column_name": "CANDMI",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "yahh-6yjc",
+ "column_name": "School_Type",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "99br-frp6",
+ "column_name": "BOROUGH___COMMUNITY",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "s3k6-pzi2",
+ "column_name": "interest2",
+ "manual_labels": [
+  {
+   "semantic_type": "area_of_study"
+  }
+ ]
+}
+{
+ "dataset_name": "ad4c-mphb",
+ "column_name": "MANHATTAN_CONDOMINIUM_PROPERTY_Building_Classification",
+ "manual_labels": [
+  {
+   "semantic_type": "building_classification"
+  }
+ ]
+}
+{
+ "dataset_name": "ajxm-kzmj",
+ "column_name": "NeighborhoodName",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "gez6-674h",
+ "column_name": "CORE_SUBJECT___MS_CORE_and__9_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "2bnn-yakx",
+ "column_name": "Vehicle_Color",
+ "manual_labels": [
+  {
+   "semantic_type": "color"
+  }
+ ]
+}
+{
+ "dataset_name": "4twk-9yq2",
+ "column_name": "CrossStreet2",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "mjux-q9d4",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "ptev-4hud",
+ "column_name": "Zip",
+ "manual_labels": [
+  {
+   "semantic_type": "zip_code"
+  }
+ ]
+}
+{
+ "dataset_name": "mqdy-gu73",
+ "column_name": "Color",
+ "manual_labels": [
+  {
+   "semantic_type": "color"
+  }
+ ]
+}
+{
+ "dataset_name": "uq7m-95z8",
+ "column_name": "interest2",
+ "manual_labels": [
+  {
+   "semantic_type": "area_of_study"
+  }
+ ]
+}
+{
+ "dataset_name": "qcdj-rwhu",
+ "column_name": "BUSINESS_NAME2",
+ "manual_labels": [
+  {
+   "semantic_type": "business_name"
+  }
+ ]
+}
+{
+ "dataset_name": "feu5-w2e2",
+ "column_name": "BusinessCity",
+ "manual_labels": [
+  {
+   "semantic_type": "city"
+  }
+ ]
+}
+{
+ "dataset_name": "by6m-6zpb",
+ "column_name": "interest",
+ "manual_labels": [
+  {
+   "semantic_type": "area_of_study"
+  }
+ ]
+}
+{
+ "dataset_name": "vw9i-7mzq",
+ "column_name": "website",
+ "manual_labels": [
+  {
+   "semantic_type": "website"
+  }
+ ]
+}
+{
+ "dataset_name": "upwt-zvh3",
+ "column_name": "SCHOOL",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  }
+ ]
+}
+{
+ "dataset_name": "c284-tqph",
+ "column_name": "Vehicle_Color",
+ "manual_labels": [
+  {
+   "semantic_type": "color"
+  }
+ ]
+}
+{
+ "dataset_name": "gpwd-npar",
+ "column_name": "LOCATION",
+ "manual_labels": [
+  {
+   "semantic_type": "lat_lon_cord"
+  }
+ ]
+}
+{
+ "dataset_name": "ipu4-2q9a",
+ "column_name": "Site_Safety_Mgr_s_First_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "bty7-2jhb",
+ "column_name": "Owner_s_House_City",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  },
+  {
+   "semantic_type": "city"
+  }
+ ]
+}
+{
+ "dataset_name": "sqcr-6mww",
+ "column_name": "School_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "vw9i-7mzq",
+ "column_name": "interest6",
+ "manual_labels": [
+  {
+   "semantic_type": "area_of_study"
+  }
+ ]
+}
+{
+ "dataset_name": "qbjq-atxv",
+ "column_name": "Agency",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "as69-ew8f",
+ "column_name": "StartCity",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  },
+  {
+   "semantic_type": "city"
+  }
+ ]
+}
+{
+ "dataset_name": "f7qh-bcr5",
+ "column_name": "CORE_SUBJECT___MS_CORE_and__9_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "vw9i-7mzq",
+ "column_name": "interest2",
+ "manual_labels": [
+  {
+   "semantic_type": "area_of_study"
+  }
+ ]
+}
+{
+ "dataset_name": "6anw-twe4",
+ "column_name": "FirstName",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "ph7v-u5f3",
+ "column_name": "TOP_VEHICLE_MODELS___5",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "2xh6-psuq",
+ "column_name": "Project_School_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  }
+ ]
+}
+{
+ "dataset_name": "gahm-hu5h",
+ "column_name": "BRONX___COOPERATIVES_COMPARABLE_PROPERTIES___Neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  },
+  {
+   "semantic_type": "neighborhood"
+  },
+  {
+   "semantic_type": "building_classification"
+  }
+ ]
+}
+{
+ "dataset_name": "h9gi-nx95",
+ "column_name": "VEHICLE_TYPE_CODE_5",
+ "manual_labels": [
+  {
+   "semantic_type": "vehicle_type"
+  }
+ ]
+}
+{
+ "dataset_name": "2v9c-2k7f",
+ "column_name": "DBA",
+ "manual_labels": [
+  {
+   "semantic_type": "business_name"
+  }
+ ]
+}
+{
+ "dataset_name": "aiww-p3af",
+ "column_name": "Park_Facility_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "park_playground"
+  }
+ ]
+}
+{
+ "dataset_name": "fxs2-faah",
+ "column_name": "PRINCIPAL_PHONE_NUMBER",
+ "manual_labels": [
+  {
+   "semantic_type": "phone_number"
+  }
+ ]
+}
+{
+ "dataset_name": "sxmw-f24h",
+ "column_name": "Park_Facility_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "park_playground"
+  }
+ ]
+}
+{
+ "dataset_name": "jz4z-kudi",
+ "column_name": "Violation_Location__Zip_Code_",
+ "manual_labels": [
+  {
+   "semantic_type": "zip_code"
+  }
+ ]
+}
+{
+ "dataset_name": "ydkf-mpxb",
+ "column_name": "CrossStreetName",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "ci93-uc8s",
+ "column_name": "Address1",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "n8p9-7jxp",
+ "column_name": "ZIP",
+ "manual_labels": [
+  {
+   "semantic_type": "zip_code"
+  }
+ ]
+}
+{
+ "dataset_name": "5uac-w243",
+ "column_name": "PREM_TYP_DESC",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "uq7m-95z8",
+ "column_name": "interest5",
+ "manual_labels": [
+  {
+   "semantic_type": "area_of_study"
+  }
+ ]
+}
+{
+ "dataset_name": "bjuu-44hx",
+ "column_name": "DVV_MAKE",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "jt7v-77mi",
+ "column_name": "Vehicle_Color",
+ "manual_labels": [
+  {
+   "semantic_type": "color"
+  }
+ ]
+}
+{
+ "dataset_name": "4pt5-3vv4",
+ "column_name": "Location",
+ "manual_labels": [
+  {
+   "semantic_type": "lat_lon_cord"
+  }
+ ]
+}
+{
+ "dataset_name": "52dp-yji6",
+ "column_name": "Owner_Last_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "jz4z-kudi",
+ "column_name": "Respondent_Address__City_",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  },
+  {
+   "semantic_type": "city"
+  },
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "h9gi-nx95",
+ "column_name": "VEHICLE_TYPE_CODE_1",
+ "manual_labels": [
+  {
+   "semantic_type": "vehicle_type"
+  }
+ ]
+}
+{
+ "dataset_name": "tu4y-7fre",
+ "column_name": "Boro",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "k3cd-yu9d",
+ "column_name": "BOROUGH_CITY",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  },
+  {
+   "semantic_type": "city"
+  },
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "a5qt-5jpu",
+ "column_name": "STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  },
+  {
+   "semantic_type": "building_classification"
+  }
+ ]
+}
+{
+ "dataset_name": "ajgi-hpq9",
+ "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "p937-wjvj",
+ "column_name": "HOUSE_NUMBER",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "xne4-4v8f",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "fgq8-am2v",
+ "column_name": "Website",
+ "manual_labels": [
+  {
+   "semantic_type": "website"
+  }
+ ]
+}
+{
+ "dataset_name": "s3k6-pzi2",
+ "column_name": "neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "fzv4-jan3",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "956m-xy24",
+ "column_name": "MANHATTAN_CONDOMINIUM_PROPERTY_Neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "as69-ew8f",
+ "column_name": "TruckMake",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "735p-zed8",
+ "column_name": "CANDMI",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "jz4z-kudi",
+ "column_name": "Respondent_Address__Zip_Code_",
+ "manual_labels": [
+  {
+   "semantic_type": "zip_code"
+  }
+ ]
+}
+{
+ "dataset_name": "2sps-j9st",
+ "column_name": "PERSON_LAST_NAME",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "yggg-xf4b",
+ "column_name": "Website",
+ "manual_labels": [
+  {
+   "semantic_type": "website"
+  }
+ ]
+}
+{
+ "dataset_name": "cwqt-nvfg",
+ "column_name": "Boro",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "cgz5-877h",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "7btz-mnc8",
+ "column_name": "Provider_First_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "8k4x-9mp5",
+ "column_name": "Last_Name__only_2014_15_",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "cspg-yi7g",
+ "column_name": "ADDRESS",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "pgtq-ht5f",
+ "column_name": "CORE_SUBJECT___MS_CORE_and__9_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "tqtj-sjs8",
+ "column_name": "FromStreetName",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "en2c-j6tw",
+ "column_name": "BRONX_CONDOMINIUM_PROPERTY_Neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "w9ak-ipjd",
+ "column_name": "Applicant_Last_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "3aka-ggej",
+ "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "fp78-wt5b",
+ "column_name": "address",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "a9md-ynri",
+ "column_name": "MI",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "ci93-uc8s",
+ "column_name": "Website",
+ "manual_labels": [
+  {
+   "semantic_type": "website"
+  }
+ ]
+}
+{
+ "dataset_name": "jt7v-77mi",
+ "column_name": "Vehicle_Make",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "pvqr-7yc4",
+ "column_name": "Vehicle_Body_Type",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "3rfa-3xsf",
+ "column_name": "Incident_Zip",
+ "manual_labels": [
+  {
+   "semantic_type": "zip_code"
+  }
+ ]
+}
+{
+ "dataset_name": "xk6g-r83g",
+ "column_name": "Agency",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "s79c-jgrm",
+ "column_name": "EMPCITY",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  },
+  {
+   "semantic_type": "city"
+  },
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "vx8i-nprf",
+ "column_name": "MI",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "erm2-nwe9",
+ "column_name": "Park_Facility_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "park_playground"
+  }
+ ]
+}
+{
+ "dataset_name": "faiq-9dfq",
+ "column_name": "Vehicle_Body_Type",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "hy4q-igkk",
+ "column_name": "School_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  }
+ ]
+}
+{
+ "dataset_name": "itd7-gx3g",
+ "column_name": "Location_1",
+ "manual_labels": [
+  {
+   "semantic_type": "lat_lon_cord"
+  }
+ ]
+}
+{
+ "dataset_name": "bdjm-n7q4",
+ "column_name": "CrossStreet2",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "bs8b-p36w",
+ "column_name": "STREET",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "gahm-hu5h",
+ "column_name": "COMPARABLE_RENTAL___2__Neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "52dp-yji6",
+ "column_name": "Owner_First_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "3h2n-5cm9",
+ "column_name": "STREET",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "p937-wjvj",
+ "column_name": "STREET_NAME",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "y4fw-iqfr",
+ "column_name": "Location_1",
+ "manual_labels": [
+  {
+   "semantic_type": "lat_lon_cord"
+  }
+ ]
+}
+{
+ "dataset_name": "9z9b-6hvk",
+ "column_name": "Borough",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "uwyv-629c",
+ "column_name": "StreetName",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "ci93-uc8s",
+ "column_name": "Vendor_DBA",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "i6b5-j7bu",
+ "column_name": "TOSTREETNAME",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "6kcb-9g8d",
+ "column_name": "neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  },
+  {
+   "semantic_type": "park_playground"
+  }
+ ]
+}
+{
+ "dataset_name": "a5td-mswe",
+ "column_name": "Vehicle_Color",
+ "manual_labels": [
+  {
+   "semantic_type": "color"
+  }
+ ]
+}
+{
+ "dataset_name": "uzcy-9puk",
+ "column_name": "Street_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "rbx6-tga4",
+ "column_name": "Applicant_Business_Address",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "8isn-pgv3",
+ "column_name": "Owner_Telephone",
+ "manual_labels": [
+  {
+   "semantic_type": "phone_number"
+  },
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "qbce-2kcu",
+ "column_name": "COMPARABLE_RENTAL___2__Neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "fp78-wt5b",
+ "column_name": "phonenumber",
+ "manual_labels": [
+  {
+   "semantic_type": "phone_number"
+  }
+ ]
+}
+{
+ "dataset_name": "6je4-4x7e",
+ "column_name": "SCHOOL",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  },
+  {
+   "semantic_type": "college_name"
+  }
+ ]
+}
+{
+ "dataset_name": "7jkp-5w5g",
+ "column_name": "Agency",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "b9km-gdpy",
+ "column_name": "ZIP",
+ "manual_labels": [
+  {
+   "semantic_type": "zip_code"
+  }
+ ]
+}
+{
+ "dataset_name": "kyad-zm4j",
+ "column_name": "Location",
+ "manual_labels": [
+  {
+   "semantic_type": "lat_lon_cord"
+  }
+ ]
+}
+{
+ "dataset_name": "kiv2-tbus",
+ "column_name": "Vehicle_Make",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "sxmw-f24h",
+ "column_name": "Location",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "4fnu-iufz",
+ "column_name": "Agency",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "kiyv-ks3f",
+ "column_name": "Website",
+ "manual_labels": [
+  {
+   "semantic_type": "website"
+  }
+ ]
+}
+{
+ "dataset_name": "mrxb-9w9v",
+ "column_name": "BOROUGH___COMMUNITY",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  },
+  {
+   "semantic_type": "city"
+  }
+ ]
+}
+{
+ "dataset_name": "hy4q-igkk",
+ "column_name": "Street_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  },
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "3rfa-3xsf",
+ "column_name": "School_Phone_Number",
+ "manual_labels": [
+  {
+   "semantic_type": "phone_number"
+  },
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "urzf-q2g5",
+ "column_name": "Phone_Number",
+ "manual_labels": [
+  {
+   "semantic_type": "phone_number"
+  }
+ ]
+}
+{
+ "dataset_name": "ffnc-f3aa",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "c284-tqph",
+ "column_name": "Vehicle_Make",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "e9xc-u3ds",
+ "column_name": "CANDMI",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "vhah-kvpj",
+ "column_name": "Borough",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "dm9a-ab7w",
+ "column_name": "OWNER_ZIP",
+ "manual_labels": [
+  {
+   "semantic_type": "zip_code"
+  }
+ ]
+}
+{
+ "dataset_name": "bbs3-q5us",
+ "column_name": "EMPCITY",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  },
+  {
+   "semantic_type": "city"
+  }
+ ]
+}
+{
+ "dataset_name": "8gr8-ngjc",
+ "column_name": "phone",
+ "manual_labels": [
+  {
+   "semantic_type": "phone_number"
+  }
+ ]
+}
+{
+ "dataset_name": "62mr-ukqs",
+ "column_name": "BROOKLYN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+ "manual_labels": [
+  {
+   "semantic_type": "building_classification"
+  }
+ ]
+}
+{
+ "dataset_name": "x5tk-fa54",
+ "column_name": "Agency_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "72mk-a8z7",
+ "column_name": "ORGANIZATION_PHONE",
+ "manual_labels": [
+  {
+   "semantic_type": "phone_number"
+  },
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "aiww-p3af",
+ "column_name": "Intersection_Street_2",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "8i43-kna8",
+ "column_name": "CORE_SUBJECT",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "6rrm-vxj9",
+ "column_name": "parkname",
+ "manual_labels": [
+  {
+   "semantic_type": "park_playground"
+  }
+ ]
+}
+{
+ "dataset_name": "3aka-ggej",
+ "column_name": "BOROUGH",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  },
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "dm9a-ab7w",
+ "column_name": "APPLICANT_FIRST_NAME",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "sybh-s59s",
+ "column_name": "CORE_SUBJECT___MS_CORE_and__9_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "yayv-apxh",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "bdjm-n7q4",
+ "column_name": "Location",
+ "manual_labels": [
+  {
+   "semantic_type": "lat_lon_cord"
+  }
+ ]
+}
+{
+ "dataset_name": "kj4p-ruqc",
+ "column_name": "StreetName",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "vr8p-8shw",
+ "column_name": "DVT_MAKE",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "wks3-66bn",
+ "column_name": "School_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  }
+ ]
+}
+{
+ "dataset_name": "t8hj-ruu2",
+ "column_name": "Business_Phone_Number",
+ "manual_labels": [
+  {
+   "semantic_type": "phone_number"
+  }
+ ]
+}
+{
+ "dataset_name": "ipu4-2q9a",
+ "column_name": "Site_Safety_Mgr_s_Last_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "7yds-6i8e",
+ "column_name": "CORE_SUBJECT__MS_CORE_and_9_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "72ss-25qh",
+ "column_name": "Website",
+ "manual_labels": [
+  {
+   "semantic_type": "website"
+  }
+ ]
+}
+{
+ "dataset_name": "s3k6-pzi2",
+ "column_name": "interest3",
+ "manual_labels": [
+  {
+   "semantic_type": "area_of_study"
+  },
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "tmr6-dfvn",
+ "column_name": "School_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  }
+ ]
+}
+{
+ "dataset_name": "t8hj-ruu2",
+ "column_name": "First_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "jxyc-rxiv",
+ "column_name": "COMPARABLE_RENTAL___2__Building_Classification",
+ "manual_labels": [
+  {
+   "semantic_type": "building_classification"
+  }
+ ]
+}
+{
+ "dataset_name": "bawj-6bgn",
+ "column_name": "BRONX_CONDOMINIUM_PROPERTY_Building_Classification",
+ "manual_labels": [
+  {
+   "semantic_type": "building_classification"
+  }
+ ]
+}
+{
+ "dataset_name": "mdcw-n682",
+ "column_name": "First_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "ykx2-pdw8",
+ "column_name": "QUEENS___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+ "manual_labels": [
+  {
+   "semantic_type": "building_classification"
+  }
+ ]
+}
+{
+ "dataset_name": "w9ak-ipjd",
+ "column_name": "Filing_Representative_City",
+ "manual_labels": [
+  {
+   "semantic_type": "city"
+  },
+  {
+   "semantic_type": "borough"
+  },
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "vw9i-7mzq",
+ "column_name": "interest5",
+ "manual_labels": [
+  {
+   "semantic_type": "area_of_study"
+  }
+ ]
+}
+{
+ "dataset_name": "weg5-33pj",
+ "column_name": "SCHOOL_LEVEL_",
+ "manual_labels": [
+  {
+   "semantic_type": "school_level"
+  }
+ ]
+}
+{
+ "dataset_name": "8vgb-zm6e",
+ "column_name": "City__State__Zip_",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "sv2w-rv3k",
+ "column_name": "BORO",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "sqcr-6mww",
+ "column_name": "Street_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "cwg5-cqkm",
+ "column_name": "QUEENS___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+ "manual_labels": [
+  {
+   "semantic_type": "building_classification"
+  }
+ ]
+}
+{
+ "dataset_name": "n84m-kx4j",
+ "column_name": "VEHICLE_MAKE",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "3rfa-3xsf",
+ "column_name": "Location",
+ "manual_labels": [
+  {
+   "semantic_type": "lat_lon_cord"
+  }
+ ]
+}
+{
+ "dataset_name": "uzcy-9puk",
+ "column_name": "Park_Facility_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "park_playground"
+  }
+ ]
+}
+{
+ "dataset_name": "qjvp-rnsx",
+ "column_name": "Website",
+ "manual_labels": [
+  {
+   "semantic_type": "website"
+  }
+ ]
+}
+{
+ "dataset_name": "aiww-p3af",
+ "column_name": "Cross_Street_2",
+ "manual_labels": [
+  {
+   "semantic_type": "street_name"
+  }
+ ]
+}
+{
+ "dataset_name": "mdcw-n682",
+ "column_name": "Last_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "w9ak-ipjd",
+ "column_name": "Filing_Representative_First_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "w9ak-ipjd",
+ "column_name": "Owner_s_Business_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "business_name"
+  }
+ ]
+}
+{
+ "dataset_name": "pqg4-dm6b",
+ "column_name": "Address1",
+ "manual_labels": [
+  {
+   "semantic_type": "address"
+  }
+ ]
+}
+{
+ "dataset_name": "dm9a-ab7w",
+ "column_name": "AUTH_REP_FIRST_NAME",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "bss9-579f",
+ "column_name": "BROOKLYN_____CONDOMINIUMS_COMPARABLE_PROPERTIES_____Neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  },
+  {
+   "semantic_type": "park_playground"
+  }
+ ]
+}
+{
+ "dataset_name": "sxx4-xhzg",
+ "column_name": "Park_Site_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "park_playground"
+  },
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "myei-c3fa",
+ "column_name": "Neighborhood_3",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  }
+ ]
+}
+{
+ "dataset_name": "k4xi-fxp5",
+ "column_name": "Borough",
+ "manual_labels": [
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "h9gi-nx95",
+ "column_name": "VEHICLE_TYPE_CODE_4",
+ "manual_labels": [
+  {
+   "semantic_type": "vehicle_type"
+  },
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "d3ge-anaz",
+ "column_name": "CORE_COURSE__MS_CORE_and_9_12_ONLY_",
+ "manual_labels": [
+  {
+   "semantic_type": "subject_in_school"
+  }
+ ]
+}
+{
+ "dataset_name": "5nz7-hh6t",
+ "column_name": "BORO",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  },
+  {
+   "semantic_type": "borough"
+  }
+ ]
+}
+{
+ "dataset_name": "qu8g-sxqf",
+ "column_name": "MI",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "2bnn-yakx",
+ "column_name": "Vehicle_Body_Type",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "kiv2-tbus",
+ "column_name": "Vehicle_Make",
+ "manual_labels": [
+  {
+   "semantic_type": "car_make"
+  }
+ ]
+}
+{
+ "dataset_name": "mdcw-n682",
+ "column_name": "Middle_Initial",
+ "manual_labels": [
+  {
+   "semantic_type": "other"
+  }
+ ]
+}
+{
+ "dataset_name": "nhms-9u6g",
+ "column_name": "Name__Last__First_",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "m3fi-rt3k",
+ "column_name": "Agency_",
+ "manual_labels": [
+  {
+   "semantic_type": "city_agency"
+  }
+ ]
+}
+{
+ "dataset_name": "3rfa-3xsf",
+ "column_name": "School_Name",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  },
+  {
+   "semantic_type": "college_name"
+  }
+ ]
+}
+{
+ "dataset_name": "sybh-s59s",
+ "column_name": "SCHOOL_NAME",
+ "manual_labels": [
+  {
+   "semantic_type": "school_name"
+  },
+  {
+   "semantic_type": "college_name"
+  }
+ ]
+}
+{
+ "dataset_name": "6anw-twe4",
+ "column_name": "LastName",
+ "manual_labels": [
+  {
+   "semantic_type": "person_name"
+  }
+ ]
+}
+{
+ "dataset_name": "9b9u-8989",
+ "column_name": "DBA",
+ "manual_labels": [
+  {
+   "semantic_type": "business_name"
+  }
+ ]
+}
+{
+ "dataset_name": "dpm2-m9mq",
+ "column_name": "applicant_zip",
+ "manual_labels": [
+  {
+   "semantic_type": "zip_code"
+  }
+ ]
+}
+{
+ "dataset_name": "qpm9-j523",
+ "column_name": "org_neighborhood",
+ "manual_labels": [
+  {
+   "semantic_type": "neighborhood"
+  },
+  {
+   "semantic_type": "city"
+  }
+ ]
+}

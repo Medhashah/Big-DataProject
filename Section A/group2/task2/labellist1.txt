@@ -1,0 +1,90 @@
+0 street_name
+1 street_name
+2 borough
+3 website
+4 borough
+5 building_classification
+6 neighborhood
+7 address
+8 color
+9 business_name
+10 other
+11 borough
+12 person_name
+13 address
+14 city
+15 city_agency
+16 person_name
+17 color
+18 car_make
+19 other
+20 school_level
+21 phone_number
+22 other empty cell
+23 other                                                                                                         
+24 school_level
+25 borough
+26 person_name
+27 lat_lon_cord
+28 color
+29 person_name
+30 other Vehicle_Body_Type
+31 city_agency
+32 street_name
+33 subject_in_school
+34 area_of_study,subject_in_school,other interest
+35 other
+36 zip_code
+37 city_agency
+38 school_name
+39 school_name
+40 address
+41 address
+42 other Vehicle_Body_Type
+43 city
+44 car_make
+45 school_name
+46 car_make
+47 city_agency
+48 street_name
+49 subject_in_school
+50 street_name
+51 street_name
+52 person_name
+53 building_classification
+54 city_agency
+55 other CANDMI
+56 building_classification
+57 school_name
+58 car_make
+59 phone_number
+60 subject_in_school
+61 subject_in_school
+62 school_level
+63 subject_in_school
+64 phone_number
+65 school_level
+66 other DBA
+67 lat_lon_cord
+68 address
+69 other "should be building class, but so many empty cells"
+70 school_level
+71 website
+72 address
+73 subject_in_school
+74 area_of_study,subject_in_school,other interest
+75 other Vehicle_Body_Type
+76 city_agency
+77 borough
+78 vehicle_type
+79 vehicle_type
+80 person_name
+81 zip_code
+82 neighborhood
+83 address
+84 car_make
+85 car_make
+86 school_level
+87 other CANDMI
+88 school_level
+89 borough

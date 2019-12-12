@@ -1,0 +1,92 @@
+181 borough
+182 street_name
+183 other Vendor_DBA any
+184 street_name
+185 neighborhood,park_playground
+186 color
+187 street_name
+188 address
+189 phone_number,other
+190 neighborhood null
+191 phone_number
+192 school_name,college_name
+193 city_agency
+194 zip_code
+195 lat_lon_cord
+196 car_make
+197 other lat_lon_cord null
+198 city_agency
+199 website
+200 borough,city
+201 street_name,other
+202 phone_number,other
+203 phone_number
+204 school_level
+205 car_make
+206 other CANDMI character
+207 borough
+208 zip_code
+209 borough,city
+210 phone_number
+211 building_classification
+212 city_agency
+213 phone_number,other
+214 street_name
+215 subject_in_school
+216 park_playground
+217 borough,other borough character
+218 person_name
+219 subject_in_school
+220 school_level
+221 lat_lon_cord
+222 street_name
+223 car_make
+224 school_name
+225 phone_number
+226 person_name
+227 subject_in_school
+228 website
+229 area_of_study,subject_in_school
+230 school_name
+231 person_name
+232 building_classification
+233 building_classification
+234 person_name
+235 building_classification
+236 city,borough,other
+237 area_of_study
+238 school_level
+239 other city_state_zip
+240 borough
+241 street_name
+242 building_classification
+243 car_make
+244 lat_lon_cord
+245 park_playground
+246 website
+247 street_name
+248 person_name
+249 person_name
+250 business_name
+251 address
+252 person_name
+253 neighborhood,park_playground
+254 park_playground,other
+255 neighborhood
+256 borough
+257 vehicle_type,other
+258 subject_in_school
+259 other,borough character
+260 other MI character
+261 other
+262 car_make
+263 other Middle_Initial character
+264 person_name
+265 city_agency
+266 school_name,college_name
+267 school_name,college_name
+268 person_name
+269 business_name
+270 zip_code
+271 neighborhood,city
+272 neighborhood,borough

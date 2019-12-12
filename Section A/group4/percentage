@@ -1,0 +1,134 @@
+Lable Static:
+
+{
+    "person_name": 26,
+    "business_name": 17,
+    "phone_number": 11,
+    "address": 32,
+    "street_name": 33,
+    "city": 13,
+    "neighborhood": 22,
+    "lat_lon_cord": 10,
+    "zip_code": 11,
+    "borough": 22,
+    "school_name": 16,
+    "color": 8,
+    "car_make": 15,
+    "city_agency": 13,
+    "area_of_study": 11,
+    "subject_in_school": 19,
+    "school_level": 14,
+    "college_name": 5,
+    "website": 9,
+    "building_classification": 9,
+    "vehicle_type": 13,
+    "location_type": 4,
+    "park_playground": 6,
+    "other": 34
+}
+Predict Static:
+{
+    "person_name": 9,
+    "business_name": 8,
+    "phone_number": 11,
+    "address": 28,
+    "street_name": 33,
+    "city": 19,
+    "neighborhood": 1,
+    "lat_lon_cord": 10,
+    "zip_code": 11,
+    "borough": 37,
+    "school_name": 21,
+    "color": 8,
+    "car_make": 26,
+    "city_agency": 13,
+    "area_of_study": 25,
+    "subject_in_school": 3,
+    "school_level": 27,
+    "college_name": 4,
+    "website": 7,
+    "building_classification": 10,
+    "vehicle_type": 25,
+    "location_type": 2,
+    "park_playground": 6,
+    "other": 216
+}
+Correct predict Static:
+{
+    "person_name": 2,
+    "business_name": 6,
+    "phone_number": 11,
+    "address": 22,
+    "street_name": 27,
+    "city": 13,
+    "neighborhood": 1,
+    "lat_lon_cord": 10,
+    "zip_code": 11,
+    "borough": 21,
+    "school_name": 15,
+    "color": 8,
+    "car_make": 15,
+    "city_agency": 12,
+    "area_of_study": 11,
+    "subject_in_school": 3,
+    "school_level": 14,
+    "college_name": 2,
+    "website": 7,
+    "building_classification": 9,
+    "vehicle_type": 12,
+    "location_type": 2,
+    "park_playground": 4,
+    "other": 26
+}
+type	precision	recall
+
+person_name	0.22222	0.07692
+
+business_name	0.75000	0.35294
+
+phone_number	1.00000	1.00000
+
+address	0.78571	0.68750
+
+street_name	0.81818	0.81818
+
+city	0.68421	1.00000
+
+neighborhood	1.00000	0.04545
+
+lat_lon_cord	1.00000	1.00000
+
+zip_code	1.00000	1.00000
+
+borough	0.56757	0.95455
+
+school_name	0.71429	0.93750
+
+color	1.00000	1.00000
+
+car_make	0.57692	1.00000
+
+city_agency	0.92308	0.92308
+
+area_of_study	0.44000	1.00000
+
+subject_in_school	1.00000	0.15789
+
+school_level	0.51852	1.00000
+
+college_name	0.50000	0.40000
+
+website	1.00000	0.77778
+
+building_classification	0.90000	1.00000
+
+vehicle_type	0.48000	0.92308
+
+location_type	1.00000	0.50000
+
+park_playground	0.66667	0.66667
+
+other	0.12037	0.76471
+
+/user/jf1870/2019-BigDataResults
+
