@@ -1,0 +1,1 @@
+{"column name": "Neighborhood_1", "semantic_types": [{"semantic_type": "other", "label": "neighborhood", "count": 16080}, {"semantic_type": "neighborhood", "count": 12860}, {"semantic_type": "city", "count": 2312}, {"semantic_type": "park_playground", "count": 96}], "true_type": "neighborhood", "prediction_type": "neighborhood"}

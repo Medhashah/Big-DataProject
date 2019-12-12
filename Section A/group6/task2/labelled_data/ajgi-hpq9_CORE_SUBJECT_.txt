@@ -1,0 +1,6 @@
+'Areas of study', 'Social Studies', 555
+'Areas of study', 'Science', 522
+'Areas of study', 'None,', 0
+'Areas of study', 'Math,', 482
+'Areas of study', 'English,', 685
+'Areas of study', '-,', 812

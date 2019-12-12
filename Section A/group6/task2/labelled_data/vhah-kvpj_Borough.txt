@@ -1,0 +1,7 @@
+'Borough', 'Queens', 23
+'Borough', 'Various', 10
+'Borough', 'Brooklyn', 101
+'Borough', 'Staten Island,', 10
+'Borough', 'N/A,', 2
+'Borough', 'Manhattan,', 102
+'Borough', 'Bronx,', 95

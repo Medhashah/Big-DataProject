@@ -1,0 +1,17 @@
+'other', '243', 1
+'other', '31', 4
+'other', '159', 1
+'other', '93', 1
+'other', '47', 1
+'other', '177', 1
+'other', 'None', 0
+'other', '52', 2
+'other', '40,', 1
+'other', '48,', 2
+'other', '63,', 1
+'other', '37,', 4
+'other', '00,', 1
+'other', '02,', 1
+'other', '47,', 1
+'other', '66,', 1
+'other', '67,', 1

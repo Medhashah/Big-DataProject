@@ -1,0 +1,1420 @@
+'School name', 'School - PS 128 Audubon', 8
+'School name', 'School - PS 19 The Curtis School', 4
+'School name', 'School - JHS 67 Louis Pasteur', 6
+'School name', 'School - PS 251 Queens', 2
+'School name', 'Closed School - Academy for Careers in Sports High School', 11
+'School name', 'School - PS 200 Benson School', 6
+'School name', 'Juniper Valley Park', 2
+'School name', 'School - August Martin High School', 19
+'School name', 'Closed School - JHS 139 Alexander Burger', 1
+'School name', 'School - PS 225 The Eileen E Zaglin', 8
+'School name', 'School - Aviation Career and Technical Education High School', 4
+'School name', 'School - PS 118 Lorraine Hansberry', 2
+'School name', 'School - The Urban Assembly School for Media Studies', 4
+'School name', 'Fresh Kills Park', 1
+'School name', 'School - Eximius College Preparatory Academy: A College Board School', 4
+'School name', 'School - Bronx Guild', 1
+'School name', 'School - PS 304 Early Childhood School', 7
+'School name', 'School - Tito Puente Education Complex', 11
+'School name', 'School - PS 133 Fred R Moore', 7
+'School name', 'School - PS 193 Gil Hodges', 3
+'School name', 'School - PS 287 Bailey K Ashford', 1
+'School name', 'School - Pathways College Preparatory School: A College Board School', 1
+'School name', 'School - PS 36', 1
+'School name', 'Fort Tryon Park - Anne Loftus Playground', 1
+'School name', 'School - PS 260 Breuckelen', 3
+'School name', 'School - Mark Twain IS 239 for the Gifted and Talented', 5
+'School name', 'School - PS 41 New Dorp', 3
+'School name', 'School - Frederick Douglass Academy V Middle School', 1
+'School name', 'School - PS 15 Jackie Robinson', 3
+'School name', 'School - PS 205 Alexander Graham Bell', 1
+'School name', 'Detective Keith L. Williams Pk', 1
+'School name', 'School - The Math and Science Exploratory School', 2
+'School name', 'School - IS 238 Susan B Anthony', 5
+'School name', 'School - JHS 123 James M Kieran', 8
+'School name', 'School - MS 319 - Maria Teresa', 2
+'School name', 'School - Manhattan Village Academy', 1
+'School name', 'School - PS 199 Jessie Isador Straus', 15
+'School name', 'School - PS 134', 2
+'School name', 'School - PS 83 Luis Munoz Rivera', 7
+'School name', 'Closed School - Ida B Wells', 1
+'School name', 'Closed School - New School for Arts and Science', 1
+'School name', '115th Street Playground', 1
+'School name', 'School - PS 328 Phyllis Wheatley', 14
+'School name', 'Closed School - JHS 258 David Ruggles', 7
+'School name', 'School - PS 108 Sal Abbracciamento', 9
+'School name', 'School - PS 95 The Gravesend', 7
+'School name', 'School - PS 255', 4
+'School name', 'School - Mott Hall II', 1
+'School name', 'Closed School - IS 252 McBurney', 1
+'School name', 'Closed School - New Horizons School', 4
+'School name', 'School - PS 75', 15
+'School name', 'School - Bronx Writing Academy', 6
+'School name', 'Closed School - Martin Luther King High School', 7
+'School name', 'School - PS 127 Aerospace Science Magne', 3
+'School name', 'School - PS 305 Dr Peter Ray', 3
+'School name', 'School - PS 81 Thaddeus Stevens', 3
+'School name', 'School - PS 117 J Keld - Briarwood School', 4
+'School name', 'School - Coalition School for Social Change', 6
+'School name', 'School - PS 307 Daniel Hale Williams', 3
+'School name', 'School - East Harlem Village Academy Charter', 2
+'School name', 'School - West Bronx Academy for the Future', 6
+'School name', 'School - Ps-IS 268', 6
+'School name', 'School - PS 87 Bronx', 9
+'School name', 'School - PS 274 Kosciusko', 6
+'School name', 'School - IS 347 School of Humanities', 2
+'School name', 'Closed School - MS 390 Maggie L Walker', 5
+'School name', 'School - PS 16 John J Driscoll', 5
+'School name', 'School - PS 100 Glen Morris', 6
+'School name', 'School - Bronx Regional High School', 1
+'School name', 'Riverside Park - Dinosaur Playground', 2
+'School name', 'Central Park - Wild West Playground', 1
+'School name', 'School - PS 273 Wortman', 3
+'School name', 'School - JHS 8 Richard S Grossley', 17
+'School name', 'Alternative Superintendency', 20
+'School name', 'Bloomingdale Park', 1
+'School name', 'School - Urban Science Academy', 6
+'School name', 'School - PS 291', 2
+'School name', 'School - Progress High School for Professional Careers', 6
+'School name', 'School - PS 69 Daniel D Tompkins', 4
+'School name', 'School - PS 130 Abram Stevens Hewitt', 3
+'School name', 'School - PS 2 Meyer London', 3
+'School name', 'School - PS 183 Robert L Stevenson', 3
+'School name', 'Rudd Playground', 1
+'School name', 'School - JHS 88 Peter Rouget', 6
+'School name', 'School - PS 189 Lincoln Terrace', 6
+'School name', 'School - Landmark High School', 2
+'School name', 'School - PS 188', 7
+'School name', 'Pool - Lasker in Central Park', 1
+'School name', 'School - PS 158 Bayard Taylor', 11
+'School name', 'School - PS 277 Gerritsen Beach', 1
+'School name', 'School - PS 307 Eames Place', 2
+'School name', 'School - PS 138 Samuel Randall', 11
+'School name', 'School - PS 6 Lillie D Blake', 5
+'School name', 'School - PS 18 John G Whittier', 5
+'School name', 'School - PS 169 Bay Terrace', 2
+'School name', 'School - PS 116 Elizabeth L Farrell', 1
+'School name', 'School - PS 166 The Richard Rodgers School of the Arts and Technology', 13
+'School name', 'School - Academy of Environmental Science Secondary High School', 5
+'School name', 'School - PS 13 Clement C Moore', 7
+'School name', 'School - William Cullen Bryant High School', 5
+'School name', 'School - Bronx Studio School', 5
+'School name', 'School - MS 250 West Side Collaborative Middle School', 3
+'School name', 'William E Kelly Memorial Park', 1
+'School name', 'School - IS 229 Roland Patterson', 2
+'School name', 'School - PS 140', 1
+'School name', 'School - PS 109 Sedgwick', 1
+'School name', 'School - PS 290 Manhattan New School', 2
+'School name', 'School - IS 381', 7
+'School name', 'School - PS 279 Captain Manuel Rivera Jr', 5
+'School name', 'School - PS 16 Wakefield', 12
+'School name', 'School - PS 207', 5
+'School name', 'School - PS 198', 8
+'School name', 'School - PS 37 - Multiple Intelligence School', 7
+'School name', 'School - PS 130 Hernando Desoto', 3
+'School name', 'School - EBC High School for Public Service - Bushwick', 3
+'School name', 'School - Satellite Academy High School', 2
+'School name', 'East River Park', 4
+'School name', 'School - Channel View School for Research', 11
+'School name', 'School - Stuyvesant High School', 15
+'School name', 'School - PS 316 Elijah Stroud', 8
+'School name', 'School - PS 64 Robert Simon', 10
+'School name', 'School - PS 169 - Robert F Kennedy', 12
+'School name', 'School - PS 196 Ten Eyck', 3
+'School name', 'School - PS 161 Pedro Albizu Campos', 6
+'School name', 'School - Science, Technology, and Research Early College High School at Erasmus', 2
+'School name', 'School - PS 92 Harry T Stewart Sr', 2
+'School name', 'School - Robert F Kennedy Community High School', 1
+'School name', 'School - PS 6 West Farms', 9
+'School name', 'School - New Voices School of Academic and Creative Arts', 1
+'School name', 'School - Bronx School for Law Government Justice', 7
+'School name', 'School - PS 40 George W Carver', 3
+'School name', 'School - PS 163 Flushing Heights', 6
+'School name', 'School - The Felisa Rincon De Gautier Institute for Law and Public Policy', 2
+'School name', 'School - High School of Arts and Technology', 2
+'School name', 'School - IS 7 Elias Bernstein', 6
+'School name', 'School - PS 8 Shirlee Solomon', 9
+'School name', 'School - PS 130', 3
+'School name', 'School - Acorn Community High School', 2
+'School name', 'School - PS 66 School of Higher Expectations', 9
+'School name', 'School - PS 84 Steinway', 4
+'School name', 'Closed School - Early Childhood Center', 1
+'School name', 'School - Williamsburg Charter School', 1
+'School name', 'School - PS 98 Shorac Kappock', 23
+'School name', 'School - Bronx Leadership Academy II High School', 6
+'School name', 'School - PS 215 Morris H Weiss', 8
+'School name', 'School - PS 50 Vito Marcantonio', 8
+'School name', 'School - PS 249 The Caton', 7
+'School name', 'School - MS K266 - Park Place Community Middle School', 1
+'School name', 'School - Brooklyn College Academy', 1
+'School name', 'Randalls Island Park', 2
+'School name', 'Mckinley Park', 1
+'School name', 'School - PS 30 Hernandez-Hughes', 21
+'School name', 'School - PS 79 Creston', 6
+'School name', 'School - Queens Gateway to Health Sciences Secondary School', 1
+'School name', 'School - IS 303 Leadership and Community Service', 2
+'School name', 'School - The East Village Community School', 1
+'School name', 'School - Robert F Wagner Jr Secondary School for Arts and Technology', 2
+'School name', 'School - Alfred E Smith Career and Technical Education High School', 6
+'School name', 'School - PS 297 Abraham Stockton', 6
+'School name', 'School - PS 130 The Parkside', 4
+'School name', 'School - Bushwick Community High School', 1
+'School name', 'School - PS 54 Hillside', 1
+'School name', 'School - PS 105 Senator Abraham Bernstein', 9
+'School name', 'School - PS 222 Katherine R Snyder', 6
+'School name', 'School - PS 219 Kennedy-King', 12
+'School name', 'School - Bronx Prep Charter School', 3
+'School name', 'School - PS 93 William H Prescott', 1
+'School name', 'Doctor Gertrude B Kelly Playground', 1
+'School name', 'Closed School - IS 280 Brooklyn Studio School', 7
+'School name', 'School - PS 43', 17
+'School name', 'School - PS 242 Gwendolyn Powell Brown Computer School', 4
+'School name', 'School - PS 217 Colonel David Marcus School', 7
+'School name', 'School - New Millennium Business Academy Middle School', 4
+'School name', 'School - PS 42 R Vernam', 22
+'School name', 'School - PS 153 Adam Clayton Powell', 20
+'School name', 'School - PS 107', 4
+'School name', 'School - PS 18 Winchester', 1
+'School name', 'School - PS-MS 200 - The Pomonok School and Star Academy', 4
+'School name', 'School - IS 5 - The Walter Crowley Intermediate School', 6
+'School name', 'School - IS 025 Adrien Block', 7
+'School name', 'School - NYC Lab Middle School for Collaborative Studies', 5
+'School name', 'School - The High School of Fashion Industries', 4
+'School name', 'School - Cynthia Jenkins School', 3
+'School name', 'School - Queens Occupational Training Center', 1
+'School name', 'School - PS 112 Bronxwood', 3
+'School name', 'School - PS-IS 323', 9
+'School name', 'School - Excellence Charter School of Bedford Stuyvesant', 4
+'School name', 'School - PS 79 - Horan School', 6
+'School name', 'School - PS 160 Walt Disney', 1
+'School name', 'School - PS 299 Thomas Warren Field', 3
+'School name', 'School - PS 397 Foster-Laurie', 1
+'School name', 'Carlton Park', 1
+'School name', 'School - A Philip Randolph Campus', 16
+'School name', 'School - PS 201 The Discovery School for Inquiry and Research', 13
+'School name', 'School - Murray Bergtraum High School', 7
+'School name', 'School - WEB Dubois Academic High School', 3
+'School name', 'School - PS 3 The Bedford Village', 1
+'School name', 'School - MS 246 Crossroads School', 10
+'School name', 'School - James Madison High School', 19
+'School name', 'School - PS 150 Queens', 12
+'School name', 'School - JHS 218 James P Sinnott', 5
+'School name', 'School - Bushwick Leaders High School for Academic Excellence', 2
+'School name', 'Closed School - Foundations Academy', 3
+'School name', 'School - PS 124 Yung Wing', 3
+'School name', 'Closed School - Queens Academy High School', 1
+'School name', 'School - PS 51 Bronx New School', 2
+'School name', 'Closed School - Community School at MS 142 MS 82', 2
+'School name', 'School - Bronx Academy High School', 2
+'School name', 'School - PS 203 Oakland Gardens', 2
+'School name', 'School - Magnet School for Science and Technology', 5
+'School name', 'School - JHS 142 John Philip Sousa', 3
+'School name', 'School - The Heritage School', 1
+'School name', 'School - Brooklyn Technical High School', 13
+'School name', 'Flushing Meadows and Corona Park - Albert H. Mauro Playground', 1
+'School name', 'Rev J Polite Playground and Stebbins Playground', 1
+'School name', 'School - PS 8 Robert Fulton', 4
+'School name', 'School - PS 215 Lucretia Mott', 6
+'School name', 'School - PS 197 The Ocean School', 11
+'School name', 'Closed School - IS 271 John M Coleman', 4
+'School name', 'School - PS 107 Thomas A Dooley', 6
+'School name', 'School - PS 159 Isaac Pitkin', 3
+'School name', 'School - University Heights Secondary School at Bronx Community College', 2
+'School name', 'School - New Explorers High School', 1
+'School name', 'School - IS 34 Tottenville', 10
+'School name', 'Silver Lake Park', 1
+'School name', 'Highbridge Park - Adventure Playground', 1
+'School name', 'School - IS 49 Berta A Dreyfus', 9
+'School name', 'School - IS 339', 10
+'School name', 'School - PS 195 Manhattan Beach', 3
+'School name', 'School - PS 85 Judge Charles Vallone', 3
+'School name', 'School - Mott Haven Village Preparatory High School', 1
+'School name', 'School - River East Elementary', 3
+'School name', 'Riverside Park - Running Track and 78th St Ballfields', 1
+'School name', 'School - PS 346 Abe Stark', 11
+'School name', 'School - PS 21 Philip H Sheridan', 19
+'School name', 'School - PS 209 Clearview Gardens', 7
+'School name', 'School - Kappa II', 6
+'School name', 'School - JHS 296 The Halsey', 8
+'School name', 'School - Amber Charter School', 1
+'School name', 'School - PS 009', 1
+'School name', 'School - PS 345 Patrolman Robert Bolden', 12
+'School name', 'School - JHS 62 Ditmas', 4
+'School name', 'School - South Richmond High School IS-PS 25', 4
+'School name', 'Closed School - Walton High School', 9
+'School name', 'School - PS 23 at Queens Children Center', 6
+'School name', 'Prospect Park - Middle Long Meadow', 1
+'School name', 'Prospect Park', 4
+'School name', 'School - PS 46 Alley Pond', 6
+'School name', 'School - PS-IS 218 Rafael Hernandez Dual Language Magnet School', 4
+'School name', 'School - PS 8 Issac Varian', 5
+'School name', 'School - Brownsville Diploma Plus High School', 4
+'School name', 'School - PS 86 The Irvington', 2
+'School name', 'College Point Park', 1
+'School name', 'School - PS 167 The Parkway', 4
+'School name', 'Closed School - MS 201', 7
+'School name', 'School - PS 101 School in the Gardens', 6
+'School name', 'School - IS 281 Joseph B Cavallaro', 5
+'School name', 'School - James Weldon Johnson', 3
+'School name', 'School - PS 224', 2
+'School name', 'Closed School - IS 55 Ocean Hill Brownsville', 6
+'School name', 'School - PS 368', 2
+'School name', 'School - Frederick Douglass Academy II Secondary School', 7
+'School name', 'School - PS 112 Jose Celso Barbosa', 2
+'School name', 'Breininger Park', 1
+'School name', 'Union Square Park', 1
+'School name', 'Closed School - JHS 143 John Peter Tetard', 6
+'School name', 'School - PS 87 Middle Village', 4
+'School name', 'School - PS 55 Maure', 2
+'School name', 'School - PS 26 The Carteret School', 1
+'School name', 'Virginia Principe Playground', 1
+'School name', 'School - High School of Graphic Communication Arts', 15
+'School name', 'School - PS 53 Bay Terrace', 13
+'School name', 'School - Automotive High School', 18
+'School name', 'School - PS 188 Michael E Berdy', 12
+'School name', 'School - PS 84 Jose De Diego', 5
+'School name', 'School - PS 91 Richard Arkwright', 2
+'School name', 'School - Neighborhood School', 1
+'School name', 'School - PS 94 David D Porter', 1
+'School name', 'School - The Urban Assembly for Applied Math and Science', 3
+'School name', 'School - PS 59 The Community School of Technology', 2
+'School name', 'School - IS 228 David A Boody', 11
+'School name', 'School - JHS 98 Herman Ridder', 12
+'School name', 'School - Kipp Academy Charter School', 1
+'School name', 'Closed School - New Voices School Academy and Creative Excellence', 1
+'School name', 'School - Lafayette High School', 11
+'School name', 'School - Secondary School for Journalism', 6
+'School name', 'School - PS 40 Samuel Huntington', 4
+'School name', 'School - PS 19 Asher Levy', 6
+'School name', 'School - MS 245 The Computer School', 5
+'School name', 'School - PS 65 Mother Hale Academy', 2
+'School name', 'School - Foundations Academy - expired', 1
+'School name', 'School - PS 31 William T Davis', 19
+'School name', 'School - PS 6', 3
+'School name', 'Closed School - JHS 135 Frank D Whalen', 13
+'School name', 'School - PS 298 Dr Betty Shabazz', 11
+'School name', 'School - PS 66', 4
+'School name', 'School - PS 110 Theodore Schoenfeld', 8
+'School name', 'School - PS 175 The Lynn Gross Discovery School', 2
+'School name', 'School - PS 108 Assemblyman Angelo Del Toro Educational Complex', 4
+'School name', 'School - Rachel Carson High School for Coastal Studies', 2
+'School name', 'School - IS 289 Manhattan', 1
+'School name', 'Closed School - Brooklyn Literacy Center', 9
+'School name', 'School - PS 10', 1
+'School name', 'School - PS 50 Talfourd Lawn Elementary School', 4
+'School name', 'School - PS 9 Sarah Anderson', 7
+'School name', 'School - Frederick Douglass Academy III Secondary School', 2
+'School name', 'School - PS 187 Hudson Cliffs', 2
+'School name', 'School - Henry Street School for International Studies', 1
+'School name', 'School - IS 187', 8
+'School name', 'School - PS 65 The Raymond York Elementary School', 3
+'School name', 'Closed School - Seward Park High School', 3
+'School name', 'School - PS 150 Charles James Fox', 10
+'School name', 'School - Earth School', 1
+'School name', 'School - PS 315 Lab School', 2
+'School name', 'School - IS 313 School of Leadership Development', 1
+'School name', 'School - Satellite Three', 1
+'School name', 'School - MS 328 - Manhattan Middle School for Scientific Inquiry', 1
+'School name', 'Gorman Memorial Park', 1
+'School name', 'Closed School - MS 320 Jackie Robinson', 7
+'School name', 'School - JHS 78 Roy H Mann', 38
+'School name', 'School - PS 235 Lenox School', 13
+'School name', 'School - PS 153 Hellen Keller', 2
+'School name', 'School - Beach Channel High School', 22
+'School name', 'School - High School for Arts and Business', 2
+'School name', 'School - PS 123 Mahalia Jackson', 10
+'School name', 'School - PS 13 Roberto Clemente', 9
+'School name', 'School - PS 5 Port Morris', 10
+'School name', 'School - Magnet School for Early Childhood', 1
+'School name', 'School - Hudson Honors Middle School', 3
+'School name', 'School - MS 571', 2
+'School name', 'School - PS 48 William C Wilcox', 7
+'School name', 'School - Queens Vocational and Technical High School', 9
+'School name', 'School - George Westinghouse Career and Technical Education High School', 3
+'School name', 'School - Transit Technology Career and Technical Education High School', 5
+'School name', 'School - MS 172 Irwin Altman', 2
+'School name', 'School - MS 224 Manhattan East School for Arts and Academics', 3
+'School name', 'School - IS 117 Joseph H Wade', 6
+'School name', 'School - PS 295', 2
+'School name', 'School - PS 183 Dr Richard R Green', 8
+'School name', 'Alley Pond Park', 1
+'School name', 'School - MS 51 William Alexander', 7
+'School name', 'School - PS 254', 4
+'School name', 'School - PS 207 Rockwood Park', 9
+'School name', 'School - Beacon High School', 1
+'School name', 'School - PS 261 Philip Livingston', 5
+'School name', 'School - PS 46 Arthur Tappan', 9
+'School name', 'School - Manhattan Bridges High School', 1
+'School name', 'Dyker Beach Park - Bay 8 Playground', 1
+'School name', 'Closed School - IS 116 Rafael Hernandez', 1
+'School name', 'School - JHS 22 Jordan L Mott', 6
+'School name', 'School - PS 161 The Crown', 21
+'School name', 'School - PS 396 - Brooklyn', 6
+'School name', 'School - PS 161 Arthur Ashe School', 2
+'School name', 'School - New World High School', 2
+'School name', 'School - PS 721 - Manhattan Occupational Training Center', 2
+'School name', 'School - PS 245', 3
+'School name', 'School - Central Park East II', 2
+'School name', 'School - PS 102 Bayview', 3
+'School name', 'School - Williamsburg Preparatory School', 1
+'School name', 'Fidler - Wyckoff House Park', 1
+'School name', 'School - PS 100 Isaac Clason', 12
+'School name', 'School - Tag Young Scholars', 4
+'School name', 'School - Queens College School for Math and Science', 10
+'School name', 'School - PS 45 Horace E Greene', 9
+'School name', 'School - PS-MS 147 Ronald Mcnair', 8
+'School name', 'School - Francis Lewis High School', 9
+'School name', 'School - PS 12 Lewis and Clark School', 8
+'School name', 'School - IS 231 Magnetech 2000', 15
+'School name', 'School - PS 39 Henry Bristow', 1
+'School name', 'School - PS 23 The New Childrens School', 1
+'School name', 'School - JHS 118 William W Niles', 6
+'School name', 'School - PS 72 Dr William Dorney', 11
+'School name', 'Closed School - JHS 113 Richard R Green', 24
+'School name', 'School - PS 188 Island School', 6
+'School name', 'School - PS 153 Maspeth Elem', 3
+'School name', 'School - PS 149 Sojourner Truth', 6
+'School name', 'Cunningham Park', 1
+'School name', 'School - PS 185 John M Langston', 4
+'School name', 'School - The High School for Global Citizenship', 1
+'School name', 'Jacob Joffe Fields', 1
+'School name', 'School - JHS 158 Marie Curie', 8
+'School name', 'School - PS 52 Queens', 3
+'School name', 'School - MS 35 Stephen Decatur', 3
+'School name', 'School - Abraham Lincoln High School', 9
+'School name', 'School - Celia Cruz Bronx High School of Music', 3
+'School name', 'Ferry Point Park', 1
+'School name', 'School - PS 138', 7
+'School name', 'School - PS 73 Bronx', 13
+'School name', 'School - Bronx Dance Academy School', 2
+'School name', 'School - PS 26 Jesse Owens', 7
+'School name', 'School - PS-IS 72 Annette P Goldman', 9
+'School name', 'School - PS 241 Emma L Johnston', 4
+'School name', 'School - PS 48 Mapleton', 4
+'School name', 'School - PS 90 Edna Cohen School', 1
+'School name', 'Clove Lakes Park', 1
+'School name', 'Staten Island Greenbelt Park - Willowbrook Park Natural Area', 1
+'School name', 'School - PS 155', 4
+'School name', 'School - PS 191 Amsterdam', 2
+'School name', 'Riverside Park - Skate Park', 2
+'School name', 'School - PS 4 - Queens', 5
+'School name', 'School - PS 90 George Meany', 10
+'School name', 'School - IS 96 Seth Low', 8
+'School name', 'School - PS 205 Clarion', 7
+'School name', 'School - New School 2 at PS 60', 3
+'School name', 'School - Grand Concourse Academy Charter School', 1
+'School name', 'Kissena Park', 2
+'School name', 'Kaiser Park', 1
+'School name', 'School - MS 101 Edward R Byrne', 4
+'School name', 'School - International Arts Business School', 2
+'School name', 'School - Manhattan Center for Science and Mathematics', 1
+'School name', 'School - IS 75 Frank D Paulo', 12
+'School name', 'School - PS 116 Mary Lindley Murray', 2
+'School name', 'School - PS 132 Ralph Bunche', 2
+'School name', 'School - The Seeall Academy', 30
+'School name', 'School - PS-IS 54', 10
+'School name', 'School - Jonathan Levin High School for Media and Communications', 3
+'School name', 'School - JHS 278 Marine Park', 7
+'School name', 'School - East New York Family Academy', 1
+'School name', 'School - IS 059 Springfield Gardens', 10
+'School name', 'Geo Soilan Park - Battery Park City', 1
+'School name', 'School - PS 20 P O George J Werdan III', 8
+'School name', 'School - All City Leadership Secondary School', 2
+'School name', 'School - PS 21 Crispus Attucks', 9
+'School name', 'School - Harlem Children's Zone - Promise Academy Charter School', 6
+'School name', 'School - MS 53 Brian Piccolo', 9
+'School name', 'School - PS 48 Joseph R Drake', 12
+'School name', 'School - PS 56 Norwood Heights', 1
+'School name', 'School - PS 28 The Thomas Emanuel Early Childhood Center', 1
+'School name', 'School - PS 22', 22
+'School name', 'School - PS 14 Cornelius Vanderbilt', 13
+'School name', 'School - IS 61 Leonardo Da Vinci', 4
+'School name', 'School - PS 11 Highbridge', 8
+'School name', 'School - PS 35', 5
+'School name', 'School - School for International Studies', 3
+'School name', 'School - PS 13 M L Lindemeyer', 6
+'School name', 'School - PS 204 Vince Lombardi', 2
+'School name', 'School - PS 110 The Monitor', 2
+'School name', 'Joseph C Sauer Playground', 1
+'School name', 'Owl's Head Park 1', 1
+'School name', 'School - PS 279 Herman Schreiber', 5
+'School name', 'Closed School - IS 391 Mahalia Jackson', 2
+'School name', 'School - Banana Kelly High School', 2
+'School name', 'School - PS 41 Gun Hill Road', 8
+'School name', 'Riverside Park', 11
+'School name', 'Closed School - IS 158 Theodore Gathings', 7
+'School name', 'School - JHS 185 Edward Bleeker', 7
+'School name', 'School - Art and Design High School', 3
+'School name', 'School - New Explorations Science, Technology and Math High School', 13
+'School name', 'School - PS 76 The Bennington School', 5
+'School name', 'School - PS 18 Park Terrace', 3
+'School name', 'Arthur Von Briesen Park', 1
+'School name', 'Red Hook Park', 1
+'School name', 'School - IS 303 Herbert S Eisenberg', 6
+'School name', 'School - IS 171 Abraham Lincoln', 6
+'School name', 'School - PS 15 Roberto Clemente', 5
+'School name', 'School - PS 189', 5
+'School name', 'School - PS 96 Richard Rodgers', 4
+'School name', 'School - PS 89 Cypress Hills', 2
+'School name', 'School - PS 209', 1
+'School name', 'School - Mott Hall High School', 5
+'School name', 'Jamaica Playground - PS 40', 1
+'School name', 'Closed School - South Bronx High School', 3
+'School name', 'Washington Square Park', 1
+'School name', 'School - PS 3 Raul Julia Micro Society', 4
+'School name', 'School - PS 79 Francis Lewis', 9
+'School name', 'School - PS-MS 4 Crotona Park West', 9
+'School name', 'School - PS 102 The Bayview', 7
+'School name', 'School - Hillcrest High School', 18
+'School name', 'Closed School - JHS 99', 2
+'School name', 'School - PS 129 Twin Parks Upper', 9
+'School name', 'School - Fordham High School for the Arts', 4
+'School name', 'School - PS 30 Westerleigh', 4
+'School name', 'School - Robert E Peary School', 4
+'School name', 'School - PS 228 Early Childhood Magnet School of the Arts', 1
+'School name', 'School - Cascade Center for Teaching and Learning', 9
+'School name', 'School - PS 56 Harry Eichler', 3
+'School name', 'School - PS 111 Adolph S Ochs', 4
+'School name', 'School - Frank Sinatra School of the Arts High School', 4
+'School name', 'School - Lower Manhattan Arts Academy', 1
+'School name', 'School - PS 179 Kensington', 1
+'School name', 'School - PS 106 Parkchester', 11
+'School name', 'School - Fannie Lou Hamer Middle School', 1
+'School name', 'School - PS 20 Clinton Hill', 7
+'School name', 'Closed School - PS 156 Benjamin Banneker', 12
+'School name', 'School - Far Rockaway High School', 7
+'School name', 'School - IS 349 Math, Science, and Technology', 3
+'School name', 'School - PS 212 - Queens', 1
+'School name', 'School - Magnet School of Math, Science and Design Technology', 4
+'School name', 'School - PS 198 Isador E Ida Straus', 8
+'School name', 'Closed School - Academy for Performing Art', 8
+'School name', 'School - Herbert Lehman High School', 18
+'School name', 'Henry Hudson Park', 1
+'School name', 'School - Acorn High School for Social Justice', 15
+'School name', 'School - Frederick Douglass Academy IV Secondary School', 2
+'School name', 'School - PS 163 Arthur A Schomburg', 10
+'School name', 'School - PS 154 Queens', 5
+'School name', 'School - PS 34 Franklin D Roosevelt', 3
+'School name', 'School - IS 136 Charles O Dewey', 6
+'School name', 'School - PS 62 Inocensio Casanova', 2
+'School name', 'School - Collegiate Institute for Math and Science', 1
+'School name', 'St Mary's Park', 1
+'School name', 'School - South Shore High School', 9
+'School name', 'School - PS 186 Walter J Damrosch School', 9
+'School name', 'School - PS 92 Mary McLeod Bethune', 10
+'School name', 'School - Washington Irving High School', 18
+'School name', 'School - PS 157 Benjamin Franklin', 3
+'School name', 'School - Bronx Little School', 1
+'School name', 'School - PS 63 Author's Academy', 7
+'School name', 'School - PS 152 Gwendolyn Alleyne', 2
+'School name', 'School - Satellite West Middle School', 1
+'School name', 'School - PS 67 Charles A Dorsey', 5
+'School name', 'School - JHS 54 Booker T Washington', 29
+'School name', 'School - Monroe Academy for Visual Arts and Design', 10
+'School name', 'School - PS 181 Brooklyn', 6
+'School name', 'School - PS 133 William A Butler', 3
+'School name', 'School - JHS 151 Lou Gehrig', 6
+'School name', 'School - MS K394', 6
+'School name', 'School - Crotona Academy High School', 1
+'School name', 'School - PS 254 Dag Hammarskjold', 1
+'School name', 'Closed School - Borough Academy', 2
+'School name', 'School - PS 32 Samuels Mills Sprole', 3
+'School name', 'School - IS 227 Louis Armstrong', 3
+'School name', 'School - PS 5 Huguenot', 16
+'School name', 'School - PS 6 Corporal Allan F Kivlehan School', 4
+'School name', 'School - PS 212 Lady Deborah Moody', 6
+'School name', 'School - PS 256', 6
+'School name', 'School - Business, Computer Applications, and Entrepreneurship High School', 7
+'School name', 'School - Curtis High School', 18
+'School name', 'School - PS 152 Evergreen', 7
+'School name', 'School - PS-IS 384 Frances E Carter', 2
+'School name', 'School - PS 3 The Margaret Gioiosa School', 4
+'School name', 'Closed School - Theodore Roosevelt High School', 3
+'School name', 'School - Essence School', 4
+'School name', 'Unspecified', 1781702
+'School name', 'School - IS 285 Meyer Levin', 12
+'School name', 'School - PS 92 Adrian Hegeman', 3
+'School name', 'School - PS 33 Timothy Dwight', 13
+'School name', 'School - PS 48 William Wordsworth', 7
+'School name', 'School - PS 232 Lindenwood', 5
+'School name', 'School - PS 136 Roy Wilkins', 5
+'School name', 'School - PS 120 Carlos Tapia', 4
+'School name', 'School - JHS 226 Virgil I Grissom', 8
+'School name', 'School - Medgar Evers College Preparatory School', 5
+'School name', 'School - PS 75 Emily Dickinson', 7
+'School name', 'School - Grover Cleveland High School', 8
+'School name', 'School - PS 398 Walter Weaver', 6
+'School name', 'School - PS 203 Floyd Bennett', 1
+'School name', 'School - PS 33 Chelsea School', 1
+'School name', 'School - In-Tech Academy MS-HS 368', 5
+'School name', 'School - JHS 72 Catherine and Count Basie', 20
+'School name', 'School - Hostos-Lincoln Academy of Science', 1
+'School name', 'School - Christopher Columbus High School', 11
+'School name', 'School - High School for Civil Rights', 5
+'School name', 'School - PS 182 Samantha Smith', 11
+'School name', 'School - PS 2 Morrisania', 3
+'School name', 'School - Bayside High School', 10
+'School name', 'School - PS 5 Dr Ronald Mcnair', 10
+'School name', 'School - Louis D Brandeis High School', 13
+'School name', 'School - PS 28 The Warren Prep Academy', 5
+'School name', 'School - PS 329 Surfside', 4
+'School name', 'School - PS 47 John Randolph', 5
+'School name', 'Closed School - JHS 142', 2
+'School name', 'Closed School - High School of Redirection', 4
+'School name', 'School - High School of Telecommunication Arts and Technology', 5
+'School name', 'School - Frederick Douglass Academy', 5
+'School name', 'Closed School - IS 192 Piagentini-Jones', 11
+'School name', 'School - MS 180 Dr Daniel Hale Williams', 9
+'School name', 'School - PS 105 The Blythebourne', 1
+'School name', 'School - IS 61 William A Morris', 8
+'School name', 'School - PS 42 Claremont', 4
+'School name', 'Franz Sigel Park', 2
+'School name', 'School - PS 102 Joseph O Loretan', 4
+'School name', 'School - The Marie Curie School for Medicine, Nursing, and Health Professions', 2
+'School name', 'School - PS 176', 9
+'School name', 'School - PS 139 Alexine A Fenty', 5
+'School name', 'School - PS 181 Brookfield', 7
+'School name', 'School - Harlem Middle School for Math and Science', 1
+'School name', 'School - PS 126 Dr Marjorie H Dunbar', 3
+'School name', 'School - PS 96', 2
+'School name', 'School - PS 36 Margaret Douglas', 1
+'School name', 'School - IS 72 Rocco Laurie', 9
+'School name', 'Crotona Park - Hylan Park', 1
+'School name', 'School - PS 108 Philip J Abinanti', 4
+'School name', 'School - IS 219 New Venture School', 4
+'School name', 'School - JHS 265 Susan S McKinney', 1
+'School name', 'School - IS 51 Edwin Markham', 8
+'School name', 'School - PS 14 Senator John Calandra', 5
+'School name', 'School - JHS 292 Margaret S Douglas', 12
+'School name', 'Closed School - PS 183 Daniel Chappie James', 13
+'School name', 'School - PS 89 Elmhurst', 5
+'School name', 'School - IS 141 The Steinway', 4
+'School name', 'School - PS 209 Margaret Mead', 3
+'School name', 'School - Bronx International High School', 1
+'School name', 'School - PS 811 Connie Lekas School', 2
+'School name', 'School - Dewitt Clinton High School', 19
+'School name', 'School - Franklin K Lane High School', 7
+'School name', 'School - PS 122 Mamie Fay', 4
+'School name', 'School - PS 86 Kingsbridge Heights', 8
+'School name', 'School - PS 226 - Manhattan', 4
+'School name', 'School - Williamsburg High School for Architecture and Design', 3
+'School name', 'School - PS 96 Joseph Lanzetta', 6
+'School name', 'Closed School - Bushwick High School', 3
+'School name', 'Prospect Park - Prospect Park West', 1
+'School name', 'School - PS 41 Greenwich Village', 5
+'School name', 'Closed School - JHS 168 Parsons', 11
+'School name', 'School - JHS 127 The Castle Hill', 9
+'School name', 'School - JHS 162 The Willoughby', 5
+'School name', 'School - PS 69 The New Vision School', 5
+'School name', 'Closed School - JHS 49 William J Gaynor', 10
+'School name', 'School - PS 165 Edith K Bergtraum', 1
+'School name', 'Closed School - Park West High School', 1
+'School name', 'School - PS 124 Silas B Dutcher', 1
+'School name', 'School - Mathematics, Science Research, and Technology Magnet High School', 2
+'School name', 'School - PS 46 Edward C Blum', 5
+'School name', 'School - PS 11 Purvis J Behan', 7
+'School name', 'School - 47 The American Sign Language and English Secondary School', 6
+'School name', 'School - PS 333 Manhattan School for Children', 2
+'School name', 'School - IS 223 Mott Hall', 1
+'School name', 'Closed School - Project Blend', 5
+'School name', 'School - IS 10 Horace Greeley', 6
+'School name', 'School - Port Richmond High School', 19
+'School name', 'School - PS 306 Ethan Allen', 7
+'School name', 'School - PS 68 Cambridge', 4
+'School name', 'School - JHS 44 William J O'Shea', 13
+'School name', 'School - PS 134 Henrietta Szold', 4
+'School name', 'School - PS 197 John B Russwurm', 8
+'School name', 'School - High School of World Cultures', 1
+'School name', 'School - PS 134 Hollis', 2
+'School name', 'School - PS 30 Wilton', 3
+'School name', 'School - PS 73 Thomas S Boyland', 2
+'School name', 'School - PS 150 Tribeca Learning Center', 1
+'School name', 'School - JHS 13 Jackie Robinson', 6
+'School name', 'Closed School - IS 232 The Winthrop', 8
+'School name', 'School - PS 145 Andrew Jackson', 18
+'School name', 'School - PS 95 Eastwood', 3
+'School name', 'Closed School - PS 234 Twin Parks', 8
+'School name', 'School - PS 61 Francisco Oller', 3
+'School name', 'School - PS 270 Johann Dekalb', 7
+'School name', 'School - PS 290 Juan Morel Campos', 7
+'School name', 'School - Choir Academy of Harlem', 14
+'School name', 'School - JHS 74 Nathaniel Hawthorne', 2
+'School name', 'School - PS 178 - Dr Selman Waksman', 9
+'School name', 'School - PS 42 Eltingville', 11
+'School name', 'School - PS 39 Francis J Murphy Jr', 3
+'School name', 'School - PS 150 Christopher', 5
+'School name', 'School - PS 35 Franz Siegel', 16
+'School name', 'School - Clara Barton High School', 7
+'School name', 'School - PS 236 Langston Hughes', 4
+'School name', 'School - PS 186 Dr Irving A Gladstone', 2
+'School name', 'School - PS 4 Duke Ellington', 2
+'School name', 'Closed School - Evander Childs High School', 7
+'School name', 'Beach - Midland and South Beach', 2
+'School name', 'School - PS 234', 2
+'School name', 'School - JHS 50 John D Wells', 7
+'School name', 'School - PS 26 Rufus King', 4
+'School name', 'School - PS 162 John Golden', 4
+'School name', 'School - PS 149 Christa Mcauliffe', 6
+'School name', 'School - PS 108 Captain Vincent G Fowler', 2
+'School name', 'Rainey Park - Bronx', 1
+'School name', 'School - PS 221 Toussaint L'Ouverture', 3
+'School name', 'Closed School - IS 184 Rafael C Y Molina', 7
+'School name', 'School - PS 7 Kingsbridge', 1
+'School name', 'School - High School for Teaching and the Professions', 1
+'School name', 'School - PS 134 George F Bristow', 14
+'School name', 'School - PS 50 Frank Hankinson', 6
+'School name', 'Closed School - Manhattan Academy of Technology', 1
+'School name', 'Dugan Playground', 1
+'School name', 'Augustus Saint Gaudens', 1
+'School name', 'School - Bronx Health Sciences High School', 2
+'School name', 'School - PS 214', 11
+'School name', 'School - PS 184 Newport', 12
+'School name', 'School - PS 213 The Carl Ullman School', 1
+'School name', 'School - PS 250 George H Lindsay', 3
+'School name', 'School - Foreign Language Academy of Global Studies', 1
+'School name', 'School - High School for Leadership and Public Service', 3
+'School name', 'School - El Puente Academy for Peace and Justice', 1
+'School name', 'School - PS 174 William Sidney Mount', 4
+'School name', 'School - CSI High School for International Studies', 1
+'School name', 'Closed School - Eight Plus Academy', 3
+'School name', 'School - PS 57 Hubert H Humphrey', 5
+'School name', 'School - PS 40 Augustus Saint Gaudens', 5
+'School name', 'School - PS 179', 1
+'School name', 'School - Global Enterprise High School', 3
+'School name', 'School - PS 154 Harriet Tubman', 7
+'School name', 'School - PS 65 - The Little Red School House', 1
+'School name', 'School - PS 182', 7
+'School name', 'School - PS 32 State Street', 2
+'School name', 'Closed School - PS 220 Mott Haven Village School', 6
+'School name', 'School - Manhattan Institute for Academic and Visual Arts', 2
+'School name', 'School - PS 100 The Coney Island School', 5
+'School name', 'Closed School - Bronx', 1
+'School name', 'Closed School - JHS 164 Edward W Stitt', 2
+'School name', 'School - PS 56 Lewis H Latimer', 1
+'School name', 'School - JHS 113 Ronald Edmonds Learning Center', 4
+'School name', 'School - Conselyea Preparatory School', 3
+'School name', 'School - PS 373 - Brooklyn Transition Center', 2
+'School name', 'School - J M Rapport School Career Development', 1
+'School name', 'School - Thurgood Marshall Academy for Learning and Social Change', 6
+'School name', 'School - PS 202 Ernest S Jenkyns', 23
+'School name', 'School - PS 41 Francis White', 9
+'School name', 'School - Tottenville High School', 16
+'School name', 'School - PS 77', 1
+'School name', 'School - PS 48 P O Michael J Buczek', 4
+'School name', 'School - PS 177', 1
+'School name', 'School - PS-IS 155 Nicholas Herkimer', 1
+'School name', 'Closed School - School for Law and Demo Leadership', 1
+'School name', 'Ruppert Park', 2
+'School name', 'Haffen Park', 1
+'School name', 'School - PS 89 Bronx', 17
+'School name', 'School - PS 327 Dr Rose B English,', 12
+'School name', 'School - JHS 10 Simon Baruch,', 4
+'School name', 'School - PS 112 Lefferts Park,', 5
+'School name', 'School - PS 253 - Brooklyn,', 4
+'School name', 'School - Food and Finance High School,', 6
+'School name', 'School - PS 28 Mount Hope,', 6
+'School name', 'School - PS 121 Throop,', 5
+'School name', 'School - University Neighborhood Middle School,', 4
+'School name', 'School - Wings Academy,', 7
+'School name', 'School - PS 109,', 15
+'School name', 'School - PS 25 Eubie Blake School,', 15
+'School name', 'School - PS 308 Clara Cardwell,', 17
+'School name', 'School - PS 141,', 2
+'School name', 'School - The Gordon Parks School,', 2
+'School name', 'School - Kipp Starr College Preparatory,', 1
+'School name', 'Closed School - Borough Academies,', 24
+'School name', 'Closed School - PS 162 M,', 9
+'School name', 'Tompkins Square Park,', 1
+'School name', 'School - Community High School for Social Justice,', 7
+'School name', 'School - JHS 190 Russell Sage,', 13
+'School name', 'School - PS 19 Raoul Wallenberg,', 4
+'School name', 'School - Brooklyn Academy of Science and the Environment,', 1
+'School name', 'School - PS 7 Louis F Simeone,', 6
+'School name', 'Beach - Rockaway,', 6
+'School name', 'Wards Island Park,', 1
+'School name', 'School - PS 1 The Bergen,', 3
+'School name', 'School - PS 62 Chester Park,', 5
+'School name', 'School - Brooklyn Studio Secondary School,', 11
+'School name', 'Recreation Center - Asser Levy,', 1
+'School name', 'School - Marta Valle Secondary School,', 13
+'School name', 'Closed School - PS 304 Casimir Pulaski,', 12
+'School name', 'School - PS 111 Jacob Blackwell,', 8
+'School name', 'School - PS 36 J C Drumgoole,', 9
+'School name', 'School - PS 208 Elsa Ebeling,', 3
+'School name', 'School - JHS 52 Inwood,', 10
+'School name', 'Closed School - IS 22 Arthur S Somers,', 5
+'School name', 'School - PS 152 Dyckman Valley,', 4
+'School name', 'Closed School - High School Program for Documentary and Media Studies,', 2
+'School name', 'School - PS 276 Louis Marshall,', 10
+'School name', 'School - Talent Unlimited High School,', 5
+'School name', 'School - PS 197 Brooklyn,', 2
+'School name', 'School - Paula Hedbavny School,', 7
+'School name', 'School - PS 47 Brooklyn,', 2
+'School name', 'School - Newcomers High School,', 1
+'School name', 'School - Bronx Excellence Charter School,', 1
+'School name', 'Westerleigh Park,', 1
+'School name', 'School - JHS 223 The Montauk,', 59
+'School name', 'School - JHS 216 George J Ryan,', 3
+'School name', 'School - PS 91 Bronx,', 5
+'School name', 'School - High School of Computers and Technology,', 4
+'School name', 'School - PS 230 Dr Roland N Patterson,', 1
+'School name', 'School - PS 204 Morris Heights,', 3
+'School name', 'School - PS 54 Charles W Leng,', 1
+'School name', 'Fort Tryon Park,', 1
+'School name', 'School - Brooklyn Collegiate: A College Board School,', 3
+'School name', 'School - PS 208 Alain L Locke,', 7
+'School name', 'School - PS 3 Saint Albans School,', 6
+'School name', 'School - PS 151 Mary D Carter,', 9
+'School name', 'School - Sisulu-Walker Charter School,', 1
+'School name', 'School - Bronx Center for Science and Mathematics,', 1
+'School name', 'School - PS 95 Sheila Mencher,', 12
+'School name', 'School - PS 375 Jackie-Robinson School,', 24
+'School name', 'School - IS 195 Roberto Clemente,', 14
+'School name', 'School - Gateway School for Environmental Research and Technology,', 1
+'School name', 'School - PS 12,', 11
+'School name', 'School - PS 137 John L Bernstein,', 2
+'School name', 'School - Richard R Green High School of Teaching,', 2
+'School name', 'School - PS 69 Vincent D Grippo School,', 5
+'School name', 'School - New Utrecht High School,', 9
+'School name', 'School - PS 94 The Henry Longfellow,', 3
+'School name', 'School - PS 138 Sunrise,', 9
+'School name', 'School - PS 23 - Queens,', 5
+'School name', 'Closed School - Thomas Jefferson High School,', 4
+'School name', 'School - Belmont Preparatory High School,', 1
+'School name', 'School - Health Professions and Human Services,', 1
+'School name', 'Closed School - JHS 117 Francis Scott Key,', 5
+'School name', 'School - PS 37,', 2
+'School name', 'School - Chelsea Career and Technical Education High School,', 4
+'School name', 'School - Cobble Hill School of American Studies,', 9
+'School name', 'School - Benjamin N Cardozo High School,', 16
+'School name', 'School - PS 140 Edward K Ellington,', 10
+'School name', 'School - IS 3 Dr Sun Yat Sen,', 1
+'School name', 'School - Kappa V,', 1
+'School name', 'School - Frederick Douglass Academy VII High School,', 4
+'School name', 'Closed School - Springfield Gardens High School,', 2
+'School name', 'School - PS 306,', 2
+'School name', 'Closed School - Erasmus Campus - Business and Technology,', 6
+'School name', 'School - Sheepshead Bay High School,', 14
+'School name', 'School - PS-IS 224,', 9
+'School name', 'School - Samuel Gompers Career and Technical Education High School,', 7
+'School name', 'School - PS 12 Jacob H Schiff,', 9
+'School name', 'Closed School - John Jay High School,', 6
+'School name', 'School - PS 55 Henry M Boehm,', 1
+'School name', 'Flushing Meadows and Corona Park,', 3
+'School name', 'School - PS 2 The Shirley Tanyhill,', 8
+'School name', 'School - PS 33 Edward M Funk,', 8
+'School name', 'School - PS-MS 31 The William Lloyd Garrison,', 11
+'School name', 'School - High School for Law Enforcement and Public Safety,', 6
+'School name', 'School - Health Opportunities High School,', 3
+'School name', 'School - PS 34 John Harvard,', 7
+'School name', 'School - PS 69 Nostrand,', 2
+'School name', 'School - Harlem Day Charter School,', 2
+'School name', 'School - PS 45 John Tyler,', 9
+'School name', 'School - PS 219 Paul Klapper,', 3
+'School name', 'School - PS 30 Queens,', 7
+'School name', 'School - Manhattan Theatre Lab,', 13
+'School name', 'School - PS 132 The Conselyea School,', 5
+'School name', 'School - PS 16 Laurelton,', 5
+'School name', 'School - PS 139 Rego Park,', 2
+'School name', 'School - PS 396 - Bronx,', 4
+'School name', 'School - PS 21 Margaret Emery-Elm Park,', 10
+'School name', 'School - PS 145 The Bloomingdale School,', 11
+'School name', 'School - Central Park East I,', 2
+'School name', 'School - MS 584,', 2
+'School name', 'School - City as School,', 3
+'School name', 'School - Scholars Academy,', 2
+'School name', 'School - IS 145 Joseph Pulitzer,', 3
+'School name', 'School - JHS 162 Lola Rodriguez De Tio,', 8
+'School name', 'School - John F Kennedy High School,', 24
+'School name', 'Closed School - JHS  Mark Hopkins,', 3
+'School name', 'School - PS 171 Peter G Van Alst,', 6
+'School name', 'School - Bronx High School of Science,', 3
+'School name', 'School - PS 171 Patrick Henry,', 4
+'School name', 'School - PS 192 - The Magnet School for Math and Science Inquiry,', 8
+'School name', 'School - Law, Government and Community Service High School,', 5
+'School name', 'School - Middle School for the Arts,', 4
+'School name', 'School - PS 76 William Hallet,', 5
+'School name', 'School - PS 22 - Bronx,', 6
+'School name', 'School - PS 372 -The Children's School,', 1
+'School name', 'Fulton Park,', 1
+'School name', 'School - PS 75 Mayda Cortiella,', 4
+'School name', 'School - PS 124 Osmond A Church,', 10
+'School name', 'School - PS 97 Forest Park,', 3
+'School name', 'School - PS 44 Marcus Garvey,', 3
+'School name', 'School - PS 332 Charles H Houston,', 9
+'School name', 'School - PS 31 East Flatbush Early Childhood School,', 6
+'School name', 'School - PS 360,', 7
+'School name', 'School - JHS 131 Albert Einstein,', 7
+'School name', 'School - Lower Eastside Prep,', 4
+'School name', 'School - Childrens Workshop School,', 1
+'School name', 'School - IS 30 Mary White Ovington,', 1
+'School name', 'School - Boys and Girls High School,', 58
+'School name', 'School - JHS 125 Henry Hudson,', 11
+'School name', 'School - PS 14 Caesar Rodney,', 6
+'School name', 'School - PS-IS 10 - Twenty-First Century Academy for Community Leadership,', 2
+'School name', 'School - PS 29 John M Harrigan,', 4
+'School name', 'School - PS 86,', 2
+'School name', 'Bronx River Park,', 1
+'School name', 'School - The Bronxwood Preparatory Academy,', 4
+'School name', 'School - Fort Hamilton High School,', 12
+'School name', 'School - PS 31,', 5
+'School name', 'Closed School - MS 80 Gerald R Dever Middle School,', 1
+'School name', 'School - IS 24 Myra S Barnes,', 11
+'School name', 'School - PS 196,', 3
+'School name', 'School - PS 371 - Lillian L Rashkis,', 2
+'School name', 'School - PS 230 Doris L Cohen,', 1
+'School name', 'School - PS 18 John Peter Zenger,', 3
+'School name', 'School - PS 9 Dyker,', 2
+'School name', 'School - Andries Hudde,', 16
+'School name', 'School - IS 206 Ann Mersereau,', 1
+'School name', 'School - PS 56 The Louis Desario School,', 8
+'School name', 'School - PS 29 Bardwell,', 5
+'School name', 'School - Secondary School for Research,', 2
+'School name', 'School - PS 242 Leonard P Stavisky Early Childhood School,', 1
+'School name', 'School - Concord High School,', 1
+'School name', 'School - Bronx Engineering and Technology Academy,', 1
+'School name', 'School - Bayard Rustin Educational Complex,', 1
+'School name', 'Highbridge Park - Sunken Playground,', 1
+'School name', 'School - PS 11 William T Harris,', 5
+'School name', 'School - Norman Thomas High School,', 5
+'School name', 'School - PS 56 Benjamin Banneker,', 2
+'School name', 'School - PS-IS 137 Rachel Jean Mitchell,', 8
+'School name', 'School - MS 203,', 9
+'School name', 'School - PS 140 Nathan Straus,', 2
+'School name', 'School - MS 399,', 5
+'School name', 'Central Park - East 96th Street Playground,', 1
+'School name', 'School - JHS 15 Arturo Toscaninni,', 4
+'School name', 'School - IS 204 Oliver W Holmes,', 3
+'School name', 'School - PS 64 Joseph P Addabbo,', 2
+'School name', 'School - Bronx Coalition Community High School,', 5
+'School name', 'School - Juan Morel Campos Secondary School,', 5
+'School name', 'School - PS 257 John F Hylan,', 6
+'School name', 'School - Edward R Murrow High School,', 15
+'School name', 'School - MS 126 John Ericsson,', 7
+'School name', 'School - Edward A Reynolds West Side High School,', 1
+'School name', 'School - PS 177 The Marlboro,', 8
+'School name', 'School - PS 206 Joseph F Lamb,', 3
+'School name', 'School - Monroe Academy for Business-Law,', 3
+'School name', 'School - Legacy School,', 6
+'School name', 'School - PS 2 Alfred Zimberg,', 3
+'School name', 'School - JHS 0 John J Pershing,', 2
+'School name', 'Murray Hill Playground - PS 22,', 1
+'School name', 'Closed School - PS 314 Luis Munoz Marin,', 6
+'School name', 'School - PS 77,', 2
+'School name', 'School - Leon Goldstein High School Sciences,', 5
+'School name', 'William H Seward Park,', 1
+'School name', 'School - PS 14 Dumont,', 7
+'School name', 'School - The Angelo Patri Middle School,', 5
+'School name', 'School - PS 241 Family Academy,', 3
+'School name', 'School - MS 260 Clinton School Writers and Artists,', 1
+'School name', 'School - PS 135 Sheldon A Brookner,', 2
+'School name', 'School - Pablo Neruda Academy for Architecture and World Studies,', 2
+'School name', 'School - PS 212 - Bronx,', 8
+'School name', 'School - IS 181 Pablo Casals,', 6
+'School name', 'School - PS 133,', 5
+'School name', 'School - Brooklyn Preparatory High School,', 1
+'School name', 'Morris Garden,', 1
+'School name', 'School - PS 110 Florence Nightingale,', 3
+'School name', 'Sheltering Arms Park,', 1
+'School name', 'School - PS 1 North Hills,', 2
+'School name', 'School - Susan E Wagner High School,', 17
+'School name', 'School - PS 97 Bronx,', 8
+'School name', 'Closed School - McKinney High School,', 1
+'School name', 'School - School for the Physical City High School,', 5
+'School name', 'School - The Bronx Lighthouse Charter School,', 1
+'School name', 'School - PS 105 The Bay School,', 7
+'School name', 'School - JHS 217 Robert A Van Wyck,', 8
+'School name', 'School - PS 163 Alfred E Smith,', 12
+'School name', 'School - PS 22 Midtown West,', 1
+'School name', 'School - Fanny High School for Fire and Life Safety,', 1
+'School name', 'School - MS 256 Academic and Athletic Excellence,', 12
+'School name', 'School - PS 93 Albert G Oliver,', 7
+'School name', 'School - IS 2 John Wilson,', 11
+'School name', 'School - PS 58 School of Heroes,', 2
+'School name', 'School - Manhattan School for Career Development,', 2
+'School name', 'School - PS 8 Great Expectations,', 5
+'School name', 'School - PS 8 The Carroll,', 5
+'School name', 'Inwood Hill Park - Indian Road Playground,', 1
+'School name', 'School - JHS 4 John S Roberts,', 5
+'School name', 'School - PS 90 Horace Mann,', 4
+'School name', 'School - Jean Nuzzi Intermediate School,', 14
+'School name', 'School - Paul Robeson High School,', 5
+'School name', 'School - PS 199 The Shakespeare School,', 13
+'School name', 'School - PS 58,', 2
+'School name', 'School - PS 234 Independence School,', 1
+'School name', 'Maurice Park,', 1
+'School name', 'Spuyten Duyvil Shorefront Park and Half Moon Overlook,', 1
+'School name', 'School - PS 157 Grove Hill,', 2
+'School name', 'School - JHS 194 William Carr,', 3
+'School name', 'School - PS 21 New Lots,', 3
+'School name', 'School - JHS 227 Edward B Shallow,', 5
+'School name', 'School - PS 335 Granville T Woods,', 9
+'School name', 'School - Brooklyn High School of the Arts,', 6
+'School name', 'School - PS 158 Warwick,', 9
+'School name', 'School - PS 89 Manhattan,', 3
+'School name', 'School - JHS 202 Robert H Goddard,', 3
+'School name', 'School - IS 09 Ridgewood,', 3
+'School name', 'School - PS 220 Edward Mandel,', 1
+'School name', 'School - PS 46 Albert V Maniscalco,', 2
+'School name', 'School - High School for Service and Learning at Erasmus,', 1
+'School name', 'School - IS 192 The Linden,', 8
+'School name', 'School - Frederick Douglass Academy VI High School,', 1
+'School name', 'School - PS 7 Crescent,', 5
+'School name', 'School - IS 232,', 9
+'School name', 'School - PS 121 Nelson A Rockefeller,', 3
+'School name', 'School - PS 97 The Highlawn,', 6
+'School name', 'School - Queens High School of Teaching, Liberal Arts, and the Sciences,', 1
+'School name', 'School - PS 29 Queens,', 7
+'School name', 'School - Agnes Y Humphrey School for Leadership,', 3
+'School name', 'School - Midwood High School,', 6
+'School name', 'School - PS 13 Brooklyn,', 8
+'School name', 'School - IS 27,', 3
+'School name', 'School - PS  Maurice Wollin,', 4
+'School name', 'School - Mott Hall IV,', 2
+'School name', 'Recreation Center - Jackie Robinson,', 1
+'School name', 'Central Park,', 9
+'School name', 'School - Muscota,', 7
+'School name', 'Closed School - Bronx Literacy Center,', 2
+'School name', 'School - PS-MS 194,', 17
+'School name', 'School - PS 53 Basheer Quisim,', 19
+'School name', 'School - PS 16 Leonard Dunkly,', 7
+'School name', 'School - PS 129 John H Finley,', 8
+'School name', 'School - PS 771,', 4
+'School name', 'School - Humanities Preparatory Academy,', 1
+'School name', 'School - Community Action School - MS 58,', 2
+'School name', 'Morningside Park,', 2
+'School name', 'School - Comprehensive Model School Project MS 327,', 1
+'School name', 'School - PS 125 Ralph Bunche,', 9
+'School name', 'School - Adlai E Stevenson High School GED,', 2
+'School name', 'School - Richmond Hill High School,', 10
+'School name', 'Recreation Center - Roy Wilkins,', 1
+'School name', 'School - PS 14 Isaac Remsen,', 7
+'School name', 'School - PS 92 Bronx,', 6
+'School name', 'Closed School - Erasmus Campus - Humanities,', 3
+'School name', 'School - PS 84 Lillian Weber,', 7
+'School name', 'School - Forest Hills High School,', 28
+'School name', 'School - Riverdale Kingsbridge Academy,', 3
+'School name', 'School - PS 63 Old South,', 8
+'School name', 'School - PS 38 The Pacific,', 11
+'School name', 'School - PS 163 Bath Beach,', 4
+'School name', 'School - The Richard H Hungerford School,', 6
+'School name', 'School - Millennium Art Academy,', 2
+'School name', 'School - Business School for Entrepreneurial Studies,', 3
+'School name', 'School - PS 3 Bayside,', 1
+'School name', 'School - Accion Academy,', 12
+'School name', 'Bailey Playground,', 1
+'School name', 'School - High School for Law, Advocacy and Community Justice,', 2
+'School name', 'School - Bronx Latin,', 2
+'School name', 'School - Brooklyn Excelsior Charter,', 2
+'School name', 'School - MS 223 The Laboratory School of Finance and Technology,', 8
+'School name', 'School - Canarsie High School,', 13
+'School name', 'School - PS 103 Hector Fontanez,', 14
+'School name', 'School - PS 165 Ida Posner,', 3
+'School name', 'School - MS 17 America's School of Heroes,', 3
+'School name', 'School - PS-IS 104 The Fort Hamilton School,', 7
+'School name', 'School - JHS 89 Daniel Carter Beard,', 1
+'School name', 'School - PS 86 Castlewood,', 1
+'School name', 'School - PS 5 Institute for Environmental Learning,', 1
+'School name', 'School - The Bronx High School of Performance and Stagecraft,', 8
+'School name', 'School - Brooklyn Secondary School for Collaborative Studies,', 3
+'School name', 'School - Space Shuttle Columbia School,', 4
+'School name', 'School - New Design High School,', 3
+'School name', 'Riverside Park - Claremont Playground,', 1
+'School name', 'Cloves Lake Park - War Memorial Ice Skating Rink,', 1
+'School name', 'Sarsfield Playground,', 1
+'School name', 'School - Jamaica High School,', 19
+'School name', 'School - PS 321 William Penn,', 4
+'School name', 'School - New Dorp High School,', 7
+'School name', 'School - PS 146 Howard Beach,', 2
+'School name', 'School - High School for Math Science and Engineering at CCNY,', 1
+'School name', 'School - High School for Media and Communications,', 1
+'School name', 'School - Martin Van Buren High School,', 24
+'School name', 'School - PS 224 Hale A Woodruff,', 13
+'School name', 'School - Harry S Truman High School,', 16
+'School name', 'School - PS 67 Mohegan School,', 13
+'School name', 'School - PS 199 Maurice A Fitzgerald,', 4
+'School name', 'School - Thomas A Edison Career and Technical Education High School,', 10
+'School name', 'School - William E Grady Career and Technical Education High School,', 5
+'School name', 'School - Secondary School Law Journalism and Research,', 8
+'School name', 'School - PS 80 Thurgood Marshall Magnet,', 7
+'School name', 'School - PS 22 Alfred De B Mason,', 6
+'School name', 'School - Merrick Academy Charter School,', 3
+'School name', 'Recreation Center - Hansborough,', 1
+'School name', 'School - Harriet Tubman Charter School,', 4
+'School name', 'Closed School - George W Wingate High School,', 6
+'School name', 'School - Central Park East High School,', 6
+'School name', 'School - ESMT - IS 90,', 1
+'School name', 'Closed School - IS 14 Eugene T Maleska,', 7
+'School name', 'School - PS 120 Queens,', 4
+'School name', 'School - Enterprise, Business, and Technology High School,', 4
+'School name', 'School - Young Women's Leadership School - Queens,', 1
+'School name', 'Lt Joseph Petrosino Park,', 1
+'School name', 'School - PS 43 Jonas Bronck,', 11
+'School name', 'School - PS 2 Richmondtown,', 3
+'School name', 'School - IS 254,', 10
+'School name', 'School - PS 3 Belmont,', 2
+'School name', 'School - East Bronx Academy for the Future,', 1
+'School name', 'Frederick Douglass Playground,', 1
+'School name', 'School - MS 321 - Minerva,', 4
+'School name', 'Recreation Center - Fifty-Nine West,', 1
+'School name', 'School - MS 267 Math, Science and Technology,', 8
+'School name', 'School - PS 164 Queens Valley,', 2
+'School name', 'School - Teachers Preparatory School,', 4
+'School name', 'Harold Schneiderman Playground - PS 232,', 1
+'School name', 'School - IS 2 George L Egbert,', 12
+'School name', 'School - PS 44 David C Farragut,', 3
+'School name', 'School - PS 216 Arturo Toscanini,', 5
+'School name', 'School - School of Business, Finance, and Entrepreneurship,', 5
+'School name', 'School - The Metropolitan High School,', 1
+'School name', 'Marine Park,', 2
+'School name', 'School - PS 25 Bilingual School,', 11
+'School name', 'School - PS 272 Curtis Estabrook,', 17
+'School name', 'School - Women's Academy of Excellence,', 1
+'School name', 'School - Grace Dodge Career and Technical Education High School,', 8
+'School name', 'School - PS 5 Nathaniel Woodhull,', 3
+'School name', 'School - JHS 291 Roland Hayes,', 4
+'School name', 'School - School for Community Research and Learning,', 1
+'School name', 'School - JHS 14 Shell Bank,', 5
+'School name', 'School - PS 22 Graniteville,', 6
+'School name', 'School - PS 64 Pura Belpre,', 8
+'School name', 'School - PS 146 Edward Collins,', 7
+'School name', 'School - PS 231,', 11
+'School name', 'School - Bronx Leadership Academy High School,', 1
+'School name', 'School - Bronx High School for the Visual Arts,', 2
+'School name', 'School - PS 233 Langston Hughes,', 4
+'School name', 'School - PS 38 George Cromwell,', 1
+'School name', 'School - PS 144 Col Jeromus Remsen,', 7
+'School name', 'School - PS 377 Alejandrina B De Gautier,', 13
+'School name', 'School - Young Women's Leadership School,', 1
+'School name', 'School - Bronx Lab School,', 2
+'School name', 'Closed School - IS 25 Thelma J Hamilton,', 7
+'School name', 'School - JHS 318 Eugenio Maria De Hostos,', 9
+'School name', 'School - PS 165 Robert E Simon,', 9
+'School name', 'School - PS 196 Grand Central Parkway,', 8
+'School name', 'School - PS 233,', 1
+'School name', 'School - Brooklyn School for Music and Theatre,', 6
+'School name', 'School - Science Skills Center High School for Science, Technology, and the Creative Arts,', 9
+'School name', 'Macneil Park,', 1
+'School name', 'School - PS 993,', 4
+'School name', 'School - MS 246 Walt Whitman,', 25
+'School name', 'School - PS 166 Henry Gradstein,', 4
+'School name', 'School - PS 46 Edgar Allan Poe,', 9
+'School name', 'School - PS-MS 29 Melrose School,', 10
+'School name', 'Closed School - JHS 88 Wadleigh,', 4
+'School name', 'School - PS-IS 208,', 6
+'School name', 'School - W H Maxwell Career and Technical Education High School,', 5
+'School name', 'School - PS 811 - Mickey Mantle School,', 3
+'School name', 'School - IS 77,', 5
+'School name', 'School - NYC Laboratory School,', 4
+'School name', 'School - PS 70 Max Schoenfeld,', 17
+'School name', 'School - JHS 45 Thomas C Giordano,', 11
+'School name', 'School - PS 17 McKinley Park,', 2
+'School name', 'School - MS 302 Luisa Dessus Cruz,', 6
+'School name', 'School - PS 170,', 3
+'School name', 'School - PS 99 Kew Gardens,', 4
+'School name', 'School - PS 255 Barbara Reing School,', 4
+'School name', 'School - Manhattan - Hunter Science High School,', 6
+'School name', 'School - PS 11 Ryder Elementary,', 4
+'School name', 'School - PS 91 The Albany Avenue School,', 5
+'School name', 'School - PS 236 Mill Basin,', 5
+'School name', 'School - MS 301 Paul L Dunbar,', 2
+'School name', 'School - Adlai E Stevenson High School,', 17
+'School name', 'Closed School - MS 244 Columbus Middle School,', 1
+'School name', 'School - PS 50 Clara Barton,', 13
+'School name', 'School - JHS 143 Eleanor Roosevelt,', 5
+'School name', 'School - PS 10 Walter Francis Bishop,', 6
+'School name', 'School - Fiorello H Laguardia High School of Music and Art and Performing Arts,', 10
+'School name', 'School - PS 05 Fiorello Laguardia,', 2
+'School name', 'School - PS 32 Bergen Beach,', 1
+'School name', 'Golf Course - Dyker Beach,', 2
+'School name', 'School - PS 111 Seton Falls,', 9
+'School name', 'School - PS 9 Ryer Avenue Elementary School,', 4
+'School name', 'School - Benjamin Banneker Academy,', 1
+'School name', 'School - Tompkins Square Middle School,', 1
+'School name', 'School - East Side Middle School,', 4
+'School name', 'School - MS 36 - Writers Today and Leaders Tomorrow,', 2
+'School name', 'School - PS 198 Brooklyn,', 3
+'School name', 'Closed School - Morris High School,', 4
+'School name', 'School - IS 73 - The Frank Sansivieri Intermediate School,', 8
+'School name', 'School - JHS 144 Michelangelo,', 12
+'School name', 'School - PS 199 Frederick Wachtel,', 2
+'School name', 'School - PS 07 John W Kimball,', 1
+'School name', 'School - PS 5 Lyndon B Johnson,', 1
+'School name', 'Dr Charles R Drew Memorial Park,', 1
+'School name', 'Riverside Park - Baseball Fields,', 1
+'School name', 'Closed School - PS 39,', 2
+'School name', 'School - MS 243 Center School,', 1
+'School name', 'School - PS 123,', 16
+'School name', 'School - PS 246 Poe Center,', 11
+'School name', 'School - Essex Street Academy,', 3
+'School name', 'School - Bushwick School for Social Justice,', 3
+'School name', 'Ewen Park,', 2
+'School name', 'School - PS 185 Walter Kassenbrock,', 4
+'School name', 'School - PS 94 Kings College School,', 2
+'School name', 'School - IS 364 Gateway,', 5
+'School name', 'School - Urban Academy Laboratory High School,', 3
+'School name', 'Battery Park,', 1
+'School name', 'Closed School - JHS 7 La Salle,', 1
+'School name', 'White Playground A,', 1
+'School name', 'School - PS 2 The Gifford School,', 3
+'School name', 'School - PS 197,', 4
+'School name', 'School - PS 7,', 2
+'School name', 'School - PS 18,', 6
+'School name', 'School - PS 373,', 6
+'School name', 'School - PS 0 Alice Austen,', 6
+'School name', 'School - PS  Thomas Dongan School,', 1
+'School name', 'School - PS 66 Jacqueline Kennedy Onassis,', 2
+'School name', 'School - PS-IS 78 Holliswood,', 1
+'School name', 'School - PS 376,', 5
+'School name', 'Closed School - William Howard Taft High School,', 5
+'School name', 'School - PS 19 Roberto Clemente,', 4
+'School name', 'School - PS 71 Rose E Scala,', 14
+'School name', 'School - The Urban Assembly School for Law and Justice,', 1
+'School name', 'School - PS 51,', 2
+'School name', 'School - JHS 17 Stephen A Halsey,', 5
+'School name', 'School - PS 143 Louis Armstrong,', 5
+'School name', 'Marine Park - Salt Marsh Nature Center,', 1
+'School name', 'Closed School - Powell Middle School for Law and Social Justice,', 31
+'School name', 'School - JHS 210 Elizabeth Blackwell,', 12
+'School name', 'School - PS 184 Flushing Manor,', 3
+'School name', 'School - PS 28 Emma Lazarus,', 6
+'School name', 'School - PS-MS 20 Mosholu Parkway,', 8
+'School name', 'School - PS 06 Edward Everett Hale,', 1
+'School name', 'School - PS-IS 17 Roosevelt Island School,', 2
+'School name', 'School - MS 247 Dual Language Middle School,', 3
+'School name', 'School - PS 156 Waverly,', 7
+'School name', 'School - PS 10 Marble Hill,', 3
+'School name', 'School - PS 16 Jacob Riis Community School,', 2
+'School name', 'School - PS 38 Rosedale,', 2
+'School name', 'School - Information Technology High School,', 8
+'School name', 'School - PS 178 Saint Clair McKelway,', 21
+'School name', 'School - PS 76 A Philip Randolph,', 8
+'School name', 'School - PS 11 Daniel Mucatel School,', 5
+'School name', 'School - PS  Benjamin Franklin,', 5
+'School name', 'School - High School for Law and Public Service,', 1
+'School name', 'School - PS 146,', 3
+'School name', 'School - Life Sciences Secondary School,', 9
+'School name', 'School - PS 243 The Weeksville School,', 7
+'School name', 'School - PS 44 Thomas C Brown,', 12
+'School name', 'Closed School - MS 143 Performing and Fine Arts,', 5
+'School name', 'School - Brandeis YABC,', 1
+'School name', 'School - East Side Community High School,', 1
+'School name', 'School - PS 22 Thomas Jefferson,', 7
+'School name', 'School - PS 0 The Verrazano,', 1
+'School name', 'School - Explore Charter School,', 1
+'School name', 'School - PS 155 William Paca,', 2
+'School name', 'School - Bronx High School for Law and Community Service,', 1
+'School name', 'School - Ella Baker School,', 1
+'School name', 'School - PS 28 Juniper Valley,', 1
+'School name', 'Closed School - MS 823 MDE Dios Unanae Journal,', 1
+'School name', 'School - PS 1 Tottenville,', 5
+'School name', 'School - PS 106,', 13
+'School name', 'School - JHS 8 Philippa Schuyler,', 3
+'School name', 'School - PS 52 John C Thompson,', 11
+'School name', 'School - Newtown High School,', 7
+'School name', 'School - PS 40,', 3
+'School name', 'School - Bronx Theatre High School,', 1
+'School name', 'School - JHS 57 Whitelaw Reid,', 6
+'School name', 'School - IS 230,', 5
+'School name', 'School - Amistad Dual Language School,', 1
+'School name', 'School - Renaissance High School of Musical Theater and Technology,', 1
+'School name', 'School - PS 82 Hammond,', 3
+'School name', 'School - Bronx High School for Writing and Communication Arts,', 1
+'School name', 'Inwood Hill Park,', 2
+'School name', 'School - PS 83 Donald Hertz,', 20
+'School name', 'School - PS 7 Abraham Lincoln,', 9
+'School name', 'School - PS 53,', 2
+'School name', 'School - PS 101 Andrew Draper,', 16
+'School name', 'School - PS 8 Edward Bush,', 1
+'School name', 'School - PS 161 Ponce De Leon,', 7
+'School name', 'School - PS-IS 116 William C Hughley,', 9
+'School name', 'School - MS 2,', 6
+'School name', 'School - PS 206 The Horace Harding School,', 7
+'School name', 'School - JHS 80 The Mosholu Parkway,', 4
+'School name', 'School - PS 238 Anne Sullivan,', 4
+'School name', 'School - PS 811 - Queens,', 2
+'School name', 'School - IS 218 Salome Urena,', 10
+'School name', 'School - PS 229 Emanuel Kaplan,', 10
+'School name', 'School - PS 15,', 9
+'School name', 'School - PS 60 Woodhaven,', 10
+'School name', 'School - Marble Hill High School for International Studies,', 1
+'School name', 'Riverdale Park,', 1
+'School name', 'Closed School - Harbor School International Studies Middle School,', 1
+'School name', 'School - PS 289 George V Brower,', 7
+'School name', 'School - IS 340,', 5
+'School name', 'School - PS 140 Eagle,', 2
+'School name', 'Greene Playground,', 1
+'School name', 'Sara D Roosevelt Park,', 4
+'School name', 'School - IS 39,', 2
+'School name', 'Closed School - JHS 56 Corlears,', 3
+'School name', 'School - IS 286 Renaissance Military Leadership Academy,', 4
+'School name', 'School - PS 211,', 6
+'School name', 'School - IS 27 Anning S Prall,', 5
+'School name', 'School - Wadleigh Secondary School for the Performing and Visual Arts,', 10
+'School name', 'School - PS 112 Dutch Kills,', 9
+'School name', 'School - PS - MS 114 Belle Harbor,', 13
+'School name', 'School - PS 2 Richard R Green,', 4
+'School name', 'School - Institute for Collaborative Education,', 5
+'School name', 'School - PS 104 The Bays Water,', 5
+'School name', 'School - PS 284 Lew Wallace,', 6
+'School name', 'School - PS 9 Teunis G Bergen,', 3
+'School name', 'School - IS 6 Isaac Bildersee,', 8
+'School name', 'School - PS 173,', 9
+'School name', 'School - Queens School for Career Development,', 5
+'School name', 'School - University Neighborhood High School,', 2
+'School name', 'School - PS 23 Carter G Woodson,', 6
+'School name', 'School - Millennium High School,', 2
+'School name', 'School - PS 154 Jonathan D Hyatt,', 2
+'School name', 'School - PS 54 Samuel C Barnes,', 14
+'School name', 'School - PS 81 Jean Paul Richter,', 5
+'School name', 'School - PS 207 Elizabeth G Leary,', 16
+'School name', 'School - Academy for Public Relations,', 2
+'School name', 'School - Academy for New Americans,', 2
+'School name', 'School - PS 176 Ovington,', 4
+'School name', 'School - PS 38 Roberto Clemente,', 6
+'School name', 'School - PS 115 Glen Oaks,', 4
+'School name', 'Prospect Park - Litchfield Villa,', 1
+'School name', 'School - School of the Future,', 1
+'School name', 'School - JHS 167 Robert F Wagner,', 4
+'School name', 'School - Morris Collaborative High School for Technology and Humanities,', 2
+'School name', 'School - The Urban Assembly Academy for History and Citizenship for Young Men,', 1
+'School name', 'School - PS 73 School for Career Development,', 5
+'School name', 'School - School for Legal Studies,', 4
+'School name', 'School - PS 193 Alfred J Kennedy,', 2
+'School name', 'School - PS 309 George E Wibecan,', 5
+'School name', 'School - The Bellaire School,', 7
+'School name', 'School - PS 1 Forest,', 7
+'School name', 'School - John Adams High School,', 14
+'School name', 'School - Jane Addams High School for Academic Careers,', 6
+'School name', 'School - Academy of Business and Community Development,', 1
+'School name', 'Inwood Hill Park - Dyckman Fields,', 1
+'School name', 'School - 1 Avenue Academy - The Path To Academic Excellence,', 5
+'School name', 'School - Ralph R McKee Career and Technical Education High School,', 2
+'School name', 'School - Humanities and Arts Magnet High School,', 5
+'School name', 'School - MS 255 Salk School of Science,', 6
+'School name', 'School - JHS 234 Arthur W Cunningham,', 10
+'School name', 'School - MS 61 Dr Gladstone H Atwell,', 4
+'School name', 'School - PS 69 Jackson Heights,', 1
+'School name', 'School - MS 58,', 2
+'School name', 'School - PS 77 Lower Lab School,', 1
+'School name', 'School - PS - IS 66,', 2
+'School name', 'School - PS 7,', 1
+'School name', 'School - Albert Shanker School for Visual and Performing Arts,', 8
+'School name', 'School - PS 180 Hugo Newman,', 3
+'School name', 'School - JHS 302 Rafael Cordero,', 6
+'School name', 'Closed School - IS 183 Paul Robeson,', 2
+'School name', 'School - Baruch College Campus High School,', 2
+'School name', 'Highbridge Park,', 2
+'School name', 'School - Unity Center for Urban Technologies,', 2
+'School name', 'School - The School for Human Rights,', 1
+'School name', 'School - High School for Environmental Studies,', 4
+'School name', 'School - MS 390,', 6
+'School name', 'School - Freedom Academy High School,', 6
+'School name', 'School - PS 39 Coy L Cox School,', 6
+'School name', 'School - PS 223 Lyndon B Johnson,', 9
+'School name', 'Closed School - IS 90 Mirabel Sisters,', 5
+'School name', 'School - Jacqueline Kennedy Onassis High School,', 5
+'School name', 'School - Urban Peace Academy,', 3
+'School name', 'School - PS 6,', 1
+'School name', 'School - PS 95 William Haberle,', 1
+'School name', 'Murray Playground,', 2
+'School name', 'School - PS 5 Patrick F Daly,', 1
+'School name', 'School - PS 52 Sheepshead Bay,', 7
+'School name', 'School - PS 119,', 5
+'School name', 'School - PS 4,', 9
+'School name', 'School - Mott Hall III,', 1
+'School name', 'Beach - Brighton and Coney Island,', 1
+'School name', 'School - PS 811 - Bronx,', 4
+'School name', 'School - JHS 201 The Dyker Heights,', 10
+'School name', 'School - EBC-ENY High School for Public Safety and Law,', 5
+'School name', 'School - PS 68 Bronx,', 10
+'School name', 'School - PS 175 Henry H Garnet,', 8
+'School name', 'School - Long Island City High School,', 4
+'School name', 'School - PS 14 Cadwallader Colden,', 2
+'School name', 'School - PS 9 Judith K Weiss,', 1
+'School name', 'School - PS 60 William T Sampson,', 1
+'School name', 'School - Brooklyn Charter School,', 1
+'School name', 'School - PS 129 Patricia Larkin,', 5
+'School name', 'School - PS 1 Courtlandt School,', 8
+'School name', 'Closed School - IS 27,', 5
+'School name', 'School - JHS 66 Roberto Clemente,', 1
+'School name', 'Closed School - JHS 198 Benjamin N Cardozo,', 5
+'School name', 'School - Bread and Roses Integrated Arts High School,', 2
+'School name', 'School - Franklin Delano Roosevelt High School,', 16
+'School name', 'School - PS 20 Anna Silver,', 7
+'School name', 'School - PS 115 Alexander Humboldt,', 2
+'School name', 'School - South Bronx Preparatory: A College Board School,', 4
+'School name', 'School - PS 380 John Wayne Elementary,', 4
+'School name', 'School - New School  at PS 60,', 1
+'School name', 'School - JHS 259 William Mckinley,', 18
+'School name', 'School - JHS 166 George Gershwin,', 3
+'School name', 'School - PS 191 Paul Robeson,', 7
+'School name', 'School - John Bowne High School,', 12
+'School name', 'School - PS 282 Park Slope,', 6
+'School name', 'School - Bronx Expeditionary Learning High School,', 1
+'School name', 'School - PS 59 Beekman Hill International,', 2
+'School name', 'School - Harbor Sciences and Arts Charter School,', 2
+'School name', 'School - PS 102 Jacques Cartier,', 3
+'School name', 'School - MS 24 - Patria Mirabal,', 3
+'School name', 'School - PS 8 Luis Belliard,', 1
+'School name', 'School - Peace and Diversity Academy,', 8
+'School name', 'School - PS 123 Suydam,', 5
+'School name', 'School - PS 225 Seaside,', 7
+'School name', 'School - IS 11 The Glendale,', 9
+'School name', 'School - PS 24 Spuyten Duyvil,', 6
+'School name', 'School - PS 7 Henry David Thoreau,', 1
+'School name', 'School - PS  Charrette School,', 3
+'School name', 'School - Fannie Lou Hamer Freedom High School,', 2
+'School name', 'School - Family Life Academy Charter School,', 1
+'School name', 'Pelham Bay Park,', 1
+'School name', 'School - PS 176 Cambria Heights,', 4
+'School name', 'School - Peninsula Preparatory Academy Charter School,', 7
+'School name', 'School - PS 190 Sheffield,', 3
+'School name', 'School - High School of Economics and Finance,', 1
+'School name', 'School - PS 132 Garret A Morgan,', 10
+'School name', 'School - Flushing High School,', 7
+'School name', 'School - Staten Island Technical High School,', 7
+'School name', 'School - Eagle Academy for Young Men,', 2
+'School name', 'School - PS 721 Brooklyn Occupational Training Center,', 9
+'School name', 'School - PS 59 William Floyd,', 4
+'School name', 'School - Satellite East Middle School,', 5
+'School name', 'School - PS 114 - Luis Llorens Torres Schools,', 10
+'School name', 'School - PS 149 Danny Kaye,', 11
+'School name', 'School - The Facing History School,', 6
+'School name', 'School - PS 8 Robert J Christen,', 1
+'School name', 'School - PS 80 Michael J Petrides,', 11
+'School name', 'School - Samuel J Tilden High School,', 9
+'School name', 'School - PS 142 Amalia Castro,', 10
+'School name', 'School - PS 47 Chris Galas,', 9
+'School name', 'School - Future Leaders Institute,', 3
+'School name', 'School - PS 262 El Hajj Malik El Shabazz Elementary School,', 9
+'School name', 'School - PS 222 - Fire Fighter Christopher A Santora School,', 4
+'School name', 'School - PS 146 Ann M Short,', 3
+'School name', 'School - PS 87 William Sherman,', 2
+'School name', 'School - PS 153 Homecrest,', 4
+'School name', 'School - High School of Hospitality Management,', 1
+'School name', 'School - PS 128 Bensonhurst,', 3
+'School name', 'School - PS 1 James B Colgate,', 2
+'School name', 'School - Metropolitan Corporate Academy High School,', 7
+'School name', 'School - PS 99 Isaac Asimov,', 17
+'School name', 'School - John Dewey High School,', 19
+'School name', 'School - PS 45 Clarence Witherspoon,', 3
+'School name', 'Luna Park Playground,', 1
+'School name', 'School - PS 21 Edward Hart,', 6
+'School name', 'School - PS 98 The Douglaston School,', 4
+'School name', 'School - PS 20 John Bowne,', 4
+'School name', 'School - PS 70 Queens,', 9
+'School name', 'Closed School - George Washington High School,', 4
+'School name', 'School - Childrens Workshop at PS 36,', 1
+'School name', 'School - PS 200- The James McCune Smith School,', 29
+'School name', 'School - PS 132 Juan Pablo Duarte,', 5
+'School name', 'School - PS 194 Countee Cullen,', 31
+'School name', 'School - The Renaissance Charter School,', 2
+'School name', 'School - PS 28 Wright Brothers,', 6
+'School name', 'School - PS 36 Unionport,', 2
+'School name', 'Van Cortlandt Park,', 3
+'School name', 'School - IS 98 Bay Academy,', 6
+'School name', 'School - PS 78 Anne Hutchinson,', 13
+'School name', 'School - PS 5 Ellen Lurie,', 7
+'School name', 'School - Brooklyn International High School,', 1
+'School name', 'School - PS 21 Paerdegat,', 5

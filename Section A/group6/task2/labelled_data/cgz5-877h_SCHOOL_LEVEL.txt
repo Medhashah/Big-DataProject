@@ -1,0 +1,6 @@
+'School Levels', 'High School', 396
+'School Levels', 'None', 0
+'School Levels', 'Middle,', 364
+'School Levels', 'Transfer School,', 40
+'School Levels', 'Elementary,', 602
+'School Levels', 'K-8,', 141

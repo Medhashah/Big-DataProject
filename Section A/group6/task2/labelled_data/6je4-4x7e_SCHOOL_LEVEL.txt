@@ -1,0 +1,10 @@
+'School Levels', 'High School', 465
+'School Levels', 'Middle', 408
+'School Levels', 'High School Transfer', 56
+'School Levels', 'D75', 1
+'School Levels', 'YABC,', 23
+'School Levels', '20-2 PROGRESS REPORT GRADE,', 1
+'School Levels', 'K-2,', 10
+'School Levels', 'Elementary,', 639
+'School Levels', 'K-3,', 36
+'School Levels', 'K-8,', 179

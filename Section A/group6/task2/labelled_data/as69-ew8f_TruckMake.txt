@@ -1,0 +1,436 @@
+'Car make', 'KENTORTH', 5
+'Car make', 'Freightliner MT-55', 4
+'Car make', 'PETER', 9
+'Car make', 'FREIG', 48
+'Car make', 'kenw', 17
+'Car make', 'ENT', 3
+'Car make', 'WInnebago', 2
+'Car make', 'Freighttliner', 7
+'Car make', 'Wilson', 1
+'Car make', 'International', 3531
+'Car make', 'FREGITHLINER', 1
+'Car make', 'LINKBELT', 26
+'Car make', 'CAT TD30', 2
+'Car make', 'Sterling', 601
+'Car make', 'MARATHON', 1
+'Car make', 'Frtl', 8
+'Car make', 'fleet', 2
+'Car make', 'DOOSAN', 7
+'Car make', 'PRo Star', 37
+'Car make', 'Freighliner', 76
+'Car make', 'frht', 64
+'Car make', 'ford tk', 17
+'Car make', 'INTERNATIONAL PROSTAR', 2
+'Car make', '2016', 2
+'Car make', 'INTERNATIONAL.', 1
+'Car make', 'Peterbelt', 24
+'Car make', 'FORD (F-550) #1', 36
+'Car make', 'MONACO KNIGHT', 2
+'Car make', 'GULFSTREAM', 2
+'Car make', 'DUTS', 1
+'Car make', 'KEA', 160
+'Car make', 'frEIGHT LINER', 23
+'Car make', 'WHITE', 1422
+'Car make', 'OSHKOSH', 13
+'Car make', 'SUP', 34
+'Car make', 'FrEIGHT LINER', 23
+'Car make', 'International Prostar', 47
+'Car make', 'WEST', 10
+'Car make', 'FREIGHTLINER (BASECAMP)', 7
+'Car make', 'PIERCE', 9
+'Car make', 'DESTINATION', 1
+'Car make', 'LEIBHER', 5
+'Car make', 'PETERBULIT', 17
+'Car make', 'pb', 6
+'Car make', 'STLG', 17
+'Car make', 'FRIGHTLINER', 5
+'Car make', 'FREIGHTLINER', 13855
+'Car make', 'peter', 21
+'Car make', 'STERLING', 186
+'Car make', 'LIEBHER', 3
+'Car make', 'SAFARI SIMBA', 1
+'Car make', 'FRT', 934
+'Car make', 'FReightliner', 78
+'Car make', 'great dane', 16
+'Car make', 'INERNATIONAL', 4
+'Car make', 'KENWEORTH', 4
+'Car make', 'TRAIL KING', 2
+'Car make', 'INTERNATIONAL', 8495
+'Car make', 'kw', 1
+'Car make', 'Pete', 930
+'Car make', 'Fort', 68
+'Car make', 'ARGOSY', 9
+'Car make', 'Titan', 3
+'Car make', 'ITHACA', 2
+'Car make', 'DODGE RAM', 34
+'Car make', 'FRGH', 2
+'Car make', 'PWTERBUILT', 1
+'Car make', 'PETE', 441
+'Car make', 'FordF550', 23
+'Car make', 'FRREIGHTLINER', 2
+'Car make', 'WESTRN STAR', 1
+'Car make', 'PeterBuilt', 9
+'Car make', 'GMK 5130', 2
+'Car make', 'PATERBUILT', 1
+'Car make', 'GULF STREAM', 9
+'Car make', 'FREIGHT', 9
+'Car make', 'FREIGHTLINGER', 1
+'Car make', 'Markine', 1
+'Car make', 'FREIGHTLLINER', 2
+'Car make', 'FRIEGHTLINER', 64
+'Car make', 'KMAG', 8
+'Car make', 'FREIGHTLINER M2', 4
+'Car make', 'Argosy', 37
+'Car make', 'UTILITY', 4
+'Car make', 'FLEETWOOD BOUNDER', 25
+'Car make', 'SCHWING', 17
+'Car make', 'INT ProStar', 16
+'Car make', 'KENWRTH', 30
+'Car make', 'FREIHTLINER', 13
+'Car make', 'intern', 2
+'Car make', 'penn lyon', 5
+'Car make', 'TALBERT', 4
+'Car make', 'KENSWORTH', 2
+'Car make', '9400I', 2
+'Car make', 'fREIGHTLINER', 57
+'Car make', 'KENWORTH T800', 22
+'Car make', 'FORD (BASECAMP)', 41
+'Car make', 'Chevrolet', 2
+'Car make', 'TADANO', 20
+'Car make', 'cust', 1
+'Car make', 'ken worth', 21
+'Car make', 'FRIEHGLINER', 1
+'Car make', 'freightliner', 1645
+'Car make', 'FGHT', 42
+'Car make', 'Playmor', 25
+'Car make', 'pete', 10
+'Car make', 'EMPTY', 1
+'Car make', 'Kenworht', 2
+'Car make', 'KNWORTH', 1
+'Car make', 'CIFA', 1
+'Car make', 'Volvo', 1287
+'Car make', 'RAM', 263
+'Car make', 'VALVO', 15
+'Car make', 'w star', 1
+'Car make', 'frEIGHTLINER', 1
+'Car make', 'int', 12
+'Car make', 'KEMWORTH', 2
+'Car make', 'DISCOVERY', 1
+'Car make', 'FRGT', 2
+'Car make', 'GROVE', 330
+'Car make', 'Western star', 10
+'Car make', 'Petrbilt', 1
+'Car make', 'KENWOTH', 1
+'Car make', 'PET', 144
+'Car make', 'sterling', 100
+'Car make', 'FREIGH', 5
+'Car make', 'Hino', 10
+'Car make', 'Intl', 1
+'Car make', 'Freightlinerghtliner', 27
+'Car make', 'PERTERBILT', 7
+'Car make', 'INTERNATINAL', 1
+'Car make', 'HINO', 40
+'Car make', 'frt', 1
+'Car make', 'FORD', 3782
+'Car make', 'PREVOST', 45
+'Car make', 'TRACTOR WHITE', 2
+'Car make', 'internationall', 34
+'Car make', 'Linkbelt', 19
+'Car make', 'Peterbilt', 2990
+'Car make', 'W STAR', 92
+'Car make', 'HYSTER', 1
+'Car make', 'ISUZU', 2
+'Car make', 'HOLLSTER', 9
+'Car make', 'KENWORH', 1
+'Car make', 'KEWORTH', 1
+'Car make', 'F-Liner', 1
+'Car make', 'BUD', 2
+'Car make', 'INTTERNATIONAL', 4
+'Car make', 'KENWORTTH', 1
+'Car make', 'peterbilt', 183
+'Car make', 'FRIEHGTLINER', 1
+'Car make', 'KENWROTH', 16
+'Car make', 'LINK BELT', 102
+'Car make', 'Ford F550', 256
+'Car make', 'CHEVY 2500 HD', 6
+'Car make', 'CHEVEROLET', 1
+'Car make', 'RAM 5500', 1
+'Car make', 'WESTERNSTAR', 69
+'Car make', 'F-liner', 1
+'Car make', 'Ram', 13
+'Car make', 'Haddad', 44
+'Car make', 'Talbot', 2
+'Car make', 'dust', 1
+'Car make', 'DODGE', 429
+'Car make', 'DUNNAN', 1
+'Car make', 'FRHT', 400
+'Car make', 'F Liner', 2
+'Car make', 'TOR', 18
+'Car make', 'CHEVROLET', 23
+'Car make', 'FREEIGHTLINER', 1
+'Car make', 'PB', 1022
+'Car make', 'VOVLO', 7
+'Car make', 'MANIC', 2
+'Car make', 'ford F350', 94
+'Car make', 'Western Sttar', 2
+'Car make', 'PETER BILT', 1
+'Car make', 'FLEETWOOD', 1
+'Car make', 'FreightLiner', 60
+'Car make', 'Vovo', 2
+'Car make', 'PV', 2
+'Car make', 'freight liner', 196
+'Car make', 'INTERNTIONAL', 1
+'Car make', 'INT', 516
+'Car make', 'DORSEY', 1
+'Car make', 'PUTZMEISTER', 129
+'Car make', 'Freightiner', 132
+'Car make', 'PETERBUIT', 1
+'Car make', 'WINNEBAGO', 28
+'Car make', 'Putzmeister', 159
+'Car make', 'PTERBUILT', 1
+'Car make', 'KENTWORTH', 2
+'Car make', 'FRTK', 1
+'Car make', 'Mack', 1628
+'Car make', 'Ford Super Duty', 11
+'Car make', 'FRL', 5
+'Car make', 'PETERBUILE', 1
+'Car make', 'PETEBUILT', 2
+'Car make', 'dodge', 210
+'Car make', 'peter built', 102
+'Car make', 'WESTER STAR', 3
+'Car make', '2004', 4
+'Car make', 'Dutchstar', 6
+'Car make', 'FOREST RIVER', 2
+'Car make', 'FORD F550', 16
+'Car make', 'FrTL', 6
+'Car make', 'INTL', 860
+'Car make', 'GOLDHOFFER', 155
+'Car make', 'NUTALL', 1
+'Car make', 'Winnebago', 284
+'Car make', 'VOLVO', 3945
+'Car make', 'MONOKO', 3
+'Car make', 'FRE', 2
+'Car make', 'Petebuilt', 44
+'Car make', 'JUNTTAN', 10
+'Car make', 'PeterBilt', 55
+'Car make', 'WABASH', 1
+'Car make', 'Peterilt', 2
+'Car make', 'IN,', 3
+'Car make', 'Trail King,', 1
+'Car make', 'AIRSTREAM,', 2
+'Car make', 'MAKC,', 1
+'Car make', 'Mark,', 268
+'Car make', 'GM,', 1
+'Car make', 'BOUNDER,', 26
+'Car make', 'Monaco,', 4
+'Car make', 'Freingliner,', 71
+'Car make', 'SPARTAN,', 10
+'Car make', 'GMK,', 1
+'Car make', 'PBILT,', 23
+'Car make', 'P88679,', 1
+'Car make', 'WILSON,', 1
+'Car make', 'PROVOST,', 2
+'Car make', 'Inter,', 2
+'Car make', 'WESTERN START,', 8
+'Car make', 'ford,', 690
+'Car make', 'Doge,', 5
+'Car make', 'FR,', 7
+'Car make', 'Kw,', 2
+'Car make', 'LINK-BELT,', 5
+'Car make', 'Ken Worth,', 1
+'Car make', 'TEREX DEMAG,', 52
+'Car make', 'Freight liner,', 351
+'Car make', 'PETEBILT,', 23
+'Car make', 'PRES-VAC,', 2
+'Car make', 'Freight Liner,', 47
+'Car make', 'INTEERNATIONAL,', 1
+'Car make', 'frtl,', 22
+'Car make', 'INTEL,', 1
+'Car make', 'PETERBUILT,', 2421
+'Car make', 'WHGM,', 2
+'Car make', 'Peter built,', 1
+'Car make', 'PTR,', 62
+'Car make', 'FORD F50,', 2
+'Car make', 'lkenworth,', 1
+'Car make', 'mack,', 46
+'Car make', 'EAGLE,', 2
+'Car make', 'VOLO,', 1
+'Car make', 'kenworth,', 187
+'Car make', 'Freight line r,', 4
+'Car make', 'NACK,', 1
+'Car make', 'ram,', 59
+'Car make', 'Prostar,', 65
+'Car make', 'ENTYRE,', 4
+'Car make', 'Westernstar,', 4
+'Car make', 'DODGE RAM 2500,', 1
+'Car make', 'TEREX,', 2
+'Car make', 'AG6439,', 1
+'Car make', 'DUTCH STAR,', 1
+'Car make', 'W,', 98
+'Car make', 'T-80,', 19
+'Car make', 'WESTERN STAR,', 1860
+'Car make', 'FTL,', 3
+'Car make', 'Talent Verde,', 1
+'Car make', 'freight,', 2
+'Car make', 'TRAILMOBLE,', 1
+'Car make', 'WS,', 171
+'Car make', 'Mac,', 466
+'Car make', 'Chevy,', 2
+'Car make', 'kea,', 2
+'Car make', 'Kenworth,', 4274
+'Car make', 'Manac,', 2
+'Car make', 'FREIGHTLINERS,', 1
+'Car make', 'Stern,', 67
+'Car make', 'FREIGHTTLINER,', 2
+'Car make', 'W/S,', 2
+'Car make', 'FRWEIGHTLINER,', 1
+'Car make', 'GMC,', 432
+'Car make', 'MAC,', 277
+'Car make', 'DOTS,', 3
+'Car make', 'INTeR,', 2
+'Car make', 'greatdane,', 14
+'Car make', 'Frightliner,', 489
+'Car make', 'Ken,', 197
+'Car make', 'FORD F-550,', 8
+'Car make', 'fontaine,', 1
+'Car make', 'SAFARI,', 12
+'Car make', 'Pro Star,', 50
+'Car make', 'DIDGE,', 1
+'Car make', 'WARA,', 14
+'Car make', 'Grove,', 16
+'Car make', 'ken,', 11
+'Car make', '780,', 2
+'Car make', 'ITHACA LATITUDE,', 3
+'Car make', 'White,', 22
+'Car make', 'INTNL,', 2
+'Car make', 'Frieghtliner,', 7
+'Car make', 'intl,', 2
+'Car make', 'LIEBHERR,', 3243
+'Car make', 'bounder,', 1
+'Car make', 'MONACO DIPLOMAT,', 5
+'Car make', 'PETEERBILT,', 1
+'Car make', 'FTRL,', 1
+'Car make', 'Great Dane,', 92
+'Car make', 'PETERBILTT,', 1
+'Car make', 'Peterbuilt,', 722
+'Car make', 'CAT,', 9
+'Car make', 'Ford F350,', 243
+'Car make', 'FREIGHLINER,', 14
+'Car make', 'Terex,', 75
+'Car make', 'Peter Built,', 69
+'Car make', 'KEN,', 172
+'Car make', 'FREIGHTLINE,', 8
+'Car make', 'Freig,', 3
+'Car make', 'GMC SIERRA,', 2
+'Car make', 'Ford 350,', 12
+'Car make', 'FRD,', 457
+'Car make', 'KenWorth,', 18
+'Car make', 'Ford F-30,', 5
+'Car make', 'INTERN,', 1
+'Car make', 'KN,', 1
+'Car make', 'Dodge RAM,', 1
+'Car make', 'Tadano,', 2
+'Car make', 'PROSTAR,', 145
+'Car make', 'FERIGHT,', 8
+'Car make', 'Freightliner,', 6239
+'Car make', 'RED HAWK,', 2
+'Car make', 'GREATDANE,', 14
+'Car make', 'WSTAR,', 21
+'Car make', 'RAM TRUCK,', 1
+'Car make', 'IPROSTAR,', 9
+'Car make', 'MONACO,', 4
+'Car make', 'MACK/Putzmeister,', 3
+'Car make', 'gmc,', 9
+'Car make', 'Ferightliner,', 1
+'Car make', 'KW,', 3609
+'Car make', 'PETRBILT,', 1
+'Car make', 'MACK,', 6929
+'Car make', 'EAST,', 1
+'Car make', 'PETBLT,', 28
+'Car make', 'frieghtliner,', 79
+'Car make', 'INTERSTATE,', 21
+'Car make', 'INT PROSTR,', 10
+'Car make', 'ford 550,', 10
+'Car make', 'kENWORTH,', 3
+'Car make', 'MA,', 2
+'Car make', 'KENTUCKY,', 1
+'Car make', 'PETERBILTIL,', 1
+'Car make', 'CUSTOM EUROLINER,', 2
+'Car make', 'Leiberr,', 1
+'Car make', 'SCOTT,', 63
+'Car make', 'Western,', 18
+'Car make', 'KS,', 1
+'Car make', 'PBT,', 2
+'Car make', 'WSTR,', 4
+'Car make', 'CATERPILLAR,', 6
+'Car make', 'PETERBIILT,', 3
+'Car make', 'Feright,', 24
+'Car make', 'angel ariel,', 22
+'Car make', 'Markline,', 14
+'Car make', 'FL,', 454
+'Car make', 'Dodge,', 223
+'Car make', 'Internatioal,', 1
+'Car make', 'INTERNIATIONAL,', 3
+'Car make', 'FREIGHLINTER,', 2
+'Car make', 'GREAT DANE,', 231
+'Car make', 'WESTERN,', 11
+'Car make', 'INTRNATIONAL,', 1
+'Car make', 'PTERBILT,', 1
+'Car make', 'INTernational,', 197
+'Car make', 'mac,', 19
+'Car make', 'FRLTNR,', 3
+'Car make', 'P75804,', 1
+'Car make', 'WESERN STAR,', 1
+'Car make', 'PTRB,', 319
+'Car make', 'FREIGHT LINER,', 7
+'Car make', 'CHEV,', 3
+'Car make', 'Monaco Night Goldstar,', 4
+'Car make', 'FRTL,', 652
+'Car make', 'Freightliner MT55,', 8
+'Car make', 'peterbuilt,', 124
+'Car make', 'FRTLR,', 257
+'Car make', 'PETERBULT,', 5
+'Car make', 'PETERILT,', 1
+'Car make', 'MANAC,', 1
+'Car make', 'volvo,', 99
+'Car make', 'KENW,', 19
+'Car make', 'FORD F350,', 11
+'Car make', 'fORD,', 31
+'Car make', 'PETERBILET,', 8
+'Car make', 'FORD F-450,', 2
+'Car make', 'CHEVY,', 41
+'Car make', 'FREIGHTLIENR,', 1
+'Car make', 'TRANSCRAFT,', 2
+'Car make', 'HOLIDAY RAMBLER,', 12
+'Car make', 'Western Star,', 235
+'Car make', 'Chapp,', 2
+'Car make', 'Ford,', 3752
+'Car make', 'Int,', 17
+'Car make', 'TRAILKING,', 2
+'Car make', 'WHITE-GMC,', 2
+'Car make', 'FREIGHTLINRE,', 1
+'Car make', 'KENWORTH,', 11591
+'Car make', 'FREGHTLINER,', 3
+'Car make', 'FREIGHTLINERNR,', 1
+'Car make', 'WETERN STAR,', 1
+'Car make', 'Liebherr,', 131
+'Car make', 'international,', 432
+'Car make', 'international;,', 19
+'Car make', 'STER,', 4
+'Car make', 'DODGE RAM 5500,', 2
+'Car make', 'Pet,', 3
+'Car make', 'western star,', 4
+'Car make', 'FRGHT,', 11
+'Car make', 'FONTAINE,', 28
+'Car make', 'AUTOCAR,', 8
+'Car make', 'safari,', 2
+'Car make', 'KENWOORTH,', 15
+'Car make', 'Kenwoth,', 1
+'Car make', 'LIBEHERR,', 2
+'Car make', 'PETERBILT,', 10822
+'Car make', 'Airstream,', 2
+'Car make', 'hollster,', 1
+'Car make', 'FRTLNR,', 24
+'Car make', 'ROSENBAUER,', 2
+'Car make', 'DOMINATOR,', 2
+'Car make', 'FREIGHTLNIER,', 1

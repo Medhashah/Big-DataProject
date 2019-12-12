@@ -1,0 +1,82 @@
+{
+  "dataset_name": "eku7-63g8",
+  "columns": [
+    {
+      "data_types": [
+        {
+          "type": "DATE/TIME",
+          "count": [
+            11
+          ],
+          "min_value": "[datetime.datetime(2019, 12, 10, 0, 1, 34)]",
+          "max_value": "[datetime.datetime(2019, 12, 10, 0, 6, 48)]"
+        },
+        {
+          "type": "TEXT",
+          "count": 444,
+          "average_length": 6.0,
+          "shortest_values": [
+            "01M064",
+            "01M140",
+            "01M142",
+            "01M332",
+            "01M363"
+          ],
+          "longest_values": [
+            "01M064",
+            "01M140",
+            "01M142",
+            "01M332",
+            "01M363"
+          ]
+        }
+      ],
+      "column_name": "DBN",
+      "number_non_empty_cells": 455,
+      "number_empty_cells": 0,
+      "number_distinct_values": 455,
+      "frequent_values": [
+        "01M034",
+        "01M064",
+        "01M140",
+        "01M142",
+        "01M332"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 455,
+          "average_length": 29.026373626373626,
+          "shortest_values": [
+            "P.S. 66",
+            "I.S. 237",
+            "I.S. 339",
+            "I.S. 340",
+            "M.S. 358"
+          ],
+          "longest_values": [
+            "English Language Learners and International Support Preparatory Academy (ELLIS)",
+            "Science Skills Center High School for Science, Technology and the Creative Arts",
+            "Academy for College Preparation and Career Exploration: A College Board School",
+            "PS 80  The Thurgood Marshall Magnet School of Multimedia and Communication",
+            "H.E.R.O. High (Health, Education, and Research Occupations High School)"
+          ]
+        }
+      ],
+      "column_name": "Location Name",
+      "number_non_empty_cells": 455,
+      "number_empty_cells": 0,
+      "number_distinct_values": 455,
+      "frequent_values": [
+        "P.S. 034 Franklin D. Roosevelt",
+        "P.S. 064 Robert Simon",
+        "P.S. 140 Nathan Straus",
+        "P.S. 142 Amalia Castro",
+        "University Neighborhood Middle School"
+      ]
+    }
+  ],
+  "key_column_candidates": []
+}

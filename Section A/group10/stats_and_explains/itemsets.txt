@@ -1,0 +1,25 @@
++--------------+--------------+----+
+|          val1|          val2|supp|
++--------------+--------------+----+
+|INTERGER(LONG)|          REAL|2105|
+|          REAL|          TEXT| 908|
+|     DATE/TIME|INTERGER(LONG)| 614|
+|INTERGER(LONG)|          TEXT|3363|
+|     DATE/TIME|          TEXT|1450|
+|     DATE/TIME|          REAL| 178|
++--------------+--------------+----+
+
++--------------+--------------+----+----+
+|          val1|          val2|val3|supp|
++--------------+--------------+----+----+
+|     DATE/TIME|INTERGER(LONG)|TEXT| 531|
+|     DATE/TIME|INTERGER(LONG)|REAL| 120|
+|     DATE/TIME|          REAL|TEXT| 177|
+|INTERGER(LONG)|          REAL|TEXT| 338|
++--------------+--------------+----+----+
+
++---------+--------------+----+----+----+
+|     val1|          val2|val3|val4|supp|
++---------+--------------+----+----+----+
+|DATE/TIME|INTERGER(LONG)|REAL|TEXT| 120|
++---------+--------------+----+----+----+

@@ -1,0 +1,5 @@
+'Borough', 'QUEENS', 70
+'Borough', 'BROOKLYN', 70
+'Borough', 'BRONX,', 70
+'Borough', 'MANHATTAN,', 70
+'Borough', 'STATEN ISLAND,', 70

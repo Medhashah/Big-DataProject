@@ -1,0 +1,1000 @@
+{
+  "dataset_name": "kwvk-z7i9",
+  "columns": [
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 1919,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 973.5216258467952,
+          "stddev": 565.4705985625885
+        }
+      ],
+      "column_name": "ID",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1919,
+      "frequent_values": [
+        "288",
+        "335",
+        "359",
+        "390",
+        "400"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1919,
+          "average_length": 4.0,
+          "shortest_values": [
+            "K001",
+            "K002",
+            "K003",
+            "K005",
+            "K006"
+          ],
+          "longest_values": [
+            "K001",
+            "K002",
+            "K003",
+            "K005",
+            "K006"
+          ]
+        }
+      ],
+      "column_name": "Building Code",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1177,
+      "frequent_values": [
+        "M460",
+        "K440",
+        "M445",
+        "M535",
+        "K465"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "DATE/TIME",
+          "count": [
+            33
+          ],
+          "min_value": "[datetime.datetime(2019, 12, 10, 0, 1, 15)]",
+          "max_value": "[datetime.datetime(2019, 12, 10, 0, 4, 37)]"
+        },
+        {
+          "type": "TEXT",
+          "count": 1886,
+          "average_length": 5.714209968186639,
+          "shortest_values": [
+            "None",
+            "01M063",
+            "01M064",
+            "01M110",
+            "01M134"
+          ],
+          "longest_values": [
+            "PS 161(BRONX)",
+            "01M063",
+            "01M064",
+            "01M110",
+            "01M134"
+          ]
+        }
+      ],
+      "column_name": "DBN",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1646,
+      "frequent_values": [
+        "None",
+        "75X168",
+        "20K247",
+        "21K281",
+        "23K298"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1919,
+          "average_length": 27.099009900990097,
+          "shortest_values": [
+            "P009Q",
+            "PS 40",
+            "07X161",
+            "IS 584",
+            "MS 118"
+          ],
+          "longest_values": [
+            "IS 139(XW)|MS 222(XW)|PS/IS 224 (BRONX)|INTERNATIONAL COMMUNITY HS(XW)|ACADEMY OF APPLIED MATHEMATICS & TECHNOLOGY(XW)|345 BROOK AVENUE CONSOLIDATED LOCATION",
+            "THE MARIE CURIE HS FOR NURSING,MEDICINE & ALLIED HEALTH PROFESSIONS(BRONX)",
+            "ENGLISH LANGUAGE LEARNERS & INTERNATIONAL SUPPORT PREPARATORY ACADEMY(XW)",
+            "THE JAMES BALDWIN SCHOOL:A SCHOOL FOR EXPEDITIONARY LEARNING(MANHATTAN)",
+            "ROBERT F.WAGNER, JR. SECONDARY SCHOOL FOR ARTS AND TECHNOLOGY(QUEENS)"
+          ]
+        }
+      ],
+      "column_name": "Location Name",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1919,
+      "frequent_values": [
+        "PS 247(BROOKLYN)",
+        "IS 281(BS)",
+        "PS 298(BROOKLYN)",
+        "JHS 318(BN)",
+        "PS 327(BROOKLYN)"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1919,
+          "average_length": 4.0,
+          "shortest_values": [
+            "K001",
+            "K002",
+            "K003",
+            "K004",
+            "K005"
+          ],
+          "longest_values": [
+            "K001",
+            "K002",
+            "K003",
+            "K004",
+            "K005"
+          ]
+        }
+      ],
+      "column_name": "Location Code",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1619,
+      "frequent_values": [
+        "None",
+        "K524",
+        "Q460",
+        "M294",
+        "K531"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1919,
+          "average_length": 18.14851485148515,
+          "shortest_values": [
+            "50 AVE X",
+            "1 Peck Slip",
+            "26 BROADWAY",
+            "26 Broadway",
+            "330 59th St"
+          ],
+          "longest_values": [
+            "230-17 HILLSIDE AVENUE CONSOLIDATED LOCATION",
+            "190 BEACH 110 STREET CONSOLIDATED LOCATION",
+            "100 WEST MOSHOLU PARKWAY SOUTH",
+            "1180 Rev. James A. Polite Ave.",
+            "2750 LAFAYETTE AVENUE,ROOM B21"
+          ]
+        }
+      ],
+      "column_name": "Address",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1295,
+      "frequent_values": [
+        "40 IRVING PLACE",
+        "883 CLASSON AVENUE",
+        "350 GRAND STREET",
+        "525 WEST 50TH STREET",
+        "99 TERRACE VIEW AVENUE"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1919,
+          "average_length": 1.0,
+          "shortest_values": [
+            "K",
+            "M",
+            "Q",
+            "R",
+            "X"
+          ],
+          "longest_values": [
+            "K",
+            "M",
+            "Q",
+            "R",
+            "X"
+          ]
+        }
+      ],
+      "column_name": "Borough",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 5,
+      "frequent_values": [
+        "K",
+        "X",
+        "M",
+        "Q",
+        "R"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 1919,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 15.723293381969777,
+          "stddev": 10.719651437137719
+        }
+      ],
+      "column_name": "Geographical District Code",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 39,
+      "frequent_values": [
+        "2",
+        "10",
+        "31",
+        "9",
+        "17"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 1868,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 622.6970021413276,
+          "stddev": 457.28094561704364
+        },
+        {
+          "type": "TEXT",
+          "count": 51,
+          "average_length": 11.882352941176471,
+          "shortest_values": [
+            "YABC",
+            "ANNEX",
+            "GED PROGRAM",
+            "SCHOOL CLOSED",
+            "EVENING SCHOOL"
+          ],
+          "longest_values": [
+            "LEARNING CENTER",
+            "EVENING SCHOOL",
+            "SCHOOL CLOSED",
+            "GED PROGRAM",
+            "ANNEX"
+          ]
+        }
+      ],
+      "column_name": "Register",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 954,
+      "frequent_values": [
+        "SCHOOL CLOSED",
+        "327",
+        "331",
+        "263",
+        "370"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1919,
+          "average_length": 23.275664408546117,
+          "shortest_values": [
+            "None",
+            "34 West 118th St.",
+            "26 BROADWAY CONSOLIDATED LOCATION",
+            "26 Broadway CONSOLIDATED LOCATION",
+            "50 AVENUE P CONSOLIDATED LOCATION"
+          ],
+          "longest_values": [
+            "P.S. 179 |  Young Leaders Elementary School |  468 EAST 140 STREET CONSOLIDATED LOCATION",
+            "301 VERMONT STREET|300 WYONA STREET|CONSOLIDATED LOCATION",
+            "143-10 SPRINGFIELD BOULEVARD CONSOLIDATED LOCATION",
+            "145-00 SPRINGFIELD BOULEVARD CONSOLIDATED LOCATION",
+            "49 FLATBUSH AVENUE EXTENSION CONSOLIDATED LOCATION"
+          ]
+        }
+      ],
+      "column_name": "Building Name",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 337,
+      "frequent_values": [
+        "None",
+        "40 IRVING PLACE CONSOLIDATED LOCATION",
+        "883 CLASSON AVENUE CONSOLIDATED LOCATION",
+        "350 GRAND STREET CONSOLIDATED LOCATION",
+        "525 WEST 50TH STREET CONSOLIDATED LOCATION"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 1919,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 2.1318394997394474,
+          "stddev": 1.5539028854695254
+        }
+      ],
+      "column_name": "# Schools",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 8,
+      "frequent_values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1919,
+          "average_length": 87.48671182907765,
+          "shortest_values": [
+            "P009Q",
+            "MS 118",
+            "P23(QS)",
+            "P35(MS)",
+            "P37(SI)"
+          ],
+          "longest_values": [
+            "Bronx Engineering and Technology Academy|Bronx School of Law and Finance|English Language Learners and International Support Prep Academy|JFK HS|Marble Hill High School for International Studies|Kennedy GED|Bronx Theatre High School|THE NEW VISIONS CHARTER HS FOR THE HUMANITIES(XW)|THE NEW VISIONS CHARTER HS FOR ADVANCED MATH AND SCIENCE(XW)|99 TERRACE VIEW AVENUE CONSOLIDATED LOCATION",
+            "Gramercy Arts High School|THE HIGH SCHOOL FOR LANGUAGE AND DIPLOMACY|International High School at Union Square|Washington Irving HS|Union Square Academy for Health Sciences|Academy for Software Engineering|Success Academy Union Square (Manhattan 1)|Washington Irving evening school|40 IRVING PLACE CONSOLIDATED LOCATION",
+            "West Bronx Academy for the Future|  Knowledge and Power Preparatory Academy International|  Belmont Preparatory High School|Fordham High School for the Arts|  Fordham Leadership Academy for Business and Technology|  Bronx High School for Law and Community Service|    500 EAST FORDHAM ROAD CONSOLIDATED LOCATION",
+            "ERASMUS HALL HS(BS) |ACADEMY FOR COLLEGE PREPARATION & CAREER EXPLORATION(BS)|ACADEMY OF HOSPITALITY &TOURISM(BS)|ERASMUS CAMPUS BUSINESS TEC(BS) |HS FOR YOUTH & COMMUNITY DEVELOPMENT@ERASMUS(BS)|HS FOR SERVICE & LEARNING@ERASMUS(BS)|SCIENCE,TECH., & RESEARCH EARLY COLLEGE HS@ERASMUS-STAR(BROOKLYN)",
+            "Bronx High School for Writing and Communication Arts |  Bronx Lab School |  High School of Computers and Technology |  Bronx Academy of Health Careers |High School for Contemporary Arts |  Bronx Aerospace High School | EVANDER CHILDS EVENING H.S.  |800 EAST GUN HILL ROAD CONSOLIDATED LOCATION"
+          ]
+        }
+      ],
+      "column_name": "Schools in Building",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1176,
+      "frequent_values": [
+        "Gramercy Arts High School|THE HIGH SCHOOL FOR LANGUAGE AND DIPLOMACY|International High School at Union Square|Washington Irving HS|Union Square Academy for Health Sciences|Academy for Software Engineering|Success Academy Union Square (Manhattan 1)|Washington Irving evening school|40 IRVING PLACE CONSOLIDATED LOCATION",
+        "PROSPECT HEIGHTS HS(BS)| INTERNATIONAL HS@PROSPECT HEIGHTS(BS)| THE HIGH SCHOOL FOR GLOBAL CITIZENSHIP(BROOKLYN)| BROOKLYN ACADEMY OF SCIENCE & THE ENVIRONMENT BASE(BS)| BROOKLYN SCHOOL FOR MUSIC & THEATRE(BS)|  PROSPECT HEIGHTS EVENING M/W(BS)| PROSPECT HEIGHTS EVENING T/R(BS)",
+        "ESSEX STREET ACADEMY(MS)| THE URBAN ASSEMBLY ACADEMY OF GOVERNMENT & LAW(MANHATTAN) |LOWER MANHATTAN ARTS ACADEMY(MS)|SEWARD PARK HS(MANHATTAN)|NEW DESIGN HS(MS)| HS FOR DUAL LANGUAGE & ASIAN STUDIES(MS) |SEWARD PARK GED(MANHATTAN)|350 GRAND STREET CONSOLIDATED LOCATION",
+        "Food and Finance High School |  High School of Hospitality Management |  Urban Assembly School of Design and Construction, |  Facing History School, The |  Manhattan Bridges High School |  Park West HS| Park West Evening|525 WEST  50TH STREET CONSOLIDATED LOCATION",
+        "ERASMUS HALL HS(BS) |ACADEMY FOR COLLEGE PREPARATION & CAREER EXPLORATION(BS)|ACADEMY OF HOSPITALITY &TOURISM(BS)|ERASMUS CAMPUS BUSINESS TEC(BS) |HS FOR YOUTH & COMMUNITY DEVELOPMENT@ERASMUS(BS)|HS FOR SERVICE & LEARNING@ERASMUS(BS)|SCIENCE,TECH., & RESEARCH EARLY COLLEGE HS@ERASMUS-STAR(BROOKLYN)"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 1175,
+          "min_value": 0,
+          "max_value": 0,
+          "mean": 0.3872340425531915,
+          "stddev": 0.7864861312100714
+        },
+        {
+          "type": "TEXT",
+          "count": 744,
+          "average_length": 3.0,
+          "shortest_values": [
+            "N/A"
+          ],
+          "longest_values": [
+            "N/A"
+          ]
+        }
+      ],
+      "column_name": "Major N",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 7,
+      "frequent_values": [
+        "0",
+        "N/A",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 1175,
+          "min_value": 0,
+          "max_value": 0,
+          "mean": 1.6987234042553192,
+          "stddev": 2.6726905855425898
+        },
+        {
+          "type": "TEXT",
+          "count": 744,
+          "average_length": 3.0,
+          "shortest_values": [
+            "N/A"
+          ],
+          "longest_values": [
+            "N/A"
+          ]
+        }
+      ],
+      "column_name": "Oth N",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 21,
+      "frequent_values": [
+        "N/A",
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 1175,
+          "min_value": 0,
+          "max_value": 0,
+          "mean": 4.169361702127659,
+          "stddev": 8.319947678910596
+        },
+        {
+          "type": "TEXT",
+          "count": 744,
+          "average_length": 3.0,
+          "shortest_values": [
+            "N/A"
+          ],
+          "longest_values": [
+            "N/A"
+          ]
+        }
+      ],
+      "column_name": "NoCrim N",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 49,
+      "frequent_values": [
+        "N/A",
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 1175,
+          "min_value": 0,
+          "max_value": 0,
+          "mean": 0.916595744680851,
+          "stddev": 1.4403978123609569
+        },
+        {
+          "type": "TEXT",
+          "count": 744,
+          "average_length": 3.0,
+          "shortest_values": [
+            "N/A"
+          ],
+          "longest_values": [
+            "N/A"
+          ]
+        }
+      ],
+      "column_name": "Prop N",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 12,
+      "frequent_values": [
+        "N/A",
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 1175,
+          "min_value": 0,
+          "max_value": 0,
+          "mean": 0.9293617021276596,
+          "stddev": 1.7301179448852957
+        },
+        {
+          "type": "TEXT",
+          "count": 744,
+          "average_length": 3.0,
+          "shortest_values": [
+            "N/A"
+          ],
+          "longest_values": [
+            "N/A"
+          ]
+        }
+      ],
+      "column_name": "Vio N",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 14,
+      "frequent_values": [
+        "N/A",
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1919,
+          "average_length": 2.041688379364252,
+          "shortest_values": [
+            "2C",
+            "3C",
+            "4C",
+            "5C",
+            "6C"
+          ],
+          "longest_values": [
+            "10C",
+            "11C",
+            "12C",
+            "13C",
+            "N/A"
+          ]
+        }
+      ],
+      "column_name": "ENGroupA",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 13,
+      "frequent_values": [
+        "3C",
+        "4C",
+        "2C",
+        "5C",
+        "6C"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1919,
+          "average_length": 7.036477331943721,
+          "shortest_values": [
+            "N/A",
+            "1-250",
+            "4000+",
+            "251-500",
+            "501-750"
+          ],
+          "longest_values": [
+            "1001-1250",
+            "1251-1500",
+            "1501-1750",
+            "1751-2000",
+            "2001-2500"
+          ]
+        }
+      ],
+      "column_name": "RangeA",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 13,
+      "frequent_values": [
+        "251-500",
+        "501-750",
+        "1-250",
+        "751-1000",
+        "1001-1250"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 1161,
+          "min_value": 0.25,
+          "max_value": 0.25,
+          "mean": 0.38526270456502804,
+          "stddev": 0.2381535070404857
+        },
+        {
+          "type": "TEXT",
+          "count": 758,
+          "average_length": 3.0,
+          "shortest_values": [
+            "N/A"
+          ],
+          "longest_values": [
+            "N/A"
+          ]
+        }
+      ],
+      "column_name": "AvgOfMajor N",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 11,
+      "frequent_values": [
+        "N/A",
+        "0.25",
+        "0.26",
+        "0.38",
+        "0.61"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 1161,
+          "min_value": 0.88,
+          "max_value": 0.88,
+          "mean": 1.687441860465121,
+          "stddev": 1.3091345749526357
+        },
+        {
+          "type": "TEXT",
+          "count": 758,
+          "average_length": 3.0,
+          "shortest_values": [
+            "N/A"
+          ],
+          "longest_values": [
+            "N/A"
+          ]
+        }
+      ],
+      "column_name": "AvgOfOth N",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 12,
+      "frequent_values": [
+        "N/A",
+        "1.03",
+        "1.13",
+        "1.52",
+        "2.55"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 1161,
+          "min_value": 1.69,
+          "max_value": 1.69,
+          "mean": 4.130878552971565,
+          "stddev": 4.020906315774803
+        },
+        {
+          "type": "TEXT",
+          "count": 758,
+          "average_length": 3.0,
+          "shortest_values": [
+            "N/A"
+          ],
+          "longest_values": [
+            "N/A"
+          ]
+        }
+      ],
+      "column_name": "AvgOfNoCrim N",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 12,
+      "frequent_values": [
+        "N/A",
+        "2.22",
+        "2.41",
+        "3.88",
+        "6.10"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 1161,
+          "min_value": 0.55,
+          "max_value": 0.55,
+          "mean": 0.9051076658053376,
+          "stddev": 0.6320484801493194
+        },
+        {
+          "type": "TEXT",
+          "count": 758,
+          "average_length": 3.0,
+          "shortest_values": [
+            "N/A"
+          ],
+          "longest_values": [
+            "N/A"
+          ]
+        }
+      ],
+      "column_name": "AvgOfProp N",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 11,
+      "frequent_values": [
+        "N/A",
+        "0.55",
+        "0.66",
+        "0.83",
+        "1.29"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 1161,
+          "min_value": 0.45,
+          "max_value": 0.45,
+          "mean": 0.9247028423772707,
+          "stddev": 0.6726361438263523
+        },
+        {
+          "type": "TEXT",
+          "count": 758,
+          "average_length": 3.0,
+          "shortest_values": [
+            "N/A"
+          ],
+          "longest_values": [
+            "N/A"
+          ]
+        }
+      ],
+      "column_name": "AvgOfVio N",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 12,
+      "frequent_values": [
+        "N/A",
+        "0.58",
+        "0.57",
+        "0.91",
+        "1.48"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1919,
+          "average_length": 27.856696195935385,
+          "shortest_values": [
+            "POINT (-73.94088 40.6547)",
+            "POINT (-71.3252 42.191356)",
+            "POINT (-72.8014 44.784995)",
+            "POINT (-73.820321 40.7202)",
+            "POINT (-73.8566 40.828708)"
+          ],
+          "longest_values": [
+            "POINT (-101.699381 34.168732)",
+            "POINT (-101.836396 33.521857)",
+            "POINT (-101.836439 33.521857)",
+            "POINT (-101.880483 33.567008)",
+            "POINT (-101.889332 33.519775)"
+          ]
+        }
+      ],
+      "column_name": "New Georeferenced Column",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1204,
+      "frequent_values": [
+        "POINT (-75.003693 40.152439)",
+        "POINT (-73.961805 40.67009)",
+        "POINT (-74.747046 40.204073)",
+        "POINT (-80.127267 25.826427)",
+        "POINT (-73.958476 40.649472)"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 1919,
+          "min_value": 75,
+          "max_value": 75,
+          "mean": 15082.605002605524,
+          "stddev": 7236.4600130790595
+        }
+      ],
+      "column_name": "Zip Codes",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 655,
+      "frequent_values": [
+        "28576",
+        "11269",
+        "11605",
+        "17614",
+        "10934"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 961,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 38.45265348595213,
+          "stddev": 20.14665522324482
+        },
+        {
+          "type": "TEXT",
+          "count": 958,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "Community Districts",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 58,
+      "frequent_values": [
+        "None",
+        "34",
+        "69",
+        "35",
+        "58"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 961,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 3.2414151925078043,
+          "stddev": 1.3517598177673715
+        },
+        {
+          "type": "TEXT",
+          "count": 958,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "Borough Boundaries",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 6,
+      "frequent_values": [
+        "None",
+        "2",
+        "5",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 961,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 28.13111342351717,
+          "stddev": 14.47296376827897
+        },
+        {
+          "type": "TEXT",
+          "count": 958,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "City Council Districts",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 51,
+      "frequent_values": [
+        "None",
+        "43",
+        "12",
+        "48",
+        "22"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 961,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 42.25390218522372,
+          "stddev": 17.764327449304805
+        },
+        {
+          "type": "TEXT",
+          "count": 958,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "Police Precincts",
+      "number_non_empty_cells": 1919,
+      "number_empty_cells": 0,
+      "number_distinct_values": 71,
+      "frequent_values": [
+        "None",
+        "25",
+        "31",
+        "26",
+        "47"
+      ]
+    }
+  ],
+  "key_column_candidates": [
+    "ID"
+  ]
+}

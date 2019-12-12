@@ -1,0 +1,8 @@
+instructions to labelling data:
+1. the "2bmr-jdsv_DBA.out" is the original data that is grouped by value name, look through it please
+2. you can merge part-00000 and part-00001 together into one file and load it into python or database to do labelling(do this whichever way you want)
+3. generate labelling result and store it in the "2bmr-jdsv_DBA.txt" file
+4. the format should look like the same in the txt file for the script to read it and store it into the json file
+5. the "2bmr-jdsv_DBA.txt" is only a sample,not the actual thing. the sematics labels are in the pdf
+6. the output files should be put in the "labelled" folder 
+7. use the label.py for quicker output, you might need to change the directories

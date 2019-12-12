@@ -1,0 +1,755 @@
+{
+  "dataset_name": "kh3d-xhq7",
+  "columns": [
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 11.691176470588236,
+          "shortest_values": [
+            "Corona",
+            "Hollis",
+            "Arverne",
+            "Astoria",
+            "Bayside"
+          ],
+          "longest_values": [
+            "Central Library- The Archives",
+            "Queens Library for Teens",
+            "Douglaston/Little Neck",
+            "Job Information Center",
+            "Kew Gardens Hills"
+          ]
+        }
+      ],
+      "column_name": "name",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 68,
+      "frequent_values": [
+        "Rosedale",
+        "Bayside",
+        "Central Library- The Archives",
+        "Hollis",
+        "Queens Library for Teens"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 21.147058823529413,
+          "shortest_values": [
+            "151-10 14 Road",
+            "40-20 Broadway",
+            "78-60 73 Place",
+            "86-01 Broadway",
+            "91-41 63 Drive"
+          ],
+          "longest_values": [
+            "155-06 Roosevelt Av. (off Northern Blvd)",
+            "193-20 Horace Harding Expressway",
+            "116-15 Rockaway Beach Boulevard",
+            "108-41 Guy R. Brewer Boulevard",
+            "92-25 Rockaway Beach Boulevard"
+          ]
+        }
+      ],
+      "column_name": "Address",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 64,
+      "frequent_values": [
+        "89-11 Merrick Boulevard",
+        "Now a Family Literacy Center",
+        "144-20 243 Street",
+        "214-20 Northern Boulevard",
+        "202-05 Hillside Avenue"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 10.470588235294118,
+          "shortest_values": [
+            "Corona",
+            "Hollis",
+            "Arverne",
+            "Bayside",
+            "Jamaica"
+          ],
+          "longest_values": [
+            "10-43 41 Ave., LIC",
+            "35-32 21 St., LIC",
+            "Long Island City",
+            "South Ozone Park",
+            "Cambria Heights"
+          ]
+        }
+      ],
+      "column_name": "City",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 41,
+      "frequent_values": [
+        "Flushing",
+        "Jamaica",
+        "Long Island City",
+        "Bayside",
+        "Corona"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 68,
+          "min_value": 11004,
+          "max_value": 11004,
+          "mean": 11377.485294117647,
+          "stddev": 143.08671708885618
+        }
+      ],
+      "column_name": "Postcode",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 52,
+      "frequent_values": [
+        "11432",
+        "11101",
+        "11368",
+        "11691",
+        "11355"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 14.0,
+          "shortest_values": [
+            "(718) 225-3550",
+            "(718) 225-8414",
+            "(718) 229-1834",
+            "(718) 261-5512",
+            "(718) 261-6654"
+          ],
+          "longest_values": [
+            "(718) 225-3550",
+            "(718) 225-8414",
+            "(718) 229-1834",
+            "(718) 261-5512",
+            "(718) 261-6654"
+          ]
+        }
+      ],
+      "column_name": "phone",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 64,
+      "frequent_values": [
+        "(718) 990-0700",
+        "By apptmt only",
+        "(718) 528-8490",
+        "(718) 229-1834",
+        "(718) 465-7355"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 17.529411764705884,
+          "shortest_values": [
+            "Closed - Closed",
+            "2:30 PM - 6:00 PM",
+            "9:00 AM - 8:00 PM",
+            "9:00 AM - 9:00 PM",
+            "10:00 AM - 5:00 PM"
+          ],
+          "longest_values": [
+            "10:00 AM - 5:00 PM",
+            "11:00 AM - 7:00 PM",
+            "12:00 PM - 8:00 PM",
+            "2:30 PM - 6:00 PM",
+            "9:00 AM - 8:00 PM"
+          ]
+        }
+      ],
+      "column_name": "Mn",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 7,
+      "frequent_values": [
+        "12:00 PM - 8:00 PM",
+        "9:00 AM - 8:00 PM",
+        "9:00 AM - 9:00 PM",
+        "Closed - Closed",
+        "2:30 PM - 6:00 PM"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 16.88235294117647,
+          "shortest_values": [
+            "Closed - Closed",
+            "1:00 PM - 6:00 PM",
+            "2:30 PM - 6:00 PM",
+            "9:00 AM - 7:00 PM",
+            "9:00 AM - 9:00 PM"
+          ],
+          "longest_values": [
+            "1:00 PM - 6:00 PM",
+            "2:30 PM - 6:00 PM",
+            "9:00 AM - 7:00 PM",
+            "9:00 AM - 9:00 PM",
+            "Closed - Closed"
+          ]
+        }
+      ],
+      "column_name": "Tu",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 5,
+      "frequent_values": [
+        "1:00 PM - 6:00 PM",
+        "Closed - Closed",
+        "9:00 AM - 9:00 PM",
+        "9:00 AM - 7:00 PM",
+        "2:30 PM - 6:00 PM"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 17.735294117647058,
+          "shortest_values": [
+            "Closed - Closed",
+            "2:30 PM - 6:00 PM",
+            "9:00 AM - 7:00 PM",
+            "9:00 AM - 9:00 PM",
+            "10:00 AM - 6:00 PM"
+          ],
+          "longest_values": [
+            "10:00 AM - 6:00 PM",
+            "2:30 PM - 6:00 PM",
+            "9:00 AM - 7:00 PM",
+            "9:00 AM - 9:00 PM",
+            "Closed - Closed"
+          ]
+        }
+      ],
+      "column_name": "We",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 5,
+      "frequent_values": [
+        "10:00 AM - 6:00 PM",
+        "Closed - Closed",
+        "9:00 AM - 9:00 PM",
+        "9:00 AM - 7:00 PM",
+        "2:30 PM - 6:00 PM"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 17.735294117647058,
+          "shortest_values": [
+            "Closed - Closed",
+            "2:30 PM - 6:00 PM",
+            "9:00 AM - 7:00 PM",
+            "9:00 AM - 9:00 PM",
+            "12:00 PM - 7:00 PM"
+          ],
+          "longest_values": [
+            "12:00 PM - 7:00 PM",
+            "12:00 PM - 8:00 PM",
+            "2:30 PM - 6:00 PM",
+            "9:00 AM - 7:00 PM",
+            "9:00 AM - 9:00 PM"
+          ]
+        }
+      ],
+      "column_name": "Th",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 6,
+      "frequent_values": [
+        "12:00 PM - 8:00 PM",
+        "Closed - Closed",
+        "9:00 AM - 9:00 PM",
+        "9:00 AM - 7:00 PM",
+        "2:30 PM - 6:00 PM"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 17.735294117647058,
+          "shortest_values": [
+            "Closed - Closed",
+            "2:30 PM - 6:00 PM",
+            "9:00 AM - 7:00 PM",
+            "10:00 AM - 6:00 PM"
+          ],
+          "longest_values": [
+            "10:00 AM - 6:00 PM",
+            "2:30 PM - 6:00 PM",
+            "9:00 AM - 7:00 PM",
+            "Closed - Closed"
+          ]
+        }
+      ],
+      "column_name": "Fr",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 4,
+      "frequent_values": [
+        "10:00 AM - 6:00 PM",
+        "9:00 AM - 7:00 PM",
+        "Closed - Closed",
+        "2:30 PM - 6:00 PM"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 17.735294117647058,
+          "shortest_values": [
+            "Closed - Closed",
+            "10:00 AM - 5:00 PM"
+          ],
+          "longest_values": [
+            "10:00 AM - 5:00 PM",
+            "Closed - Closed"
+          ]
+        }
+      ],
+      "column_name": "Sa",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 2,
+      "frequent_values": [
+        "10:00 AM - 5:00 PM",
+        "Closed - Closed"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 15.264705882352942,
+          "shortest_values": [
+            "Closed - Closed",
+            "12:00 PM - 5:00 PM"
+          ],
+          "longest_values": [
+            "12:00 PM - 5:00 PM",
+            "Closed - Closed"
+          ]
+        }
+      ],
+      "column_name": "Su",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 2,
+      "frequent_values": [
+        "Closed - Closed",
+        "12:00 PM - 5:00 PM"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "notification",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1,
+      "frequent_values": [
+        "None"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 21.91176470588235,
+          "shortest_values": [
+            "None",
+            "(40.5863, -73.815797)",
+            "(40.69554, -73.74138)",
+            "(40.57971, -73.837487)",
+            "(40.677059, -73.74514)"
+          ],
+          "longest_values": [
+            "(40.593066, -73.784341)",
+            "(40.600838, -73.820374)",
+            "(40.604487, -73.752641)",
+            "(40.660152, -73.739488)",
+            "(40.664069, -73.841928)"
+          ]
+        }
+      ],
+      "column_name": "Location 1",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 63,
+      "frequent_values": [
+        "(40.707865, -73.795295)",
+        "None",
+        "(40.660152, -73.739488)",
+        "(40.760363, -73.768588)",
+        "(40.719914, -73.762191)"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 8.926470588235293,
+          "shortest_values": [
+            "None",
+            "QUEENS   "
+          ],
+          "longest_values": [
+            "QUEENS   ",
+            "None"
+          ]
+        }
+      ],
+      "column_name": "Borough",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 2,
+      "frequent_values": [
+        "QUEENS   ",
+        "None"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 65,
+          "min_value": 40.57971,
+          "max_value": 40.57971,
+          "mean": 40.71835458461539,
+          "stddev": 0.04809070484148205
+        },
+        {
+          "type": "TEXT",
+          "count": 3,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "Latitude",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 63,
+      "frequent_values": [
+        "40.707865",
+        "None",
+        "40.660152",
+        "40.760363",
+        "40.719914"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 9.647058823529411,
+          "shortest_values": [
+            "None",
+            "-73.74138",
+            "-73.74514",
+            "-73.79203",
+            "-73.83211"
+          ],
+          "longest_values": [
+            "-73.715036",
+            "-73.717266",
+            "-73.731307",
+            "-73.738088",
+            "-73.739299"
+          ]
+        }
+      ],
+      "column_name": "Longitude",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 63,
+      "frequent_values": [
+        "-73.795295",
+        "None",
+        "-73.739488",
+        "-73.768588",
+        "-73.762191"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 65,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 8.323076923076924,
+          "stddev": 3.9656513377431937
+        },
+        {
+          "type": "TEXT",
+          "count": 3,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "Community Board",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 15,
+      "frequent_values": [
+        "12",
+        "7",
+        "13",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 65,
+          "min_value": 19,
+          "max_value": 19,
+          "mean": 25.50769230769231,
+          "stddev": 4.158857376077739
+        },
+        {
+          "type": "TEXT",
+          "count": 3,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "Council District ",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 15,
+      "frequent_values": [
+        "27",
+        "19",
+        "23",
+        "32",
+        "26"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 65,
+          "min_value": 12,
+          "max_value": 12,
+          "mean": 29554.815384615384,
+          "stddev": 49186.49587434224
+        },
+        {
+          "type": "TEXT",
+          "count": 3,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "Census Tract",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 63,
+      "frequent_values": [
+        "460",
+        "None",
+        "654",
+        "1471",
+        "478"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 9.647058823529411,
+          "shortest_values": [
+            "None",
+            "4000790030",
+            "4001730016",
+            "4003630001",
+            "4005400030"
+          ],
+          "longest_values": [
+            "4000790030",
+            "4001730016",
+            "4003630001",
+            "4005400030",
+            "4006760050"
+          ]
+        }
+      ],
+      "column_name": "BIN",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 62,
+      "frequent_values": [
+        "4097980006",
+        "None",
+        "4135490007",
+        "4073330215",
+        "4105320120"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 9.647058823529411,
+          "shortest_values": [
+            "None",
+            "4000790030",
+            "4001730016",
+            "4003630001",
+            "4005400030"
+          ],
+          "longest_values": [
+            "4000790030",
+            "4001730016",
+            "4003630001",
+            "4005400030",
+            "4006760050"
+          ]
+        }
+      ],
+      "column_name": "BBL",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 62,
+      "frequent_values": [
+        "4097980006",
+        "None",
+        "4135490007",
+        "4073330215",
+        "4105320120"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 68,
+          "average_length": 71.86764705882354,
+          "shortest_values": [
+            "None",
+            "Astoria                                                                    ",
+            "Auburndale                                                                 ",
+            "Baisley Park                                                               ",
+            "Bayside-Bayside Hills                                                      "
+          ],
+          "longest_values": [
+            "Astoria                                                                    ",
+            "Auburndale                                                                 ",
+            "Baisley Park                                                               ",
+            "Bayside-Bayside Hills                                                      ",
+            "Bellerose                                                                  "
+          ]
+        }
+      ],
+      "column_name": "NTA",
+      "number_non_empty_cells": 68,
+      "number_empty_cells": 0,
+      "number_distinct_values": 53,
+      "frequent_values": [
+        "Jamaica                                                                    ",
+        "None",
+        "Douglas Manor-Douglaston-Little Neck                                       ",
+        "Ft. Totten-Bay Terrace-Clearview                                           ",
+        "Forest Hills                                                               "
+      ]
+    }
+  ],
+  "key_column_candidates": [
+    "name",
+    "Address",
+    "City",
+    "Postcode",
+    "phone",
+    "Mn",
+    "Tu",
+    "We",
+    "Th",
+    "Fr",
+    "Sa",
+    "Su",
+    "notification",
+    "Location 1",
+    "Borough",
+    "Longitude",
+    "BIN",
+    "BBL",
+    "NTA"
+  ]
+}

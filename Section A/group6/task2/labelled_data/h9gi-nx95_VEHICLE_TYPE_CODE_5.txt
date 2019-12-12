@@ -1,0 +1,48 @@
+'Vehicle Type', 'Station Wagon/Sport Utility Vehicle', 428
+'Vehicle Type', 'Bike', 3
+'Vehicle Type', 'van', 1
+'Vehicle Type', 'Tractor Truck Diesel', 1
+'Vehicle Type', 'PASSENGER VEHICLE', 5476
+'Vehicle Type', 'SMALL COM VEH(4 TIRES)', 11
+'Vehicle Type', 'BUS', 8
+'Vehicle Type', 'Motorcycle', 3
+'Vehicle Type', 'Convertible', 1
+'Vehicle Type', 'BU', 2
+'Vehicle Type', 'None', 0
+'Vehicle Type', 'LL', 1
+'Vehicle Type', 'GG', 1
+'Vehicle Type', 'VAN', 60
+'Vehicle Type', 'TAXI', 246
+'Vehicle Type', 'Sedan', 543
+'Vehicle Type', 'FIRE TRUCK', 2
+'Vehicle Type', 'FB', 2
+'Vehicle Type', 'Taxi', 29
+'Vehicle Type', 'Garbage or Refuse', 2
+'Vehicle Type', 'trl', 1
+'Vehicle Type', 'LARGE COM VEH(6 OR MORE TIRES)', 13
+'Vehicle Type', 'MS', 1
+'Vehicle Type', 'Ambulance,', 1
+'Vehicle Type', 'UNKNOWN,', 94
+'Vehicle Type', 'Box Truck,', 7
+'Vehicle Type', 'PEDICAB,', 1
+'Vehicle Type', 'AMBULANCE,', 2
+'Vehicle Type', '2 dr sedan,', 1
+'Vehicle Type', 'Wagon,', 1
+'Vehicle Type', 'MOTORCYCLE,', 45
+'Vehicle Type', 'TRAIL,', 1
+'Vehicle Type', 'PICK-UP TRUCK,', 211
+'Vehicle Type', 'Trail,', 1
+'Vehicle Type', 'SPORT UTILITY / STATION WAGON,', 3138
+'Vehicle Type', 'Van,', 1
+'Vehicle Type', 'Bus,', 5
+'Vehicle Type', 'OTHER,', 56
+'Vehicle Type', 'Pick-up Truck,', 34
+'Vehicle Type', 'BICYCLE,', 40
+'Vehicle Type', 'Tow Truck / Wrecker,', 1
+'Vehicle Type', 'DS,', 1
+'Vehicle Type', 'TRACT,', 1
+'Vehicle Type', 'TK,', 5
+'Vehicle Type', 'Carry All,', 2
+'Vehicle Type', 'SCOOTER,', 2
+'Vehicle Type', 'DP,', 1
+'Vehicle Type', 'LIVERY VEHICLE,', 9

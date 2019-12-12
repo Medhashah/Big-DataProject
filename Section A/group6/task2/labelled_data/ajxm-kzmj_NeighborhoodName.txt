@@ -1,0 +1,69 @@
+'Neighborhood', 'Corona', 3
+'Neighborhood', 'Marble Hill', 1
+'Neighborhood', 'Midtown', 1
+'Neighborhood', 'Hell's Kitchen', 3
+'Neighborhood', 'Highbridge', 6
+'Neighborhood', 'Greenwich Village', 1
+'Neighborhood', 'Clinton Hill', 3
+'Neighborhood', 'Washington Heights', 8
+'Neighborhood', 'Kensington', 2
+'Neighborhood', 'Melrose South-Mott Haven North', 1
+'Neighborhood', 'Wakefield', 1
+'Neighborhood', 'Flushing', 1
+'Neighborhood', 'So. Ozone Park', 1
+'Neighborhood', 'Upper East Side', 1
+'Neighborhood', 'None', 0
+'Neighborhood', 'Chelsey', 1
+'Neighborhood', 'Crotona', 2
+'Neighborhood', 'Coney Island', 5
+'Neighborhood', 'East Harlem', 32
+'Neighborhood', 'Lower East Side', 7
+'Neighborhood', 'East Village', 35
+'Neighborhood', 'Bed-Stuy', 29
+'Neighborhood', 'Mott Haven', 1
+'Neighborhood', 'Sunset Park', 1
+'Neighborhood', 'West Farms', 1
+'Neighborhood', 'Williamsburg', 7
+'Neighborhood', 'Long Island City', 1
+'Neighborhood', 'Downtown Manhattan', 1
+'Neighborhood', 'Upper West Side', 7
+'Neighborhood', 'West Village', 1
+'Neighborhood', 'Schuylerville', 1
+'Neighborhood', 'Brooklyn Heights', 1
+'Neighborhood', 'Cambria Heights', 1
+'Neighborhood', 'Roosevelt Island', 1
+'Neighborhood', 'Downtown Brooklyn,', 2
+'Neighborhood', 'Belmont,', 1
+'Neighborhood', 'Melrose,', 11
+'Neighborhood', 'Morrisania,', 5
+'Neighborhood', 'Harlem,', 8
+'Neighborhood', 'Springfield Gardens,', 1
+'Neighborhood', 'Grand Concourse,', 1
+'Neighborhood', 'Inwood,', 1
+'Neighborhood', '",', 1
+'Neighborhood', 'Jamaica,', 3
+'Neighborhood', 'East New York,', 45
+'Neighborhood', 'Soundview,', 1
+'Neighborhood', 'Highland Park,', 1
+'Neighborhood', 'Kingbridge Heights,', 1
+'Neighborhood', 'East Williamsburg,', 1
+'Neighborhood', 'Central Harlem,', 4
+'Neighborhood', 'Ocean Hill / Brownsville,', 1
+'Neighborhood', 'Ozone Park,', 1
+'Neighborhood', 'Tremont,', 1
+'Neighborhood', 'North Flatbush,', 1
+'Neighborhood', 'Forest Hills,', 1
+'Neighborhood', 'Crown Heights,', 7
+'Neighborhood', 'Hunt's Point,', 1
+'Neighborhood', 'Mt. Eden,', 2
+'Neighborhood', 'Brownsville,', 13
+'Neighborhood', 'Red Hook,', 5
+'Neighborhood', 'Bushwick,', 5
+'Neighborhood', 'Far Rockaway,', 3
+'Neighborhood', 'Boerum Hill,', 3
+'Neighborhood', 'West Harlem,', 3
+'Neighborhood', 'Hamilton Heights,', 8
+'Neighborhood', 'Prospect Heights,', 4
+'Neighborhood', 'Park Slope,', 8
+'Neighborhood', 'Kingsbridge Heights,', 1
+'Neighborhood', 'Greenpoint,', 1

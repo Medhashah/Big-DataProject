@@ -1,0 +1,1 @@
+{"column name": "Middle_Initial", "semantic_types": [{"semantic_type": "person_name", "count": 483}, {"semantic_type": "borough", "count": 111}], "true_type": "person_name", "prediction_type": "person_name"}

@@ -1,0 +1,411 @@
+{
+  "dataset_name": "pq5i-thsu",
+  "columns": [
+    {
+      "column_name": "ISN",
+      "number_non_empty_cells": 335174,
+      "number_empty_cells": 0,
+      "number_distinct_values": 335174,
+      "frequent_values": [
+        "272",
+        "273",
+        "274",
+        "275",
+        "276"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 335174,
+          "max_value": 335174,
+          "min_value": 1,
+          "mean": 167587.50000000128,
+          "stddev": 96756.39956225158
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_LOC1",
+      "number_non_empty_cells": 335174,
+      "number_empty_cells": 0,
+      "number_distinct_values": 218272,
+      "frequent_values": [
+        " LINDEN BLVD",
+        " ATLANTIC AVE",
+        " UTICA AVE",
+        " LIBERTY AVE",
+        "E  48 ST"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 169,
+          "max_value": 9678,
+          "min_value": 5,
+          "mean": 1399.4142011834315,
+          "stddev": 1996.0046646580731
+        },
+        {
+          "type": "TEXT",
+          "count": 335005,
+          "shortest_values": [
+            "5",
+            "F",
+            "X",
+            "%%",
+            "1*"
+          ],
+          "longest_values": [
+            "130\u00c3\u00af\u00c2\u00bf\u00c2\u015335 SPRINGFIELD BLVD.",
+            "118\u00c3\u00af\u00c2\u00bf\u00c2\u015329 201ST STREET  BT",
+            "2145 W. 10 ST B\u00c3\u00af\u00c2\u00bf\u00c2\u0153T AVE U",
+            "IFO 106-27  SOUTH RD &\u00c3\u00af\u00c2\u00bf\u00c2\u0153",
+            "AVE '' J '' BT  TROY AVENUE"
+          ],
+          "average_length": 15.575674989925524
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_LOC2",
+      "number_non_empty_cells": 335174,
+      "number_empty_cells": 0,
+      "number_distinct_values": 71144,
+      "frequent_values": [
+        "None",
+        "FOSTER AVENUE",
+        "AVENUE L & AVENUE M",
+        "AVENUE K & AVENUE L",
+        "AVENUE M & AVENUE N"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 22,
+          "max_value": 11428,
+          "min_value": 8,
+          "mean": 4627.909090909091,
+          "stddev": 5356.728079621764
+        },
+        {
+          "type": "TEXT",
+          "count": 335152,
+          "shortest_values": [
+            ".",
+            "8",
+            "9",
+            "C",
+            "D"
+          ],
+          "longest_values": [
+            "AVE & UNION\u00c3\u00af\u00c2\u00bf\u00c2\u0153{J&B AUTO RE",
+            "AVE. '' O '' & AVE. '' P ''.",
+            "AVE. '' T '' & AVE. '' U ''.",
+            "AVENUE ''M'' & AVENUE ''N''.",
+            "B/T: AVENUES ''K'  &  ''L''."
+          ],
+          "average_length": 16.15537726166038
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_MAKE",
+      "number_non_empty_cells": 335174,
+      "number_empty_cells": 0,
+      "number_distinct_values": 6642,
+      "frequent_values": [
+        "NA",
+        "FORD",
+        "HONDA",
+        "NISSAN",
+        "CHEVY"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 105,
+          "max_value": 4136,
+          "min_value": 0,
+          "mean": 1480.8952380952383,
+          "stddev": 881.6215247114078
+        },
+        {
+          "count": 117,
+          "type": "REAL",
+          "max_value": "",
+          "min_value": 0.0,
+          "mean": "",
+          "stddev": ""
+        },
+        {
+          "type": "TEXT",
+          "count": 335057,
+          "shortest_values": [
+            "#",
+            "'",
+            "*",
+            "+",
+            "."
+          ],
+          "longest_values": [
+            "N/A\u00c3\u00af\u00c2\u00bf\u00c2\u0153",
+            "\u0002BMW  ",
+            "  CADA",
+            "  FORD",
+            " BUICK"
+          ],
+          "average_length": 4.569547867974703
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_COLOR",
+      "number_non_empty_cells": 335174,
+      "number_empty_cells": 0,
+      "number_distinct_values": 32,
+      "frequent_values": [
+        "BLACK",
+        "WHITE",
+        "SILVER",
+        "BLUE",
+        "RED"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 335174,
+          "shortest_values": [
+            "NA",
+            "RED",
+            "TAN",
+            "BLUE",
+            "GOLD"
+          ],
+          "longest_values": [
+            "BLACK ",
+            "BLUE  ",
+            "BROWN ",
+            "GOLD  ",
+            "GRAY  "
+          ],
+          "average_length": 4.640052629380561
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_TYPE",
+      "number_non_empty_cells": 335174,
+      "number_empty_cells": 0,
+      "number_distinct_values": 15,
+      "frequent_values": [
+        "4D",
+        "2D",
+        "VN",
+        "NA",
+        "TR"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 335174,
+          "shortest_values": [
+            "2D",
+            "4D",
+            "BS",
+            "BX",
+            "HE"
+          ],
+          "longest_values": [
+            "2D",
+            "4D",
+            "BS",
+            "BX",
+            "HE"
+          ],
+          "average_length": 2.0
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_REMARKS1",
+      "number_non_empty_cells": 335174,
+      "number_empty_cells": 0,
+      "number_distinct_values": 158032,
+      "frequent_values": [
+        "None",
+        "N/A 4 DOOR VEHICLE",
+        "N/A VAN",
+        "N/A 2 DOOR VEHICLE",
+        "N/A TRUCK"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 21,
+          "max_value": 8888888888888888888888888,
+          "min_value": 0,
+          "mean": 4.2328042328042654e+23,
+          "stddev": 1.8929675999998206e+24
+        },
+        {
+          "count": 27,
+          "type": "REAL",
+          "max_value": "",
+          "min_value": 0.0,
+          "mean": "",
+          "stddev": ""
+        },
+        {
+          "type": "TEXT",
+          "count": 335147,
+          "shortest_values": [
+            ".",
+            "1",
+            "2",
+            "3",
+            "7"
+          ],
+          "longest_values": [
+            "''4 STOP TOWING'' 4 DOOR VE",
+            "''AFN INTERNATIONAL'' ON SI",
+            "''ALERO'' IS THE MODEL; BEE",
+            "''BAKKER TOWING TRUCK''ACRO",
+            "''BAKKER TOWING''ACROSS FRO"
+          ],
+          "average_length": 17.72112834069826
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_REMARKS2",
+      "number_non_empty_cells": 335174,
+      "number_empty_cells": 0,
+      "number_distinct_values": 111881,
+      "frequent_values": [
+        "None",
+        "R VEHICLE",
+        "OR VEHICLE",
+        "E",
+        "VEHICLE"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 120,
+          "max_value": 8888888888888888888888888,
+          "min_value": -2005,
+          "mean": 7.40740740740742e+22,
+          "stddev": 8.080527492322752e+23
+        },
+        {
+          "count": 139,
+          "type": "REAL",
+          "max_value": 8.888888888888889e+24,
+          "min_value": -2005.0,
+          "mean": 6.39488409272583e+22,
+          "stddev": 7.512287849381763e+23
+        },
+        {
+          "type": "TEXT",
+          "count": 335035,
+          "shortest_values": [
+            " ",
+            "#",
+            "'",
+            ")",
+            "-"
+          ],
+          "longest_values": [
+            "VEHICLE COVERED\u001a\u00c3\u00af\u00c2\u00bf\u00c2\u0153\u001a\u00c3\u00af\u00c2\u00bf\u00c2\u0153\u001a\u00c3\u00af\u00c2\u00bf\u00c2\u0153 ",
+            "  ''DCAP INSURANCE''. 4 DOO",
+            "  NO PLATES ''FOR SALE'' VA",
+            " ''ANGEL AERIAL''8005039240",
+            " ''FOR SALE''. 2 DOOR VEHIC"
+          ],
+          "average_length": 10.906397839031744
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_DIST_CD",
+      "number_non_empty_cells": 335174,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1,
+      "frequent_values": [
+        "None"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 335174,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ],
+          "average_length": 4.0
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_CALL_DT_TIME",
+      "number_non_empty_cells": 335174,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1,
+      "frequent_values": [
+        "None"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 335174,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ],
+          "average_length": 4.0
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_TAG_NO",
+      "number_non_empty_cells": 335174,
+      "number_empty_cells": 0,
+      "number_distinct_values": 102813,
+      "frequent_values": [
+        "BKE0203",
+        "BKE3911",
+        "BKE0214",
+        "BKE0215",
+        "BKE0216"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 335174,
+          "shortest_values": [
+            "BKE0001",
+            "BKE0002",
+            "BKE0003",
+            "BKE0004",
+            "BKE0005"
+          ],
+          "longest_values": [
+            "BKE0001",
+            "BKE0002",
+            "BKE0003",
+            "BKE0004",
+            "BKE0005"
+          ],
+          "average_length": 7.0
+        }
+      ]
+    }
+  ],
+  "key_column_candidates": [
+    "ISN"
+  ]
+}

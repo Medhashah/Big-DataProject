@@ -1,0 +1,1 @@
+Steps to run task1:1. Import task1 folder into your machine2. Change mode of loadfile.sh to executable (> chmod 777 loadfile.sh)3. Run the loadfile.sh (>./loadfile.sh)

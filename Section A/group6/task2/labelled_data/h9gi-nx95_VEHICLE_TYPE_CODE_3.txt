@@ -1,0 +1,139 @@
+'Vehicle Type', 'trail', 2
+'Vehicle Type', 'School Bus', 1
+'Vehicle Type', 'Station Wagon/Sport Utility Vehicle', 7792
+'Vehicle Type', 'RF', 1
+'Vehicle Type', 'Flat Bed', 24
+'Vehicle Type', 'Bike', 84
+'Vehicle Type', 'van', 7
+'Vehicle Type', 'PM', 1
+'Vehicle Type', 'Chassis Cab', 5
+'Vehicle Type', 'Tractor Truck Diesel', 81
+'Vehicle Type', 'PASSENGER VEHICLE', 63655
+'Vehicle Type', 'box t', 1
+'Vehicle Type', 'AM', 2
+'Vehicle Type', 'SMALL COM VEH(4 TIRES)', 479
+'Vehicle Type', 'deliv', 2
+'Vehicle Type', 'Tract', 1
+'Vehicle Type', 'AMBUL', 8
+'Vehicle Type', 'BUS', 403
+'Vehicle Type', 'Pallet', 1
+'Vehicle Type', 'Tanker', 2
+'Vehicle Type', 'Pickup with mounted Camper', 1
+'Vehicle Type', 'back', 1
+'Vehicle Type', 'Motorcycle', 92
+'Vehicle Type', 'COM', 1
+'Vehicle Type', 'Convertible', 58
+'Vehicle Type', 'BU', 63
+'Vehicle Type', 'LF', 1
+'Vehicle Type', 'scoot', 1
+'Vehicle Type', '4 dr sedan', 42
+'Vehicle Type', 'FLATB', 1
+'Vehicle Type', '4DSD', 6
+'Vehicle Type', 'None', 0
+'Vehicle Type', 'frieg', 1
+'Vehicle Type', 'LL', 4
+'Vehicle Type', 'VAN`', 1
+'Vehicle Type', 'GG', 5
+'Vehicle Type', 'VAN', 1489
+'Vehicle Type', 'SCHOO', 2
+'Vehicle Type', 'SCOOT', 2
+'Vehicle Type', 'Motorscooter', 7
+'Vehicle Type', 'GRAY', 1
+'Vehicle Type', 'TAXI', 3218
+'Vehicle Type', 'DIRT-', 1
+'Vehicle Type', 'DUMPS', 1
+'Vehicle Type', 'tow', 2
+'Vehicle Type', 'PK', 23
+'Vehicle Type', 'Sedan', 9457
+'Vehicle Type', 'bsd', 1
+'Vehicle Type', 'Util', 1
+'Vehicle Type', 'DELIV', 1
+'Vehicle Type', 'FIRE TRUCK', 27
+'Vehicle Type', 'Stake or Rack', 2
+'Vehicle Type', 'VT', 1
+'Vehicle Type', 'Tow Truck', 2
+'Vehicle Type', 'MD', 1
+'Vehicle Type', 'FOOD', 2
+'Vehicle Type', 'FB', 6
+'Vehicle Type', '3D', 1
+'Vehicle Type', 'TR', 6
+'Vehicle Type', 'P/SH', 1
+'Vehicle Type', 'TRUCK', 6
+'Vehicle Type', 'MB', 2
+'Vehicle Type', 'Taxi', 597
+'Vehicle Type', 'Truck', 1
+'Vehicle Type', 'Garbage or Refuse', 12
+'Vehicle Type', '38AB-', 1
+'Vehicle Type', 'TRIAL', 1
+'Vehicle Type', 'LARGE COM VEH(6 OR MORE TIRES)', 448
+'Vehicle Type', 'BOX T', 1
+'Vehicle Type', 'PAS,', 3
+'Vehicle Type', 'Ambulance,', 9
+'Vehicle Type', 'UNKNOWN,', 3285
+'Vehicle Type', 'forkl,', 1
+'Vehicle Type', 'Box Truck,', 177
+'Vehicle Type', 'PEDICAB,', 6
+'Vehicle Type', '-Door,', 3
+'Vehicle Type', 'CM,', 1
+'Vehicle Type', 'ambul,', 2
+'Vehicle Type', 'AMBULANCE,', 25
+'Vehicle Type', 'CONV,', 16
+'Vehicle Type', 'TN,', 1
+'Vehicle Type', 'Multi-Wheeled Vehicle,', 2
+'Vehicle Type', 'BOOM,', 1
+'Vehicle Type', 'Ambul,', 1
+'Vehicle Type', '2 dr sedan,', 1
+'Vehicle Type', 'DIRT,', 1
+'Vehicle Type', 'MOTORCYCLE,', 464
+'Vehicle Type', 'Beverage Truck,', 1
+'Vehicle Type', 'POSTA,', 1
+'Vehicle Type', 'TRAIL,', 9
+'Vehicle Type', 'PICK-UP TRUCK,', 2292
+'Vehicle Type', 'Trail,', 4
+'Vehicle Type', 'Tractor Truck Gasoline,', 16
+'Vehicle Type', 'MV,', 1
+'Vehicle Type', 'SPORT UTILITY / STATION WAGON,', 33161
+'Vehicle Type', 'Van,', 74
+'Vehicle Type', 'Open Body,', 1
+'Vehicle Type', 'BLUE,', 1
+'Vehicle Type', 'E-Bik,', 2
+'Vehicle Type', 'tract,', 1
+'Vehicle Type', 'Bus,', 115
+'Vehicle Type', 'OTHER,', 1108
+'Vehicle Type', 'Fire,', 1
+'Vehicle Type', 'White,', 1
+'Vehicle Type', 'Armored Truck,', 1
+'Vehicle Type', 'OMNIB,', 1
+'Vehicle Type', 'Pedicab,', 3
+'Vehicle Type', 'Pick-up Truck,', 530
+'Vehicle Type', 'CB,', 2
+'Vehicle Type', 'Freig,', 1
+'Vehicle Type', 'BICYCLE,', 533
+'Vehicle Type', 'Sanit,', 1
+'Vehicle Type', 'Tow Truck / Wrecker,', 15
+'Vehicle Type', 'DS,', 33
+'Vehicle Type', 'TOW T,', 1
+'Vehicle Type', 'MOPED,', 1
+'Vehicle Type', 'unkno,', 2
+'Vehicle Type', 'Bulk Agriculture,', 1
+'Vehicle Type', 'hrse,', 1
+'Vehicle Type', 'RV,', 1
+'Vehicle Type', 'Lift Boom,', 1
+'Vehicle Type', 'TT,', 6
+'Vehicle Type', 'Motorbike,', 10
+'Vehicle Type', 'TRL,', 1
+'Vehicle Type', 'Flat Rack,', 1
+'Vehicle Type', 'AR,', 1
+'Vehicle Type', 'TRACT,', 1
+'Vehicle Type', 'Dump,', 16
+'Vehicle Type', 'TK,', 73
+'Vehicle Type', 'tank,', 1
+'Vehicle Type', 'Carry All,', 3
+'Vehicle Type', 'VN,', 25
+'Vehicle Type', 'Moped,', 7
+'Vehicle Type', 'FDNY,', 1
+'Vehicle Type', 'UNKNO,', 1
+'Vehicle Type', 'LIVERY VEHICLE,', 424
+'Vehicle Type', 'SCOOTER,', 13
+'Vehicle Type', 'DP,', 6
+'Vehicle Type', 'p/sh,', 1

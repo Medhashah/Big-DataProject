@@ -1,0 +1,1057 @@
+{
+  "dataset_name": "e25p-jzfy",
+  "columns": [
+    {
+      "column_name": "OBJ_OBTYPE",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 10,
+      "frequent_values": [
+        "A",
+        "S",
+        "T",
+        "W",
+        "F"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "*",
+            "A",
+            "C",
+            "E",
+            "F"
+          ],
+          "longest_values": [
+            "*",
+            "A",
+            "C",
+            "E",
+            "F"
+          ],
+          "average_length": 1.0
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_CODE",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 119636,
+      "frequent_values": [
+        "B223PA",
+        "*",
+        "10001",
+        "10002",
+        "10003"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 50432,
+          "max_value": 66466274751,
+          "min_value": 503,
+          "mean": 980607394.3248978,
+          "stddev": 2468307608.0864115
+        },
+        {
+          "type": "TEXT",
+          "count": 69205,
+          "shortest_values": [
+            "*",
+            "-",
+            "B",
+            "M",
+            "Q"
+          ],
+          "longest_values": [
+            "B058-ZN01-BLG0984-FILTER PLANT",
+            "B058-ZN01-BLG0984-FIT RM STG 1",
+            "B058-ZN01-BLG0984-FIT RM STG 3",
+            "B058-ZN01-BLG0984-MS STAFF LKR",
+            "B058-ZN01-BLG0984-STAFF OFFICE"
+          ],
+          "average_length": 16.08801387183007
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_DESC",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 79871,
+      "frequent_values": [
+        "Cisco IP Phone 8841k",
+        "Dell PC 390",
+        "DELL P2214H LCD 22''",
+        "GREENSTREET",
+        "Dell OptiPlex 3020"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 3284,
+          "max_value": 9292179619,
+          "min_value": 2,
+          "mean": 5008441272.638852,
+          "stddev": 2515359575.4189663
+        },
+        {
+          "type": "TEXT",
+          "count": 116353,
+          "shortest_values": [
+            "-",
+            "2",
+            "A",
+            "B",
+            "C"
+          ],
+          "longest_values": [
+            "Life Fitness 95T Achieve \u00c2\u00a0Treadmill \u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0",
+            "Life Fitness Multi Adjustable Bench \u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0",
+            "Life Fitness Multi Adjustable Bench\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0",
+            "Central Park-Belvedere Castle, Turtle Pond, & Shakespeare Grdn-FIREHYDRANT-10526",
+            "Central Park-Belvedere Castle, Turtle Pond, & Shakespeare Grdn-FIREHYDRANT-10527"
+          ],
+          "average_length": 24.17252670751936
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_CLASS",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 113,
+      "frequent_values": [
+        "None",
+        "SIGNS",
+        "CENTROID",
+        "COMPUTER",
+        "WIRELESS"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "AC",
+            "FE",
+            "AHU",
+            "GYM",
+            "HWH"
+          ],
+          "longest_values": [
+            "ACCESSPT",
+            "BASEBALL",
+            "BSKTBALL",
+            "BUILDING",
+            "CATCHBSN"
+          ],
+          "average_length": 5.746775663047385
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_CATEGORY",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 56,
+      "frequent_values": [
+        "None",
+        "N-CONFSTA-GREENST",
+        "CARDIO",
+        "N-CONFSTA-PARK",
+        "FIRE-HYDT"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "SAW",
+            "None",
+            "AUGER",
+            "EDGER",
+            "CARDIO"
+          ],
+          "longest_values": [
+            "LAWN MOWER - SELF PROPELLED",
+            "LEAF BLOWER - HAND HELD",
+            "LEAF BLOWER - BACKPACK",
+            "WEED TRIMMER - PUSH",
+            "LEAF BLOWER - PUSH"
+          ],
+          "average_length": 4.787900064361359
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_POSITION",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 67,
+      "frequent_values": [
+        "None",
+        "M-RS-SE",
+        "X-RS-SE",
+        "Q-RS-SE",
+        "B-RS-SE"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "None",
+            "B-01-SE",
+            "B-02-SE",
+            "B-03-SE",
+            "B-04-SE"
+          ],
+          "longest_values": [
+            "5B-RS-SE",
+            "M-11R-SE",
+            "Q-05A-SE",
+            "X-15A-SE",
+            "B-01-SE"
+          ],
+          "average_length": 4.0277338950324735
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_PARENT",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 3584,
+      "frequent_values": [
+        "None",
+        "M010",
+        "Q099",
+        "X092",
+        "X039"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "M",
+            "Q",
+            "R",
+            "BR",
+            "MR"
+          ],
+          "longest_values": [
+            "Q099-BLG0536-QN FORESTRY",
+            "B028-GLF0007-BLG0001",
+            "M010-ZN10+11-BLG0715",
+            "M010-ZN12+13-BLG0716",
+            "M010-ZN12+13-BLG0718"
+          ],
+          "average_length": 4.294666365756413
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_MANUFACT",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 170,
+      "frequent_values": [
+        "None",
+        "ECHO",
+        "LIFE FITNESS",
+        "PRECOR",
+        "CYBEX"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "DR",
+            "BIF",
+            "EMI",
+            "KEE",
+            "PVI"
+          ],
+          "longest_values": [
+            "CAMPBELL FIRE PROTECTION",
+            "AMERICAN FIRE CONTROL",
+            "BRIGGS AND STRATTON",
+            "AO SMITH LW-500",
+            "BUFFALO TURBINE"
+          ],
+          "average_length": 4.118700736394259
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_MRC",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 230,
+      "frequent_values": [
+        "*",
+        "M",
+        "Q",
+        "X",
+        "B"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "*",
+            "B",
+            "M",
+            "Q",
+            "R"
+          ],
+          "longest_values": [
+            "5BORO-CW-SVC",
+            "5BORO-MO",
+            "TELECOMM",
+            "5-BORO",
+            "B-POOL"
+          ],
+          "average_length": 2.4917792990462817
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_SERIALNO",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 19970,
+      "frequent_values": [
+        "None",
+        "9120056500444",
+        "NOT PROVIDED ON FORM",
+        "740617126822",
+        "650590176465"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 2153,
+          "max_value": 990286363501369,
+          "min_value": 1,
+          "mean": 5814719634398.158,
+          "stddev": 50377509459212.57
+        },
+        {
+          "count": 2183,
+          "type": "REAL",
+          "max_value": "",
+          "min_value": 1.0,
+          "mean": "",
+          "stddev": ""
+        },
+        {
+          "type": "TEXT",
+          "count": 117454,
+          "shortest_values": [
+            "3",
+            "4",
+            "6",
+            "Q",
+            "01"
+          ],
+          "longest_values": [
+            "CDL-00007737719200E00A-10B5019",
+            "FCF-0071401E22PF00H06 0HB70156",
+            "ffq00000000q37g00214088502061a",
+            "AB34A13150001 & ANAJA08150007",
+            "AB34B17150005 & ANAJA08150006"
+          ],
+          "average_length": 5.5235666729102455
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_STATUS",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 6,
+      "frequent_values": [
+        "I",
+        "EO",
+        "D",
+        "S",
+        "RMA"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "D",
+            "I",
+            "S",
+            "EO",
+            "RIH"
+          ],
+          "longest_values": [
+            "RIH",
+            "RMA",
+            "EO",
+            "D",
+            "I"
+          ],
+          "average_length": 1.3334754298419385
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_COMMISS",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 2592,
+      "frequent_values": [
+        "Sep  4 2015 12:00AM",
+        "Mar  5 2015 12:00AM",
+        "Mar  3 2015 12:00AM",
+        "Jan  7 2010 12:00AM",
+        "Oct  6 2017 12:00AM"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "None",
+            "Apr  1 1987 12:00AM",
+            "Apr  1 1989 12:00AM",
+            "Apr  1 1998 12:00AM",
+            "Apr  1 1999 12:00AM"
+          ],
+          "longest_values": [
+            "Apr  1 1987 12:00AM",
+            "Apr  1 1989 12:00AM",
+            "Apr  1 1998 12:00AM",
+            "Apr  1 1999 12:00AM",
+            "Apr  1 2001 12:00AM"
+          ],
+          "average_length": 18.999874620727702
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_WITHDRAW",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 605,
+      "frequent_values": [
+        "None",
+        "Sep  4 2015 12:00AM",
+        "Oct  6 2017  4:53PM",
+        "Sep 12 2018 12:00AM",
+        "Oct  9 2014 12:00AM"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "None",
+            "Apr  1 2010 12:00AM",
+            "Apr  1 2019 12:00AM",
+            "Apr  2 2018 12:00AM",
+            "Apr  3 2012  9:07AM"
+          ],
+          "longest_values": [
+            "Apr  1 2010 12:00AM",
+            "Apr  1 2019 12:00AM",
+            "Apr  2 2018 12:00AM",
+            "Apr  3 2012  9:07AM",
+            "Apr  3 2013 12:00AM"
+          ],
+          "average_length": 9.762682113393014
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_RECORD",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 11343,
+      "frequent_values": [
+        "Oct  6 2017  4:53PM",
+        "Sep  4 2015  5:55PM",
+        "Sep  4 2015  5:59PM",
+        "Sep  4 2015  6:03PM",
+        "Sep  4 2015  5:52PM"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "Apr  1 2016  1:41PM",
+            "Apr  1 2019  1:01PM",
+            "Apr  1 2019  1:02PM",
+            "Apr  1 2019  1:03PM",
+            "Apr  1 2019  1:04PM"
+          ],
+          "longest_values": [
+            "Apr  1 2016  1:41PM",
+            "Apr  1 2019  1:01PM",
+            "Apr  1 2019  1:02PM",
+            "Apr  1 2019  1:03PM",
+            "Apr  1 2019  1:04PM"
+          ],
+          "average_length": 19.0
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_NOTUSED",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 3,
+      "frequent_values": [
+        "-",
+        "None",
+        "+"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "+",
+            "-",
+            "None"
+          ],
+          "longest_values": [
+            "None",
+            "+",
+            "-"
+          ],
+          "average_length": 1.975902103864189
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_MANUFACTMODEL",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1861,
+      "frequent_values": [
+        "None",
+        "Cisco IP Phone 8841K",
+        "Dell PC 390",
+        "DELL P2214H LCD 22''",
+        "Dell OptiPlex 3020"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 459,
+          "max_value": 1601635420,
+          "min_value": 8,
+          "mean": 3824232.7233115463,
+          "stddev": 74671466.50202964
+        },
+        {
+          "count": 891,
+          "type": "REAL",
+          "max_value": 9613120048.1,
+          "min_value": 8.0,
+          "mean": 12759214.070785636,
+          "stddev": 326242840.2596012
+        },
+        {
+          "type": "DATE/TIME",
+          "count": 6,
+          "max_value": "9270-03-01T00:00:00",
+          "min_value": "9270-02-01T00:00:00"
+        },
+        {
+          "type": "TEXT",
+          "count": 118740,
+          "shortest_values": [
+            "8",
+            "D",
+            "S",
+            "25",
+            "35"
+          ],
+          "longest_values": [
+            "\"Lilliput Full HD 7\"\" Field Moni\"",
+            "Dell Alienware Intel\u00c2\u00ae Core\u00e2\u0084\u00a2 i7",
+            "\"Dell monitors 24\"\" P/N P2417H\"",
+            "\"Dell UltraSharp 24\"\" Monitor\"",
+            "94 Boiler, model 1394,series 3"
+          ],
+          "average_length": 5.741780360451407
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_VALUE",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 281,
+      "frequent_values": [
+        "None",
+        "310.0",
+        "950.0",
+        "169.0",
+        "895.0"
+      ],
+      "data_types": [
+        {
+          "count": 929,
+          "type": "REAL",
+          "max_value": 16238.0,
+          "min_value": 0.0,
+          "mean": 606.0082992465013,
+          "stddev": 776.7339162153669
+        },
+        {
+          "type": "TEXT",
+          "count": 118708,
+          "shortest_values": [
+            "0.0",
+            "None",
+            "109.0",
+            "121.5",
+            "129.0"
+          ],
+          "longest_values": [
+            "1349.96",
+            "16238.0",
+            "2008.23",
+            "2549.95",
+            "2719.15"
+          ],
+          "average_length": 4.04114297267244
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_UPDATED",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 11316,
+      "frequent_values": [
+        "None",
+        "Oct  6 2017  4:53PM",
+        "Oct  9 2015 12:57PM",
+        "Dec 31 2018  2:22PM",
+        "Dec 31 2018  2:23PM"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "None",
+            "Apr  1 2016  1:41PM",
+            "Apr  1 2019  1:01PM",
+            "Apr  1 2019  1:02PM",
+            "Apr  1 2019  1:03PM"
+          ],
+          "longest_values": [
+            "Apr  1 2016  1:41PM",
+            "Apr  1 2019  1:01PM",
+            "Apr  1 2019  1:02PM",
+            "Apr  1 2019  1:03PM",
+            "Apr  1 2019  1:04PM"
+          ],
+          "average_length": 14.120489480679055
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_UPDATECOUNT",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 52,
+      "frequent_values": [
+        "0",
+        "1",
+        "2",
+        "5",
+        "4"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 119637,
+          "max_value": 52,
+          "min_value": 0,
+          "mean": 2.7066208614392497,
+          "stddev": 5.185307622916421
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_GISOBJID",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 46821,
+      "frequent_values": [
+        "None",
+        "100015941",
+        "100015940",
+        "100015939",
+        "100015938"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 46820,
+          "max_value": 100042624,
+          "min_value": 1,
+          "mean": 89485488.93823124,
+          "stddev": 30704879.514346447
+        },
+        {
+          "type": "TEXT",
+          "count": 72817,
+          "shortest_values": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "longest_values": [
+            "100000000",
+            "100000001",
+            "100000002",
+            "100000003",
+            "100000004"
+          ],
+          "average_length": 9.432975816086902
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_SQLIDENTITY",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 119637,
+      "frequent_values": [
+        "1",
+        "265",
+        "266",
+        "267",
+        "268"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 119637,
+          "max_value": 120804,
+          "min_value": 1,
+          "mean": 60215.03569129895,
+          "stddev": 34725.929077455294
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_GISLAYER",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 25,
+      "frequent_values": [
+        "None",
+        "Signs",
+        "PlayEquipment",
+        "AMPS Centroids",
+        "DrinkingFountain"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "None",
+            "Park",
+            "Zone",
+            "Beach",
+            "Signs"
+          ],
+          "longest_values": [
+            "DrinkingFountain",
+            "Ice Skating Rink",
+            "Inspection Zones",
+            "PlayUnitFeatures",
+            "Inspection Zone"
+          ],
+          "average_length": 6.468868326688232
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_XLOCATION",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 39449,
+      "frequent_values": [
+        "None",
+        "998246.7466",
+        "1000514.601317",
+        "983749.618114",
+        "1047905.443214"
+      ],
+      "data_types": [
+        {
+          "count": 46692,
+          "type": "REAL",
+          "max_value": 1066850.51556,
+          "min_value": 0.0,
+          "mean": 1007989.6465091056,
+          "stddev": 25153.256561382845
+        },
+        {
+          "type": "TEXT",
+          "count": 72945,
+          "shortest_values": [
+            "0.0",
+            "None",
+            "992118.0",
+            "1028863.0",
+            "1004335.49"
+          ],
+          "longest_values": [
+            "1000001.672224",
+            "1000001.872027",
+            "1000002.897944",
+            "1000002.999978",
+            "1000003.212576"
+          ],
+          "average_length": 12.657111522379875
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_YLOCATION",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 39453,
+      "frequent_values": [
+        "None",
+        "219737.30795",
+        "218127.052312",
+        "209524.346749",
+        "189188.538995"
+      ],
+      "data_types": [
+        {
+          "count": 46692,
+          "type": "REAL",
+          "max_value": 271157.385556,
+          "min_value": 0.0,
+          "mean": 205672.0386710412,
+          "stddev": 31570.4812396651
+        },
+        {
+          "type": "TEXT",
+          "count": 72945,
+          "shortest_values": [
+            "0.0",
+            "None",
+            "170562.8",
+            "181783.0",
+            "224926.0"
+          ],
+          "longest_values": [
+            "120688.407295",
+            "120790.466474",
+            "120812.999893",
+            "120814.038933",
+            "121015.412546"
+          ],
+          "average_length": 12.248611967921036
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_UDFCHAR01",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 140,
+      "frequent_values": [
+        "None",
+        "Verizon",
+        "Q-GH",
+        "CHIEF EQUIPMENT",
+        "Q-07A"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "CCD",
+            "HHT",
+            "M&D",
+            "Q-F",
+            "Q-G"
+          ],
+          "longest_values": [
+            "BOONTON POWER EQUIPMENT INC",
+            "GAITHERSBURG FARMERS SUPPLY",
+            "LIFCO INC, POWER EQUIPMENT",
+            "LIFCO INC. POWER EQUIPMENT",
+            "LIFCO, INC POWER EQUIPMENT"
+          ],
+          "average_length": 4.169780251928751
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_UDFCHAR02",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 4,
+      "frequent_values": [
+        "None",
+        "A",
+        "C",
+        "B"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "A",
+            "B",
+            "C",
+            "None"
+          ],
+          "longest_values": [
+            "None",
+            "A",
+            "B",
+            "C"
+          ],
+          "average_length": 3.9188796108227386
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_UDFCHAR05",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 199,
+      "frequent_values": [
+        "None",
+        "DOITT44311801972-01ITT",
+        "20125402731",
+        "005 - Spanish/Chinese",
+        "001 - Spanish/French"
+      ],
+      "data_types": [
+        {
+          "type": "INTEGER (LONG)",
+          "count": 5246,
+          "max_value": 201914277980,
+          "min_value": 18434,
+          "mean": 20652748967.708622,
+          "stddev": 11628659415.942059
+        },
+        {
+          "type": "TEXT",
+          "count": 114391,
+          "shortest_values": [
+            "NA",
+            "na",
+            "N/A",
+            "None",
+            "18434"
+          ],
+          "longest_values": [
+            "007 - Spanish/French Creole",
+            "003 - Spanish/Albanian",
+            "DOITT44311801972-01ITT",
+            "Spanish/Chinese/French",
+            "Spanish/Polish/Yiddish"
+          ],
+          "average_length": 5.507837155020937
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_UDFCHAR06",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 44,
+      "frequent_values": [
+        "None",
+        "ORANGE/BLACK",
+        "GRAY/BLACK",
+        "RED/BLACK",
+        "GREEN/BLACK"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "RED",
+            "BLUE",
+            "GRAY",
+            "None",
+            "BLACK"
+          ],
+          "longest_values": [
+            "GRAY/ORANGE/BLACK",
+            "ORANGE/BLACK/GRAY",
+            "BLACK/RED/YELLOW",
+            "YELLOW/BLACK/RED",
+            "BLACK/RED/WHITE"
+          ],
+          "average_length": 4.053336342435869
+        }
+      ]
+    },
+    {
+      "column_name": "OBJ_CREATED",
+      "number_non_empty_cells": 119637,
+      "number_empty_cells": 0,
+      "number_distinct_values": 4343,
+      "frequent_values": [
+        "None",
+        "Dec 22 2017  2:57PM",
+        "Dec 22 2017  2:56PM",
+        "Dec 22 2017  2:58PM",
+        "Dec 22 2017  2:59PM"
+      ],
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 119637,
+          "shortest_values": [
+            "None",
+            "Apr  1 2019 11:14AM",
+            "Apr  1 2019 11:17AM",
+            "Apr  1 2019 11:18AM",
+            "Apr  1 2019 11:20AM"
+          ],
+          "longest_values": [
+            "Apr  1 2019 11:14AM",
+            "Apr  1 2019 11:17AM",
+            "Apr  1 2019 11:18AM",
+            "Apr  1 2019 11:20AM",
+            "Apr  1 2019 11:22AM"
+          ],
+          "average_length": 9.729832744050753
+        }
+      ]
+    }
+  ],
+  "key_column_candidates": [
+    "OBJ_SQLIDENTITY"
+  ]
+}

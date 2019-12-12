@@ -1,0 +1,1 @@
+{"column name": "TruckMake", "semantic_types": [{"semantic_type": "other", "label": "car_make", "count": 89235}, {"semantic_type": "car_make", "count": 28838}, {"semantic_type": "color", "count": 1444}, {"semantic_type": "city", "count": 17}, {"semantic_type": "building_classification", "count": 2}], "true_type": "car_make", "prediction_type": "car_make"}

@@ -1,0 +1,887 @@
+'Address', '250 West 65th Street', 1
+'Address', '12 West 21st Street', 1
+'Address', 'P.O.B. 843, FDR Station', 1
+'Address', '17603 Jamaica Avenue', 1
+'Address', '666 Broadway, 7th Fl.', 1
+'Address', '1435 Prospect Place', 1
+'Address', '27 Christopher St.', 1
+'Address', '49-06 Skillman Avenue', 1
+'Address', '133-25 Guy R. Brewer Boulevard', 1
+'Address', '35-20 Broadway, 4th Floor', 1
+'Address', '117-11 Myrtle Ave.', 1
+'Address', '872 Gerard Avenue, # 2', 1
+'Address', '260 Beach 116th Street', 1
+'Address', '1275 York Ave', 1
+'Address', '2523 Olinville Avenue', 1
+'Address', '150 W. 28th St.reet, Suite 307', 1
+'Address', '110 Second Ave.', 1
+'Address', '121 West 27 St., #301', 1
+'Address', '130 East 59th St.', 1
+'Address', '122 East 42nd Street, SUite 1100', 1
+'Address', '81-15 164th Street', 1
+'Address', '15 Elk Street', 1
+'Address', 'NYC Department of Consumer Affairs', 1
+'Address', '1 Centre Street', 1
+'Address', '105-29B Metropolitan Ave. (entrance 62nd Road)', 1
+'Address', '3300 Coney Island Avenue', 1
+'Address', '525 E 68th St Box 156', 1
+'Address', 'Westchester County Airport, One Loop Road', 1
+'Address', '893 Amsterdam Ave.', 1
+'Address', '113 Rogers Ave', 1
+'Address', 'P.O. Box 3112', 1
+'Address', '1233 Second Avenue', 1
+'Address', '133-54 41st Avenue, 4 Fl', 1
+'Address', 'PO Box 30954', 1
+'Address', '185-14 Hillside Avenue', 1
+'Address', '148-150 Huron Street', 1
+'Address', '105 East 22nd Street, 6th Fl.', 1
+'Address', '356 West 123rd St', 1
+'Address', '109 East 50 Street', 1
+'Address', '733 Third Avenue, 3rd Floor', 1
+'Address', '138-15 Franklin Ave. Suite 610', 1
+'Address', '1395 Lexington Ave.', 1
+'Address', '451 West St.', 1
+'Address', 'Oriental Blvd., Manhattan Beach', 1
+'Address', '2805 University Avenue', 1
+'Address', '86-17 105th St.', 1
+'Address', 'PO BOX 23505', 1
+'Address', '120 Wall Street, 33rd Floor', 1
+'Address', '157 Montague St.', 1
+'Address', '62-04 Myrtle Avenue', 1
+'Address', '123 7th Ave PMB 284', 1
+'Address', '201 Varick Street, Room 602', 1
+'Address', 'POBox 231240 Ansonia Station', 1
+'Address', '220 E. 4th Street (A&B)', 1
+'Address', '800 Poly Place', 1
+'Address', '485 Clawson Street', 1
+'Address', '33-16 108th Street', 1
+'Address', '16 W. 32nd Street', 1
+'Address', '811 Morris Park Avenue', 1
+'Address', '127 Broad St., 18th Fl.', 1
+'Address', '525 Parkside Avenue', 1
+'Address', '8 W. 38th Street, 9th floor', 1
+'Address', '419 East 86 Street', 1
+'Address', '2 Astor Pl., 3rd Fl.', 1
+'Address', '1416 Avenue M', 1
+'Address', 'CUNY School of Law', 1
+'Address', '370 New Lots Avenue', 1
+'Address', '777 U. N. Plaza, 7th Fl.', 1
+'Address', '10-25 41st Avenue', 1
+'Address', '154 Christopher Street, 3C', 1
+'Address', '147-32 Jamaica Ave', 1
+'Address', 'PO Box 270239', 1
+'Address', '80 Wall Street, Suite 41B', 1
+'Address', '260 68th Street', 1
+'Address', '203 Second Ave.', 1
+'Address', '156 Rivington St.', 1
+'Address', '150 Court Street, 3rd Floor', 2
+'Address', '115 W 30th St.', 1
+'Address', '111 East 59th Street', 1
+'Address', '120 Wall Street', 3
+'Address', '80 Jamaica Ave 3rd Floor', 1
+'Address', '519 West 189th Street', 1
+'Address', '135 Parkinson Avenue', 1
+'Address', '3 W. 29th St.', 1
+'Address', '2335 Bergen Avenue', 1
+'Address', '216 East 45th Street, Suite 901', 1
+'Address', '80-02 Kew Gardens Road, Suite 202', 1
+'Address', '149 East 78th Street', 1
+'Address', '25 Pepperidge Road', 1
+'Address', '85 South Oxford St.', 1
+'Address', '97-45 Queens Boulevard, 12th Floor', 1
+'Address', '75 Varick Street, Suite 1404', 1
+'Address', '494 Eighth Avenue', 1
+'Address', '2303 Bergen Avenue', 1
+'Address', 'PO Box 205037 Sunset Station', 1
+'Address', '50 Broad Street - Suite 1825', 1
+'Address', '2001 Oriental Blvd.', 1
+'Address', '66 Chestnut St.', 1
+'Address', '30-50 Whitestone Expressway', 1
+'Address', '5521 Mosholu Avenue', 1
+'Address', '132 West 32nd Street', 1
+'Address', 'P.O. Box 133', 1
+'Address', '90-04 161st Street, Suite 401', 1
+'Address', '25 West 45th Street, Suite 1001', 1
+'Address', '505 Eighth Avenue, Suite 902', 1
+'Address', '103-06 39th Ave.', 1
+'Address', '237 E. 104th Street', 1
+'Address', '37-22 82 Street', 1
+'Address', '75-01 Broadway, 3rd floor', 1
+'Address', '441 Lexington Ave, PH', 1
+'Address', '105 Chambers St., Suite 5A', 1
+'Address', '443 West 125th Street', 1
+'Address', '575 8th Avenue, 4th Floor', 1
+'Address', '25 Patchen Ave Apt. 3F', 1
+'Address', '7403 18th Avenue', 1
+'Address', '900 Grand Concourse', 1
+'Address', '571 McDonald Ave', 1
+'Address', '1501 Broadway', 1
+'Address', '2054 Morris Avenue', 1
+'Address', '11 Penn Plaza', 1
+'Address', '366 HEWES STREET', 1
+'Address', '305 Seventh Avenue', 1
+'Address', '42-07 Parsons Blvd.', 1
+'Address', '489 East 169th Street', 1
+'Address', '170 Forsyth Street, 2nd Fl', 1
+'Address', '10 Fort Washington Avenue', 1
+'Address', '80 Maiden Lane, 11th Fl.', 1
+'Address', '70 West 36 Street, #701', 1
+'Address', '315 Hudson St., 4th Floor', 1
+'Address', '5 Hanover Square', 1
+'Address', '127th First Ave', 1
+'Address', 'Building 4 CBU #29, 80-45 Winchester Boulevard', 1
+'Address', '61 W 87th St, Basement', 1
+'Address', '105 East 22nd Street, 7th floor', 1
+'Address', '3911 Fort Hamilton Parkway', 1
+'Address', 'POB 1403, Bowling Green Station', 1
+'Address', '333 Seventh Avenue, 6th floor', 1
+'Address', '208 West 30 St., Suite 901', 1
+'Address', '89 St. Nicholas Avenue', 1
+'Address', '59-26 Woodside Ave.', 1
+'Address', '830 Fifth Avenue', 1
+'Address', '157-16 65 Avenue', 1
+'Address', '1000 South Avenue', 1
+'Address', 'PO Box 1284', 1
+'Address', '35-56 159th Street', 1
+'Address', '262 Central Park West, #14E', 1
+'Address', '197 E Broadway', 1
+'Address', '115 West 31 St.', 1
+'Address', '150 West 30th Street', 1
+'Address', '384 East 149th Street, Suite 224', 1
+'Address', '342 Broadway', 1
+'Address', '15 Penn Plaza', 1
+'Address', '826 Broadway', 1
+'Address', '165-01 Chapin Parkway', 1
+'Address', '593 Vanderbilt Avenue, #123', 1
+'Address', '44-60 Rockwell Place', 1
+'Address', '260 West 36th Street, Suite 504', 1
+'Address', 'P.O. Box 1711', 1
+'Address', '334 Amsterdam Avenue, 8th Floor', 1
+'Address', '6 E. 39 St. 6th Fl.', 1
+'Address', '120 Wall St', 1
+'Address', '111 East 14th Street, PMB#147', 1
+'Address', '2 Lafayette', 1
+'Address', '512 WEST 143 STREET', 1
+'Address', '315 Wyckoff Avenue, 4th Fl', 1
+'Address', '1359 Broadway, Suite 410', 1
+'Address', 'P.O. Box 720464', 1
+'Address', '79 Madison Ave', 1
+'Address', '114-02 Guy R. Brewer Blvd.', 1
+'Address', '40 West 20th St.', 1
+'Address', '333 65th Street', 1
+'Address', '767 Hicks Street', 1
+'Address', '219 East 121st St.', 1
+'Address', '352 7th Avenue, Suite 201', 1
+'Address', '108 Norfolk Street, Lower lv', 1
+'Address', '135 Eastern Pkwy #6F', 1
+'Address', '1055 GRAND CONCOURSE', 1
+'Address', '21-12 30th Road', 1
+'Address', '350 5th Avenue, Ste. 912', 1
+'Address', '88-50 165 Street', 1
+'Address', 'PO Box 287326', 1
+'Address', '11 Catherine Street, 3rd Fl', 1
+'Address', '16 West 32nd Street, Suite 10D', 1
+'Address', '80 Maiden Lane, 11th Floor', 1
+'Address', '20 W 22nd street', 1
+'Address', 'P.O. Box 340316', 1
+'Address', '777 U.N. Plaza, 3rd Fl.', 1
+'Address', 'P.O Box 670086', 1
+'Address', '249 Manhattan Avenue', 2
+'Address', '27 Smith Street Suite 200', 1
+'Address', '58-20 Little Neck Parkway', 1
+'Address', 'None', 0
+'Address', '89-11 Lefferts Blvd.', 1
+'Address', '244 5th Avenue', 1
+'Address', 'P.O. Box 541429', 1
+'Address', '506 Main Street', 1
+'Address', '61 Broadway Suite 510', 1
+'Address', '129-133 West 147 St., #18I', 1
+'Address', '600 West 168th Street', 1
+'Address', 'One Forest Park', 1
+'Address', '3495 Nostrand Avenue', 1
+'Address', 'PO Box 1449', 1
+'Address', '207 W 133rd St Ste 118', 1
+'Address', '308 Seaview Avenue', 1
+'Address', '471 63rd Street', 1
+'Address', '201 East 69th Street', 1
+'Address', '1930 Randall Avenue', 1
+'Address', '434 W. 33rd Street', 1
+'Address', '16th Street and First Avenue', 1
+'Address', '211 West 129th Street, 3rd Floor', 1
+'Address', '95-16 Pitkin Avenue', 1
+'Address', '6 East 39th Street', 1
+'Address', '125-09 Jamaica Avenue', 1
+'Address', '230 Classon Avenue', 1
+'Address', '115 West 23rd Street, 7th Fl', 1
+'Address', '154 Christopher Street 2D', 1
+'Address', '31-10 Thomson Ave.', 2
+'Address', 'Gracie Square Station', 1
+'Address', '955 Tinton Avenue', 1
+'Address', 'P.O. Box  210529', 1
+'Address', '280 Henry Street', 1
+'Address', '221 East 71 St.', 1
+'Address', '1300 York Avenue', 1
+'Address', '441 West End Avenue', 1
+'Address', '423 East 23rd Street', 1
+'Address', 'Mobile Ministries', 1
+'Address', '37-06 111 Street', 1
+'Address', '50 Cooper Square, 4th Floor', 1
+'Address', '175 Remsen St., Suite 1100', 1
+'Address', '70 Mulberry Street,  3rd Fl', 1
+'Address', '7825 Fifth Avenue', 1
+'Address', '29-38 Far Rockaway Boulevard', 1
+'Address', '275 7th Avenue', 1
+'Address', '555 Bushwick Avenue', 1
+'Address', '4-21 27th Avenue', 1
+'Address', '671 Louisiana Avenue', 1
+'Address', '120 Wall Street; Third floor', 1
+'Address', '240 East 123rd Street', 1
+'Address', '450 W 33rd Street', 1
+'Address', '120 West 57th Street', 1
+'Address', '144-06 Rockaway Blvd.', 1
+'Address', '55 John Street, 7th Floor', 1
+'Address', '3001 West 37th Street', 1
+'Address', '22 West 21st St., 6th Fl.', 1
+'Address', '1 East 104th Street', 1
+'Address', '52 Broadway', 1
+'Address', 'P. O. Box 749', 1
+'Address', '2324 Healy Ave', 1
+'Address', '460 West 41st Street', 2
+'Address', '611 Broadway, Ste.510', 1
+'Address', '2090 7th Ave, 2nd fl.', 1
+'Address', '795 Lexington Avenue', 1
+'Address', '4608 13th Avenue', 1
+'Address', '150 Broadway, 14th Floor', 1
+'Address', '12225 Broadway, 9th Floor', 1
+'Address', '50 East 168th Street', 1
+'Address', '235 East Broadway', 1
+'Address', '31-10 Thomson Avenue', 1
+'Address', '38-11 27th St.', 1
+'Address', '35-71 162 Street', 1
+'Address', '3295 Fulton Street', 1
+'Address', '475 Riverside Drive', 1
+'Address', '2260 Andrews Avenue North', 1
+'Address', '134 South Swan Street', 1
+'Address', '120 Wall Street, 13th Floor', 1
+'Address', '611 Broadway, Suite 613', 1
+'Address', '1 Gustave L. Levy Place, Box10225', 1
+'Address', 'Adelphi University, School of Social Work,', 1
+'Address', '1121 Brighton Beach Avenue', 1
+'Address', '41 W. 58th St., Suite 3C', 1
+'Address', '298B West 149th Street', 1
+'Address', '823 UN Plaza, Suite 717', 1
+'Address', '58-12 Queens Boulevard, Ste. 1', 1
+'Address', '1221 Bedford Avenue', 1
+'Address', '346 Broadway', 5
+'Address', '537 East 12th Street', 1
+'Address', '244 Fifth Ave., Suite 2087', 1
+'Address', '444 Thomas S. Boyland Street', 1
+'Address', '90-04 161st Street, Suite 201', 1
+'Address', '315 Hudson Street', 1
+'Address', '145 Brooklyn Avenue', 1
+'Address', '202 Union Avenue, 2, L&M', 1
+'Address', '1546 Coney Island Avenue', 1
+'Address', '117 Broadway', 1
+'Address', '383 Pearl Street', 1
+'Address', '51-15 Beach Channel Dr.', 1
+'Address', '249 Manhattan Ave.', 1
+'Address', '339 Lafayette Street #301', 1
+'Address', '224 West 30th Street, Room 302', 1
+'Address', '150-38 Union Turnpike, #11J', 1
+'Address', '33 W.60th St. - 5th Fl.', 1
+'Address', '580 Broadway, Suite 1010', 1
+'Address', '214 West 29th Street, 5th Floor', 1
+'Address', '94-20 Guy Brewer Blvd', 1
+'Address', '150 Broadway', 1
+'Address', '100 Gold Street, Lower Level', 1
+'Address', '1347 Franklin Ave', 1
+'Address', '35-16, 87 street', 1
+'Address', '114-02 Guy R. Brewer Blvd., Suite 215', 1
+'Address', '72 Hyatt Avenue', 1
+'Address', '42-15 Crescent Street, 9th floor', 1
+'Address', '296 E 21st Street', 1
+'Address', 'P.O.Box 572, Old Chelsea Station', 1
+'Address', '327 West 43rd Street', 1
+'Address', '2320 Aqueduct Ave., #1B', 1
+'Address', '67-09 108 Street', 1
+'Address', '119 West 24th Street', 1
+'Address', '460 Nostrand Avenue', 1
+'Address', '315 E. 56th St.', 1
+'Address', '120-55 Queens Blvd., Room 323', 1
+'Address', '216 E. 45th St. 10th Floor', 1
+'Address', '15 Rutherford Place', 2
+'Address', '1901 Ocean Parkway', 1
+'Address', '191 Joralemon Street', 1
+'Address', 'P.O. Box 137 Bowling Green Station', 1
+'Address', '161 William Street; 9th Floor', 1
+'Address', '228 East 45th Street, 2nd Floor', 1
+'Address', '234 Fifth Ave., Suite 403', 1
+'Address', '116 East 16 St., 7th Fl.', 1
+'Address', '548 Broadway', 1
+'Address', '520 West 49th Street', 1
+'Address', '295 Lafayette Street', 1
+'Address', '85-15 Broadway', 1
+'Address', '34 Broadway, 15 Fl', 1
+'Address', '21 Snyder Ave.', 1
+'Address', '87-21 69th Avenue', 1
+'Address', '405 East 73rd Street', 1
+'Address', '60 East 174th Street', 1
+'Address', '54-40 Little Neck Parkway, Suite 4', 1
+'Address', '240 W. 35 Street, Suite 200', 1
+'Address', '81-92 192nd Street', 1
+'Address', '28 W 44 Street, #300', 1
+'Address', '8000 Utopia Pky.', 1
+'Address', '2900 Bedford Ave.', 1
+'Address', '16 Beaver Street, 3rd. Floor', 1
+'Address', '8 West 40 St., 10th Fl.', 1
+'Address', '281 East Broadway', 1
+'Address', '61 East 4th Street', 2
+'Address', '2997 Ocean Parkway', 1
+'Address', '355 Lexington Ave., 17th Fl.', 1
+'Address', '163 West 125th Street', 1
+'Address', '601 W 168th St. #7 & 8', 1
+'Address', '42 Broadway, 14th Fl', 1
+'Address', '50 Broad Street, 18th Floor', 1
+'Address', '4211 Broadway', 1
+'Address', '32 West 92nd', 1
+'Address', '74-09 37th Ave, Room 412,', 1
+'Address', '116 John Street, 30th Floor', 1
+'Address', '317 Lenox, 10th Floor', 1
+'Address', '90 Broad Street', 1
+'Address', '3223 8th Avenue', 1
+'Address', '2253 Third Avenue, 2nd Floor', 1
+'Address', '43 West 23rd Street', 1
+'Address', '208 E. 79st.- Suite 250', 1
+'Address', '53-37 72nd St.', 1
+'Address', '462 Broadway, Suite 500', 1
+'Address', '199 14th Street, 3rd Fl.', 1
+'Address', '75-20 Astoria Boulevard', 1
+'Address', '37-64 72nd Street', 1
+'Address', '322 Eighth Avenue', 1
+'Address', '12-11 40th Ave', 1
+'Address', '57 Bethune St.', 1
+'Address', '216 Ft. Washington Avenue', 1
+'Address', '207 215 E 27th Street', 1
+'Address', 'P. O. Box 340522', 1
+'Address', '42-41 201 St.', 1
+'Address', '30 Third Ave.', 1
+'Address', 'P.O. Box 863', 1
+'Address', 'P.O. Box 810, Gracie Station', 1
+'Address', '42-07 Parsons Boulevard', 1
+'Address', '275 Seventh Avenue', 1
+'Address', '115-04 Rockaway Beach Blvd.', 1
+'Address', '151 West 30th Street', 1
+'Address', '301 Grove Street', 1
+'Address', 'PO Box 3952', 1
+'Address', '27 W. 20 St., Suite 303', 1
+'Address', '378 East 151st Street', 1
+'Address', '208 West 13th Street', 1
+'Address', '315 5th Avenue, Suite 807', 1
+'Address', '198 E 121st Street', 1
+'Address', '1907 Mermaid Avenue', 1
+'Address', 'P.O. Box 672', 1
+'Address', 'Humanities and Social Sciences Library, 5th Ave. & 42nd St.', 1
+'Address', '50 Broadway, Ste. 1800', 1
+'Address', 'P.O. Box 20217 Greeley Square Station', 1
+'Address', '195 West Houston Street', 1
+'Address', '490 Riverside Drive', 1
+'Address', '195 Linden Street', 1
+'Address', '200 East Broadway, E', 1
+'Address', '189 Montague Street, 6th floor', 1
+'Address', '166 Avenue of the Americas', 1
+'Address', '1920 Mott Avenue, 2nd Fl', 1
+'Address', '1618 Mermaid Avenue', 1
+'Address', '172-61 Baisley Blvd.', 1
+'Address', '208 East 51st Street, 4th floor', 1
+'Address', '111-12 Northern Blvd.', 1
+'Address', '1 Alexander Place', 1
+'Address', '110-04 Atlantic Avenue', 1
+'Address', '1932 Schieffelin Avenue', 1
+'Address', '345, 346, 347, 348, 349 East 15th Street, Fifth Floor', 1
+'Address', '104 East 40th Street', 1
+'Address', '515 Audubon Avenue', 1
+'Address', '63-30 Kissena Blvd.', 1
+'Address', 'Fifth Avenue and 42nd Street', 1
+'Address', '15 West 65th St.', 1
+'Address', '119-45 Union Turnpike', 2
+'Address', 'c/o Puerto Rican Family Institute, Inc.', 1
+'Address', '270 Lafayette St., Suite 608', 1
+'Address', '1466 Manor Road', 2
+'Address', '190 Bethel Loop No. 10H', 1
+'Address', 'P.O. Box 1161 Triborough Station', 1
+'Address', '618 West 142nd Street, Ground Floor', 1
+'Address', '1113 Colgate Avenue', 1
+'Address', '135 East 64th Street', 1
+'Address', '160 Heberton Avenue', 1
+'Address', 'c/o NY Serv. for the Handicapped, 853 Broadway, St', 1
+'Address', '45-25 Kissena Blvd.', 1
+'Address', '225 Broadway, Ste. 1020', 1
+'Address', '144 Bleecker Street', 1
+'Address', '2 Washington Street, 9th Fl.', 1
+'Address', '700 Northern Boulevard', 1
+'Address', '84 Stanton Street', 1
+'Address', '1011 First Avenue', 1
+'Address', '434 West 33rd St', 1
+'Address', '405 Main Street', 1
+'Address', '68-07 Burns St.', 1
+'Address', 'P. O. Box 382', 1
+'Address', '42 Broadway, 20th Floor', 1
+'Address', '58-12 Queens Boulevard', 1
+'Address', '225 Varick Street', 1
+'Address', '953 Southern Boulevard', 1
+'Address', '17 Battery Place, 1Fl Lbby', 1
+'Address', '195-39 Hillside Ave,', 1
+'Address', '555 Bergen Avenue, 3rd Floor', 1
+'Address', '456  Broadway, 3rd Floor', 1
+'Address', '292 Court Street', 1
+'Address', '42-40 Bell Blvd', 1
+'Address', '160 West 24 St.', 1
+'Address', '61 Broadway, 33rd Fl.', 1
+'Address', '75-24 Grand Central Parkway', 1
+'Address', '25 Chapel Street, Suite 904', 1
+'Address', '49 West 27th Street, Suite 930', 1
+'Address', '296 Ninth Avenue', 1
+'Address', '5 Catherine St., #2R,', 1
+'Address', '306 West 37th Street,', 1
+'Address', '88-6 76th Avenue,', 1
+'Address', 'Lesbian, Gay, Bisexual & Transgender Commuity Cent,', 1
+'Address', '6 East 60th St., Suite 32,', 1
+'Address', 'Family Resource Center,', 1
+'Address', '54 Nagle Avenue,', 2
+'Address', '44 West 25th Street, 4th Floor,', 1
+'Address', '352 7th Ave, Suite 434,', 1
+'Address', '3-60 2st Street,', 1
+'Address', '250 W. 57th St. Suite 527,', 1
+'Address', '20 Wall Street, 8th Floor,', 1
+'Address', '4 West 4th Street,', 1
+'Address', '460 Pennsylvania Avenue,', 1
+'Address', '40-5 Holly Ave,', 1
+'Address', '50 Elizabeth Street,', 1
+'Address', '230 West 4st Street,', 1
+'Address', '2090 Adam Clayton Powell, Jr. Blvd,', 1
+'Address', '6 Bleecker Street,', 2
+'Address', '350 New Scotland Avenue,', 1
+'Address', '630 9th Avenue, 2nd floor,', 1
+'Address', '604 East 40th Street,', 1
+'Address', '339 Lafayette Street,', 1
+'Address', '76- 37th Ave. Suite 206,', 1
+'Address', '844 Second Ave.,', 1
+'Address', '30 East 80th Street,', 1
+'Address', 'POB 237, FDR Station,', 1
+'Address', '660 West 237th Street,', 1
+'Address', '265 Henry Street,', 1
+'Address', '89- Merrick Boulevard,', 1
+'Address', '33-47 9st Street, FLR GND,', 1
+'Address', '474 Gates Avenue,', 1
+'Address', '26 Fifth Ave., 3rd Floor,', 1
+'Address', '347 5th ave,', 1
+'Address', '427 Broadway,', 1
+'Address', '62 Allerton Avenue,', 1
+'Address', '59-03 Summerfield Street,', 1
+'Address', '440 Ninth Avenue,', 1
+'Address', '2 Hampton Road,', 1
+'Address', '625 Eight Ave.,', 1
+'Address', '80 Fifth Avenue, Suite 405,', 1
+'Address', '6 East 6 Street., 7th Fl.,', 1
+'Address', '6 John Street, Suite 304,', 1
+'Address', '89-64 63rd Street,', 1
+'Address', '50 Broadway, 6th Floor,', 1
+'Address', '500 Greenwich Street, 3rd Fl,', 1
+'Address', 'P.O. 350-746,', 1
+'Address', '3049 Brighton 6th Street,', 1
+'Address', '58 New Dorp Plaza,', 1
+'Address', '330 7th Avenue, 9th Fl,', 1
+'Address', 'P.O. Box 585, Old Chelsea Station,', 1
+'Address', 'P.O. Box 5087, Bowling Green Station,', 1
+'Address', '80 Maiden Lane (2nd floor),', 1
+'Address', '526 th Avenue,', 1
+'Address', '350 New Scotland Ave.,', 1
+'Address', '80 Maiden Lame, 2st Floor,', 1
+'Address', '04 East 40th Street, Suite 506,', 1
+'Address', '55 Madison Avenue, 35th Floor,', 1
+'Address', '33-3 39 Avenue,', 1
+'Address', '37-44 Northern Blvd.,', 1
+'Address', '388 Atlantic Avenue,', 1
+'Address', '38 East 26th Street,', 1
+'Address', '0 First Avenue, 6th fl.,', 1
+'Address', '43-0 th Street,', 1
+'Address', '307 Seventh Avenue,', 1
+'Address', '150 Court Street,', 2
+'Address', '333 West End Ave., Suite C,', 1
+'Address', '99 Water Street,', 1
+'Address', '294 Smith St.,', 1
+'Address', '295 Woodbine Street,', 1
+'Address', '24 West 29 Street, 8th floor,', 1
+'Address', '2386 Ryer Avenue,', 1
+'Address', '575 Eighth Ave., 9th Fl.,', 1
+'Address', '40 West 62nd St.,', 1
+'Address', 'University at Albany,SUNY, Draper Hall 302,', 1
+'Address', '27 Barrow St.,', 1
+'Address', '35 Hudson Street, 7th Fl.,', 1
+'Address', '756 Ocean Avenue,', 1
+'Address', '475 Park Avenue South, 8th Floor,', 1
+'Address', '67 Prospect Place,', 1
+'Address', '23 William Street, 6th Fl.,', 1
+'Address', '3-03 C Sutphin Blvd.,', 1
+'Address', '777 United Nations Plaza, 7th Fl.,', 1
+'Address', '2 East 63 St.,', 1
+'Address', '285 Schermerhorn Street,', 1
+'Address', '30 West 42 St., Suite 350,', 1
+'Address', '6 East 43rd Street, 25th Floor,', 1
+'Address', '405 5th Ave STE 2S,', 1
+'Address', '22 West 27th Street, 0th Floor,', 1
+'Address', 'Broadway, Suite 457,', 1
+'Address', '250 West 57th Street, Suite 2432,', 1
+'Address', '6 East 6th Street, 5th Fl.,', 1
+'Address', 'Po Box 75067,', 1
+'Address', '7 West 23rd Street., Suite 527,', 1
+'Address', '260 Audubon Avenue, 00S,', 1
+'Address', '23 West 35th Street, 2 Fl,', 1
+'Address', '32 W 32nd Street.,', 1
+'Address', '4 Irving Place, 48-S,', 1
+'Address', '80 Bartholdi Street,', 1
+'Address', '83 Maiden Lane,', 1
+'Address', '20 Jackson Street,', 1
+'Address', '34 West 54th Street,', 1
+'Address', 'PO Box 406, Wall Street Station,', 1
+'Address', '64 Beaver Street,', 1
+'Address', '90-37 Corona Avenue,', 1
+'Address', '43-35 37th Avenue,', 1
+'Address', '3536 05th Street,', 1
+'Address', '65 W 46th St # 08,', 1
+'Address', '53 West 23 St.,', 1
+'Address', '534 Greene Avenue, A,', 1
+'Address', '95 Broadway, 7th Fl,', 1
+'Address', '520 8th Avenue,', 1
+'Address', '2 South 4th Street,', 1
+'Address', '62 Hamilton Terrace,', 1
+'Address', '350 5th Ave, 34th Floor,', 1
+'Address', '37 W 65th St,', 1
+'Address', '23 West 29 Street, #002,', 1
+'Address', '489 St. Pauls Place,', 1
+'Address', '20 West 4th Street,', 1
+'Address', '35 West 23 Street,', 1
+'Address', '30-0 38 Street,', 1
+'Address', '500 Ft. Washington Ave.,', 1
+'Address', '55 West 39th Street, Suite 00,', 1
+'Address', '776 Clay Avenue,', 1
+'Address', '26 West 84th Street,', 1
+'Address', '320 East 82nd Street,', 1
+'Address', '958 Fulton Street,', 1
+'Address', '3 West 5 St.,', 1
+'Address', '50 West 58 St.,', 1
+'Address', '35-20 47 Street, Annex #2-F,', 1
+'Address', '448 East 49th Street, 3rd Fl.,', 1
+'Address', '43-4 62nd St.,', 1
+'Address', '86 crotona park north,', 1
+'Address', 'Women's Health Department,', 1
+'Address', '33 East 29th Street,', 1
+'Address', '4 West 70th Street,', 1
+'Address', '32 Broadway (0th Floor),', 1
+'Address', '4-36 27th Street,', 1
+'Address', '30 Grand Concourse,', 1
+'Address', '637 Bedford Avenue, SPSS 220-32,', 1
+'Address', '345 Park Place,', 1
+'Address', '330 West 38th Street, 3rd Fl,', 1
+'Address', '5-07 43 Avenue,', 1
+'Address', '820 Second Avenue,', 1
+'Address', '20 West 04th Street, Basement,', 1
+'Address', '30 E 59 Street,', 1
+'Address', '260 Broadway- 3rd floor,', 1
+'Address', '04-38 47th Avenue,', 1
+'Address', '80-09 Winchester Boulevard,', 1
+'Address', '60-02 Queens Boulevard,', 1
+'Address', '76 Wadsworth Avenue,', 1
+'Address', '9-37 85th Street,', 1
+'Address', 'Box 67,', 1
+'Address', 'Columbia University, 05 Earl Hall, MC 200,', 1
+'Address', '227 Second Ave.,', 1
+'Address', '645 Tenth Avenue,', 1
+'Address', '39-42 59th Street,', 1
+'Address', '50 Commonwealth Ave.,', 1
+'Address', '6-20 Woodside Ave.,', 1
+'Address', '43 Avenue T,', 1
+'Address', 'POB 744 Stuyvesant Station,', 1
+'Address', '650-656 Washington Avenue,', 1
+'Address', '04-70 Queens Boulevard,', 1
+'Address', '995 Carroll Street,', 1
+'Address', '240 Amsterdam Avenue, 4th Fl,', 1
+'Address', '45-57 Bowne Street,', 1
+'Address', '664  Avenue,', 1
+'Address', '49 West 45 Street 4Fl.,', 1
+'Address', '30 Stuyvesant Place, 5th Fl.,', 1
+'Address', '000 tenth ave ny 009    2th floor  L&D,', 1
+'Address', '0 East 30th Street,', 1
+'Address', '36-9 4 Avenue, 3rd Floor,', 1
+'Address', '6 Broadway,', 1
+'Address', '59 Bleecker Street, Suite 2B,', 1
+'Address', '34 West 38th St., 0th Fl.,', 1
+'Address', 'Hoyt Street, 7th Fl,', 1
+'Address', '37-4 77th Street,', 1
+'Address', '22-0 Jamaica Avenue, Suite 07,', 1
+'Address', '365 Fifth Avenue,', 1
+'Address', '40 Worth Street,', 1
+'Address', '29-0 26th St.,', 1
+'Address', '33-0 4st Road,', 1
+'Address', '89-2 62nd Street,', 1
+'Address', '500 West 59th Street,', 1
+'Address', '347 Fifth Avenue, Suite 605,', 1
+'Address', '550 Coney Island Avenue,', 1
+'Address', '205 E 64th St Rm 404,', 1
+'Address', '305 7th Avenue, 3rd Flr.,', 1
+'Address', '402 West 45th Street,', 1
+'Address', '40 East 92nd Street,', 1
+'Address', '75 York Ave.,', 1
+'Address', '62-04 Jamaica Ave,', 1
+'Address', '983 Marcus Ave., Suite C03,', 1
+'Address', '475 Riverside Drive, Suite 244,', 1
+'Address', '50 Broadway, 9th Floor,', 1
+'Address', '45 E. 93rd Street,', 1
+'Address', '28 West 88th Street,', 1
+'Address', '860 5th Avenue, Suite 3M,', 1
+'Address', '58 Van Buren Street, Grd.flr.,', 1
+'Address', '207 Castleton Avenue,', 1
+'Address', 'National Headquarters, 90 7th Street, NW, Suite,', 1
+'Address', '80 Maiden Lane Room 305,', 1
+'Address', '87-08 Justice Avenue, Room CS,', 1
+'Address', '770 Broadway,', 1
+'Address', '200 Park Avenue S,', 1
+'Address', '50 Bay Street, Low.Lev.,', 1
+'Address', '000 Pelham Parkway,', 1
+'Address', '225 Sixth Avenue,', 1
+'Address', '57 Willoughby Street,', 2
+'Address', '230 West 38th Street, 7th Floor,', 1
+'Address', '505 West 7st Street,', 1
+'Address', '470 Park Avenue South, 3rd Fl,', 1
+'Address', '42 Broadway,', 1
+'Address', '220-0 Linden Blvd.,', 1
+'Address', '240 East 23rd Street, 3rd FL,', 1
+'Address', '386 Park Avenue S. Ste. 200,', 1
+'Address', '98 East 6st St, Ste. 20,', 1
+'Address', '5 Union Square West,', 1
+'Address', '3 East 3st Street,', 1
+'Address', '377 East 45th Street,', 1
+'Address', '532 LaGuardia Pl., #32,', 1
+'Address', 'PO Box 34032 Rochdale Village Station,', 1
+'Address', '434 W. 33rd Street, 8th Floor,', 1
+'Address', '327 Cherry Street,', 1
+'Address', '370 Seventh Ave,', 1
+'Address', '355 Lexington Ave., 3rd Fl.,', 1
+'Address', '37-63 76th Street,', 1
+'Address', '267 Fifth Avenue, 2nd Fl.,', 1
+'Address', '264 Beath 9th St.,', 1
+'Address', '2355 E. 2th St. #5M,', 1
+'Address', '350 Broadway,', 1
+'Address', 'West 53 Street,', 1
+'Address', '220 E. 23rd St. Suite 500,', 1
+'Address', '99 Hudson Street, 2th Fl,', 1
+'Address', '0-5 64th Place,', 1
+'Address', '65-2 Main Street,', 1
+'Address', '368 Fulton Street, 3rdbFl,', 1
+'Address', '99 Fort Washington Avenue,', 1
+'Address', '457 Madison Avenue,', 1
+'Address', 'Park Place, Suite 46,', 1
+'Address', '29-20A  8th Avenue,', 1
+'Address', '9 East 7th Street,', 1
+'Address', '27 West 27th Street,', 1
+'Address', '6 John St.,', 1
+'Address', '400 Broadway,', 1
+'Address', '5 Penn Plaza 2 FL, Genl Acctg.,', 1
+'Address', '6025 6th Avenue,', 1
+'Address', '25 West 4th Street,', 1
+'Address', '545 8th Ave,', 1
+'Address', '0 Astor Pl., 7th Fl.,', 1
+'Address', 'Planetarium Station,', 1
+'Address', '3450 DeKalb Avenue,', 1
+'Address', '4 old country road,', 1
+'Address', '445 West 59 St., Suite 248,', 1
+'Address', '63-69 Throop Avenue, 3rd Fl.,', 1
+'Address', '53 West 65th Street,', 1
+'Address', '652 West 87th Street,', 1
+'Address', '4-5 East th Street, 9th Floor,', 1
+'Address', 'Broadway, 2nd Floor,', 1
+'Address', '87-04 88th Avenue,', 1
+'Address', 'P.O. Box 0279,', 1
+'Address', '6 East 6 St.,', 1
+'Address', '420 Fifth Ave.,', 1
+'Address', '2090 7th Avenue, 0th Fl.,', 1
+'Address', 'P.O. Box 6259,', 1
+'Address', '26 Federal Plaza, RM 300,', 1
+'Address', '370 Lexington Ave,', 1
+'Address', '473 Central Park West 2C,', 1
+'Address', '29-76 Northern Blvd.,', 1
+'Address', '3-0 Thomson Ave., Room C-203,', 1
+'Address', '43-3 39th Street,', 1
+'Address', '37 East 25th Street, 2ndfl,', 1
+'Address', '60 Broadway,', 1
+'Address', 'P.O. Box ,', 1
+'Address', '845 Third Avenue,', 1
+'Address', '2330 Eastchester Rd., 3rd Fl.,', 1
+'Address', '720 Metropolitan Avenue,', 1
+'Address', '57 Montague St,', 1
+'Address', '32 W. 22nd Street, 4th Floor,', 1
+'Address', '63 West Main Street, Suite H,', 1
+'Address', '374 Stockholm St.,', 1
+'Address', '65 Academy Street,', 1
+'Address', '20 Wall Street, 3rd Floor,', 1
+'Address', '24 Utica Avenue,', 1
+'Address', '60 Lexington Ave., 7th Floor,', 1
+'Address', '72 East 4th Street, Suite th Floor,', 1
+'Address', '2 West 27th Street,', 1
+'Address', '6 East Tenth Street,', 1
+'Address', '874 Myrtle Avenue,', 1
+'Address', '23-35 Broadway,', 1
+'Address', '62 DeGraw Street,', 1
+'Address', '76A Fifth Avenue,', 1
+'Address', '43-22 50th Street,', 1
+'Address', '33 Broadway,', 1
+'Address', '35 West 36th Street, 4th Floor,', 1
+'Address', '4 West 4 Street Ste. 2C,', 1
+'Address', '75-44 Mayfield Road,', 1
+'Address', '7 Madison Avenue,', 1
+'Address', '4-02 Guy R. Brewer Bld,', 1
+'Address', '80-45 Winchester Boulevard, CB49,', 1
+'Address', '18 John Street, Suite 905,', 2
+'Address', '902 Broadway,', 1
+'Address', '333 7th Avenue, 6th Floor,', 1
+'Address', '30 3rd Ave,', 2
+'Address', '205 3th Street, Suite 200,', 1
+'Address', '470 Park Avenue South,', 1
+'Address', '50 w. 28th St. Suite 304,', 1
+'Address', '05 Mosco Street,', 1
+'Address', '223 E. 30th Street,', 1
+'Address', '330 Seventh Ave., 4th Fl.,', 1
+'Address', '84 Eldridge Street,', 1
+'Address', 'Chapel Street,', 2
+'Address', '7802 Bay Parkway,', 1
+'Address', '70 West 36th Street, Suite 903,', 1
+'Address', '6 W 32nd St Ste. 0A,', 1
+'Address', '402 Doansburg Rd. Caller Box 79,', 1
+'Address', '263 West End Ave. Apt. 7B,', 1
+'Address', '339 Douglass Street,', 1
+'Address', '35-56 59 Street,', 1
+'Address', '26 Buffalo Avenue, Ste. 2,', 1
+'Address', '87 Broadway,', 1
+'Address', '20-55 Queens Blvd., Room 325,', 1
+'Address', '695 Park Ave Rm E 33A,', 1
+'Address', '930 Simpson St.,', 1
+'Address', '305 Seventh Ave.,', 1
+'Address', '337 Alexander Avenue,', 1
+'Address', '2473 Valentine Ave,', 1
+'Address', '75 Maiden Lane, Room 606,', 1
+'Address', 'Gustave L. Levy Place,', 1
+'Address', '35-34 Union Street,', 1
+'Address', '80-45 Winchester Blvd., Building 2, 3rd Floor,', 1
+'Address', '6 West 32nd Street, th Floor,', 1
+'Address', '54 West 40th Street,', 1
+'Address', '35-0 Brookeville Blvd.,,', 1
+'Address', '844 MERRICK BLVD,', 1
+'Address', '33 E. 70th Street,', 1
+'Address', '53 West 23rd Street, 8th Floor,', 1
+'Address', '77-0 Baisley Boulevard,', 1
+'Address', '340 East 24th Street,', 1
+'Address', '55 Pierrepont St.,', 1
+'Address', '379 DeKalb Avenue,', 1
+'Address', '835 Dawson Street,', 1
+'Address', '475 Riverside Drive, Ste. 550,', 1
+'Address', '42 West 44th St.,', 1
+'Address', '-05 56 Avenue, Library Building, Room 431,', 2
+'Address', '997 East 63rd Street,', 1
+'Address', '26 West 35th Street, 9th Floor,', 1
+'Address', '15 East 6 St., Suite 919,', 2
+'Address', '55 Avenue of the Americas, 4th Fl,', 1
+'Address', '346 Broadway, 3rd Fl,', 1
+'Address', 'New York Intergroup : P.O. Box 7,', 1
+'Address', '865 Northern Blvd,', 1
+'Address', 'P.O.Box 867,', 1
+'Address', '55 West End Avenue,', 1
+'Address', '92 JORALEMON STREET,', 1
+'Address', '30 Kingsbridge Terrace,', 1
+'Address', '2 W. 4th Street,', 1
+'Address', '26 Broadway 3rd Fl,', 1
+'Address', '613 New Lots Avenue,', 2
+'Address', '44 E Fordham Rd,', 1
+'Address', '37 Lenox Avenue, 0th Fl.,', 1
+'Address', '3450 Dekalb Avenue,', 1
+'Address', '5625 Arlington Avenue,', 1
+'Address', '584-88 Broadway, Suite 306,', 1
+'Address', '387-392 Kingston Avenue,', 1
+'Address', '322 8th Avenue,', 1
+'Address', '2 MetroTech Center, 29th Fl,', 1
+'Address', '376 Bainbridge Avenue,', 1
+'Address', '2345 UNIVERSITY AVENUE,', 1
+'Address', '24 West 25th Street 9th Floor,', 1
+'Address', '2003-05 Walton Avenue,', 1
+'Address', '305 Seventh Avenue, 6th Floor,', 1
+'Address', '29 East 23rd Street,', 1
+'Address', '2 Avenue D,', 1
+'Address', 'P.O. Box 353,', 1
+'Address', '50 55th Street,', 1
+'Address', '25 Washington Street,', 1
+'Address', '625 Jamaica Avenue,', 1
+'Address', 'POB 44, Radio City Station,', 1
+'Address', '05 E. 22nd Street,', 1
+'Address', '78-4 Roosevelt Avenue, 2nd Floor,', 1
+'Address', '40-06 Warren Street,', 1
+'Address', '33 Westchester Avenue,', 1
+'Address', '63 West 25th Street, Suite 90,', 1
+'Address', '9 Murray Street, 3rd Floor,', 1
+'Address', '2-6 Ocean Promedade, #3H,', 1
+'Address', '50 West 23rd Street, 7th Floor,', 1
+'Address', '5 Penn Plaza,', 1
+'Address', '594 Columbus Avenue,', 1
+'Address', '879 Madison Ave.,', 1
+'Address', '0 St. Paul's Place,', 1
+'Address', '93-22 Jamaica Ave.,', 1
+'Address', '5 East 06th Street,', 1
+'Address', 'Bon Secours New York Health System,', 1
+'Address', '90-04 6st Street,', 1
+'Address', 'Queens Economic Development Corporation,', 1
+'Address', '75 Maiden Lane,', 1
+'Address', 'East 93rd Street,', 1
+'Address', '272 Moffat Street,', 1
+'Address', '738 Hone Avenue,', 1
+'Address', '32 Penn Street,', 1
+'Address', '29 Fulton Street,', 1
+'Address', '60-05 Woodhaven Boulevard,', 1
+'Address', '0 William Street, Suite 802,', 1
+'Address', '327 7th Street,', 1
+'Address', '299 Broadway, Suite 700,', 1
+'Address', '49 Bedford Avenue,', 1
+'Address', '595 Sutter Avenue,', 1
+'Address', '200 Park Ave. South, Suite 5,', 1
+'Address', '25 Broad St. 7th Fl.,', 1
+'Address', '365 5th Avenue,', 1
+'Address', '24-40 Steinway Street,', 1
+'Address', '374 Stockholm Street, Social Work Dept. RM -38,', 1
+'Address', '20 Broadway, Ste. 230,', 1
+'Address', '95-20 99th Avenue,', 1
+'Address', '20 Dekalb Avenue,', 1
+'Address', '23 -25 West 24th Street,', 1
+'Address', '28-27 Steinway Street, 2nd Fl.,', 1
+'Address', '45 West 30th Street, 8th Floor,', 1
+'Address', '42 West 44th Street,', 1
+'Address', '40 Rector Street, 2th Floor,', 1
+'Address', '333 East 70th Street,', 1
+'Address', '966 Fulton Street,', 1
+'Address', '65-64 Parsons Blvd,', 1
+'Address', '899 Hemstead Tpke,', 1
+'Address', '488 Madison Ave., 6th Floor,', 1
+'Address', 'Amsterdam Ave.,', 1
+'Address', '4 West 37th St,', 1
+'Address', 'Grand Central Station,', 1
+'Address', '866 UN Plaza - Suite 508,', 1
+'Address', '250 Broadway, 26 Floor,', 1
+'Address', '2854 Frederick Douglass Blvd.,', 1
+'Address', '42 Broadway, Suite 748,', 1
+'Address', '500 west 56 street,', 1
+'Address', '44 West 26th Street,', 1
+'Address', '562 West End Ave., Suite A,', 1
+'Address', '27- 76th Ave.,', 1
+'Address', '5002 8th Avenue,', 1
+'Address', '520 Eight Ave.,', 1
+'Address', '06-46 Guy R. Brewer  Blvd.,', 1
+'Address', '4-54 Murray Streey,', 1
+'Address', 'New York City Building.  Flushing Meadows Corona Park,', 1
+'Address', '64 W. 74th Street,', 1
+'Address', '55 Avenue of the Americas,', 1

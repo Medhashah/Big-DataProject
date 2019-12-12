@@ -1,0 +1,1 @@
+{"column name": "fax", "semantic_types": [{"semantic_type": "phone_number", "count": 5477}, {"semantic_type": "zip_code", "count": 3}], "true_type": "phone_number", "prediction_type": "phone_number"}

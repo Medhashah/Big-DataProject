@@ -1,0 +1,119 @@
+'Neighborhood', 'Lenox Hill', 3
+'Neighborhood', 'Corona', 1
+'Neighborhood', 'Bensonhurst West', 2
+'Neighborhood', 'Pelham Parkway', 1
+'Neighborhood', 'Mount Hope', 2
+'Neighborhood', 'Kew Gardens Hills', 4
+'Neighborhood', 'Lower Manhattan', 6
+'Neighborhood', 'Midtown', 2
+'Neighborhood', 'Schuylerville-Throgs Neck', 6
+'Neighborhood', 'Windsor Terrace', 1
+'Neighborhood', 'Old Astoria', 1
+'Neighborhood', 'West Concourse', 3
+'Neighborhood', 'Clinton Hill', 2
+'Neighborhood', 'Ocean Hill', 2
+'Neighborhood', 'West Farms-Bronx River', 6
+'Neighborhood', 'Springfield Gardens North', 5
+'Neighborhood', 'East Harlem South', 5
+'Neighborhood', 'Oakland Gardens', 1
+'Neighborhood', 'Crown Heights North', 3
+'Neighborhood', 'Longwood', 5
+'Neighborhood', 'Flushing', 4
+'Neighborhood', 'Chelsea-Union Sq', 11
+'Neighborhood', 'E. Concourse-Concourse Village', 11
+'Neighborhood', 'Melrose S.-Mott Haven N.', 6
+'Neighborhood', 'Queensbridge-LIC', 4
+'Neighborhood', 'South Jamaica', 1
+'Neighborhood', 'Breezy Point-Rockaway Park', 4
+'Neighborhood', 'Sunset Park West', 1
+'Neighborhood', 'E. Midtown', 1
+'Neighborhood', 'Richmond Hill', 3
+'Neighborhood', 'East Harlem North', 2
+'Neighborhood', 'Canarsie', 7
+'Neighborhood', 'Van Cortlandt Village', 11
+'Neighborhood', 'Sheepshead Bay', 2
+'Neighborhood', 'Hunts Point', 1
+'Neighborhood', 'Astoria', 3
+'Neighborhood', 'Washington Heights S.', 2
+'Neighborhood', 'Lower East Side', 4
+'Neighborhood', 'Annadale-Huguenot-Princes Bay', 1
+'Neighborhood', 'Madison', 1
+'Neighborhood', 'East Village', 1
+'Neighborhood', 'Fort Greene', 2
+'Neighborhood', 'Gramercy', 9
+'Neighborhood', 'Williamsburg', 7
+'Neighborhood', 'Cypress Hills', 5
+'Neighborhood', 'Manhattan Beach', 1
+'Neighborhood', 'Chinatown', 11
+'Neighborhood', 'Flushing Heights-Hillcrest', 1
+'Neighborhood', 'Ridgewood', 1
+'Neighborhood', 'Bronxdale', 5
+'Neighborhood', 'East Flatbush', 3
+'Neighborhood', 'Mott Haven-Port Morris', 5
+'Neighborhood', 'Upper West Side', 3
+'Neighborhood', 'West Brighton', 2
+'Neighborhood', 'West Village', 1
+'Neighborhood', 'Seagate-Coney Island', 1
+'Neighborhood', 'Baisley Park', 1
+'Neighborhood', 'Port Richmond', 1
+'Neighborhood', 'Todt Hill-Heartland Village', 4
+'Neighborhood', 'Cambria Heights,', 4
+'Neighborhood', 'Bedford-Stuyvesant,', 7
+'Neighborhood', 'Far Rockaway-Bayswater,', 3
+'Neighborhood', 'Central Harlem South,', 2
+'Neighborhood', 'Hunters Point-Sunnyside,', 10
+'Neighborhood', 'Castle Hill-Clason Point,', 9
+'Neighborhood', 'Belmont,', 9
+'Neighborhood', 'Crotona Park East,', 4
+'Neighborhood', 'Midwood,', 1
+'Neighborhood', 'Clinton,', 12
+'Neighborhood', 'Washington Heights N.,', 6
+'Neighborhood', 'Auburndale,', 2
+'Neighborhood', 'Bay Ridge,', 2
+'Neighborhood', 'St. Albans,', 1
+'Neighborhood', 'Maspeth,', 1
+'Neighborhood', 'Lincoln Square,', 7
+'Neighborhood', 'Inwood,', 2
+'Neighborhood', 'Jamaica,', 2
+'Neighborhood', 'Bellerose,', 3
+'Neighborhood', 'Co-op City,', 2
+'Neighborhood', 'Bayside-Bayside Hills,', 1
+'Neighborhood', 'East New York,', 9
+'Neighborhood', 'South Ozone Park,', 2
+'Neighborhood', 'Manhattanville,', 4
+'Neighborhood', 'Borough Park,', 2
+'Neighborhood', 'New Brighton-St. George,', 2
+'Neighborhood', 'East Williamsburg,', 3
+'Neighborhood', 'Bergen Beach,', 1
+'Neighborhood', 'Spuyten Duyvil-Kingsbridge,', 5
+'Neighborhood', 'Murray Hill-Kips Bay,', 3
+'Neighborhood', 'Ozone Park,', 1
+'Neighborhood', 'Murray Hill,', 1
+'Neighborhood', 'Briarwood-Jamaica Hills,', 7
+'Neighborhood', 'Gravesend,', 6
+'Neighborhood', 'Williamsbridge-Olinville,', 9
+'Neighborhood', 'Fieldston-Riverdale,', 1
+'Neighborhood', 'Forest Hills,', 3
+'Neighborhood', 'Yorkville,', 1
+'Neighborhood', 'Crown Heights,', 1
+'Neighborhood', 'University Heights-Morris Heights,', 1
+'Neighborhood', 'Brownsville,', 3
+'Neighborhood', 'Morrisania-Melrose,', 5
+'Neighborhood', 'Park Slope-Gowanus,', 4
+'Neighborhood', 'New Dorp-Midland Beach,', 2
+'Neighborhood', 'Bushwick,', 11
+'Neighborhood', 'Flatbush,', 6
+'Neighborhood', 'Brighton Beach,', 1
+'Neighborhood', 'Central Harlem North,', 5
+'Neighborhood', 'East Tremont,', 2
+'Neighborhood', 'Lenox Hill-Roosevelt Is,', 1
+'Neighborhood', 'Governors Island,', 1
+'Neighborhood', 'Prospect Lefferts Gardens,', 5
+'Neighborhood', 'Carroll Gardens-Red Hook,', 1
+'Neighborhood', 'Claremont-Bathgate,', 9
+'Neighborhood', 'DUMBO-Downtown Brooklyn,', 13
+'Neighborhood', 'Morningside Heights,', 1
+'Neighborhood', 'Hollis,', 1
+'Neighborhood', 'SoHo-Tribeca,', 2
+'Neighborhood', 'Crown Heights South,', 6
+'Neighborhood', 'Elmhurst,', 4

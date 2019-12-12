@@ -1,0 +1,1856 @@
+'Car make', 'GEO', 37
+'Car make', 'HOMER', 1
+'Car make', 'ROV', 1
+'Car make', 'HONDA', 3
+'Car make', 'LNCLN', 2
+'Car make', 'CADALL', 8
+'Car make', 'CADDLI', 1
+'Car make', 'GRMMAN', 1
+'Car make', 'CHRSYS', 1
+'Car make', 'PLUM', 1
+'Car make', 'CHRSY', 2
+'Car make', 'CAMARO', 3
+'Car make', 'ACURAA', 1
+'Car make', 'L ROVR', 1
+'Car make', 'PETER', 6
+'Car make', 'GRADYW', 1
+'Car make', 'BOAT', 7
+'Car make', 'NNA', 1
+'Car make', 'FLTWD', 1
+'Car make', 'HEVROL', 1
+'Car make', 'CHYRSL', 21
+'Car make', 'SUBURU', 26
+'Car make', 'CRAFT', 1
+'Car make', 'GILITY', 1
+'Car make', 'LINCOL', 2110
+'Car make', 'G.M.C', 1
+'Car make', 'LA-RO', 1
+'Car make', 'LUFKIN', 1
+'Car make', 'EXPRES', 1
+'Car make', 'INFTI', 1
+'Car make', 'HOJNDA', 1
+'Car make', 'G_M_C', 1
+'Car make', 'HUNDAI', 20
+'Car make', 'CHRYSE', 2
+'Car make', 'DUKE', 2
+'Car make', 'RAN/RO', 2
+'Car make', 'AURA', 1
+'Car make', 'CADALC', 1
+'Car make', 'RED', 1
+'Car make', 'SPYDER', 1
+'Car make', 'MITZU', 3
+'Car make', 'FOD', 4
+'Car make', '_VOLVO', 2
+'Car make', '_ME?BE', 1
+'Car make', 'SUNL', 1
+'Car make', 'MALLAR', 1
+'Car make', 'MOZDA', 1
+'Car make', 'MRCEDS', 3
+'Car make', 'DODGGE', 1
+'Car make', 'FREIFG', 1
+'Car make', 'MITSUH', 1
+'Car make', 'SUNNY', 1
+'Car make', '_CHERV', 1
+'Car make', 'NS', 8
+'Car make', 'PORCHA', 1
+'Car make', 'JEEP W', 1
+'Car make', 'MAZARA', 1
+'Car make', '__HR', 1
+'Car make', 'UNK.', 1
+'Car make', 'KAWASA', 72
+'Car make', 'STARCR', 6
+'Car make', 'CADDIE', 1
+'Car make', 'PEOPLE', 6
+'Car make', 'LINTEX', 1
+'Car make', 'LEXAS', 1
+'Car make', 'LR', 2
+'Car make', 'BOBCAT', 3
+'Car make', 'ACURA', 936
+'Car make', 'PORSH', 1
+'Car make', 'FORDWH', 1
+'Car make', 'MITUSH', 3
+'Car make', 'MERCBN', 2
+'Car make', 'NISS', 4
+'Car make', 'FROD', 3
+'Car make', 'DUKATI', 1
+'Car make', 'TAILG', 8
+'Car make', '_NISSA', 4
+'Car make', 'SUBARA', 1
+'Car make', 'ECONO', 1
+'Car make', 'SYZUKI', 1
+'Car make', 'SABB', 4
+'Car make', 'BIG CH', 1
+'Car make', 'HARLEY', 21
+'Car make', 'ME/BZ', 5
+'Car make', 'MRKTWN', 1
+'Car make', 'TOTOT', 1
+'Car make', 'NULL', 1
+'Car make', 'NVA', 20
+'Car make', 'LUXUS', 1
+'Car make', 'ODSMOB', 1
+'Car make', 'NOVA', 1
+'Car make', 'MOTOSI', 1
+'Car make', 'MITSI', 1
+'Car make', 'E-TON', 1
+'Car make', 'KEWORT', 1
+'Car make', 'CRYSH', 1
+'Car make', 'CRYSTL', 3
+'Car make', 'BENZE', 1
+'Car make', 'FRORD', 1
+'Car make', 'HONDDA', 1
+'Car make', 'BS', 1
+'Car make', 'NFORD', 1
+'Car make', 'BUICK`', 1
+'Car make', 'CHEVYA', 1
+'Car make', 'LONCOL', 3
+'Car make', 'V.W.', 6
+'Car make', 'POTIAC', 2
+'Car make', 'HUNDYA', 1
+'Car make', 'H D', 1
+'Car make', 'I'NTL', 1
+'Car make', 'MAXINA', 1
+'Car make', 'CADIKA', 1
+'Car make', 'HUNDIA', 1
+'Car make', 'LEXIS', 2
+'Car make', 'VOLZ', 2
+'Car make', 'NAVSTR', 1
+'Car make', 'ROVER', 11
+'Car make', '__GMC', 2
+'Car make', 'SUZU', 1
+'Car make', 'PIONEE', 1
+'Car make', 'TERRY', 1
+'Car make', 'SAZUKI', 1
+'Car make', 'KAWASK', 12
+'Car make', 'FIRD', 2
+'Car make', 'TOY', 2
+'Car make', '93PONT', 1
+'Car make', 'CYRSTL', 1
+'Car make', 'IIBELL', 1
+'Car make', 'DERBI', 1
+'Car make', 'MITSUS', 1
+'Car make', 'AUDIK', 1
+'Car make', 'REHAL', 1
+'Car make', 'AUDI', 332
+'Car make', 'LA/RO', 14
+'Car make', 'STRADA', 1
+'Car make', 'XTREME', 2
+'Car make', 'RA/ROV', 1
+'Car make', 'TRUMPH', 2
+'Car make', 'GR. DA', 1
+'Car make', 'ALPINA', 2
+'Car make', 'TOY', 5
+'Car make', 'MESEDE', 1
+'Car make', 'SKYBIR', 1
+'Car make', 'HONDAY', 3
+'Car make', 'N / A', 1
+'Car make', 'MERCUR', 890
+'Car make', 'M/B', 4
+'Car make', 'CHRVRO', 1
+'Car make', 'VESPSA', 1
+'Car make', 'BWW', 1
+'Car make', 'R ROVE', 1
+'Car make', 'M/C', 1
+'Car make', 'VORTEX', 1
+'Car make', 'CATILL', 1
+'Car make', 'TOYATO', 7
+'Car make', 'TOY.', 1
+'Car make', 'THEURE', 1
+'Car make', 'BLUEBL', 1
+'Car make', 'TOYOT', 3
+'Car make', 'MOBILE', 1
+'Car make', 'MIN', 1
+'Car make', 'CHYRS', 5
+'Car make', 'CHREYS', 1
+'Car make', 'ISUZO', 1
+'Car make', 'GRUMMN', 1
+'Car make', 'GRT DN', 1
+'Car make', 'BUELL', 1
+'Car make', 'MADZA', 19
+'Car make', 'MERC.', 4
+'Car make', 'VOLWAG', 3
+'Car make', 'CHEROO', 1
+'Car make', 'LAND R', 28
+'Car make', 'PLYMHU', 1
+'Car make', 'CASDIL', 1
+'Car make', 'LANDOV', 2
+'Car make', 'VOLTZW', 3
+'Car make', 'AEGIR', 1
+'Car make', 'METRO', 1
+'Car make', 'TRACTO', 4
+'Car make', '86BE/M', 1
+'Car make', 'TOT', 1
+'Car make', 'DODGE`', 2
+'Car make', 'ISUZO', 1
+'Car make', 'CADK', 1
+'Car make', 'ACURAG', 2
+'Car make', 'LONSTA', 1
+'Car make', 'LGS', 1
+'Car make', 'DODGRE', 1
+'Car make', 'LA\RO', 1
+'Car make', 'LINC', 27
+'Car make', 'MISTU', 4
+'Car make', 'MITZU', 4
+'Car make', 'VOLVO`', 1
+'Car make', 'MECUR', 1
+'Car make', 'NISS', 1
+'Car make', 'INTER', 26
+'Car make', 'MERCU', 24
+'Car make', 'ME/BZ', 7
+'Car make', 'VOLKA', 1
+'Car make', 'JINON', 1
+'Car make', 'VOLSWA', 6
+'Car make', 'BME', 1
+'Car make', 'KEEWAY', 3
+'Car make', '_BUICK', 1
+'Car make', 'CHRYL', 3
+'Car make', 'MERZ', 2
+'Car make', 'FORF', 1
+'Car make', 'VOLK', 1
+'Car make', 'GRUMMA', 16
+'Car make', '_MER', 1
+'Car make', 'DOTSON', 1
+'Car make', 'FRLINE', 1
+'Car make', 'VOLKWA', 5
+'Car make', 'SUBSRU', 1
+'Car make', 'TAURAS', 1
+'Car make', 'LROVER', 5
+'Car make', 'JETTA', 4
+'Car make', 'ESCALA', 2
+'Car make', 'SPCRFT', 1
+'Car make', 'INFITI', 2
+'Car make', 'TAOTAO', 9
+'Car make', 'GRDANE', 1
+'Car make', 'WHALER', 1
+'Car make', 'BUS', 4
+'Car make', 'FLINER', 2
+'Car make', 'V. WAG', 1
+'Car make', 'SUZ', 1
+'Car make', 'HUNDUN', 1
+'Car make', 'MITSIB', 11
+'Car make', 'INFNTI', 1
+'Car make', 'INTRIQ', 1
+'Car make', 'INTREP', 2
+'Car make', 'LONGBO', 1
+'Car make', 'SUBURB', 4
+'Car make', 'LANROV', 4
+'Car make', 'LOADRI', 2
+'Car make', 'MERCID', 1
+'Car make', 'TOYOT', 6
+'Car make', 'VOLOVO', 1
+'Car make', '98 GMC', 1
+'Car make', 'TOYPTA', 1
+'Car make', 'VOKSWA', 4
+'Car make', 'KENSWO', 1
+'Car make', 'FRUCHA', 1
+'Car make', 'HUNDY', 1
+'Car make', 'HYUNAD', 1
+'Car make', 'BMV', 2
+'Car make', 'GRANDP', 1
+'Car make', 'USPS', 1
+'Car make', 'LEXIS', 2
+'Car make', 'MITSUB', 858
+'Car make', 'PLYMOU', 279
+'Car make', 'EXTREM', 3
+'Car make', 'SOUTHW', 1
+'Car make', 'HV', 1
+'Car make', 'MB/BE', 1
+'Car make', 'SUZI', 1
+'Car make', 'BWM', 2
+'Car make', 'SATARN', 1
+'Car make', 'ROVER', 18
+'Car make', 'ALFARO', 2
+'Car make', 'DOOLIT', 1
+'Car make', 'FREIGT', 4
+'Car make', 'CHEV.', 3
+'Car make', 'CADY', 1
+'Car make', 'DATSON', 1
+'Car make', 'LOWBOY', 2
+'Car make', 'FIAT', 11
+'Car make', 'LEX', 2
+'Car make', 'MITT', 4
+'Car make', 'CATAPI', 1
+'Car make', 'MAGGIO', 1
+'Car make', 'HYNDA', 2
+'Car make', 'GPTF', 1
+'Car make', 'TOYATA', 6
+'Car make', 'HYANDI', 3
+'Car make', '`MERC', 1
+'Car make', 'ENFIEL', 1
+'Car make', 'VOLVWA', 1
+'Car make', 'SUZUZI', 1
+'Car make', '_RANGE', 1
+'Car make', 'AMTRAI', 1
+'Car make', '__AUDI', 1
+'Car make', 'JAQUAR', 16
+'Car make', 'OLDSM', 6
+'Car make', 'UKN', 2
+'Car make', 'JLG', 1
+'Car make', 'CHEBY', 1
+'Car make', '__11', 1
+'Car make', 'INTER', 16
+'Car make', 'SHORE', 2
+'Car make', 'MER/BZ', 2
+'Car make', 'CHEVT', 2
+'Car make', 'AUDI1', 1
+'Car make', 'DODDE', 1
+'Car make', 'CADDY.', 2
+'Car make', 'BAYLIN', 18
+'Car make', 'APRILA', 3
+'Car make', '_FORD', 6
+'Car make', 'SPORT', 2
+'Car make', 'FORD B', 6
+'Car make', 'GILLIG', 1
+'Car make', 'KIA', 226
+'Car make', 'ME\BE', 6
+'Car make', 'JAQUA', 1
+'Car make', 'CADDLC', 1
+'Car make', 'MERC B', 1
+'Car make', 'BELL B', 1
+'Car make', 'M/B', 5
+'Car make', 'ARGOCY', 1
+'Car make', 'SCOTTE', 1
+'Car make', 'BMW', 1666
+'Car make', 'JAG', 6
+'Car make', 'UNKNO', 2
+'Car make', 'ASTONM', 1
+'Car make', 'CHERV', 2
+'Car make', '`PLYMO', 1
+'Car make', 'LANCE', 2
+'Car make', 'MALIBU', 1
+'Car make', 'AM GE', 1
+'Car make', '_CHRYS', 2
+'Car make', 'NA', 120
+'Car make', 'HONDA`', 3
+'Car make', 'WORKHO', 1
+'Car make', 'MITZBE', 1
+'Car make', 'HOLMES', 1
+'Car make', 'TRAILE', 10
+'Car make', 'KURBMA', 3
+'Car make', 'MBENZ', 12
+'Car make', 'CHYRLS', 2
+'Car make', 'HUNDA', 3
+'Car make', 'EHRBAR', 1
+'Car make', 'NISIAN', 1
+'Car make', 'HYNDUN', 5
+'Car make', '__MITS', 1
+'Car make', 'GATOR', 1
+'Car make', 'NISSUN', 1
+'Car make', 'BUDD', 1
+'Car make', 'TITANO', 1
+'Car make', 'MITZUI', 1
+'Car make', 'ME/BEN', 27
+'Car make', 'MG', 1
+'Car make', 'CHEVRE', 2
+'Car make', 'IO', 1
+'Car make', 'BMWD', 1
+'Car make', 'DATSUN', 2
+'Car make', 'APRII', 1
+'Car make', 'FRTLIN', 3
+'Car make', 'GUIDE', 1
+'Car make', 'ALERO', 1
+'Car make', 'PETENB', 1
+'Car make', 'MIOTSU', 1
+'Car make', 'JEE', 1
+'Car make', 'RANGE', 77
+'Car make', 'N/A', 92
+'Car make', 'TOYO', 1
+'Car make', 'RV', 2
+'Car make', 'ME/BE', 653
+'Car make', 'VOLKWG', 1
+'Car make', 'MISTIB', 1
+'Car make', 'CHRY', 8
+'Car make', 'ME\BE', 1
+'Car make', 'MERURY', 1
+'Car make', 'SCANIA', 2
+'Car make', 'BLUE B', 1
+'Car make', 'MERCAD', 19
+'Car make', 'MAZDAQ', 2
+'Car make', 'DEMCO', 1
+'Car make', 'WESTWA', 2
+'Car make', 'JAGUAE', 1
+'Car make', '70', 1
+'Car make', 'SMOKEY', 1
+'Car make', 'FLEET', 1
+'Car make', 'GHEVY', 2
+'Car make', 'GMB', 1
+'Car make', 'PEUGEO', 2
+'Car make', 'CHEVOL', 44
+'Car make', 'VOLO', 1
+'Car make', 'MITZ', 1
+'Car make', '_AUDI', 5
+'Car make', 'INTNAT', 1
+'Car make', 'CHYRLE', 1
+'Car make', 'AUTOCA', 1
+'Car make', 'HYDUND', 1
+'Car make', 'BLUE', 2
+'Car make', 'YOSHIM', 2
+'Car make', 'FISHMA', 1
+'Car make', 'BE/BE', 1
+'Car make', 'TOYOTA', 4839
+'Car make', 'MERCD', 3
+'Car make', 'CORVET', 7
+'Car make', 'APILIA', 1
+'Car make', 'MASTER', 4
+'Car make', 'CADDDY', 2
+'Car make', 'NISAN', 12
+'Car make', 'LA RO', 1
+'Car make', 'LANCER', 1
+'Car make', 'PLYM', 2
+'Car make', 'EZ-GO', 1
+'Car make', 'MECDES', 1
+'Car make', 'PRIZM', 1
+'Car make', 'TOYOTO', 6
+'Car make', 'INFITY', 4
+'Car make', 'ISUZY', 1
+'Car make', 'VLKSWG', 1
+'Car make', 'CRUISE', 2
+'Car make', 'FRU', 1
+'Car make', 'ELEGNT', 1
+'Car make', 'MERCER', 5
+'Car make', 'HIONDA', 2
+'Car make', 'LAROVE', 1
+'Car make', 'FORDK', 1
+'Car make', 'LA/ROV', 1
+'Car make', 'GULFST', 1
+'Car make', 'ISUSZU', 1
+'Car make', 'FLAIR', 1
+'Car make', '_TOYOT', 1
+'Car make', '00AUDI', 1
+'Car make', 'MISUBI', 4
+'Car make', 'AVE', 1
+'Car make', 'RAM', 14
+'Car make', 'FRIELI', 1
+'Car make', 'TGOYOT', 1
+'Car make', 'CVLIER', 1
+'Car make', 'V/W', 3
+'Car make', 'ME-BE', 3
+'Car make', 'TITAN', 5
+'Car make', 'TRIUMP', 25
+'Car make', 'BUSS', 1
+'Car make', 'PRIUS', 1
+'Car make', 'CHYRST', 5
+'Car make', 'MERBEZ', 1
+'Car make', 'TOMOS', 1
+'Car make', 'LINCL', 1
+'Car make', 'BUJICK', 1
+'Car make', 'DENNIS', 1
+'Car make', 'SUBARU', 445
+'Car make', 'CHER', 1
+'Car make', 'CHRYSK', 1
+'Car make', 'MITTSU', 2
+'Car make', 'MERCY', 1
+'Car make', 'JETTA', 6
+'Car make', 'THOR', 1
+'Car make', 'VAN', 2
+'Car make', '_MERCE', 1
+'Car make', 'LR/RR', 1
+'Car make', 'NISSAN', 7440
+'Car make', 'GMC`', 1
+'Car make', 'LAND', 8
+'Car make', 'ALTIMA', 9
+'Car make', 'MECADE', 1
+'Car make', 'FORDQ', 2
+'Car make', 'RA-ROV', 1
+'Car make', 'TRANVC', 1
+'Car make', 'WIL', 1
+'Car make', 'V.W.', 1
+'Car make', 'CAMPER', 1
+'Car make', 'ME/BE', 377
+'Car make', 'CADILL', 638
+'Car make', 'MERCE', 8
+'Car make', 'SUZIKI', 3
+'Car make', 'TRAILM', 3
+'Car make', 'FORD W', 7
+'Car make', 'CHECY', 1
+'Car make', 'MBENZ', 12
+'Car make', 'HYBRID', 3
+'Car make', 'ZUMA', 4
+'Car make', 'SOLANA', 1
+'Car make', 'INTRNL', 1
+'Car make', 'GMCBUS', 1
+'Car make', 'ME/BN', 1
+'Car make', 'HYNDAN', 1
+'Car make', 'CADDY', 73
+'Car make', 'FREIGH', 173
+'Car make', 'NV', 17
+'Car make', 'ME BE', 5
+'Car make', 'MITSBI', 3
+'Car make', 'GENESI', 3
+'Car make', 'WABUSH', 1
+'Car make', 'PLMYTH', 1
+'Car make', 'MVP', 1
+'Car make', 'ACCURA', 32
+'Car make', 'BUCK', 1
+'Car make', 'CHYLR', 1
+'Car make', 'JAGUA', 1
+'Car make', 'M.BESN', 1
+'Car make', 'UKN', 5
+'Car make', 'JEEP B', 1
+'Car make', 'MEBEZ', 1
+'Car make', 'MITSU.', 1
+'Car make', 'HYANDA', 2
+'Car make', 'NISSSA', 2
+'Car make', 'ME.BE.', 1
+'Car make', 'TEREX', 1
+'Car make', 'WT', 1
+'Car make', 'MONTER', 3
+'Car make', '2003', 1
+'Car make', 'ROMA', 2
+'Car make', 'NV', 12
+'Car make', '_INFIN', 1
+'Car make', 'LINCO', 55
+'Car make', 'MITUSU', 2
+'Car make', 'BNW', 2
+'Car make', 'TODCO', 1
+'Car make', 'SCARAV', 1
+'Car make', 'FLEETW', 8
+'Car make', 'FRAU', 1
+'Car make', 'HONDS', 1
+'Car make', 'REV', 1
+'Car make', 'AMBULE', 1
+'Car make', 'WESTER', 2
+'Car make', 'JAJUAR', 1
+'Car make', 'NAVIST', 1
+'Car make', 'NISSIA', 128
+'Car make', 'CHIEF', 1
+'Car make', 'VESBA', 1
+'Car make', 'ME', 1
+'Car make', 'EAGLE', 21
+'Car make', 'SUZUKI', 269
+'Car make', 'ROLLS', 6
+'Car make', 'BOICK', 1
+'Car make', 'CADLIL', 1
+'Car make', 'DODGEE', 1
+'Car make', 'CONTRA', 1
+'Car make', 'HINO', 17
+'Car make', 'ELITE', 1
+'Car make', 'V/W', 3
+'Car make', 'CAD', 1
+'Car make', 'U/K', 1
+'Car make', 'CHERVO', 9
+'Car make', 'ITALJE', 2
+'Car make', 'VOVLO', 1
+'Car make', 'CHEY', 1
+'Car make', 'NS', 1
+'Car make', 'FORD', 5798
+'Car make', 'AUDI', 809
+'Car make', 'AUDII', 1
+'Car make', 'LEX', 2
+'Car make', 'MEBENZ', 37
+'Car make', 'SADAN', 1
+'Car make', 'ECONOL', 2
+'Car make', 'SOUTHE', 1
+'Car make', 'VOVLVO', 1
+'Car make', 'CHRSL', 1
+'Car make', 'HYSTER', 1
+'Car make', 'NISSAB', 3
+'Car make', 'VERSA', 1
+'Car make', 'LAMBR', 1
+'Car make', 'B.M.W.', 3
+'Car make', 'LICON', 1
+'Car make', 'PIAGGO', 3
+'Car make', 'ROYAL', 1
+'Car make', 'BATAVU', 2
+'Car make', 'UTILIM', 6
+'Car make', 'SUBAR', 28
+'Car make', 'SUNVAL', 1
+'Car make', 'SUBRU', 1
+'Car make', 'ISUZA', 1
+'Car make', 'TORPED', 9
+'Car make', 'MAZDAR', 1
+'Car make', 'RELIAB', 2
+'Car make', 'SPADOO', 1
+'Car make', 'FE', 1
+'Car make', 'ISUZU', 130
+'Car make', '_FORD', 20
+'Car make', 'DORSE', 1
+'Car make', 'MERRIT', 1
+'Car make', 'PROSCH', 1
+'Car make', 'CADIAL', 4
+'Car make', 'LINCLN', 32
+'Car make', 'CEVROL', 3
+'Car make', 'IZUSU', 4
+'Car make', 'COTTRE', 1
+'Car make', 'AURORA', 3
+'Car make', 'PETER', 3
+'Car make', 'KARAVA', 5
+'Car make', 'XL', 1
+'Car make', 'RENTHA', 1
+'Car make', 'HYUN A', 1
+'Car make', 'VOLKWN', 1
+'Car make', 'ACURA6', 1
+'Car make', 'CADDY', 35
+'Car make', 'MINI', 68
+'Car make', 'V W', 1
+'Car make', 'YUKON', 2
+'Car make', 'BUD', 1
+'Car make', 'PATHFI', 1
+'Car make', 'RANROV', 2
+'Car make', 'MERCED', 1533
+'Car make', 'LIFAN', 2
+'Car make', 'CENTUE', 1
+'Car make', 'M BENZ', 5
+'Car make', 'ININIT', 1
+'Car make', 'MITWS', 1
+'Car make', 'UTO', 1
+'Car make', 'SAAB', 132
+'Car make', 'KYMCO', 3
+'Car make', '_ISUZU', 1
+'Car make', 'BM', 1
+'Car make', 'XMAX', 1
+'Car make', 'SNORKE', 1
+'Car make', 'CHEVR', 29
+'Car make', 'MERCRY', 11
+'Car make', 'VESPA', 145
+'Car make', 'VOLKW', 1
+'Car make', 'AUSTIN', 1
+'Car make', 'LUXUS', 1
+'Car make', 'BG', 1
+'Car make', 'DODGER', 2
+'Car make', 'STRELI', 1
+'Car make', 'SNYDER', 1
+'Car make', 'SUBRU', 1
+'Car make', 'VEAPA', 1
+'Car make', 'SUZUK', 1
+'Car make', 'LEXUS.', 1
+'Car make', 'CADILC', 3
+'Car make', 'FORS', 2
+'Car make', '_GMC', 2
+'Car make', 'TIOGA', 1
+'Car make', 'CAMBRE', 1
+'Car make', 'SEA/DO', 1
+'Car make', 'MSBENZ', 1
+'Car make', 'MB/BE', 1
+'Car make', 'INF', 2
+'Car make', 'DODGE', 1815
+'Car make', '89 BMW', 1
+'Car make', 'GALANT', 2
+'Car make', '2000', 2
+'Car make', 'VESSA', 1
+'Car make', 'CHRYS', 172
+'Car make', 'CPF02', 1
+'Car make', 'J&J', 1
+'Car make', 'ME BE', 3
+'Car make', 'SABARU', 5
+'Car make', 'FUSO', 8
+'Car make', 'MIDGET', 1
+'Car make', 'WORKH', 1
+'Car make', 'VINO', 3
+'Car make', 'WINDST', 1
+'Car make', 'VOIVO', 1
+'Car make', 'HONDAS', 5
+'Car make', 'TOY0TA', 1
+'Car make', 'SUSKI', 2
+'Car make', 'TAIL G', 1
+'Car make', 'CHRYES', 1
+'Car make', 'BITSUB', 1
+'Car make', 'CHRYSR', 3
+'Car make', 'BUKE', 1
+'Car make', 'DUTTON', 1
+'Car make', 'FOED', 6
+'Car make', '_NA', 3
+'Car make', 'CAMRY', 2
+'Car make', 'DU', 1
+'Car make', 'MAZZA', 3
+'Car make', 'WINNEB', 7
+'Car make', 'INTL', 6
+'Car make', 'N/S', 24
+'Car make', 'MERC', 36
+'Car make', 'VLKS', 1
+'Car make', 'FREU', 1
+'Car make', 'CHURCH', 2
+'Car make', 'IBFINI', 1
+'Car make', 'INFNIT', 1
+'Car make', 'MELBES', 1
+'Car make', 'VASPA', 1
+'Car make', 'LAMHRE', 1
+'Car make', 'WELLCR', 3
+'Car make', 'DODGE', 1822
+'Car make', 'UNKWN', 1
+'Car make', 'MISTSU', 1
+'Car make', 'JAGUUR', 1
+'Car make', 'HYUNDY', 1
+'Car make', 'CAD', 6
+'Car make', 'FRIGHT', 5
+'Car make', 'GENUIN', 5
+'Car make', 'MECBEN', 2
+'Car make', 'PLYMOY', 1
+'Car make', 'YAMATI', 2
+'Car make', 'RINKER', 1
+'Car make', 'INTREN', 1
+'Car make', 'WINNE', 3
+'Car make', 'ISUZI', 1
+'Car make', 'LEONAR', 1
+'Car make', 'PREVOS', 1
+'Car make', 'FLY9', 1
+'Car make', 'CADDI', 20
+'Car make', 'VOLKS', 223
+'Car make', 'CHEVRO', 1417
+'Car make', 'MAZDZA', 1
+'Car make', 'MER', 5
+'Car make', 'MENSBE', 1
+'Car make', 'FOCUS', 1
+'Car make', 'ABARTH', 1
+'Car make', 'HONDS', 1
+'Car make', 'MINI', 1
+'Car make', 'SAAB', 119
+'Car make', 'VOLKSW', 529
+'Car make', 'HUYNDI', 2
+'Car make', 'MAXUM', 1
+'Car make', 'HAELEY', 1
+'Car make', 'CASE', 2
+'Car make', 'CRISLE', 1
+'Car make', 'JAGUAR', 380
+'Car make', 'OMEGA', 1
+'Car make', 'GREATD', 5
+'Car make', 'MOTO', 1
+'Car make', 'CHVROL', 3
+'Car make', 'POMTIA', 1
+'Car make', 'LE4XUS', 1
+'Car make', 'MERDED', 2
+'Car make', 'HUYNDA', 1
+'Car make', 'TOTOYA', 5
+'Car make', 'PUGEOT', 3
+'Car make', 'CHEVY.', 13
+'Car make', '05 GMC', 1
+'Car make', 'DEMA', 1
+'Car make', 'MER.BE', 1
+'Car make', 'GADI', 1
+'Car make', 'INTNTL', 2
+'Car make', 'HORTON', 1
+'Car make', 'CHEERK', 1
+'Car make', 'BUS', 1
+'Car make', 'TOYOTS', 3
+'Car make', 'VOVLO', 1
+'Car make', 'GEL', 1
+'Car make', 'MAJEST', 2
+'Car make', 'MERCUE', 1
+'Car make', '_UNK', 1
+'Car make', 'GORMAN', 1
+'Car make', 'NA', 66
+'Car make', 'PET BU', 1
+'Car make', 'TOTA', 1
+'Car make', 'VOKLSW', 1
+'Car make', 'UNKNWN', 3
+'Car make', 'SOLID', 1
+'Car make', 'PLYMO', 7
+'Car make', 'DUCATT', 2
+'Car make', 'RNG/RV', 1
+'Car make', 'KAWISA', 1
+'Car make', 'KENMOR', 1
+'Car make', 'VICTOR', 2
+'Car make', 'BMW`', 3
+'Car make', 'NINNAN', 1
+'Car make', '_JEP', 1
+'Car make', 'TAKE 3', 1
+'Car make', 'TIOGA', 2
+'Car make', 'CHRYEL', 1
+'Car make', 'HINDA', 2
+'Car make', 'JETA', 1
+'Car make', 'NISSAM', 4
+'Car make', 'LARK', 1
+'Car make', 'NISSN', 9
+'Car make', 'JEEPBL', 1
+'Car make', 'BUICKT', 1
+'Car make', 'HYNDIA', 1
+'Car make', 'MITSHI', 2
+'Car make', 'ARAVEL', 1
+'Car make', 'KINO', 1
+'Car make', 'N/S', 3
+'Car make', '_ACURA', 1
+'Car make', 'DORSEY', 1
+'Car make', 'SIERRA', 2
+'Car make', 'INT', 1
+'Car make', 'N`SSAN', 1
+'Car make', '__FORD', 4
+'Car make', 'IUASSI', 1
+'Car make', 'CHEVLT', 1
+'Car make', 'UNKNOW', 83
+'Car make', 'MISHUB', 1
+'Car make', 'BLUEBI', 7
+'Car make', 'SHANGH', 1
+'Car make', 'JACGUA', 1
+'Car make', 'TR', 2
+'Car make', 'ROGERS', 1
+'Car make', 'GO 4', 2
+'Car make', 'ME', 1
+'Car make', 'WW', 1
+'Car make', 'MITSHU', 17
+'Car make', 'CHEVEO', 2
+'Car make', 'EUROJE', 1
+'Car make', 'UTLIM', 1
+'Car make', 'ME/BE/', 1
+'Car make', 'FIREFI', 1
+'Car make', 'VOYAGE', 1
+'Car make', 'MB', 24
+'Car make', 'BWN', 1
+'Car make', 'ME-BEN', 1
+'Car make', 'TRUCK', 2
+'Car make', 'RETERB', 1
+'Car make', 'LIL RI', 1
+'Car make', 'RA/LO', 1
+'Car make', 'BUICK', 315
+'Car make', 'CHEROL', 3
+'Car make', 'CADY', 6
+'Car make', 'CHYSLE', 27
+'Car make', 'CHEVOR', 21
+'Car make', 'FORD', 2
+'Car make', 'VANDUM', 1
+'Car make', 'MRCDES', 1
+'Car make', 'RANG', 1
+'Car make', 'BMWV', 1
+'Car make', 'HODA', 2
+'Car make', 'DATTCO', 1
+'Car make', 'PLYM', 29
+'Car make', 'WHITE', 2
+'Car make', 'NONE', 5
+'Car make', 'AVENUE', 1
+'Car make', 'BA/LIN', 1
+'Car make', 'V W', 1
+'Car make', 'SETRA', 1
+'Car make', 'HYOSUN', 2
+'Car make', 'KTI', 1
+'Car make', 'ALFA', 1
+'Car make', 'CADLAC', 3
+'Car make', 'CHRSLR', 6
+'Car make', 'MECUR', 1
+'Car make', 'UTILMA', 1
+'Car make', 'WESTEN', 1
+'Car make', 'CHRYST', 51
+'Car make', 'COLORA', 1
+'Car make', 'UD', 6
+'Car make', 'CHECVY', 1
+'Car make', 'HYNDI', 1
+'Car make', 'V.W', 1
+'Car make', 'LEUS', 1
+'Car make', 'INTERC', 9
+'Car make', 'RANGE/', 1
+'Car make', 'TOYORA', 1
+'Car make', 'MERC', 57
+'Car make', 'HONDAI', 2
+'Car make', 'MITISU', 7
+'Car make', 'TRANST', 1
+'Car make', 'ME/BW', 1
+'Car make', 'ELLIS', 1
+'Car make', 'NISSIN', 2
+'Car make', 'INTRA', 1
+'Car make', 'SUXUKI', 1
+'Car make', 'FRIEIG', 1
+'Car make', 'VOLZW', 1
+'Car make', 'AUDI G', 1
+'Car make', 'MITS', 5
+'Car make', 'TRANSI', 1
+'Car make', 'FRIEGH', 11
+'Car make', '92 CAD', 1
+'Car make', 'DIDGE', 2
+'Car make', 'MAC', 5
+'Car make', 'SENT', 1
+'Car make', 'COPPER', 1
+'Car make', 'AMIGO', 2
+'Car make', 'CORTIN', 1
+'Car make', 'GO-4', 2
+'Car make', 'MAZDA', 474
+'Car make', 'LINCL', 2
+'Car make', '`PLYM', 1
+'Car make', 'FABRIQ', 2
+'Car make', 'M/EB/E', 1
+'Car make', 'MOTOX', 1
+'Car make', 'SUZULI', 1
+'Car make', 'UNK', 21
+'Car make', 'FRUEAU', 1
+'Car make', 'OLDS', 103
+'Car make', 'LDROVE', 1
+'Car make', 'INTNL', 3
+'Car make', 'BIKE', 1
+'Car make', 'NSSAN', 1
+'Car make', 'DISCOV', 1
+'Car make', 'TERMIN', 1
+'Car make', 'ME/BEZ', 9
+'Car make', 'HUOLND', 1
+'Car make', 'LICLON', 1
+'Car make', 'SPRINT', 6
+'Car make', 'LEXUS', 736
+'Car make', 'GULF', 1
+'Car make', 'INTL', 8
+'Car make', 'GLADIA', 2
+'Car make', 'GREAT', 3
+'Car make', 'AUD', 1
+'Car make', 'ACUR', 1
+'Car make', 'DANE', 1
+'Car make', 'MITS', 9
+'Car make', 'L;EXUS', 1
+'Car make', 'DODGES', 1
+'Car make', 'JEEP', 943
+'Car make', 'UD', 9
+'Car make', 'NORTH', 1
+'Car make', 'UTO', 1
+'Car make', 'TAKEUC', 2
+'Car make', 'VOLVL', 1
+'Car make', 'YELLOW', 1
+'Car make', 'DODGEA', 2
+'Car make', 'COLEMA', 3
+'Car make', 'BENZES', 1
+'Car make', 'VOLVO', 365
+'Car make', 'STARTR', 3
+'Car make', 'NISSA', 9
+'Car make', 'AUDIBL', 1
+'Car make', 'FPRD', 2
+'Car make', 'HONDAR', 1
+'Car make', 'POWER', 2
+'Car make', 'CHEV', 174
+'Car make', 'WABASH', 6
+'Car make', 'KAWA', 2
+'Car make', 'SEARAY', 2
+'Car make', 'SMART', 4
+'Car make', 'CRSYLR', 1
+'Car make', 'AUDIE', 1
+'Car make', 'CHEVE', 9
+'Car make', 'MBZ', 1
+'Car make', 'CADI', 58
+'Car make', 'MIRAGE', 1
+'Car make', 'CHYLS', 1
+'Car make', 'GMS', 1
+'Car make', 'ME/BED', 1
+'Car make', 'MICOOP', 1
+'Car make', 'CLIPPE', 1
+'Car make', 'RNGROV', 1
+'Car make', 'VEKEN', 1
+'Car make', 'UNKL', 1
+'Car make', 'DUCATI', 24
+'Car make', 'SUSUKI', 9
+'Car make', 'PLMOUT', 5
+'Car make', 'VELOCI', 2
+'Car make', 'GM', 2
+'Car make', 'LA/RO', 31
+'Car make', 'LINCO', 84
+'Car make', 'MERCD', 1
+'Car make', 'CHYSR', 1
+'Car make', 'SUPREM,', 1
+'Car make', 'CAD.  ,', 1
+'Car make', 'PONIT ,', 1
+'Car make', '0FORD,', 1
+'Car make', 'CASE  ,', 1
+'Car make', 'KOWASA,', 1
+'Car make', 'INGERS,', 1
+'Car make', 'HYNDUI,', 2
+'Car make', 'AUDDI,', 1
+'Car make', 'TRAMP,', 1
+'Car make', 'HINDAY,', 1
+'Car make', 'LNCOLN,', 1
+'Car make', 'MERCES,', 6
+'Car make', 'MURCUR,', 6
+'Car make', 'NISSN ,', 1
+'Car make', 'ALLEGR,', 2
+'Car make', 'HOND,', 3
+'Car make', 'ME-BE,', 4
+'Car make', 'SUNARU,', 1
+'Car make', 'LDRO,', 1
+'Car make', 'ME/BNZ,', 2
+'Car make', 'DAEWOO,', 34
+'Car make', 'ME\BEZ,', 1
+'Car make', 'MERCRD,', 1
+'Car make', 'LINC  ,', 37
+'Car make', 'TOYTOT,', 1
+'Car make', 'PLYMPO,', 1
+'Car make', 'SUBN  ,', 1
+'Car make', 'MERC/B,', 3
+'Car make', 'MAZDA,', 516
+'Car make', 'BUYLIN,', 1
+'Car make', '_KIA,', 1
+'Car make', 'NISS,', 5
+'Car make', 'DITMAS,', 1
+'Car make', 'INFIN.,', 1
+'Car make', 'CHEAVY,', 2
+'Car make', 'DIATSU,', 1
+'Car make', 'JAUGUA,', 1
+'Car make', 'UNKOWN,', 16
+'Car make', 'VESPAP,', 1
+'Car make', 'SAAB B,', 1
+'Car make', 'CHERVY,', 1
+'Car make', 'SCOOT ,', 1
+'Car make', 'SUDURA,', 1
+'Car make', '_N/A  ,', 3
+'Car make', '__MEBE,', 1
+'Car make', 'LOAD R,', 2
+'Car make', 'TOYTA ,', 3
+'Car make', 'LANDRO,', 135
+'Car make', 'LNDRVR,', 3
+'Car make', 'MOTOGU,', 2
+'Car make', 'HAULMA,', 6
+'Car make', 'RA/RO ,', 1
+'Car make', 'VWAGON,', 2
+'Car make', 'KENTWO,', 1
+'Car make', 'DODEG,', 1
+'Car make', 'N\A   ,', 1
+'Car make', 'GLASTR,', 1
+'Car make', 'SATURM,', 1
+'Car make', 'CELEBR,', 1
+'Car make', 'BIGTEX,', 3
+'Car make', 'LIN,', 3
+'Car make', 'CHYSTE,', 1
+'Car make', 'MB    ,', 8
+'Car make', 'FREI,', 3
+'Car make', 'MI/FU,', 1
+'Car make', 'NOMAD,', 5
+'Car make', 'KAWAS ,', 2
+'Car make', 'MERCDE,', 8
+'Car make', 'LICOLN,', 16
+'Car make', 'CHEVHR,', 1
+'Car make', 'DODGEN,', 1
+'Car make', 'SATURE,', 1
+'Car make', 'BMW,', 2675
+'Car make', 'LOADST,', 3
+'Car make', 'HYND,', 1
+'Car make', 'ACUA,', 2
+'Car make', '_JEEP,', 1
+'Car make', 'STONE,', 1
+'Car make', 'NEON  ,', 7
+'Car make', 'BUELL ,', 3
+'Car make', 'TOYTOA,', 7
+'Car make', 'ME /BE,', 1
+'Car make', 'FORN  ,', 1
+'Car make', 'BENELL,', 2
+'Car make', 'DOGDE,', 3
+'Car make', 'MG,', 1
+'Car make', 'CARMAT,', 1
+'Car make', 'NUL,', 1
+'Car make', 'CHEVY ,', 1465
+'Car make', 'CHRSLE,', 8
+'Car make', 'UTILIT,', 4
+'Car make', 'MCLEND,', 1
+'Car make', 'PRIMO,', 4
+'Car make', 'LAMBO,', 1
+'Car make', 'VMW,', 1
+'Car make', 'CHRYSL,', 1483
+'Car make', 'MAXIMA,', 19
+'Car make', 'GEELY ,', 1
+'Car make', 'AULTIM,', 1
+'Car make', 'VULCAN,', 7
+'Car make', 'ETON  ,', 2
+'Car make', 'CADITL,', 1
+'Car make', 'PASSTA,', 1
+'Car make', 'L/ROVE,', 2
+'Car make', 'CDDDYL,', 1
+'Car make', 'GRANDA,', 1
+'Car make', 'HANDAI,', 1
+'Car make', 'CHYRS ,', 2
+'Car make', 'WEINER,', 1
+'Car make', '_KIA  ,', 1
+'Car make', 'REGAL,', 1
+'Car make', 'NISSNA,', 1
+'Car make', 'BOOM,', 2
+'Car make', 'AZTEC,', 1
+'Car make', 'UCON,', 1
+'Car make', 'NM,', 1
+'Car make', 'MECURY,', 9
+'Car make', 'PETBIL,', 1
+'Car make', 'SCARAB,', 2
+'Car make', 'HYDAI ,', 1
+'Car make', 'CHYSL ,', 1
+'Car make', 'HYDRA ,', 1
+'Car make', 'JEP,', 2
+'Car make', 'TL,', 1
+'Car make', 'LEXUA,', 1
+'Car make', 'LOADER,', 1
+'Car make', 'MITUBE,', 1
+'Car make', 'PONTI ,', 18
+'Car make', 'YUKON ,', 3
+'Car make', 'FREILI,', 2
+'Car make', 'V.W   ,', 1
+'Car make', 'CHEVYQ,', 2
+'Car make', '_UNK  ,', 1
+'Car make', 'ADVENT,', 1
+'Car make', 'SUZUK,', 1
+'Car make', 'GEO,', 16
+'Car make', '_CHEV,', 2
+'Car make', 'MC41,', 5
+'Car make', '_MERCU,', 1
+'Car make', 'ITERNA,', 1
+'Car make', 'KENWOR,', 41
+'Car make', 'RYDER ,', 1
+'Car make', 'ME/BE`,', 3
+'Car make', 'PORSUE,', 1
+'Car make', '_MITSU,', 1
+'Car make', 'CHECY,', 8
+'Car make', 'KAWA,', 2
+'Car make', 'EAGLE,', 3
+'Car make', 'LD ROV,', 2
+'Car make', 'WORLD,', 1
+'Car make', 'IZUZU ,', 9
+'Car make', 'NVA   ,', 15
+'Car make', 'NINJA ,', 2
+'Car make', 'BENT  ,', 1
+'Car make', 'GOODYE,', 1
+'Car make', 'IUNFIN,', 1
+'Car make', 'MITT  ,', 1
+'Car make', 'PEBILT,', 1
+'Car make', 'E BIKE,', 1
+'Car make', 'MECEDE,', 10
+'Car make', 'INFNTY,', 2
+'Car make', 'STOUGH,', 3
+'Car make', 'CHAPAR,', 2
+'Car make', 'MERKUR,', 1
+'Car make', 'IKIA  ,', 1
+'Car make', 'CHRSLY,', 1
+'Car make', 'ISUSU ,', 1
+'Car make', 'ASTRO ,', 2
+'Car make', 'VOLVE,', 1
+'Car make', 'VIKING,', 1
+'Car make', 'FROD,', 1
+'Car make', '___KIA,', 1
+'Car make', 'JOHN  ,', 1
+'Car make', 'TOYOLA,', 2
+'Car make', 'CHEVO ,', 1
+'Car make', 'AVANTI,', 1
+'Car make', 'MON,', 1
+'Car make', 'COPCO,', 2
+'Car make', 'GREY,', 1
+'Car make', 'CITROE,', 1
+'Car make', 'DAEWO,', 1
+'Car make', 'MAZDAW,', 1
+'Car make', 'INT'L ,', 3
+'Car make', 'NISAN ,', 8
+'Car make', 'POLO  ,', 1
+'Car make', 'GRO   ,', 1
+'Car make', '_BMW,', 7
+'Car make', 'TOYOTH,', 1
+'Car make', 'MC,', 2
+'Car make', 'CADIC,', 1
+'Car make', 'ALFA R,', 1
+'Car make', 'LEXUES,', 1
+'Car make', 'SPARCO,', 1
+'Car make', 'MILAN ,', 1
+'Car make', '_MAZDA,', 1
+'Car make', 'TRAIL,', 6
+'Car make', 'SABURO,', 1
+'Car make', 'EBIKE,', 1
+'Car make', 'MAZERA,', 1
+'Car make', 'PASSAT,', 4
+'Car make', 'AEIAL ,', 1
+'Car make', 'MUSTAN,', 3
+'Car make', 'ROGER ,', 1
+'Car make', 'CHRSTL,', 1
+'Car make', 'PT CRU,', 4
+'Car make', 'CHEVYT,', 2
+'Car make', 'MISSAN,', 1
+'Car make', 'TOYT,', 1
+'Car make', 'FORD G,', 5
+'Car make', 'HYUND,', 1
+'Car make', 'DIAMON,', 2
+'Car make', 'INFIIT,', 1
+'Car make', 'CHRYSY,', 1
+'Car make', 'VOLKS,', 448
+'Car make', 'VESPA,', 37
+'Car make', 'IZUSU,', 1
+'Car make', '_ME/BE,', 2
+'Car make', 'LASER,', 1
+'Car make', 'HYUNA,', 1
+'Car make', 'TRITON,', 2
+'Car make', 'TROJAN,', 2
+'Car make', 'MERSAD,', 1
+'Car make', 'R-ROVE,', 1
+'Car make', 'INFFIN,', 2
+'Car make', 'VESPO ,', 2
+'Car make', 'HYUND ,', 21
+'Car make', 'MERCDS,', 9
+'Car make', 'BENTLE,', 10
+'Car make', 'MISH  ,', 1
+'Car make', 'UNKN  ,', 1
+'Car make', 'ISAZU ,', 1
+'Car make', '2006  ,', 1
+'Car make', '_JEEP ,', 2
+'Car make', 'MERCB,', 1
+'Car make', 'REVOLV,', 1
+'Car make', 'HIDEAB,', 1
+'Car make', 'DODGEG,', 1
+'Car make', 'M/BE,', 1
+'Car make', 'M BEN,', 1
+'Car make', 'YAMAHA,', 130
+'Car make', 'LINC. ,', 1
+'Car make', 'MITZUB,', 6
+'Car make', 'ISUZA ,', 1
+'Car make', 'MITS. ,', 1
+'Car make', 'VENUS ,', 1
+'Car make', 'BIN   ,', 1
+'Car make', 'GO-4  ,', 1
+'Car make', 'CADIL,', 67
+'Car make', 'CLEVEL,', 1
+'Car make', 'HD,', 1
+'Car make', 'DYKON,', 3
+'Car make', 'MAZDA,', 1
+'Car make', 'HUMMER,', 24
+'Car make', 'VLKSWA,', 2
+'Car make', 'GRUMN ,', 1
+'Car make', 'STELLA,', 10
+'Car make', 'ROKETA,', 1
+'Car make', 'APACHE,', 2
+'Car make', 'NERCDE,', 1
+'Car make', 'KIA,', 357
+'Car make', 'KIDA,', 1
+'Car make', 'YADEO,', 1
+'Car make', 'PONT  ,', 24
+'Car make', 'MCBENZ,', 1
+'Car make', 'B.M.W ,', 3
+'Car make', 'CHRY  ,', 4
+'Car make', 'MIRSUB,', 1
+'Car make', 'CHEVBY,', 1
+'Car make', 'BLACK ,', 1
+'Car make', 'VOLK,', 1
+'Car make', 'GM    ,', 3
+'Car make', 'CHYLER,', 1
+'Car make', 'HANDA,', 1
+'Car make', 'VOLVOS,', 1
+'Car make', 'CRYSL,', 1
+'Car make', 'HERCUL,', 1
+'Car make', 'TWAIN,', 1
+'Car make', 'MERRCY,', 1
+'Car make', 'AEROMA,', 1
+'Car make', 'FRTL  ,', 1
+'Car make', 'CENTUR,', 2
+'Car make', 'VOLTSW,', 10
+'Car make', 'FORS  ,', 1
+'Car make', 'HOTDOG,', 1
+'Car make', '_GMC  ,', 1
+'Car make', 'HYUNAI,', 1
+'Car make', 'JOHN D,', 2
+'Car make', 'PONT,', 4
+'Car make', 'FORD  ,', 4594
+'Car make', 'CRHYSL,', 1
+'Car make', 'EMW   ,', 1
+'Car make', 'SWINGE,', 1
+'Car make', 'COACH,', 2
+'Car make', 'ACUR  ,', 3
+'Car make', 'KAUFMA,', 3
+'Car make', 'HONDA,', 4540
+'Car make', 'G.M.C,', 1
+'Car make', 'SENTO,', 1
+'Car make', 'MECE,', 1
+'Car make', 'HHONDA,', 1
+'Car make', 'JAGUR,', 1
+'Car make', 'SYM   ,', 1
+'Car make', 'MOJITO,', 1
+'Car make', 'DOOL  ,', 1
+'Car make', 'ROAD  ,', 1
+'Car make', 'VIKKS ,', 1
+'Car make', 'TRAIL ,', 3
+'Car make', 'GARELI,', 1
+'Car make', 'MITCH,', 1
+'Car make', 'CHEY,', 3
+'Car make', 'VOLZ,', 1
+'Car make', 'FREUGH,', 1
+'Car make', 'JCB,', 1
+'Car make', 'PONIAC,', 2
+'Car make', 'DAEWWO,', 1
+'Car make', 'KOWASK,', 1
+'Car make', 'CHRYL ,', 1
+'Car make', 'MAXIAM,', 1
+'Car make', 'TRACKE,', 1
+'Car make', 'SUS   ,', 1
+'Car make', 'VW,', 154
+'Car make', 'N/A,', 148
+'Car make', 'ROYCE,', 1
+'Car make', 'SATURN,', 457
+'Car make', 'CHRISL,', 2
+'Car make', 'RENKEN,', 3
+'Car make', 'GOE   ,', 1
+'Car make', 'MERCA ,', 1
+'Car make', 'MER BZ,', 1
+'Car make', 'TOYAYT,', 1
+'Car make', 'T444E ,', 1
+'Car make', 'HINO  ,', 4
+'Car make', 'SPECTE,', 1
+'Car make', 'TK50,', 1
+'Car make', 'NIASSA,', 1
+'Car make', 'PNTIAC,', 1
+'Car make', 'TOYO,', 1
+'Car make', 'UK,', 1
+'Car make', 'PIAGGI,', 32
+'Car make', 'NIS   ,', 1
+'Car make', 'MINI  ,', 9
+'Car make', 'HURICA,', 1
+'Car make', 'B.M.W,', 1
+'Car make', 'CHRYUS,', 1
+'Car make', 'CHEVYG,', 2
+'Car make', 'VOLVE ,', 1
+'Car make', 'ST    ,', 1
+'Car make', 'ALERO,', 1
+'Car make', 'DYNAHO,', 1
+'Car make', 'CHERRO,', 1
+'Car make', 'FORD N,', 1
+'Car make', 'VW    ,', 119
+'Car make', 'LINCLO,', 4
+'Car make', 'PLYMOT,', 12
+'Car make', 'CADICA,', 1
+'Car make', 'INFINY,', 1
+'Car make', 'JPCHER,', 1
+'Car make', 'KAWSAK,', 3
+'Car make', 'LMC   ,', 1
+'Car make', 'BENZHO,', 1
+'Car make', 'LNDCZR,', 1
+'Car make', 'SABB,', 4
+'Car make', 'EFLX,', 1
+'Car make', 'OLDSMB,', 5
+'Car make', 'CHRYS ,', 91
+'Car make', 'DURANG,', 2
+'Car make', 'CHRSYL,', 8
+'Car make', 'CATERP,', 3
+'Car make', 'CHYS,', 2
+'Car make', 'TOYTA,', 1
+'Car make', 'TOTOTA,', 16
+'Car make', 'FRUEHA,', 3
+'Car make', 'NOVA  ,', 1
+'Car make', 'ME BEN,', 5
+'Car make', 'GMC,', 665
+'Car make', 'MAC,', 6
+'Car make', 'PACE,', 2
+'Car make', 'FREIHT,', 1
+'Car make', 'SCIOON,', 1
+'Car make', 'AUDIO,', 1
+'Car make', 'FIRD,', 2
+'Car make', 'MERDEZ,', 1
+'Car make', 'CHRYLS,', 16
+'Car make', 'DODAGE,', 1
+'Car make', 'SUNL  ,', 1
+'Car make', 'HODAKA,', 1
+'Car make', 'KURBM ,', 1
+'Car make', 'MITSHB,', 2
+'Car make', '_CADDY,', 1
+'Car make', 'CADLI ,', 1
+'Car make', 'CRYSLE,', 13
+'Car make', 'MEREC ,', 1
+'Car make', 'KIA BR,', 1
+'Car make', 'CORV,', 1
+'Car make', 'OLDS,', 26
+'Car make', 'ALMAC,', 1
+'Car make', 'IINTER,', 1
+'Car make', 'M-BENZ,', 4
+'Car make', 'MITIBI,', 3
+'Car make', 'RAM   ,', 3
+'Car make', 'MARECE,', 1
+'Car make', 'MIT   ,', 1
+'Car make', 'KW    ,', 1
+'Car make', 'MERCU,', 29
+'Car make', 'IZUZU,', 11
+'Car make', 'CASPER,', 1
+'Car make', 'OUTLAW,', 1
+'Car make', 'RO/LA,', 1
+'Car make', 'INRNTL,', 1
+'Car make', 'APRILL,', 5
+'Car make', 'VENTO ,', 3
+'Car make', 'CADALI,', 6
+'Car make', 'VANGUA,', 1
+'Car make', 'MITSU,', 160
+'Car make', 'NINJA,', 1
+'Car make', 'BMS,', 1
+'Car make', 'SURG-0,', 1
+'Car make', 'OLDMOB,', 3
+'Car make', 'BOMBAD,', 1
+'Car make', 'GME   ,', 1
+'Car make', 'BROWN ,', 1
+'Car make', 'CAYEN ,', 1
+'Car make', 'SMART,', 31
+'Car make', 'GRTDNE,', 1
+'Car make', 'FOED,', 4
+'Car make', 'TRLR,', 1
+'Car make', 'ELECTR,', 1
+'Car make', 'R/R,', 1
+'Car make', 'CADI,', 1
+'Car make', 'HONDO,', 1
+'Car make', 'JAGU,', 1
+'Car make', 'AUDIPU,', 1
+'Car make', 'TUSCAN,', 1
+'Car make', 'HYNDYI,', 1
+'Car make', 'CHYSTL,', 17
+'Car make', 'CHRSY,', 3
+'Car make', 'SUSAKI,', 1
+'Car make', 'G.M.C.,', 1
+'Car make', 'CAPRI ,', 1
+'Car make', 'DERBI ,', 4
+'Car make', 'IZUZO ,', 1
+'Car make', 'MITUBI,', 4
+'Car make', 'INFIN,', 141
+'Car make', 'MITBUS,', 1
+'Car make', 'WINNIE,', 1
+'Car make', '_VW,', 2
+'Car make', 'INT'L,', 2
+'Car make', 'INTNL,', 1
+'Car make', 'HONDA ,', 2071
+'Car make', 'LEXUS ,', 759
+'Car make', 'VOLVA ,', 1
+'Car make', 'CHEVRL,', 4
+'Car make', 'MER/BE,', 15
+'Car make', 'MAZOA ,', 1
+'Car make', 'TOW RT,', 1
+'Car make', 'DODDGE,', 1
+'Car make', 'LEXUSW,', 1
+'Car make', 'EAST  ,', 5
+'Car make', 'SCION,', 56
+'Car make', 'YOYOTA,', 2
+'Car make', 'MAERSK,', 1
+'Car make', 'PORCH ,', 2
+'Car make', 'NESON ,', 1
+'Car make', 'PJYNOU,', 1
+'Car make', 'M.BENZ,', 4
+'Car make', 'DPDGE ,', 1
+'Car make', 'FORDY ,', 1
+'Car make', 'MEBZ,', 1
+'Car make', 'M.BENS,', 1
+'Car make', 'ROYAL,', 2
+'Car make', 'SPORT,', 2
+'Car make', 'ZHEJIA,', 3
+'Car make', 'ROADRU,', 1
+'Car make', 'MAZA,', 1
+'Car make', 'ISUZY,', 1
+'Car make', 'BMW SI,', 1
+'Car make', 'RANGE ,', 43
+'Car make', 'LEWXUS,', 1
+'Car make', 'COOPER,', 7
+'Car make', 'N/V   ,', 3
+'Car make', 'SCOOTE,', 2
+'Car make', 'VOLVO ,', 331
+'Car make', 'RANGER,', 36
+'Car make', 'FORD` ,', 1
+'Car make', 'MEBE,', 127
+'Car make', 'EDODGE,', 1
+'Car make', 'ROLLS,', 3
+'Car make', 'TAO,', 1
+'Car make', 'CRYSLR,', 2
+'Car make', 'MITSBS,', 2
+'Car make', 'LEXUS,', 1
+'Car make', 'VOLTS ,', 2
+'Car make', 'AMTRAN,', 11
+'Car make', 'KAWI,', 1
+'Car make', '_KW,', 1
+'Car make', 'INFINI,', 1136
+'Car make', 'ROLROY,', 1
+'Car make', 'ONYX  ,', 1
+'Car make', 'ARMY  ,', 1
+'Car make', 'COACH ,', 1
+'Car make', 'TOYOA,', 2
+'Car make', 'NISAAN,', 16
+'Car make', 'VOLKS.,', 2
+'Car make', '_JEEPV,', 1
+'Car make', 'SUBARO,', 4
+'Car make', 'CRSLER,', 1
+'Car make', 'MERCBE,', 5
+'Car make', 'PREGO ,', 1
+'Car make', 'LDRV  ,', 1
+'Car make', 'PONITI,', 2
+'Car make', 'PTRBIL,', 1
+'Car make', 'YALE,', 1
+'Car make', 'AMC   ,', 2
+'Car make', 'BMX   ,', 1
+'Car make', 'KASWAS,', 1
+'Car make', 'YADEA,', 2
+'Car make', 'RAGE,', 1
+'Car make', 'FRD,', 1
+'Car make', 'HIDE A,', 1
+'Car make', 'INTERN,', 173
+'Car make', 'STRICK,', 1
+'Car make', 'SUBURA,', 3
+'Car make', 'CHRYLR,', 2
+'Car make', 'COCHMN,', 1
+'Car make', 'JIMMY,', 1
+'Car make', 'SUNBIR,', 1
+'Car make', 'CHEVER,', 97
+'Car make', 'PONTAI,', 6
+'Car make', 'CHERVR,', 1
+'Car make', 'LARO  ,', 4
+'Car make', 'HOND  ,', 2
+'Car make', 'DOGDE ,', 2
+'Car make', 'KEN WO,', 1
+'Car make', 'MINICO,', 4
+'Car make', 'ICECRE,', 1
+'Car make', 'PRODIG,', 1
+'Car make', 'RIVIER,', 1
+'Car make', '_CHEVY,', 2
+'Car make', 'CHERYS,', 1
+'Car make', 'LD/RV,', 1
+'Car make', 'NAZDA,', 2
+'Car make', 'LINCPL,', 1
+'Car make', 'PERFRO,', 1
+'Car make', 'HYUNDA,', 974
+'Car make', 'HYDAND,', 1
+'Car make', 'KAWESA,', 1
+'Car make', 'G. DT ,', 1
+'Car make', 'MER/ME,', 1
+'Car make', 'MERBNZ,', 2
+'Car make', 'INIFIN,', 4
+'Car make', 'LUCYS,', 1
+'Car make', 'CHVY,', 1
+'Car make', 'NISSA,', 1
+'Car make', 'FEEIGH,', 1
+'Car make', 'KNWRTH,', 2
+'Car make', 'HYUAND,', 4
+'Car make', 'KYMCO ,', 8
+'Car make', 'VESTA ,', 1
+'Car make', 'CHAV W,', 1
+'Car make', 'MTSUBI,', 1
+'Car make', 'GATOR ,', 1
+'Car make', 'OLDSM,', 3
+'Car make', 'ZAP,', 1
+'Car make', 'FORN,', 1
+'Car make', 'FROYLA,', 1
+'Car make', 'KEYSTO,', 1
+'Car make', 'BENZ  ,', 63
+'Car make', 'CHEV. ,', 5
+'Car make', 'DOGE  ,', 3
+'Car make', 'AUGDI ,', 1
+'Car make', 'MS/BE ,', 1
+'Car make', 'GNC   ,', 1
+'Car make', 'MERDES,', 1
+'Car make', 'BOX TR,', 2
+'Car make', 'PGO   ,', 1
+'Car make', 'SUBERB,', 1
+'Car make', 'BENTLY,', 4
+'Car make', '_DODGE,', 4
+'Car make', 'CADI,', 31
+'Car make', 'BLBIRD,', 2
+'Car make', 'MISHBI,', 1
+'Car make', 'FORDE,', 2
+'Car make', '4D,', 1
+'Car make', 'XTRA,', 1
+'Car make', 'MITSUR,', 1
+'Car make', 'TAXI  ,', 1
+'Car make', 'HYUND,', 95
+'Car make', 'OLDSE ,', 1
+'Car make', 'PLYMON,', 10
+'Car make', 'HONDAB,', 1
+'Car make', 'MISTU ,', 8
+'Car make', 'MOPED,', 5
+'Car make', 'KW,', 2
+'Car make', 'CHEBRO,', 1
+'Car make', 'SUROOM,', 1
+'Car make', 'MIT,', 1
+'Car make', 'HYUNDI,', 155
+'Car make', 'PONTAC,', 5
+'Car make', 'RROVER,', 2
+'Car make', 'MITSB,', 1
+'Car make', 'MERSED,', 16
+'Car make', 'MASERA,', 5
+'Car make', 'CADTLA,', 1
+'Car make', 'YAHAMA,', 4
+'Car make', 'THOMAS,', 2
+'Car make', 'VENTO,', 3
+'Car make', 'MACK,', 21
+'Car make', 'VLKWGN,', 1
+'Car make', 'WINNA,', 1
+'Car make', 'MALAGU,', 3
+'Car make', 'HYUN  ,', 2
+'Car make', 'SEAHAW,', 1
+'Car make', 'CHYS  ,', 1
+'Car make', 'HYNUND,', 3
+'Car make', 'TOMOS ,', 1
+'Car make', 'EAST,', 4
+'Car make', 'NONE,', 2
+'Car make', 'ROYALE,', 1
+'Car make', 'HINDA,', 3
+'Car make', 'KIMO,', 1
+'Car make', 'PORCHE,', 17
+'Car make', 'INFIN ,', 57
+'Car make', 'NISSA ,', 3
+'Car make', 'CADIL ,', 38
+'Car make', 'CHEVRY,', 2
+'Car make', 'JINDO ,', 1
+'Car make', 'VESDA ,', 1
+'Car make', 'SEBRIN,', 1
+'Car make', 'PETBLT,', 1
+'Car make', 'LAND/R,', 1
+'Car make', 'MERCE,', 11
+'Car make', 'BUIK,', 1
+'Car make', 'SCION ,', 31
+'Car make', 'EAGAL ,', 1
+'Car make', 'EXPO  ,', 1
+'Car make', 'GRAND,', 1
+'Car make', 'DIAGGI,', 1
+'Car make', 'KAW   ,', 1
+'Car make', 'AOTAO,', 1
+'Car make', 'LINLN,', 1
+'Car make', 'RV,', 1
+'Car make', 'MITSU ,', 159
+'Car make', 'MERCUY,', 6
+'Car make', '98MAZD,', 1
+'Car make', 'MITSCB,', 1
+'Car make', 'MITSBH,', 1
+'Car make', 'NAVIL.,', 1
+'Car make', 'PONTI,', 9
+'Car make', 'JEEPGR,', 1
+'Car make', 'GEOMET,', 1
+'Car make', 'B M W ,', 1
+'Car make', 'ROMEO ,', 1
+'Car make', 'CADLIA,', 1
+'Car make', 'E TON ,', 1
+'Car make', 'JAG,', 4
+'Car make', 'BMW Y,', 1
+'Car make', 'PETERB,', 37
+'Car make', 'CATALI,', 1
+'Car make', 'TROPHY,', 1
+'Car make', 'MAC TR,', 1
+'Car make', 'CALICL,', 1
+'Car make', 'DODGEW,', 1
+'Car make', 'MCLAR,', 1
+'Car make', 'PONTIA,', 577
+'Car make', 'MEBE  ,', 80
+'Car make', 'CELICA,', 3
+'Car make', 'KENWOO,', 1
+'Car make', 'TRAILG,', 1
+'Car make', 'VOLKW,', 1
+'Car make', '200,', 1
+'Car make', 'IZUZO,', 1
+'Car make', 'MITSH ,', 3
+'Car make', 'FORD`,', 1
+'Car make', 'MR/BE,', 1
+'Car make', 'STAR,', 5
+'Car make', 'SY,', 1
+'Car make', 'CHEVEY,', 23
+'Car make', 'INVINI,', 1
+'Car make', '_EAST,', 1
+'Car make', 'FORD S,', 1
+'Car make', 'GRTDAN,', 2
+'Car make', 'TRL,', 1
+'Car make', 'MAXMOT,', 1
+'Car make', 'ACURA,', 1
+'Car make', 'GMC   ,', 439
+'Car make', 'JEEP  ,', 644
+'Car make', 'CAMARY,', 1
+'Car make', 'CHRYS.,', 5
+'Car make', 'KWASAK,', 1
+'Car make', 'LAND  ,', 3
+'Car make', 'UNKNON,', 2
+'Car make', 'CHEW  ,', 1
+'Car make', '__UCBC,', 1
+'Car make', 'APRILI,', 6
+'Car make', 'HE?   ,', 1
+'Car make', 'IZUZE ,', 1
+'Car make', 'NMA   ,', 1
+'Car make', 'NEWPOR,', 1
+'Car make', 'SKIDOO,', 1
+'Car make', 'HE,', 2
+'Car make', 'TOYOYA,', 9
+'Car make', 'JMSTAR,', 3
+'Car make', 'TOURE,', 1
+'Car make', 'HAULIN,', 2
+'Car make', 'MAZDZ ,', 2
+'Car make', 'BOAT  ,', 8
+'Car make', 'HRC   ,', 2
+'Car make', 'LINCOH,', 1
+'Car make', 'DIAMAN,', 1
+'Car make', 'AMTRAM,', 2
+'Car make', 'HONDAG,', 2
+'Car make', 'MERCDZ,', 1
+'Car make', 'CHEYSL,', 1
+'Car make', 'ISUZI ,', 1
+'Car make', 'HARDLY,', 1
+'Car make', 'MERCYR,', 1
+'Car make', 'JONWAY,', 2
+'Car make', 'LANDRV,', 1
+'Car make', 'ETON,', 1
+'Car make', 'HYNUDI,', 3
+'Car make', 'FOSTER,', 1
+'Car make', 'PLMY  ,', 1
+'Car make', 'UNIVE ,', 1
+'Car make', 'DADGE ,', 1
+'Car make', 'IMPALA,', 4
+'Car make', 'FREIG ,', 1
+'Car make', 'AUDIE ,', 1
+'Car make', 'CHEV,', 155
+'Car make', 'SUNNY,', 2
+'Car make', 'IZZUZU,', 1
+'Car make', 'TAYLOR,', 1
+'Car make', 'CHEVE ,', 8
+'Car make', 'MELBE ,', 7
+'Car make', 'MER/BN,', 1
+'Car make', '`CHEVY,', 1
+'Car make', 'FR. LI,', 1
+'Car make', 'CUSHMA,', 8
+'Car make', 'CHRS  ,', 1
+'Car make', 'BENZ,', 79
+'Car make', 'MOTOR,', 2
+'Car make', 'CHRLY,', 1
+'Car make', 'MAZDA`,', 1
+'Car make', 'PIAGIO,', 5
+'Car make', 'HYUDIA,', 1
+'Car make', 'HA/DAV,', 1
+'Car make', 'ALUMAC,', 1
+'Car make', 'MBW,', 2
+'Car make', 'ITASCA,', 1
+'Car make', 'UHAUL,', 1
+'Car make', 'UMC,', 1
+'Car make', 'SUB,', 1
+'Car make', 'PLYMTH,', 13
+'Car make', 'FRHTLN,', 1
+'Car make', 'NISSEN,', 4
+'Car make', 'G DANE,', 1
+'Car make', 'BMX,', 1
+'Car make', 'CADD,', 1
+'Car make', 'MAXIM,', 1
+'Car make', '_SABB,', 1
+'Car make', 'LNDROV,', 2
+'Car make', 'HYAUND,', 1
+'Car make', 'CAT   ,', 2
+'Car make', 'WARNER,', 1
+'Car make', 'CHEVR,', 85
+'Car make', 'HONDAQ,', 2
+'Car make', 'ACURAB,', 1
+'Car make', 'HNDA,', 1
+'Car make', 'VOLKSR,', 1
+'Car make', 'LEX_94,', 1
+'Car make', 'MACK  ,', 28
+'Car make', 'CHEROK,', 5
+'Car make', 'PLYMPU,', 1
+'Car make', 'FORD ,', 1
+'Car make', 'CHEVY,', 1686
+'Car make', 'KENTUC,', 1
+'Car make', '_VOLKS,', 1
+'Car make', 'GMV,', 1
+'Car make', 'CALLIC,', 1
+'Car make', 'ISUZU ,', 128
+'Car make', 'PORSHE,', 12
+'Car make', 'GHEVY.,', 1
+'Car make', 'MECEDS,', 1
+'Car make', 'SUZUKE,', 1
+'Car make', 'VENTUR,', 1
+'Car make', '_ACCUR,', 1
+'Car make', 'M/BENZ,', 15
+'Car make', 'FORF  ,', 1
+'Car make', 'GRUMAN,', 5
+'Car make', 'VOLJKS,', 1
+'Car make', 'PUCH  ,', 1
+'Car make', 'NMA,', 1
+'Car make', 'VESRA,', 1
+'Car make', 'CLARK,', 1
+'Car make', 'TOCOMA,', 1
+'Car make', 'WOLKS,', 1
+'Car make', 'OLDSMO,', 156
+'Car make', 'ACURA ,', 574
+'Car make', 'LAN/RO,', 2
+'Car make', 'MERSES,', 1
+'Car make', 'REGAL ,', 2
+'Car make', 'CADAI ,', 1
+'Car make', 'FIAT  ,', 2
+'Car make', 'CADAL ,', 1
+'Car make', 'BUICK,', 1
+'Car make', 'TAIZHO,', 1
+'Car make', 'BUICK,', 259
+'Car make', 'PUCH,', 2
+'Car make', 'GLORY,', 1
+'Car make', '200R,', 1
+'Car make', 'MER BE,', 2
+'Car make', 'STINGR,', 1
+'Car make', 'ALPHA ,', 2
+'Car make', 'MCDBME,', 1
+'Car make', 'MZDA  ,', 1
+'Car make', 'CHLYS ,', 1
+'Car make', 'JAGUA,', 2
+'Car make', 'AIM,', 1
+'Car make', 'LINCON,', 79
+'Car make', 'MITSUI,', 8
+'Car make', 'INFINT,', 42
+'Car make', 'LAMBRE,', 4
+'Car make', 'ACURAS,', 1
+'Car make', 'SUPRME,', 1
+'Car make', 'TIBROO,', 1
+'Car make', 'NIDDAN,', 1
+'Car make', 'TALIG,', 5
+'Car make', 'KTM,', 1
+'Car make', 'COACHM,', 4
+'Car make', 'ROLLSR,', 5
+'Car make', 'VOLKSV,', 2
+'Car make', '_HONDA,', 12
+'Car make', 'ZNEN,', 1
+'Car make', 'LEXUYS,', 1
+'Car make', 'MINI C,', 4
+'Car make', 'CANAM,', 1
+'Car make', 'RHINO,', 1
+'Car make', 'STERLI,', 6
+'Car make', 'MAZADA,', 19
+'Car make', 'AUAI  ,', 1
+'Car make', 'LIMO  ,', 1
+'Car make', 'GENIE ,', 1
+'Car make', 'HAUNDI,', 1
+'Car make', 'SYMMIO,', 1
+'Car make', 'MARAUD,', 1
+'Car make', 'MECED,', 1
+'Car make', 'COBRA,', 1
+'Car make', 'MEREDE,', 1
+'Car make', 'CADILI,', 10
+'Car make', 'MITUSB,', 5
+'Car make', 'MCI   ,', 4
+'Car make', 'CHYRSE,', 1
+'Car make', 'CHEVY`,', 2
+'Car make', 'MERCUA,', 2
+'Car make', 'LARO,', 5
+'Car make', 'PLYMO,', 3
+'Car make', 'CUSHMN,', 1
+'Car make', 'NVA,', 1
+'Car make', 'PLY   ,', 7
+'Car make', 'SUMMIT,', 1
+'Car make', 'IFINIT,', 5
+'Car make', 'SPORTC,', 4
+'Car make', 'ROADMA,', 1
+'Car make', 'VOLVL ,', 1
+'Car make', 'STERL ,', 1
+'Car make', 'SEADOO,', 3
+'Car make', 'LOADMA,', 1
+'Car make', 'RNGRVR,', 1
+'Car make', 'INFINS,', 1
+'Car make', 'HYNDAI,', 40
+'Car make', 'DODGR ,', 1
+'Car make', 'GEORGI,', 1
+'Car make', 'MORGAN,', 2
+'Car make', 'BOX   ,', 1
+'Car make', 'CHYSLR,', 1
+'Car make', 'CIR,', 1
+'Car make', 'SABRAR,', 1
+'Car make', 'SUNNYB,', 2
+'Car make', 'HYDUNI,', 1
+'Car make', 'BANDIT,', 3
+'Car make', 'MITSUW,', 1
+'Car make', 'MECERD,', 1
+'Car make', 'CADILA,', 152
+'Car make', 'LIN   ,', 2
+'Car make', 'FERRAC,', 1
+'Car make', 'HYDNDA,', 1
+'Car make', 'CHRYLE,', 9
+'Car make', 'SUBAR ,', 2
+'Car make', 'MEBZ  ,', 1
+'Car make', 'CHEVEL,', 10
+'Car make', 'RA/RO,', 9
+'Car make', 'MADZA,', 7
+'Car make', 'MITISH,', 3
+'Car make', 'CHERV,', 5
+'Car make', 'MERECE,', 1
+'Car make', 'LANDR,', 1
+'Car make', 'TRALER,', 1
+'Car make', 'CRESPA,', 1
+'Car make', 'GTDANE,', 1
+'Car make', 'TOYTO,', 2
+'Car make', 'R50,', 2
+'Car make', 'MADA,', 1
+'Car make', 'CADDIL,', 46
+'Car make', 'UNK   ,', 39
+'Car make', 'NISSON,', 13
+'Car make', 'MERBEN,', 31
+'Car make', 'TRUCK ,', 3
+'Car make', 'MRC BZ,', 1
+'Car make', 'ME/BEW,', 1
+'Car make', 'PORSCH,', 93
+'Car make', 'GREAT ,', 1
+'Car make', 'COUGAR,', 1
+'Car make', 'R.ROVE,', 2
+'Car make', 'HYNDAU,', 1
+'Car make', 'CHY   ,', 1
+'Car make', 'MERZED,', 1
+'Car make', 'FRTLNR,', 2
+'Car make', 'DDODGE,', 1
+'Car make', 'TRATRA,', 1
+'Car make', 'CONVEN,', 1
+'Car make', 'PONTIC,', 43
+'Car make', 'AUFI  ,', 1
+'Car make', 'MISTUB,', 11
+'Car make', 'KIASIL,', 1
+'Car make', 'ACURRA,', 1
+'Car make', 'GULF  ,', 1
+'Car make', 'CHYRL ,', 1
+'Car make', 'HI,', 1
+'Car make', 'DEERE,', 1

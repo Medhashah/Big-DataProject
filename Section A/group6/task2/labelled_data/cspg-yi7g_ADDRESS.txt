@@ -1,0 +1,1523 @@
+'Address', '5428 73Rd Pl', 640
+'Address', '95-18 117TH STREET 1ST FL', 490
+'Address', '830 CONEY ISLAND AVENUE', 276
+'Address', '1255 150Th St', 87
+'Address', '536 KEITH LANE', 238
+'Address', '1053 ARNOW AVENUE', 396
+'Address', '68-07 43RD AVENUE', 301
+'Address', '114 ESCANABA AVE', 450
+'Address', '160 W. TENTH STREET', 436
+'Address', 'P.O. BOX 302', 316
+'Address', '248-35 VANZANDT AVE', 236
+'Address', '287 EAST 236TH STREET', 640
+'Address', '119-19 15TH AVENUE', 472
+'Address', '1684 84TH STREET 2ND FL', 348
+'Address', '373 ST GEORGE ROAD', 640
+'Address', '48 ORANGE AVE', 640
+'Address', '4700 FORESTVILLE ROAD', 468
+'Address', '11 TAYLOR ROAD', 420
+'Address', '7305 182ND STREET', 238
+'Address', '355 FOOD CENTER DRIVE, UNIT  C-107', 36
+'Address', '320 7th Avenue #192', 186
+'Address', '6675 AMBOY ROAD', 280
+'Address', '49 ACADEMY ST', 467
+'Address', '30-45 33 ST', 404
+'Address', '79-53 262ND STREET', 487
+'Address', '25 SAW MILL RIVER RD #1', 96
+'Address', '31 LAWLOR TERR.', 245
+'Address', '1818 FALMOUTH AVENUE', 1920
+'Address', '14-06 BURTON STREET', 1
+'Address', '201 SAW MILL RIVER ROAD', 640
+'Address', '701 EAST 134 STREET', 640
+'Address', '29-47 171 STREET', 131
+'Address', '1036 HUGUENOT AVENUE', 512
+'Address', '38-17 111TH STREET', 404
+'Address', '2351 RICHMOND TERRACE', 640
+'Address', '52 NORTH DELL AVENUE', 640
+'Address', '2541 RICHMOND TERRACE', 560
+'Address', '220-02 134TH ROAD', 375
+'Address', '1468 86TH STREET', 366
+'Address', '199 LEE AVE. SUITE 1029', 317
+'Address', '54 WREN DRIVE', 640
+'Address', '61-04 31ST AVENUE', 640
+'Address', '151-36 14TH AVENUE', 299
+'Address', '56 - 32 59TH STREET', 640
+'Address', '125-08 26TH AVENUE', 640
+'Address', '89-23 212 PLACE', 640
+'Address', '15 S. GREENBUSH RD', 536
+'Address', '40-05 CRESCENT STREET', 640
+'Address', '140-59 ASH AVE # 432', 534
+'Address', '214-41 42ND AVENUE', 640
+'Address', '12 GREGG CT', 323
+'Address', '43 TYNAN STREET', 640
+'Address', '25 NEWTON PLACE', 36
+'Address', '3021 AVENUE J', 640
+'Address', '1834 80TH STREET', 640
+'Address', '2164 VICTORY BLVD', 640
+'Address', '3 JOHNSON STREET', 640
+'Address', '1254 PROSPECT AVENUE', 580
+'Address', '31-09 DARE PLACE', 640
+'Address', '1608 13TH AVENUE 1F', 159
+'Address', '266 BROADWAY, STE 101', 21
+'Address', '404 FIFTH AVENUE', 435
+'Address', '18 EYLAND PLACE', 384
+'Address', '133 LODGE AVENUE', 205
+'Address', '1283 EAST 87TH STREET', 640
+'Address', '22 Penguin Ln', 169
+'Address', '2405 EAST 11 STREET APT 2B', 640
+'Address', '8 POWELL STREET', 98
+'Address', 'P.O. BOX 580066', 640
+'Address', '8807 26Th Ave 2ND FLOOR', 640
+'Address', '197 COLUMBIA STREET', 640
+'Address', '525 LONGFELLOW AVENUE', 640
+'Address', '1920 AVE W', 471
+'Address', '14-12 CLINTONVILLE STREET', 399
+'Address', '94 HART AVENUE', 640
+'Address', '1140 Grinnell Pl', 27
+'Address', '25-68 35TH STREET', 395
+'Address', '2071 FLATBUSH AVENUE SUITE 193', 162
+'Address', '801 MCLEAN AVE', 624
+'Address', '85 WARREN FARM ROAD', 512
+'Address', '110-32A 15TH AVENUE', 404
+'Address', '1824 GEORGE STREET', 640
+'Address', 'P.O. BOX 185', 258
+'Address', '120-10 15TH AVENUE, SUITE 9', 526
+'Address', '2251 SCHENECTATDY AVE', 327
+'Address', '1030 LAURA STREET APT. A', 268
+'Address', '194 OLD SUNRISE HWY', 205
+'Address', '400 BROOME STREET 11TH FL', 640
+'Address', '88-19 199 STREET', 640
+'Address', '30 PLEASANT STREET', 640
+'Address', '22 ROYAL WAY', 391
+'Address', '5910 8TH AVE SUITE 202', 388
+'Address', '315 N HICKORY STREET', 138
+'Address', '25 OREGON ROAD', 353
+'Address', '235 EAST 123RD STREET', 202
+'Address', '29-37 JORDAN STREET', 299
+'Address', '52-46 69TH STREET', 323
+'Address', '72-37  COOPER AVE', 640
+'Address', '719 UNDERCLIFF AVENUE', 570
+'Address', '400 POST AVE SUITE 403', 395
+'Address', '1029 MCDONALD AVENUE', 640
+'Address', '405 LENEVAR AVENUE', 640
+'Address', '316 41ST STREET', 258
+'Address', '379 5TH AVENUE', 149
+'Address', '119-15 145 STREET', 438
+'Address', '68 ALLEN BLVD.', 640
+'Address', '102 S HILLSIDE AVENUE', 363
+'Address', 'P.O. BOX 5010', 640
+'Address', '12 SAGE CT #B', 640
+'Address', '30-41 90TH STREET', 107
+'Address', '3143 Richmond Rd', 602
+'Address', 'P.O. BOX 383', 640
+'Address', 'P.O. BOX 226', 150
+'Address', '2 CORNELL STREET', 359
+'Address', '165 PROSPECT AVENUE', 302
+'Address', '512 MOUNTAIN ROAD', 266
+'Address', '54 REGIS DRIVE', 640
+'Address', '16 HULSE ROAD', 640
+'Address', '589 SACKETT STREET', 640
+'Address', '389 9Th St', 640
+'Address', '77 BLOOMFIELD AVENUE', 960
+'Address', '23-21 BQE WEST', 482
+'Address', 'PO BOX 1127', 431
+'Address', '774 MANOR ROAD SUITE 202A', 338
+'Address', 'P.O BOX 754357', 128
+'Address', '147 28TH STREET', 148
+'Address', '3 WEST MAIN ST. #104', 216
+'Address', '101 BALDWIN RD', 412
+'Address', '142 AVENUE T', 640
+'Address', '30-51 80 STREET  3RD FLOOR', 194
+'Address', '157-04 134 AVENUE, 1 FL', 533
+'Address', '32-19 95th STREET', 382
+'Address', '40 WEST 72ND STREET  SUITE 63', 262
+'Address', '58-51 230 STREET', 150
+'Address', '58 RUSSEK DR', 339
+'Address', '450 3RD AVENUE', 640
+'Address', '150-36 14 AVENUE', 640
+'Address', '305 NORTH AVENUE', 640
+'Address', '558 UNION AVENUE', 626
+'Address', 'P.O.BOX 190297', 640
+'Address', '919 19TH ST 2ND FL', 640
+'Address', '305 95TH STREET APT 205', 512
+'Address', '262 62ND STREET', 640
+'Address', '13520 Sutter Avenue', 363
+'Address', '13 INDEPENDENCE WAY', 640
+'Address', '100-35 ATLANTIC AVENUE', 640
+'Address', '114-31 116TH STREET', 243
+'Address', '1021 61ST STREET', 93
+'Address', '13209 MAPLE AVE. C45', 109
+'Address', '158 61ST STREET APT. 2', 625
+'Address', '86 Sylvan Pl', 64
+'Address', '395 N. MACQUESTEN PARKWAY', 640
+'Address', '25-62 127 STREET', 640
+'Address', '87-02 79TH AVENUE', 640
+'Address', '6107 BLEECKER ST  1ST FLOOR', 436
+'Address', '28 ROBERTS DRIVE', 640
+'Address', '1072 HICKSVILLE RD', 640
+'Address', '22 PENGUIN LANE', 471
+'Address', '36-44 13TH STREET', 640
+'Address', '1141 ROUTE 23', 640
+'Address', '35 CRESCENT STREET', 640
+'Address', '94-05 165TH STREET', 640
+'Address', 'P O BOX 736', 339
+'Address', '1049 MARY ST.', 579
+'Address', '174 MCVEIGH AVENUE', 174
+'Address', '133 GRAFFING PLACE', 52
+'Address', '30 HAROLD COURT', 640
+'Address', '13815 13Th Ave', 512
+'Address', '312 WILLIS AVENUE', 640
+'Address', '41 A DEGNON BLVD.', 435
+'Address', '140 HALF HOLLOW ROAD', 890
+'Address', '6285 60TH ST', 640
+'Address', '35 MILL STREET', 189
+'Address', '2104 FOREST AVE', 640
+'Address', '70 LAFAYETTE STREET, 4TH FLOOR', 640
+'Address', '92-39 240TH STREET', 640
+'Address', '1170 BRIGHTON BEACH  AVENUE,  APT.6C', 66
+'Address', '124 HICKORY AVENUE', 640
+'Address', '470 HILLSIDE AVENUE', 354
+'Address', '994 CLARK PLACE', 2
+'Address', '4714 32ND PLACE', 640
+'Address', '54-45  63 PL', 640
+'Address', '73 DEWEY ST', 640
+'Address', '45 GREENSIDE DRIVE', 640
+'Address', '86-74 108TH STREET', 640
+'Address', '382 MORNINGSTAR ROAD', 640
+'Address', '1237 Avenue Z, Apt 3R', 640
+'Address', '2353 STILLWELL AVENUE', 490
+'Address', '14 TRINA LANE', 640
+'Address', '40 LORTEL AVENUE', 340
+'Address', '7 BROOKSIDE PLACE', 268
+'Address', '145 SPRING STREET', 147
+'Address', '5802 AVENUE N', 640
+'Address', '225 DELAWARE AVENUE', 640
+'Address', '119 ALTON STREET', 640
+'Address', '56-23 203rd STREET', 275
+'Address', '60-54 74TH STREET', 640
+'Address', '8664 18TH AVENUE', 640
+'Address', '716 S. COLOMBUS AVENUE', 622
+'Address', '1405 73RD STREET', 610
+'Address', '306 22ND AVE.', 323
+'Address', '130-01 JAMAICA AVENUE', 640
+'Address', '2354 STILLWELL AVENUE', 640
+'Address', '59-15 155 ST.', 640
+'Address', '11 Deasy Ln', 245
+'Address', '804 JERICHO TURNPIKE', 640
+'Address', '1078 ARNOW AVENUE', 141
+'Address', '496 ELTINGVILLE BLVD', 640
+'Address', '38 GLASCOE AVENUE', 129
+'Address', '405 VAN BRUNT STREET', 640
+'Address', '476 NORTH 6TH STREET', 490
+'Address', '60 NEWBURGH ROAD', 640
+'Address', '107-47 139Th St', 404
+'Address', '8699 BAY PARKWAY, APT. D-2', 640
+'Address', '294 VAN BRUNT STREET', 437
+'Address', 'P. O BOX 97', 82
+'Address', '213-19 99 AVENUE', 640
+'Address', '2315 205Th St', 284
+'Address', '890 CONEY ISLAND AVE', 640
+'Address', '950 HOLMDEL ROAD', 87
+'Address', '647 NORTH 4TH STREET APT 3', 149
+'Address', '250 CLAYWOOD DR', 258
+'Address', '383 BRADFORD AVENUE', 640
+'Address', '602 HARDING PARK', 276
+'Address', '138-63 62ND ROAD', 572
+'Address', '11739 134TH STREET 1ST FLOOR', 518
+'Address', '177 RANDOLPH AVENUE', 444
+'Address', '199A NORTH MICHIGAN AVENUE', 295
+'Address', '1874 CLOVE ROAD', 640
+'Address', 'PO BOX 111', 623
+'Address', '247 Schuyler Ave', 422
+'Address', '49-30 31ST PLACE', 640
+'Address', '86 HAUSMAN STREET', 597
+'Address', '168-04 12TH ROAD', 570
+'Address', '71 HELENA AVENUE', 562
+'Address', '151-11 11TH AVENUE', 514
+'Address', '206 RT 537 SUITE 214', 15
+'Address', '211 EAST 123RD STREET', 640
+'Address', '145-18 LIBERTY AVE', 640
+'Address', '760 EAST 46TH STREET', 640
+'Address', '132-09 MAPLE AVE APT 45C', 521
+'Address', '1614 MCDONALD STREET', 386
+'Address', '156 S. MICHIGAN AVENUE', 640
+'Address', '169 LENOX AVENUE', 640
+'Address', '86-88 HAUSMAN STREET', 43
+'Address', '135-13 129TH STREET', 640
+'Address', 'P.O BOX 560222', 546
+'Address', '334 FAILE STREET', 634
+'Address', '280 MEREDITH AVENUE', 612
+'Address', '266 BROADWAY, STE 301', 459
+'Address', '293 NORTH 5TH STREET', 450
+'Address', '64-04 138TH STREET', 287
+'Address', '11 GARFIELD AVENUE', 423
+'Address', '56 FARREL STREET', 411
+'Address', '129 JACKSON AVENUE', 359
+'Address', '435 BAYVILLE AVENUE', 312
+'Address', '2025 MAPLE AVENUE', 258
+'Address', '107 RAYMOND PLACE', 276
+'Address', '58-41 63RD STREET', 640
+'Address', '58 BOROUGH STREET', 640
+'Address', '700 EAST 133 STREET', 640
+'Address', '770 EMPIRE BLVD #3A', 440
+'Address', '446 ADAMS AVENUE', 394
+'Address', '1222 OAK PLACE', 640
+'Address', '46 LEXINGTON AVE', 66
+'Address', 'P.O. BOX 300673', 640
+'Address', '121 DENTON AVENUE', 640
+'Address', '2243 HOLLERS AVENUE', 640
+'Address', '3845 RICHMOND AVENUE 2-B', 640
+'Address', '59-12 57TH STREET', 640
+'Address', '7304 BAY PKWY # 2', 32
+'Address', '699 BROADWAY, 3RD FL', 200
+'Address', '85 OAK DRIVE', 640
+'Address', '537 GLENMORE AVENUE 1FHH', 236
+'Address', '6 CAREY PLACE', 200
+'Address', '12-40 CLINTONVILLE STREET UNIT A', 299
+'Address', '128 Maple St', 640
+'Address', '1004 Clinton St', 640
+'Address', '845 WAKE STREET', 640
+'Address', '280 EAST 2ND STREET UNIT #6A', 269
+'Address', '382 LAUREL RD', 144
+'Address', '121 LAKEVILLE RD', 641
+'Address', '11-20 131 STREET', 640
+'Address', '85-25 68 RD', 640
+'Address', '101-31  75TH ROAD', 299
+'Address', '1644 NORMAN STREET', 640
+'Address', '131-29 133RD STREET', 323
+'Address', '1685 BOONE AVENUE', 640
+'Address', '54-30 44TH STREET', 640
+'Address', '16 POPLAR TERRACE', 258
+'Address', '3704 LAUREL AVE.', 103
+'Address', '54 ASTER CT', 640
+'Address', '63 Lodi St', 276
+'Address', '201 SOUTH FIRST STREET', 640
+'Address', '150-46 10TH AVENUE', 640
+'Address', '8422 Grand Ave', 219
+'Address', '391 Cornelia St', 236
+'Address', '580 E 7TH STREET', 640
+'Address', '91 CRESCENT BEACH ROAD', 640
+'Address', '48-16 70TH STREET', 408
+'Address', '778 48Th St , 2 FL', 640
+'Address', '3010 GRAND AVENUE', 534
+'Address', '14 ROSWELL AVENUE', 258
+'Address', '9 BOULEVARD DRIVE', 640
+'Address', '10219 86Th Rd', 87
+'Address', '50-63 41ST STREET', 640
+'Address', '547 WEST 27TH STREETSUITE# 508', 378
+'Address', '1141 OAK POINT AVENUE', 640
+'Address', '7 CORPORATE DRIVE', 257
+'Address', '1854 TOMLINSON AVE', 461
+'Address', 'PO BOX 677', 640
+'Address', '38-68 11TH STREET', 640
+'Address', '30 S 18TH STREET', 640
+'Address', 'PO BOX 788', 131
+'Address', '3981 Victory Blvd', 640
+'Address', '90-02 185TH STREET', 381
+'Address', '118 15TH STREET', 640
+'Address', '78 HOLLAND AVENUE', 640
+'Address', 'P.O. BOX 68', 1
+'Address', '42-29 167 STREET', 241
+'Address', '41 WESTGATE ROAD', 383
+'Address', '107-38 UNION HALL STREET', 640
+'Address', '234 VALENTINE LANE', 640
+'Address', '521 Yetman Ave', 640
+'Address', '71 LIPSETT AVENUE', 640
+'Address', '149-19 WILLETS PT. BLVD', 640
+'Address', '23 LENORE AVENUE', 580
+'Address', '162 Schofield St', 18
+'Address', '321 FOREST STREET', 640
+'Address', '60-01 171 STREET, 1ST FLOOR', 640
+'Address', '110-90 DUNKIRK STREET', 552
+'Address', '17 B HENRY STREET', 236
+'Address', '1534 U.S HIGHWAY 22', 424
+'Address', '1451 LOMBARDY BLVD', 112
+'Address', '95 EAST 165TH STREET', 640
+'Address', '61 JEFFERSON STREET', 640
+'Address', '47-27 192ND STREET', 534
+'Address', '423 SOUTH 4TH AVE', 173
+'Address', '107 ORCHID STREET', 640
+'Address', '7540 AUSTIN STREET, SUITE  #4AR', 561
+'Address', '100 RICHARD STREET', 541
+'Address', 'PO BOX 780010', 395
+'Address', '365 River Dr', 33
+'Address', '66-01 MAURICE AVEUNE', 640
+'Address', '661 BURNSIDE AVENUE', 635
+'Address', '300-2 STATE ROUTE 17 S, SUITE 3', 607
+'Address', '1330 WHEELER AVENUE 2FL', 533
+'Address', '2169 MAPLE AVE.', 374
+'Address', '2631 MERRICK ROAD SUITE #301', 123
+'Address', '95-44 115 ST.', 640
+'Address', '2026 OCEAN AVE  APT 3E', 258
+'Address', '95-23 LIVERPOOL ST. 1ST FL.', 580
+'Address', '46 LEXINGTON AVENUE', 505
+'Address', '293 N. UTICA AVENUE', 640
+'Address', '1100 EAST 156TH STREET', 640
+'Address', 'P.O. BOX 476', 640
+'Address', '9312  AVE. K', 640
+'Address', '2916 MIDDLETOWN ROAD', 640
+'Address', '207 DUPONT STREET', 640
+'Address', '6458 215TH STREET', 640
+'Address', '2473 WEST 1ST STREET', 640
+'Address', '1811 BELLMORE AVENUE', 258
+'Address', '133-17 142ND STREET', 640
+'Address', '220 SOUTH STREET', 557
+'Address', '4223 ARTHUR KILL ROAD', 534
+'Address', '14 RIVERDALE AVENUE', 231
+'Address', '1253 EAST 69TH STREET', 210
+'Address', 'PO BOX 633', 236
+'Address', '5318 AVENUE N', 640
+'Address', '2092 CONEY ISLAND AVE SUITE 3', 640
+'Address', '1836 HAIGHT AVENUE', 640
+'Address', '12-04 BOYNTON AVENUE APT. #3C', 276
+'Address', '349 EAST 149TH STREET, RM 701', 523
+'Address', '39 DESIBIO PLACE', 504
+'Address', '336 SOUTH SERVICE ROAD', 224
+'Address', '96 BRIARHEATH LA', 129
+'Address', '65 Edison Ave', 56
+'Address', '508 CHERRY LANE', 640
+'Address', '30 SAGONA CT.', 640
+'Address', '188 COLLFIELD AVENUE', 643
+'Address', '32 Williams Pkwy', 640
+'Address', '33-13 70 STREET', 580
+'Address', '241 SMITH RIDGE ROAD', 490
+'Address', '114 CAIN DRIVE', 481
+'Address', '7125 BERGEN COURT', 640
+'Address', '301 CENTRAL AVENUE', 323
+'Address', '4724 ARTHUR KILL ROAD', 640
+'Address', '790 NEW YORK AVENUE SUITE 206', 640
+'Address', '27 ST REGIS PLACE', 556
+'Address', '49-12 31ST PLACE', 21
+'Address', '141 EATON PLACE', 138
+'Address', '37 WILBUR STREET', 106
+'Address', '124 RIPLEY PLACE', 640
+'Address', '26-15 ULMER STREET', 640
+'Address', '154-36 12 AVENUE', 113
+'Address', '6 DEBRACY CT', 236
+'Address', '134 MILBAR BLVD', 640
+'Address', '149 STEAMBOAT ROAD', 640
+'Address', '35 KALLAS COURT', 640
+'Address', '2626 213 STREET', 281
+'Address', '57-26 PENROD STREET BSMT', 501
+'Address', '333 JERICHO TURNPIKE   SUITE 333', 417
+'Address', '128 LAKE AVENUE', 346
+'Address', '717 WESTERN HIGHWAY', 236
+'Address', '408 LAKE STREET # 1', 640
+'Address', '534 MAIN STREET', 640
+'Address', '121-18 5TH AVE #1 FL', 236
+'Address', '355 FOOD CENTER DRIVE, UNIT F-101', 426
+'Address', '2600 Atlantic Ave', 69
+'Address', '84-11 21 AVE #D6', 414
+'Address', '41 LUDLAM AVENUE', 257
+'Address', '6 VILLAGE DR', 38
+'Address', '55-18 NURGE AVENUE', 640
+'Address', '1180 Commerce Ave', 640
+'Address', '3 SOUTH DR.', 640
+'Address', '40 E 17TH ST. APT. 3E', 640
+'Address', '1620 OCEAN AVENUE  SUITE 3', 54
+'Address', '54 HEMLOCK STREET', 72
+'Address', 'P.O. BOX 393', 323
+'Address', '599 WASHINGTON STREET', 236
+'Address', '516 INDUSTRIAL LOOP', 640
+'Address', '1162 GRINNELL PLACE', 596
+'Address', '31 WHITING ROAD', 23
+'Address', 'PO BOX 499', 18
+'Address', '703 3Rd Ave', 169
+'Address', '34-55 11TH STREET', 640
+'Address', '183 WILSON ST. #205', 640
+'Address', '3640 PROVOST AVENUE', 640
+'Address', '36-02 ASTORIA BOULEVARD', 518
+'Address', '66-00 LONG ISLAND EXPRESSWAY', 640
+'Address', '30-14  150TH STREET', 16
+'Address', '91-28 220TH STREET', 341
+'Address', '31-10 37TH AVENUE SUITE 500', 640
+'Address', '7-24 CLINTONVILLE STREET', 650
+'Address', '1579 47TH STREET', 640
+'Address', '410 NORTH 6TH STREET', 359
+'Address', '186 NUGENT STREET', 232
+'Address', '130 BAYARD STREET', 640
+'Address', '10 MALLOW STREET', 640
+'Address', '2400 TONNELLE AVENUE', 640
+'Address', '28 - 44 BORDEN AVENUE', 363
+'Address', '18 PADDOCK LANE', 270
+'Address', '2636 EAST 65TH STREET', 278
+'Address', 'P.O. BOX 664', 123
+'Address', '568 LAYFAYETTE AVENUE', 75
+'Address', '6238 138TH STREET', 1280
+'Address', '86 WYOMING STREET', 640
+'Address', '21 BOWLING GREEN PLACE', 640
+'Address', '107-31 135TH STREET', 640
+'Address', '146-51 27TH AVENUE', 338
+'Address', '271 NORTH 6TH STREET', 80
+'Address', '81 WORTH STREET', 640
+'Address', '6-27 151ST STREET', 640
+'Address', 'PO BOX 570612', 640
+'Address', '1840 26TH RD', 640
+'Address', '1614 Lenape Rd', 200
+'Address', '2426 96Th St', 640
+'Address', '149 RIDGEWOOD AVENUE', 332
+'Address', '155 CECILIA PLACE', 191
+'Address', '136-11 35TH AVENUE 1FL', 68
+'Address', '322 ROUTE 46 WEST', 640
+'Address', '911 Longfellow Ave', 87
+'Address', '1160 WORTHEN STREET', 640
+'Address', '134-02 CROSSBAY BLVD.', 640
+'Address', '65 VAN REYPER PL', 640
+'Address', '189-11 44 AVENUE', 640
+'Address', '54 LOCKWOOD AVENUE', 109
+'Address', '24 EVERGREEN AVE', 640
+'Address', '1445 117Th St', 276
+'Address', 'P.O. BOX 453', 436
+'Address', '80 COLFAX AVENUE', 640
+'Address', '100 BRIGHTON STREET', 600
+'Address', 'P.O. BOX 756', 363
+'Address', '215 PARK STREET', 640
+'Address', '166-55 20TH ROAD', 110
+'Address', '402 HEMPSTEAD DR', 640
+'Address', '4348 Colden St', 640
+'Address', '4928 UTOPIA PARKWAY', 640
+'Address', '97-53 85TH STREET', 640
+'Address', '186 WEST HANOVER AVENUE', 201
+'Address', '339 86 STREET', 640
+'Address', '175 Zoe St, 6P', 640
+'Address', '5 MILTON STREET', 304
+'Address', '1 BURNS AVENUE', 640
+'Address', '34-26 200 STREET', 640
+'Address', '16 N. MADA AVENUE', 614
+'Address', '438 6Th St', 186
+'Address', '146 BAY 53RD STREET', 640
+'Address', '95-25 85TH STREET APT 2A', 1
+'Address', '80 PEQUANNOCK ST', 150
+'Address', '130-43 135 RD.', 640
+'Address', '22-18 123 STREET 2FL', 640
+'Address', '42 WEST STREET', 219
+'Address', '131 NEPTUNE AVENUE FLOOR 1', 320
+'Address', '151 HASBROUCK ROAD', 33
+'Address', '5 FIFTH STREET', 640
+'Address', '209-02 42 AVE, 2ND FLOOR', 640
+'Address', '81 SEDGWICK AVENUE', 640
+'Address', '170-05 32ND AVENUE', 6
+'Address', '6019 59Th Rd', 104
+'Address', '10460', 93
+'Address', '15 Heather CT', 18
+'Address', '46 SATTERIE AVENUE', 569
+'Address', '265 NORTH STREET 6TH STREET FL 1', 374
+'Address', '8 INLET DRIVE', 640
+'Address', '310-14 DRAKE STREET', 83
+'Address', '83 AMSTERDAM AVENUE', 146
+'Address', '9 MEADOW ROAD', 640
+'Address', '318 BRYANT AVENUE', 640
+'Address', '7  TULIP ROAD', 640
+'Address', '29 OLD TOWN RD', 640
+'Address', '994 CLARK PL', 356
+'Address', '62 WEEKS AVENUE', 291
+'Address', '88-44 161ST STREET 5J', 81
+'Address', '11-20 37TH AVENUE', 549
+'Address', '35 S Franklin Ave', 640
+'Address', '3917 AVENUE I', 450
+'Address', '355  IVY AVENUE', 580
+'Address', '47 LIBERTY AVE', 640
+'Address', '109 BAY 37TH STREET', 640
+'Address', '9 BARTON DRIVE', 640
+'Address', '1037 61 STREET', 640
+'Address', '673 SHELDON AVENUE', 640
+'Address', '15 Woodland Ln', 640
+'Address', '52-15 65TH PLACE #6E', 500
+'Address', '2641 EAST 6 STREET', 640
+'Address', '2531 94TH STREET', 640
+'Address', 'P.O. BOX 195', 323
+'Address', '1475 E 222ND STREET', 486
+'Address', '222 BAYVIEW AVENUE', 257
+'Address', '27 PRESTON COURT', 131
+'Address', '1880 VALENTINE AVENUE # 1702', 50
+'Address', '95-25 90TH STREET', 640
+'Address', '176 FRANKLIN STREET', 640
+'Address', '104 S. MIDLAND AVENUE', 640
+'Address', '18-18 26TH ROAD', 542
+'Address', '87-42 111 ST.', 640
+'Address', '2500 HALSEY STREET', 386
+'Address', '195 BENTON AVENUE', 133
+'Address', '195 RIVERDALE AVE', 640
+'Address', '26 KENDIG PL', 640
+'Address', '25 LIBERTY AVENUE', 640
+'Address', '3359 169TH ST', 640
+'Address', '2707 STILLWELL AVENUE', 200
+'Address', '4717 1ST AVENUE', 640
+'Address', 'PO BOX 630092', 640
+'Address', '224-17 MERRICK BOULEVARD', 456
+'Address', '108-08 52ND AVENUE 2ND FLOOR', 8
+'Address', '546 JORALEMON ST.', 640
+'Address', '1640 SUMMERFIELD STREET', 640
+'Address', '58 KING AVENUE', 640
+'Address', '12 BROWN PLACE', 640
+'Address', '291 CHELSEA RD', 408
+'Address', '2922 WILSON AVENUE', 335
+'Address', '834 Morrow St', 46
+'Address', '310 COOPER ROAD', 638
+'Address', '18-15 128TH STREET', 640
+'Address', '791 NEPPERHAN AVENUE', 588
+'Address', '25-31 94TH STREET', 640
+'Address', '137-30 REDDING STREET', 57
+'Address', '2071 FLATBUSH AVENUE', 640
+'Address', '2435 OCEAN AVENUE 1B', 640
+'Address', 'P.O. BOX 564045', 640
+'Address', '215-46 39 AVENUE', 542
+'Address', '66-14 51ST ROAD', 560
+'Address', '2012 HOLLAND AVENUE, APT. 6H', 439
+'Address', '8907 34TH AVENUE APT. 1-N', 225
+'Address', '143 DAHILL RD', 148
+'Address', '94-17 51 AVENUE', 133
+'Address', '50 GEAR AVENUE', 640
+'Address', '1447 77TH STREET', 640
+'Address', '253 A ROCKAWAY TURNPIKE', 640
+'Address', '4 EDGEWOOD DRIVE', 558
+'Address', '30 ENGLEWOOD AVE', 299
+'Address', '213  BAYVIEW  AVENUE', 640
+'Address', '151 LOGAN AVENUE', 640
+'Address', '29-10 120TH STREET', 640
+'Address', '53 ROCCO ST', 396
+'Address', '257-04 145 AVE', 203
+'Address', '3088 HYLAN BLVD', 640
+'Address', '187-05 QUENCER ROAD', 535
+'Address', 'PO BOX 1124', 403
+'Address', '768 CONEY ISLAND AVENUE', 406
+'Address', '2291 WILLOW ST.,', 151
+'Address', '112-13 95TH AVENUE, 2ND FLOOR', 640
+'Address', '102 EAST FIGUREA  AVE', 640
+'Address', '4562 162nd Street', 258
+'Address', '38 KINSEY PLACE 2ND FLOOR', 197
+'Address', '3858 Nostrand Ave SUITE 203', 236
+'Address', '786 E 94 STREET', 640
+'Address', '2361 CONEY ISLAND AVENUE, APT. 2S', 566
+'Address', '53 RENE DRIVE', 640
+'Address', '411 BRYANT AVENUE', 640
+'Address', '64 - 34 102ND STREET APT 7H', 323
+'Address', '30 CLAREMONT AVE.', 449
+'Address', '31 SUMMIT ROAD', 640
+'Address', '1712 STILLWELL AVE', 276
+'Address', '160 SWEETFIELD CIRCLE', 471
+'Address', '2307 College Point Blvd', 640
+'Address', '208 GARFIELD ST.', 545
+'Address', '501 E 93RD STREET', 640
+'Address', '19-50 STEINWAY STREET', 640
+'Address', '16 LAFAYETTE AVENUE', 640
+'Address', '1850 83rd Street', 640
+'Address', '1 MAPLE STREET', 372
+'Address', '12 WEST AVENUE', 640
+'Address', '392 STRATFORD ROAD', 640
+'Address', '2074 RICHMOND TERRACE', 522
+'Address', 'P.O. BOX 573', 640
+'Address', '118-20 29TH AVENUE', 640
+'Address', '105 WYANDANCH AVENUE', 51
+'Address', '54-60 44TH STREET', 671
+'Address', '1314 EAST 22ND STREET', 640
+'Address', '59 LAUREL DRIVE', 534
+'Address', '221 ALBEE AVENUE', 640
+'Address', 'P O BOX 7 ROUTE 329', 486
+'Address', '178 HALGREN CRESCENT', 490
+'Address', '704 BARTLEY CHESTER ROAD', 527
+'Address', '4-11 26TH AVENUE', 262
+'Address', '365 MORRIS PARK AVENUE', 103
+'Address', '33-02 38TH AVENUE', 640
+'Address', '133 GRANITE AVENUE', 640
+'Address', '3526 NW BLVD.', 640
+'Address', '7500 KENNEDY BLVD WEST UNIT D', 70
+'Address', '11816 WOODHULL AVE', 315
+'Address', '702 RAMSEY AVE', 286
+'Address', '101 BAY 37TH STREET APT. #1', 640
+'Address', '43-24 166TH STREET', 640
+'Address', '340 BEACH 89TH STREET', 640
+'Address', '63 SEWELL STREET', 630
+'Address', '83C JEFFERSON AVENUE', 502
+'Address', '10033-', 42
+'Address', '21912 43Rd Ave', 640
+'Address', '4293 RICHMOND AVENUE', 640
+'Address', '3-18 148TH STREET', 640
+'Address', '80 BUSINESS DRIVE SUITE 200', 640
+'Address', '184 MASPETH AVE', 35
+'Address', 'P.O. BOX 575025', 640
+'Address', '135 Copiague Street', 236
+'Address', '32-37 62ND STREET 2 FL', 90
+'Address', '5808 Brown Place', 161
+'Address', '2027 CLOVE ROAD', 640
+'Address', '168 BEDFORD AVENUE', 621
+'Address', '41 BETHPAGE ROAD', 601
+'Address', '4524 161 STREET', 231
+'Address', '157-02 109 AVENUE', 640
+'Address', '72 ALLEN BOULEVARD', 640
+'Address', '265 FRONT STREET', 640
+'Address', '59 SECATOGUE LANE', 640
+'Address', '89-08 NORTHERN BLVD 2 FL', 632
+'Address', '134 ROBBY LANE', 418
+'Address', '247 SCHUYLER AVENUE', 27
+'Address', '60 Davidson St', 199
+'Address', '68 SOUTH SERVICE RD, SUITE 100', 529
+'Address', '2800 86TH STREET, APT. 6C', 640
+'Address', '430 CONEY ISLAND AVENUE', 640
+'Address', '6143 170TH STREET APT 3', 640
+'Address', 'P.O. BOX 296', 640
+'Address', '605 ALEXANDER AVENUE', 640
+'Address', '145 SULLIVAN STREET, APT. 1D', 299
+'Address', '40 AUSTIN BLVD.', 136
+'Address', '38 KINSEY PLACE', 41
+'Address', '15031 61ST ROAD', 281
+'Address', '207 LEXINGTON ROAD', 228
+'Address', '110 JABEZ STREET SUITE 231', 640
+'Address', 'P.O. BOX 20727', 640
+'Address', '103 KEAN STREET', 640
+'Address', '136 BAY 7TH STREET', 640
+'Address', '1243 MORRISON AVENUE', 490
+'Address', '12911 101St Ave', 598
+'Address', '57 ALBERTSON AVE', 640
+'Address', '3709 28Th Ave', 640
+'Address', '107-47 139TH STREET', 298
+'Address', '601 COMMERCE RD', 640
+'Address', '10-40 BORDEN AVENUE', 640
+'Address', '234 INDIA STREET', 382
+'Address', '175 JORDAN RD', 640
+'Address', '36-16 19TH AVENUE', 1037
+'Address', '24-60 46TH STREET', 640
+'Address', 'P.O. BOX 420', 640
+'Address', '100 SIGNAL HILL ROAD', 80
+'Address', '54-27 73 PLACE', 640
+'Address', '213-37 39TH AVENUE  SUITE #268', 640
+'Address', '45-48 51 STREET', 640
+'Address', '152 GRAHAM AVENUE', 640
+'Address', '115 LINCOLN AVE', 640
+'Address', '78 SADLER ROAD', 323
+'Address', '951 E 27TH STREET', 534
+'Address', '559 LIBERTY AVE.', 363
+'Address', '53-08 68TH STREET', 496
+'Address', '1030 WYCOFF AVENUE', 533
+'Address', '152-53 10Th Ave SUITE 226', 258
+'Address', '2625 SOUTH LOOMIS STREET', 640
+'Address', '310 NASSAU AVENUE SUITE 100', 623
+'Address', '196 GRAFTON AVE', 640
+'Address', '3-34 PARSONS BLVD.', 640
+'Address', '2329 Delanoy Ave', 640
+'Address', '69 ENGERT AVENUE', 25
+'Address', '318 Rose Ave', 640
+'Address', '89-42 116TH STREET', 535
+'Address', '67 EAST AVENUE', 1288
+'Address', '1092 WILLMOHR STREET, APT. A3', 640
+'Address', '79-57 COOPER AVENUE', 534
+'Address', '5655 AMBOY ROAD', 640
+'Address', '1900 SOUTH AVENUE', 640
+'Address', '121 EAST 2ND STREET', 640
+'Address', '1612 FIFTH AVENUE', 236
+'Address', '61-38 56 DRIVE', 557
+'Address', '428 SPANGLE DR', 461
+'Address', '169 COMMACK RD #194', 381
+'Address', '228 RUSSELL STREET', 640
+'Address', '3 02 26 AVENUE', 223
+'Address', '3602 Astoria Blvd', 122
+'Address', '35 MIAMI TRAIL', 381
+'Address', '38-38 13TH STREET', 640
+'Address', '814 CONEY ISLAND AVENUE', 640
+'Address', '25 HILL ROAD', 173
+'Address', '10009 GLENWOOD ROAD', 132
+'Address', '1284 EDISON AVENUE', 16
+'Address', '53-80 STATE ROUTE 55', 640
+'Address', '2840 STEVENS STREET', 150
+'Address', 'P.O. BOX 16', 640
+'Address', '56 ERASTINA PL.', 490
+'Address', '107-35 76TH STREET', 640
+'Address', '4 PETTIT PLACE', 640
+'Address', '3045 GODWIN TERRACE BASEMENT', 640
+'Address', '3101 20TH AVENUE, BLDG 137', 640
+'Address', '340 JACKSON AVE', 640
+'Address', '206 CAMBRIDGE STREET', 363
+'Address', '10624 50TH AVE APT 1', 435
+'Address', '25 CRANFORD AVENUE', 640
+'Address', '171 DWIGHT STREET', 640
+'Address', '98 LIBERTY AVENUE', 1
+'Address', '36-38 JOHN STREET', 291
+'Address', '135-50 124TH STREET', 400
+'Address', '150-05 24 AVENUE', 351
+'Address', '36 JOHN STREET', 349
+'Address', '40-02 BELL BLVD', 292
+'Address', '148-27 BOOTH MEMORIAL AVE 2ND FL', 259
+'Address', '58-83 54TH STREET', 1280
+'Address', '81 JERICHO TPKE', 640
+'Address', '29 MAPLE AVENUE', 640
+'Address', '79 BRIDGE STREET, LOWER LEVEL', 640
+'Address', '146-33 HOLLY AVENUE 1st FLOOR', 450
+'Address', '215-44 29TH AVENUE', 640
+'Address', '248 ALLEN STREET', 136
+'Address', '3620 AVE L', 567
+'Address', '35 WOODS AVENUE', 69
+'Address', '260 BROADWAY', 99
+'Address', '52-04 69TH STREET FL 2', 339
+'Address', '2609 MILL AVENUE', 362
+'Address', '214-30 27 AVENUE', 640
+'Address', '82-11 57TH AVENUE', 560
+'Address', 'P.O. BOX 3445', 254
+'Address', 'P.O BOX 778438', 459
+'Address', '19 NORTH DRIVE', 206
+'Address', '113 HOOKER PLACE', 41
+'Address', '117-46 124TH STREET', 381
+'Address', '45-68 162ND STREET', 640
+'Address', '155 Mansion Ave', 101
+'Address', '79-72 COOPER AVENUE', 640
+'Address', '21 ROSE AVENUE,', 640
+'Address', '66 - 14 51ST ROAD,', 276
+'Address', '2615 AVE O,  APT 6M,', 640
+'Address', 'P.O. BOX 244,', 640
+'Address', '39 PERRY AVENUE,', 640
+'Address', '7 PUMPKIN STREET,', 623
+'Address', '3724 MARTHA BLVD,', 640
+'Address', '17 OLD DOCK ROAD,', 640
+'Address', 'PO BOX 273,', 113
+'Address', '192-17 UNDERHILLL AVENUE,', 384
+'Address', '231 NORMAN AVENUE  SUITE#206,', 141
+'Address', '158-28 77TH AVENUE,', 41
+'Address', 'P.O BOX 570082,', 640
+'Address', '289 PINE ACRE BLVD,', 179
+'Address', '30 GOVERNOR RD,', 640
+'Address', '33-07 9TH STREET, FLOOR 1,', 450
+'Address', '34 CARLTON CT,', 41
+'Address', '58-33 71TH STREET,', 640
+'Address', '139-07 15TH AVE,', 228
+'Address', '240 WEST 52ND STREET,', 92
+'Address', '299 MANHATTAN STREET,', 41
+'Address', '350 E 137Th St APT.8C,', 41
+'Address', '29 CLINTON PLACE,', 640
+'Address', '106 ELMWOOD DRIVE,', 640
+'Address', '56-01 NURGE AVENUE 2ND FLOOR,', 640
+'Address', '12-55 150TH STREET,', 289
+'Address', '2696 STILLWELL AVENUE,', 640
+'Address', '248-22 BROOKVILLE BLVD,', 488
+'Address', '58-72 58TH AVENUE, #RH2,', 512
+'Address', '3708 WHITE PLAINS RD,', 640
+'Address', '4018 Bell Blvd,', 640
+'Address', '9818 103Rd Ave,', 640
+'Address', '27 KOOL PL.,', 640
+'Address', 'P.O. BOX 4238,', 640
+'Address', '65 EDISON AVENUE,', 584
+'Address', '547 80TH STREET FL. 1,', 337
+'Address', '341 NASSAU AVE,', 301
+'Address', '168-30 LIBERTY AVE,', 55
+'Address', '230 RANDOLPH STREET,', 640
+'Address', '3121 76TH STREET,', 258
+'Address', '311 E91 STREET,', 640
+'Address', '28 GANSEVOORT BLVD,', 500
+'Address', '50 HIGHLAWN AVENUE,', 394
+'Address', '335 CENTER AVE,', 640
+'Address', '80 Varsity Rd,', 41
+'Address', 'P.O.BOX. 0,', 129
+'Address', '131 SCOOTER LANE,', 640
+'Address', '154 FELLA DRIVE,', 109
+'Address', '53 GREENLEAF AVE #1,', 640
+'Address', '479 WALTON AVENUE,', 640
+'Address', '1628 62ND STREET,', 640
+'Address', '6851 JERICHO TURNPIKE, SUITE 240,', 640
+'Address', '3915 PROVOST AVE,', 618
+'Address', '42-45 KISSENA BLVD APT 3B,', 502
+'Address', '42 ANDREWS STREET,', 98
+'Address', '4005 VICTORY BLVD.,', 640
+'Address', '172 GRANTWOOD AVENUE,', 640
+'Address', '36 ALPINE PLACE,', 623
+'Address', '622 BROADWAY,', 553
+'Address', '2839 W 31 STREET,', 640
+'Address', '182 MEMORIAL PKWY,', 244
+'Address', '12-11 REDFERN AVE,', 640
+'Address', '924 BIRCH DRIVE,', 512
+'Address', '388 GRAMATAN AVE,', 640
+'Address', '337 NEW AVE,', 534
+'Address', '1460 MANATUCK BLVD.,', 534
+'Address', '322 SOUTH AVE,', 640
+'Address', '442 SOUTH 16TH STREET,', 640
+'Address', '1476 OVINGTON AVENUE, 2R,', 640
+'Address', '770 ALLERTON AVENUE,', 640
+'Address', '31-07 STARR AVENUE, SUITE 1,', 640
+'Address', '960 JOHNSON AVENUE,', 640
+'Address', '902 ALLERTON AVE,', 640
+'Address', '691 NORTH 7TH STREET,', 640
+'Address', '34 JACKSON AVENUE,', 640
+'Address', '402 MARSHALL STREET,', 640
+'Address', '834 MORROW STREET,', 594
+'Address', '1409 130TH STREET,', 331
+'Address', '18 FREMONT ROAD,', 257
+'Address', '172-13 HILLSIDE AVENUE SUITE 201,', 9
+'Address', '4724 OCEANIA STREET,', 640
+'Address', '60-13 56TH STREET,', 640
+'Address', '69 15TH STREET,', 640
+'Address', '200 CABOT STREET,', 640
+'Address', '2350 RUGBY STREET,', 637
+'Address', '469 CLAWSON STREET,', 524
+'Address', '732 14TH STREET,', 502
+'Address', '10251 189TH STREET,', 441
+'Address', '142-51 ROCKAWAY BLVD,', 202
+'Address', '261 WEST LINCOLN AVENUE,', 640
+'Address', '12-20 37TH AVENUE,', 640
+'Address', '8  ALLISON AVENUE,', 640
+'Address', '266 Seigel St,', 640
+'Address', '24-02 39TH AVENUE,', 640
+'Address', '391 EAST 149TH STREET SUITE 417,', 426
+'Address', '2048 E 72ND STREET,', 312
+'Address', '7410 AVENUE W.,', 404
+'Address', '728 WEST 181 STREET SUITE B1,', 467
+'Address', '6 ELWOOD AVENUE,', 640
+'Address', '5364 ARTHUR KILL RD,', 640
+'Address', 'P.O. BOX 3290,', 640
+'Address', '18 HERBERT STREET,', 640
+'Address', '46-27 54TH ROAD,', 41
+'Address', '232 42ND ST.,', 640
+'Address', '48-08 70TH STREET,', 605
+'Address', '175 ENGINEERS ROAD,', 480
+'Address', 'P.O. BOX 942,', 640
+'Address', '37-31 57TH STREET,', 14
+'Address', '2929 BRIGGS AVENUE,', 17
+'Address', 'P.O.BOX 1305,', 640
+'Address', '656 MORRIS PARK AVENUE,', 640
+'Address', '670 ARMSTRONG AVENUE,', 640
+'Address', '141 INDUSTRAIL LOOP,', 109
+'Address', '120- 16 95TH AVENUE S RICHMOND HILL,', 534
+'Address', '14 MOHAWK AVE,', 184
+'Address', '7084 AMBOY ROAD,', 640
+'Address', '11919 15Th Ave,', 168
+'Address', '14 PUTNAM AVENUE,', 640
+'Address', '13740 Kalmia Ave,', 276
+'Address', '712 AVENUE Y,', 534
+'Address', '3721 RICHMOND AVENUE,', 512
+'Address', '1180 MANOR CIRCLE,', 640
+'Address', '341 NASSAU AVENUE,', 363
+'Address', '162-48A 14TH AVENUE,', 640
+'Address', '75 - 28 FURMANVILLE AVENUE,', 640
+'Address', '128-05 VANWYCK EXPRESSWAY,', 609
+'Address', '2507 NEW BRUNSWICK AVE,', 306
+'Address', '7304 182ND STREET,', 238
+'Address', '9017 AVE K,', 640
+'Address', '114-15  149  AVENUE,', 640
+'Address', '69-18 61 DRIVE,', 640
+'Address', '9 CENTRAL PARK AVE,', 109
+'Address', '552 LINDEN BLVD APT. 1-C,', 640
+'Address', '58-66 57TH STREET,', 558
+'Address', '2 XENIA CT.,', 299
+'Address', '10251 189th Street,', 199
+'Address', '2 FISH HOUSE ROAD,', 640
+'Address', '139-39 228TH STREET,', 640
+'Address', '252 - 36 BRATTLE AVENUE,', 640
+'Address', '406 JERICHO TPKE.,', 640
+'Address', '490 UNION AVENUE,', 279
+'Address', '140 50TH STREET,', 539
+'Address', '46-26 METROPOLITAN AVENUE,', 640
+'Address', '495 B NEW STREET,', 509
+'Address', '1533 FIFTH AVENUE,', 640
+'Address', '7 PLANE TREE LANE,', 640
+'Address', '21 ENGLEWOOD AVENUE,', 341
+'Address', '94 DEKALB AVENUE,', 141
+'Address', 'P.O. BOX 4547,', 640
+'Address', '74 ACADEMY ST.,', 245
+'Address', '28 GARFIELD AVENUE,', 130
+'Address', '55-14 GRAND AVENUE,', 640
+'Address', '247-24 88TH  ROAD,', 528
+'Address', '42-76 MAIN STREET #2C,', 219
+'Address', '75 WINDSOR STREET,', 640
+'Address', '786 EAST 94 STREET,', 640
+'Address', '1208 64TH  STREET,', 339
+'Address', '81 APOLLO STREET,', 640
+'Address', '130-05 125TH STREET,', 640
+'Address', '57-01 134 STREET,', 640
+'Address', '47 Spruce Ave,', 640
+'Address', '3380 FORT HAMILTON PARKWAY,', 640
+'Address', '43-06 54TH ROAD,', 640
+'Address', '7014 13TH AVENUE,', 640
+'Address', '424 CONEY ISLAND AVENUE,', 640
+'Address', '23-73 48TH STREET,', 299
+'Address', '745 EAST 23RD ST.,', 191
+'Address', '3 TERRELL LANE,', 640
+'Address', '82 Waldo St,', 1
+'Address', '12-06 149 STREET,', 276
+'Address', '1-07 SCHWAB RD,', 150
+'Address', '40-50 JUNCTION BLVD 2F,', 209
+'Address', '107-28 156TH STREET,', 640
+'Address', '866 CONEY ISLAND AVE,', 640
+'Address', '44 Center Grove Road Apt C-42,', 196
+'Address', '916 62ND STREET,', 640
+'Address', '2545 RADCLIFF AVENUE,', 229
+'Address', '555 ROUTE ONE SOUTH, SUITE 130,', 432
+'Address', '124 HALF HOLLOW RD,', 181
+'Address', '315 N MACQUESTEN PKWY,', 175
+'Address', '144 JEROME ROAD,', 287
+'Address', '26 WHARTON AVENUE,', 173
+'Address', '15 WASHINGTON AVE,', 640
+'Address', '53 STICKLE AVE SUITE 4,', 640
+'Address', '21 Ekstrom St,', 640
+'Address', '181 NEW JERSEY AVENUE,', 640
+'Address', '815 MCLEAN AVE.,', 640
+'Address', '874 RICHMOND ROAD,', 640
+'Address', '128-17 25TH AVE,', 640
+'Address', '54 GARDEN COURT,', 402
+'Address', '950 Sinclair Ave,', 129
+'Address', '143-08 ROOSEVELT AVENUE SUITE 202,', 6
+'Address', '675 HUGUENOT AVENUE,', 258
+'Address', 'P.O. BOX 150-286 VAN BRUNT STATION,', 640
+'Address', '1602 EAST 55TH STREET, 1ST FL,', 363
+'Address', 'P.O. BOX 705,', 640
+'Address', '43-33 41ST STREET 1A,', 451
+'Address', '135-16 124TH ST,', 640
+'Address', '220 GROVE STREET,', 640
+'Address', '140-39 34TH AVENUE #2U,', 640
+'Address', '130-59 118TH STREET,', 640
+'Address', '262 WILSON AVENUE,', 640
+'Address', '530 CRAVEN STREET,', 640
+'Address', '235 INDUSTRIAL LOOP,', 572
+'Address', '30-51 80TH STREET,', 446
+'Address', '1601 BRONXDALE AVE  SUITE 201,', 640
+'Address', '233-41 38TH DRIVE,', 640
+'Address', '57-47 79TH STREET,', 640
+'Address', '159-03  102ND STREET,', 640
+'Address', '150-28 127 STREET,', 640
+'Address', '210 HOOPER STREET,', 179
+'Address', '1784 RICHMOND TERRACE,', 28
+'Address', '94-43 LEFFERTS BLVD. SOUTH RICHMOND HILL,', 1
+'Address', '2929 BRIGGS AVENUE APT. 5A,', 519
+'Address', '109 WABASH AVENUE,', 206
+'Address', '21 ATLANTA AVENUE,', 534
+'Address', '4345 BELLAIR PLACE,', 640
+'Address', '535 Plato St,', 640
+'Address', '108 CHANDLER AVENUE,', 229
+'Address', '40-48 PORETE AVENUE,', 640
+'Address', '955 EAST 80 STREET,', 640
+'Address', '17 HAUG STREET,', 229
+'Address', '110 WILLOW AVENUE,', 325
+'Address', '1509 BRYANT AVENUE,', 135
+'Address', '24-29 83RD STREET,', 640
+'Address', '475 GOWER ST,', 640
+'Address', '130-42 VAN WYCK EXPRESSWAY,', 640
+'Address', '600 SMITH STREET,', 640
+'Address', '1212 S Bright St,', 129
+'Address', '24-04 201ST STREET,', 109
+'Address', '51 KINKEL STREET,', 269
+'Address', '202-35 FOOTHILL AVENUE APT.B71,', 640
+'Address', '1830 GILFORD AVE,', 558
+'Address', '969 MIDLAND AVE.,', 640
+'Address', '926 FULTON STREET STORE #2,', 151
+'Address', '609 N. UNION AVENUE,', 103
+'Address', '103-15 99TH STREET,', 640
+'Address', 'P.O. BOX 970,', 640
+'Address', '426 Bleecker St,', 588
+'Address', '120-05 ATLANTIC AVENUE,', 404
+'Address', '12 POTTER AVENUE,', 640
+'Address', '24 Whitwell Pl,', 640
+'Address', '918 62Nd St,', 219
+'Address', '15 OCEAN TERRACE,', 640
+'Address', '132-27 14TH ROAD,', 408
+'Address', '926 BOYNTON AVENUE,', 87
+'Address', '25 - 74 43RD STREET,', 640
+'Address', '5 CARL AVENUE,', 404
+'Address', '11B KERMIT AVENUE,', 640
+'Address', '355 FOOD CENTER DRIVE, C-107,', 178
+'Address', '101 53RD STREET,', 623
+'Address', '59 OXFORD PLACE,', 450
+'Address', '6-28 150TH PLACE,', 640
+'Address', '125 Lake Ave,', 74
+'Address', '3337 103rd Street,', 200
+'Address', '7 CANTON COURT,', 545
+'Address', '56 VAN STREET,', 210
+'Address', '275 HENRY STREET,', 250
+'Address', '14-08 31ST AVE., SUITE 1,', 640
+'Address', '15 - 02 127TH STREET,', 640
+'Address', '89-89 218 STREET,', 642
+'Address', '18-20 130TH STREET,', 640
+'Address', '888 EAST BAY DRIVE,', 258
+'Address', '20 HAZLETT STREET,', 339
+'Address', '44 HOMESTEAD AVE STE A,', 622
+'Address', '608 W. ELM STREET,', 311
+'Address', '15 LENZIE STREET,', 640
+'Address', '9 UNION AVENUE,', 640
+'Address', '41 Bethpage Rd,', 39
+'Address', '194 AVENUE L,', 640
+'Address', '217 Henry St, Apt D,', 640
+'Address', '82-64 251 STREET,', 471
+'Address', '30 MEADOW STREET,', 299
+'Address', '2600 ATLANTIC AVENUE,', 571
+'Address', '151-TH AVENUE,', 11
+'Address', '648 4TH ST APT 1,', 337
+'Address', '11803,', 86
+'Address', '63 BRYANT AVE,', 640
+'Address', '33-35 76ST SUITE 5J,', 216
+'Address', '17 2ND AVENUE,', 328
+'Address', '181 HURON STREET,', 640
+'Address', '40-50 JUNCTION BLVD 2R,', 431
+'Address', '2422 WEST 1ST STREET,', 323
+'Address', '10 CABOT RD SUITE 300,', 324
+'Address', '78 RICHFIELD STREET,', 640
+'Address', '66 OSWALD PLACE,', 640
+'Address', '216 WANSER AVENUE,', 512
+'Address', 'P.O BOX 302,', 324
+'Address', '7 DEMARTINO AVENUE,', 640
+'Address', '567 FIFTH AVENUE,', 640
+'Address', '35 CALLAN AVENUE,', 19
+'Address', '2911 BAISLEY AVENUE,', 640
+'Address', '5719 Granger St,', 640
+'Address', '127-50 NORTHERN BLVD,', 640
+'Address', '1324 HERSCHELL STREET,', 640
+'Address', '115 MARTIN AVENUE,', 640
+'Address', '234 SPLIT ROCK ROAD,', 257
+'Address', '208-10 CROSS ISLAND PARKWAY SUITE 250,', 105
+'Address', '609 NORTH GREENBUSH ROAD,', 78
+'Address', '148-19 GUY R. BREWER BLVD,', 640
+'Address', '25-15 169TH STREET,', 640
+'Address', '177 PENN STREET,', 640
+'Address', '321 LAGOON DRIVE,', 640
+'Address', '58 MOORE PLACE 1ST FL.,', 640
+'Address', '32 HILL AVE,', 640
+'Address', '109-19 112TH STREET,', 558
+'Address', '54-48 65 PLACE,', 466
+'Address', '166 BERTHOLD AVENUE,', 382
+'Address', '16 HOSPITAL ROAD,', 367
+'Address', '125 Holden Blvd,', 640
+'Address', '156 E 3RD STREET,', 299
+'Address', '867 FATHER CAPODANNO BLVD,', 640
+'Address', '110 - 32A 15TH AVENUE,', 640
+'Address', '137 HAVEN AVENUE,', 205
+'Address', '20 RADCLIFF BLVD,', 435
+'Address', '237 W 35Th St, ROOM 303,', 548
+'Address', '2300  E. 69 STREET 2FL,', 640
+'Address', '152 41ST STREET,', 640
+'Address', '2058 WASHINGTON AVENUE,', 640
+'Address', '23-02 167TH STREET,', 9
+'Address', '36-34 35TH STREET,', 582
+'Address', '262 WASHINGTON VALLEY ROAD,', 256
+'Address', '81- 52 LITTLE NECK PKWY,', 640
+'Address', '80-22 237TH STREET,', 640
+'Address', '154-36 12TH AVENUE,', 527
+'Address', 'P.O BOX 337 HILLSIDE,', 441
+'Address', '108-21 ROOSEVELT AVENUE,', 381
+'Address', '56-23 203RD STREET,', 365
+'Address', '22-37 119TH STREET,', 640
+'Address', '78 JOHN MILLER WAY, SUITE 312,', 640
+'Address', '202 Plymouth St,', 418
+'Address', '151-37 20TH AVENUE,', 640
+'Address', '178 E HAWTHORNE AVE,', 640
+'Address', '85-11 57TH AVENUE,', 35
+'Address', '1941 GOSHEN TURNPIKE,', 546
+'Address', '1819 WILLIAMSBRIDGE RD,', 112
+'Address', '28 LAKEVIEW DRIVE,', 265
+'Address', '1108 AVENUE K APT 20,', 320
+'Address', '22417 Merrick Boulevard,', 184
+'Address', '704 Adams Ave,', 640
+'Address', '256 W 124Th St,', 640
+'Address', '327 ACRE LANE,', 640
+'Address', 'P.O. BOX 541,', 640
+'Address', '223 GROVE STREET,', 491
+'Address', '41-14B MAIN STREET L63,', 245
+'Address', '157-27 85TH STREET,', 640
+'Address', '20-14 49TH STREET,', 490
+'Address', '77 LOMBARDY ST,', 640
+'Address', '129 LOUISIANA AVENUE,', 640
+'Address', '169 RATHBUN AVENUE,', 640
+'Address', '10  ALEXANDER DRIVE,', 640
+'Address', '2065 POND ROAD,', 466
+'Address', '12706 S. CONDUIT AVE,', 640
+'Address', '31-07 FARRINGTON STREET,', 535
+'Address', '159-51 102ND STREET,', 499
+'Address', '41-85 FRAME PL BSMT,', 141
+'Address', '99 EAST 96 STREET,', 127
+'Address', '13025 58TH ROAD,', 120
+'Address', '20-37 HAZEN STREET,', 487
+'Address', '232-18 88TH AVENUE,', 640
+'Address', '194-19 115 AVENUE,', 129
+'Address', '838 MCLEAN AVENUE,', 640
+'Address', '105-43 FARMERS BLVD,', 640
+'Address', '4270 AUSTIN BOULEVARD,', 554
+'Address', '16804 12Th Rd,', 70
+'Address', '104-20 QUEENS BLVD APT 10-U,', 244
+'Address', '3527 VERNON BLVD,', 640
+'Address', '53-46 97TH PLACE,', 640
+'Address', '105 AVENUE X #4F,', 414
+'Address', '159-20 115TH ROAD,', 640
+'Address', '114 SYLVESTER STREET,', 640
+'Address', '316 Argyle Rd,', 580
+'Address', '195 GRANITE AVENUE,', 640
+'Address', '151-17 84 DRIVE,', 640
+'Address', '157-20 20 AVENUE,', 640
+'Address', '175 STANHOPE STREET,', 578
+'Address', '604 5TH AVENUE,', 395
+'Address', '2945 RICHMOND TERRACE,', 640
+'Address', '44-02  23RD STREET STE 306,', 404
+'Address', '135 W. NYACK ROAD UNIT 121,', 404
+'Address', '136-23 CARLTON PL.,', 266
+'Address', '45 DOLORES DRIVE,', 73
+'Address', '2237 E 72ND STREET,', 640
+'Address', '377 Carlls Path,', 33
+'Address', '22-44 119 STREET,', 534
+'Address', '686 Speedwell Ave APT 1,', 522
+'Address', '3010 BRIGHTON 12TH STREET APT 3G,', 640
+'Address', '522 SARATOGA AVENUE,', 640
+'Address', '50 DEPPE PLACE,', 572
+'Address', '1204 WARWICK STREET,', 530
+'Address', 'P.O. BOX 1031,', 640
+'Address', '2152 GERRITSEN AVENUE,', 640
+'Address', '52-65 72ND PLACE,', 640
+'Address', '529 WINDSOR PLACE,', 640
+'Address', '54-45 63RD PLACE,', 640
+'Address', '239 MADISON AVE.,', 333
+'Address', '65-50 FRESH MEADOW LANE,', 640
+'Address', '2500 WATERBURY AVE,', 254
+'Address', '103 ST. ANDREWS RD.,', 302
+'Address', '186 CONSELYEA STREET,', 640
+'Address', '58-02 FLUSHING AVENUE,', 640
+'Address', '2150 BERGEN AVENUE,', 640
+'Address', '48-09 37TH STREET,', 640
+'Address', '1365 STRAIGHT PATH,', 640
+'Address', '2527 JOHNSON STREET,', 109
+'Address', '240 WATER STREET,', 862
+'Address', '5 RYEFIELD ROAD,', 9
+'Address', '445 SHARROTTS ROAD,', 121
+'Address', '442 EAST 148TH STREET,', 50
+'Address', '56-22 58TH STREET,', 236
+'Address', '13863 62Nd Rd,', 68
+'Address', '48-08 70TH ST.,', 640
+'Address', '3308 ROUTE 112,', 640
+'Address', '59-26 69TH LANE,', 642
+'Address', '349 E. 19TH STREET STE. 5A,', 600
+'Address', '7 FOURTH STREET,', 640
+'Address', '96 COMMERCIAL STREET,', 552
+'Address', '38 KINSEY PLACE SUITE 2,', 443
+'Address', 'P.O.BOX. 740362,', 41
+'Address', '5710 FLATLANDS AVENUE, 2ND FLOOR,', 381
+'Address', '15951 102Nd St,', 141
+'Address', '2119 63RD STREET,', 466
+'Address', '250 Orchard Rd,', 623
+'Address', '2800 COYLE STREET SUITE 603,', 640
+'Address', '7 WARD DRIVE,', 2
+'Address', '168-31 106 AVE,', 590
+'Address', '67 BEACH LANE,', 508
+'Address', '21 WARREN PLACE,', 640
+'Address', '1901 AMETHYST STREET,', 640
+'Address', '950 Holmdel Road,', 640
+'Address', '18-50 42 STREET,', 640
+'Address', '58 Mulberry Street,', 640
+'Address', '729 EAST 140 STREET,', 640
+'Address', '98 E BROADWAY STE 309,', 371
+'Address', '90-12 221ST STREET,', 299
+'Address', '107-22 117 STREET,', 640
+'Address', '5340 METROPOLITAN AVE.,', 339
+'Address', '2 Raspberry Ln,', 138
+'Address', 'P.O. BOX 740513,', 640
+'Address', '12 BAY  49TH STREET,', 640
+'Address', '34 ARBOR LANE,', 640
+'Address', '5 Jayne Ave,', 219
+'Address', '100 PEARL STREET,', 640
+'Address', '112 FLORIDA STREET,', 461
+'Address', '53-58 70TH STREET,', 272
+'Address', 'P.O BOX 464,', 181
+'Address', '59 EYLAND AVENUE,', 118
+'Address', '12-04 BOYNTON AVENUE APT. 3C,', 640
+'Address', '3830 BOSTON ROAD,', 507
+'Address', '77 HEMPSTEAD GARDENS DRIVE,', 640
+'Address', '1029 GARRY TERRACE,', 640
+'Address', '2424 ROUTE 52 , SUITE 2C,', 640
+'Address', '97-36 102ND ST.,', 640
+'Address', '1836 GILFORD AVENUE,', 640
+'Address', 'PO BOX 0041,', 127
+'Address', '268 WEST 91ST STREET,', 640
+'Address', '84-26 86TH STREET,', 603
+'Address', '232 INDIA STREET,', 258
+'Address', '4234 VIREO AVE,', 640
+'Address', '46-11 54TH AVENUE, 3RD FL,', 640
+'Address', '418 MELROSE STREET,', 640
+'Address', '64 CROSS POND ROAD,', 640
+'Address', '708-51 STREET APT 3F,', 640
+'Address', '36 RICE COURT,', 512
+'Address', '40-18 HAMPTON ST #4B,', 480
+'Address', 'P.O. BOX 1457,', 206
+'Address', '23-81 89TH STREET,', 640
+'Address', '101 12 AVENUE K,', 640
+'Address', 'PO BOX 560172,', 640
+'Address', '34 FIRST STREET,', 66
+'Address', '3597 LORRIE DRIVE,', 60
+'Address', '186-16 89 AVE,', 640
+'Address', 'P.O.BOX 680,', 640
+'Address', '285 5TH AVENUE SUITE 437,', 492
+'Address', 'DEWEY ST.,', 44
+'Address', '3966 LONG BEACH ROAD,', 640
+'Address', '56-02 ARNOLD AVENUE,', 640
+'Address', '736 WEST 181 STREET, #6C,', 258
+'Address', '152 22ND STREET APT 1,', 523
+'Address', '1961 ROUTE 6 SUITE R-3 BOX 12,', 375
+'Address', '6120 NEW UTRECHT AVENUE,', 142
+'Address', '237 COLONIAL AVE,', 640
+'Address', '82-37 259TH STREET,', 640
+'Address', '366 BRADFORD AVENUE,', 640
+'Address', '10 BEACH STREET,', 640
+'Address', '163-52 20TH AVENUE,', 464
+'Address', '3909 13TH AVE  SUITE 205,', 161
+'Address', '2-15 147TH STREET,', 639
+'Address', '8660 Palo Alto St,', 1
+'Address', 'P.O. BOX 445,', 640
+'Address', '772 DEER PARK AVENUE,', 640
+'Address', '1384 BROADWAY, 7TH FLOOR,', 574
+'Address', '41-41 76TH STREET, SUITE 4E,', 640
+'Address', 'PO BOX 240,', 640
+'Address', '1593 GATES AVE,', 640
+'Address', '11 VREELAND AVENUE,', 640
+'Address', '111-49 LEFFERTS BLVD,', 585
+'Address', '272 CARTERET STREET,', 640
+'Address', '109 NANCY STREET,', 490
+'Address', '166-08 69TH AVENUE,', 640
+'Address', '44 ELMBANK STREET,', 640
+'Address', '47 CLUB POINTE DRIVE,', 503
+'Address', '1201 37TH AVENUE,', 276
+'Address', '102-15 103RD AVE,', 640
+'Address', '47 CHURCH STREET,', 339
+'Address', '30 LEDYARD PL.,', 109
+'Address', '34 IRVINGTON ST.,', 640
+'Address', '35 FAIRMOUNT TERRACE,', 640
+'Address', '325 VAN NAME AVENUE,', 490
+'Address', 'P.O. BOX 508,', 640
+'Address', '2150 WESTPHALIA ROAD,', 511
+'Address', '49 HANSE AVENUE,', 640
+'Address', '1231 LAFAYETTE AVE, 2ND FLOOR # 27,', 32
+'Address', '50 DEPPE PL,', 68
+'Address', '2302 AVE T,', 640
+'Address', '124 COLIGNI AVE.,', 640
+'Address', '5 VISTA LANE,', 640
+'Address', '1022 43RD STREET,', 640
+'Address', '94-43 LEFFERTS BLVD.,', 633
+'Address', '438 6th Street,', 437
+'Address', '5 W. MAIN STREET SUITE 103,', 424
+'Address', '53 CHURCHILL LANE,', 250
+'Address', '274 MORNINGSTAR ROAD,', 640
+'Address', '37-17 111TH STREET   1F,', 640
+'Address', '1475 E 222Nd St,', 154
+'Address', '301 STIRLING ROAD,', 640
+'Address', '3001 RT 130 SOUTH APT 39G,', 450
+'Address', '71-40 71ST PLACE,', 640
+'Address', '555 SAW MILL RIVER RD,', 640
+'Address', '36-09 MAIN STREET, SUITE 9C2,', 426
+'Address', '5903 18TH AVENUE #44,', 374
+'Address', '63-33 72ND ST.,,', 640
+'Address', '1813 58TH STREET,', 640
+'Address', '3312 HUDSON AVE #11A,', 512
+'Address', '98 VAN DYKE STREET,', 640
+'Address', '244 Skillman Ave,', 640
+'Address', '136 CROWELL AVENUE,', 640
+'Address', '554 FAIRVIEW AVE,', 640
+'Address', '3341 EASTCHESTER ROAD,', 640
+'Address', '5904 18TH AVENUE #44,', 266
+'Address', '87 - 29 78 STREET,', 640
+'Address', '234 E 3RD STREET,', 640
+'Address', '396 KENT AVENUE,', 145
+'Address', '800 SOUTH COLUMBUS AVENUE,', 898
+'Address', '275 Chestnut St, APT. 3,', 109
+'Address', '81 ROCKDALE AVENUE,', 640
+'Address', '2615 Th St,', 150
+'Address', '125 LAKE AVENUE,', 203
+'Address', '32-37 62ND STREET, 2 FL,', 550
+'Address', '10 POWERHOUSE ROAD,', 471
+'Address', '51 JAMES STREET,', 392
+'Address', '188-16 WOODHULL AVE,', 325
+'Address', '21 BENTLEY LANE,', 54
+'Address', '217 OCEANVIEW AVENUE,', 572
+'Address', 'P.O. BOX 160,', 640
+'Address', '141 COEYMAN AVENUE,', 640
+'Address', '2239 BENSON AVENUE,', 640
+'Address', '100-02 ATLANTIC AVE,', 229
+'Address', '149-68 BEECH AVENUE,', 640
+'Address', '18-27 41 Street,', 184
+'Address', '22 OCEAN AVENUE,', 640
+'Address', '254 56TH ST. #1,', 640
+'Address', 'P.O. BOX 570433,', 640
+'Address', '802 AVE. U, APT. 3D,', 640
+'Address', '1050 ROCKAWAY AVENUE,', 640
+'Address', '149 CENTRE STREET 2FL,', 640
+'Address', '134-40 59 AVENUE 3RD FL.,', 299
+'Address', '86 SYLVAN PLACE,', 573
+'Address', '11 COMMERCIAL STREET,', 332
+'Address', '257 WARBURTON AVENUE APT. BASEMENT,', 386
+'Address', '6808 13TH AVENUE 1F,', 337
+'Address', '143 PROSPECT AVENUE,', 338
+'Address', '2 MORICHES MIDDLE ISLAND ROAD,', 640
+'Address', '280 MEREDITH AVENUE BUILDING E,', 640
+'Address', '1232 FLATBUSH AVENUE #1,', 640
+'Address', '17 - 12 147TH STREET,', 640
+'Address', '4163 71St St,', 640
+'Address', '128 ROSELLE STREET,', 541
+'Address', '100 SOUTH BRIDGE ST,', 68
+'Address', '8723 132ND STREET,', 640
+'Address', '158-28 77TH STREET,', 562
+'Address', '864 FRANKLIN AVENUE,', 503
+'Address', '254 43RD STREET,', 491
+'Address', 'P.O.BOX 1946,', 189
+'Address', '90-11 160TH STREET SUITE 100,', 640
+'Address', '31 GARDEN LA, PO Box 9013,', 640
+'Address', '238 LONGSTREET AVENUE,', 340
+'Address', '90-71 198TH STREET,', 640
+'Address', '520 OLD COUNTRY ROAD,', 640
+'Address', '34 Rankin St,', 87
+'Address', '1 VIRGINIA LANE,', 640
+'Address', '2002 MCDONALD AVENUE,', 92
+'Address', '3915 PROVOST AVENUE,', 22
+'Address', '64-05 34TH AVE,', 640
+'Address', '743 NOSTRAND AVENUE,', 640
+'Address', '332 LACONIA AVENUE,', 91
+'Address', '137-28 133 AVENUE,', 325
+'Address', '880 EAST 141ST STREET,', 640
+'Address', '1332 Commerce Ave,', 640
+'Address', '25 MAPLE ROAD,', 381
+'Address', '31-69 23RD STREET,', 534
+'Address', '58-08 48TH STREET,', 640
+'Address', '151-43 21 AVENUE,', 640
+'Address', '38 STRINGHAM AVENUE,', 640
+'Address', '28 MASON STREET,', 276
+'Address', '220 MADISON AVENUE,', 640
+'Address', '171 VIRGINIA AVE,', 640
+'Address', '182 CALCUTTA STREET,', 640
+'Address', '127 WILLOW AVENUE,', 640
+'Address', '170 MOORE STREET,', 866
+'Address', '4901 GRAND AVENUE,', 640
+'Address', 'PO BOX 872,', 640
+'Address', '118-17 97TH AVE,', 640
+'Address', '8217-24TH AVENUE,', 640
+'Address', '317 SPRAGUE ROAD,', 299
+'Address', '154-14 28TH AVENUE,', 640
+'Address', '16 CROWELL AVE,', 640
+'Address', '146-46 229 STREET,', 168
+'Address', '321 FORT LEE ROAD,', 640
+'Address', '223 WALL STREET #176,', 404
+'Address', '7104 AVENUE W,', 569
+'Address', '54 KINKEL STREET,', 371
+'Address', '74 ACADEMY STREET,', 361
+'Address', '19 LOVELAND ST FL 2,', 73
+'Address', '12 GRUBER DRIVE,', 640
+'Address', '505 HOLLOW ROAD,', 640
+'Address', '53-74  63 STREET,', 640
+'Address', '1123 BRONX RIVER AVENUE,', 640
+'Address', '922 EAST TH STREET,', 59
+'Address', '182 JOHN STREET,', 468
+'Address', '510 BROADHOLLOW ROAD STE. 110,', 245
+'Address', '51 E 125TH STREET, 3RD FLOOR,', 640
+'Address', 'PO BOX 30315,', 320
+'Address', '180 9TH STREET,', 640
+'Address', '81 PONDFIELD ROAD SUITE 220,', 640
+'Address', '11442 122ND STREET,', 640
+'Address', '809 STEWART AVENUE,', 640
+'Address', '54-08 VERNON BLVD,', 339
+'Address', '2074 Richmond Ter,', 118
+'Address', '3 ALSTON PLACE,', 640
+'Address', '1994 CLINTON AVENUE #B,', 640
+'Address', '758 EAST 98 STREET,', 640
+'Address', 'P.O. BOX 3013,', 640
+'Address', '37-16 UTOPIA PKWY,', 622
+'Address', '476 LAKE STREET,', 481
+'Address', '9-11 CARLETON AVENUE,', 411
+'Address', '707 HYLAND BLVD,', 140
+'Address', '30-61 23RD STREET,', 640
+'Address', '366 INDUSTRIAL LOOP,', 625
+'Address', '87 - 29 135TH STREET,', 640
+'Address', '4233 ARTHUR KILL ROAD SUITE 2B,', 640
+'Address', '40 DALE STREET,', 640
+'Address', '25-06 ATLANTIC AVENUE,', 640
+'Address', '1488 Deer Park Ave,', 41
+'Address', '1806 Newark Tpke,', 640
+'Address', '29-10  120TH STREET,', 640
+'Address', 'P.O. BOX 97,', 529
+'Address', '1315 C STREET,', 268
+'Address', '51 TANNERS ROAD,', 253
+'Address', '1108 CYPRESS AVENUE,', 640
+'Address', '37 New Dorp Plz N,', 640
+'Address', '40 S. MERRICK ROAD,', 409
+'Address', '53 SCOTT AVE,', 640
+'Address', '340 S. RIVER STREET,', 640
+'Address', '150-20 24TH AVENUE,', 562
+'Address', '1141 Oakpoint Ave,', 640
+'Address', '1750 NEW HIGHWAY,', 640
+'Address', '38-70 REVIEW AVENUE,', 224
+'Address', '589 JOHNSON AVENUE,', 640
+'Address', '47-01 35TH STREET,', 381
+'Address', '97-23 84TH STREET,', 554
+'Address', '72-81 113TH STREET 7Z,', 535
+'Address', '1650 DAHILL ROAD,', 396
+'Address', '581 MAIN ST.  SUITE 640,', 512
+'Address', '86 LAURELWOOD CT.,', 471
+'Address', '118 ARMSTRONG AVENUE,', 162
+'Address', '103-22 101 STREET,', 259
+'Address', '57-00 47 TH STREET,', 152
+'Address', 'PO BOX 84,', 640
+'Address', '811 BEVERLEY RD 2R,', 640
+'Address', '150 WEST 22ND STREET,', 378
+'Address', '79-81 77TH AVENUE,', 531
+'Address', '82-35 188 STREET,', 299
+'Address', '515 Brush Ave,', 640
+'Address', '2867 CROPSEY AVENUE 1ST FL,', 640
+'Address', 'P.O. BOX 214,', 601
+'Address', '40 AUSTIN BLVD,', 468
+'Address', '241 LEONARD STREET,', 268
+'Address', '2481 86TH STREET 2ND FLOOR,', 50
+'Address', '2 Noble St,', 512
+'Address', '395C RIDGE RD,', 281
+'Address', '3247 62ND STREET,', 640
+'Address', '16 GRAND AVENUE,', 640
+'Address', '1470 BRUCKNER BLVD,', 640
+'Address', '35-50 168TH STREET,', 640
+'Address', '18-28 126 STREET,', 637
+'Address', '152-12 12TH RD,', 640
+'Address', '27 OAKWOOD AVE,', 450
+'Address', '49-11 31ST STREET,', 431
+'Address', '1163-50TH STREET,', 640
+'Address', '2920 CONEY ISLAND AVE,', 640
+'Address', '13506 Foch Blvd,', 640
+'Address', '168 RAVENHURST AVENUE,', 640
+'Address', '16 Concord Place,', 640
+'Address', '967 E Gun Hill Rd,', 640
+'Address', '47 ILYSE CT,', 568
+'Address', '1919 24th AVE  APT. R412,', 205
+'Address', '58-51 78TH AVENUE,', 313
+'Address', '11 FAIRMONT DR.,', 640
+'Address', '4509 PARK AVENUE,', 640
+'Address', '19-53 46Th St,', 640
+'Address', '259 WYTHE AVE.,', 330
+'Address', '33 N 13TH STREET,', 640
+'Address', '2300 EAST 69 STREET,', 640
+'Address', '3817 POPLAR AVENUE,', 640
+'Address', '334 Faile St,', 640
+'Address', '285 Lombardy St,', 640
+'Address', '120 WEST PULASKI ROAD,', 558
+'Address', '57 HUDSON AVENUE SUIT 3,', 640
+'Address', '24-21 STEINWAY STREET,', 552
+'Address', '47 ASH STREET,', 544
+'Address', '1045 Richford Ter,', 640
+'Address', '3842 HARLEM RD,', 640
+'Address', '5 CLARKE ST,', 450
+'Address', '287 MASPETH AVENUE,', 640
+'Address', '4  HILLMONT TERR,', 640
+'Address', '38 ALBOURNE AVENUE EAST,', 219
+'Address', '8849 81ST ROAD,', 359
+'Address', '335 CALYER STREET,', 8
+'Address', '95-11 147 PLACE,', 1280
+'Address', '476 NORTH 6TH ST,', 87
+'Address', '911 CARLETON AVENUE,', 220
+'Address', '2 VICTOR STREET,', 640
+'Address', 'P.O. BOX 461,', 612
+'Address', '4 O'NEILL AVENUE,', 640
+'Address', '34 Everit Avenue,', 150
+'Address', '85-32 131 STREET APT 1B,', 640
+'Address', '2197 CLOVE RD,', 640
+'Address', '457 6TH STREET,', 66
+'Address', '30 ALICE LANE,', 633
+'Address', '695 DAHLIA ROAD,', 618
+'Address', '1602 CASTLETON AVENUE,', 394
+'Address', '1702 WEST 1ST STREET C10,', 640
+'Address', '127-36 NORTHERN BOULEVARD,', 558
+'Address', '21 Village Grn, APT. C,', 219
+'Address', '144-47 27 AVE.,', 640
+'Address', 'P.O. BOX 75,', 554
+'Address', '69 WEST SECOND STREET,', 640
+'Address', '26-35 202ND STREET,', 640
+'Address', '14 POINT CRESCENT,', 622
+'Address', '11 FERRY STREET,', 566
+'Address', '510 EAGLE AVE.,', 640
+'Address', '298 BROOME STREET,', 640
+'Address', '39-43 PORETE AVE,', 640
+'Address', '18 DIVISION PLACE,', 640
+'Address', '1447 66TH STREET,', 459
+'Address', '96 N.  New Prospect Road,', 312
+'Address', '23-02 169TH STREET,', 124
+'Address', '133-01 122ND,', 42
+'Address', '66 CLARK ROAD,', 637
+'Address', '109 COVINGTON CIRCLE,', 607
+'Address', '5808 BROWN PLACE,', 479

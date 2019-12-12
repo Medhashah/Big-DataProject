@@ -1,0 +1,1 @@
+{"column name": "Provider_First_Name", "semantic_types": [{"semantic_type": "person_name", "count": 1842}, {"semantic_type": "city", "count": 84}, {"semantic_type": "car_make", "count": 2}, {"semantic_type": "borough", "count": 1}], "true_type": "person_name", "prediction_type": "person_name"}

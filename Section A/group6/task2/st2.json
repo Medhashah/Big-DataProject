@@ -1,0 +1,140 @@
+{
+    "Address": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Areas of study": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Borough": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Building Classification": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Business name": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Car make": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "City": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "City agency": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Color": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "LAT/LON coordinates": [
+        {
+            "precision": 66.66666666666666, 
+            "recall": 90.9090909090909
+        }
+    ], 
+    "Neighborhood": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Other": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Parks/Playgrounds": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Person name": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Phone Number": [
+        {
+            "precision": 52.38095238095239, 
+            "recall": 91.66666666666666
+        }
+    ], 
+    "School Levels": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "School name": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Street name": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Subjects in school": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Type of location": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Vehicle Type": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Websites": [
+        {
+            "precision": 0, 
+            "recall": 0
+        }
+    ], 
+    "Zip code": [
+        {
+            "precision": 32.0, 
+            "recall": 88.88888888888889
+        }
+    ]
+}

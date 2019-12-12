@@ -1,0 +1,7 @@
+Command to run the semantic_profiling.py
+
+./test.sh semantic_profiling.py folder-name number-of-datasets-to-process
+
+eg.
+
+./test.sh semantic_profiling.py /user/hm74/NYCCoulmns 274

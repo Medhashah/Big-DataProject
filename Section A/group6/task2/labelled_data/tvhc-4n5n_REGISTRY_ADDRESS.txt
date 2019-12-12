@@ -1,0 +1,4104 @@
+'Address', '526 9 AVENUE', 2
+'Address', '1570 SOUTHERN BOULEVARD', 1
+'Address', '161-10 JAMAICA AVENUE', 1
+'Address', '3423 CHURCH AVENUE', 1
+'Address', '2 EAST 48 STREET', 2
+'Address', '280 EAST 2 STREET', 1
+'Address', '801 9 AVENUE', 2
+'Address', '421 AUDUBON AVENUE', 1
+'Address', '1701 KINGS HIGHWAY', 3
+'Address', '57-16 MYRTLE AVENUE', 1
+'Address', '380 MADISON AVENUE', 1
+'Address', '4223 AVENUE S', 1
+'Address', '19 EAST 43 STREET', 2
+'Address', '41-13 50 STREET', 1
+'Address', '1804 STILLWELL AVENUE', 1
+'Address', '1504 LEXINGTON AVENUE', 1
+'Address', '289 GRAND STREET', 1
+'Address', '1410 BROADWAY', 1
+'Address', '139-29 HILLSIDE AVENUE', 1
+'Address', '59 SHERMAN AVENUE', 1
+'Address', '4420 BROADWAY', 1
+'Address', '370 9 AVENUE', 1
+'Address', '78 LEE AVENUE', 1
+'Address', '2755 BROADWAY', 1
+'Address', '115-10 LIBERTY AVENUE', 1
+'Address', '88-40 SUTPHIN BOULEVARD', 1
+'Address', '4240 BROADWAY', 2
+'Address', '3020 BUHRE AVENUE', 1
+'Address', '1478 WESTCHESTER AVENUE', 1
+'Address', '449 WILSON AVENUE', 1
+'Address', '246 NAGLE AVENUE', 1
+'Address', '149 GRAND STREET', 2
+'Address', '664 12 AVENUE', 1
+'Address', '74 EAST 42 STREET', 2
+'Address', '120 LAFAYETTE STREET', 2
+'Address', '4301 14 AVENUE', 1
+'Address', '101 WEST 126 STREET', 1
+'Address', '7204 13 AVENUE', 1
+'Address', '157-01 CROSS BAY BOULEVARD', 1
+'Address', '1527 SURF AVENUE', 1
+'Address', '710 RIVERSIDE DRIVE', 1
+'Address', '1502 NOSTRAND AVENUE', 1
+'Address', '201 EAST 71 STREET', 1
+'Address', '2444 8 AVENUE', 1
+'Address', '436 12 AVENUE', 1
+'Address', '121 GRAND STREET', 1
+'Address', '97 MOTT STREET', 2
+'Address', '473 MYRTLE AVENUE', 1
+'Address', '231 LAFAYETTE STREET', 1
+'Address', '171-08 JAMAICA AVENUE', 1
+'Address', '2402 RALPH AVENUE', 1
+'Address', '100 5 AVENUE', 2
+'Address', '346 SCHENECTADY AVENUE', 1
+'Address', '278 BAY RIDGE PARKWAY', 2
+'Address', '146 WEST HOUSTON STREET', 1
+'Address', '500 AUDUBON AVENUE', 2
+'Address', '153 LAWRENCE STREET', 2
+'Address', '4399 WHITE PLAINS ROAD', 1
+'Address', '37-05 JUNCTION BOULEVARD', 2
+'Address', '101-02 88 STREET', 1
+'Address', '120-13 LIBERTY AVENUE', 2
+'Address', '1186 BROADWAY', 1
+'Address', '123-36 ROCKAWAY BOULEVARD', 1
+'Address', '100 WASHINGTON PLACE', 1
+'Address', '210 NEPTUNE AVENUE', 1
+'Address', '2172 CROTONA AVENUE', 1
+'Address', '2416 AMSTERDAM AVENUE', 1
+'Address', '61-16 188 STREET', 1
+'Address', '329 2 AVENUE', 1
+'Address', '6422 18 AVENUE', 1
+'Address', '104-01 LEFFERTS BOULEVARD', 1
+'Address', '77-18 101 AVENUE', 1
+'Address', '248 EAST 45 STREET', 1
+'Address', '4405 5 AVENUE', 1
+'Address', '410 EAST 106 STREET', 1
+'Address', '342 WEST STREET', 2
+'Address', '243-04 MERRICK BOULEVARD', 1
+'Address', '1602 AVENUE J', 1
+'Address', '331 WEST BROADWAY', 2
+'Address', '15-01 COLLEGE POINT BOULEVARD', 1
+'Address', '636 WEST 41 STREET', 1
+'Address', '30 EAST 62 STREET', 2
+'Address', '22 WEST 28 STREET', 1
+'Address', '521 OCEAN AVENUE', 1
+'Address', '4902 FT HAMILTON PARKWAY', 1
+'Address', '1106 2 AVENUE', 2
+'Address', '2902 CLARENDON ROAD', 1
+'Address', '60-36 MYRTLE AVENUE', 1
+'Address', '828 MANHATTAN AVENUE', 1
+'Address', '2400 AMSTERDAM AVENUE', 1
+'Address', '69-10 164 STREET', 1
+'Address', '3500 WHITE PLAINS ROAD', 1
+'Address', '111 8 AVENUE', 4
+'Address', '401 1 AVENUE', 2
+'Address', '548 EAST 180 STREET', 1
+'Address', '148-03 ROCKAWAY BOULEVARD', 1
+'Address', '761 BROADWAY', 1
+'Address', '117-02 JAMAICA AVENUE', 1
+'Address', '719 10 AVENUE', 2
+'Address', '1172 MANOR AVENUE', 1
+'Address', '250-01 NORTHERN BOULEVARD', 1
+'Address', '31 SOUTH STREET', 1
+'Address', '2236 5 AVENUE', 1
+'Address', '616 FLATBUSH AVENUE', 2
+'Address', '1 PROSPECT PARK SOUTHWEST', 1
+'Address', '29 EAST 74 STREET', 1
+'Address', '4124 5 AVENUE', 1
+'Address', '126 9 AVENUE', 1
+'Address', '264 EAST 204 STREET', 1
+'Address', '270 MADISON AVENUE', 2
+'Address', '860 BROADWAY', 2
+'Address', '581 6 AVENUE', 1
+'Address', '271 AVENUE U', 1
+'Address', '419 PARK AVENUE SOUTH', 1
+'Address', '3656 BAILEY AVENUE', 1
+'Address', '2 WEST 43 STREET', 4
+'Address', '1540 1 AVENUE', 2
+'Address', '442 6 AVENUE', 1
+'Address', '350 EAST 17 STREET', 1
+'Address', '88 PERRY STREET', 1
+'Address', '501 EAST 77 STREET', 1
+'Address', '893 9 AVENUE', 1
+'Address', '2035 1 AVENUE', 1
+'Address', '1359 FOREST AVENUE', 1
+'Address', '113 WEST 39 STREET', 2
+'Address', '253-25 NORTHERN BOULEVARD', 1
+'Address', '2708 AVENUE U', 1
+'Address', '220 CHURCH STREET', 1
+'Address', '576 WEST 207 STREET', 2
+'Address', '100 EAST 29 STREET', 1
+'Address', '1 GALLATIN PLACE', 3
+'Address', '260 BLEECKER STREET', 1
+'Address', '11 EAST 21 STREET', 1
+'Address', '251-71 JAMAICA AVENUE', 1
+'Address', '819 MANOR ROAD', 1
+'Address', '153 EAST 96 STREET', 1
+'Address', '1225 FULTON STREET', 1
+'Address', '804 COLUMBUS AVENUE', 1
+'Address', '411 1 AVENUE', 2
+'Address', '1540 MADISON AVENUE', 1
+'Address', '2537 MARION AVENUE', 1
+'Address', '1805 AVENUE U', 1
+'Address', '126-06 QUEENS BOULEVARD', 1
+'Address', '100 KING STREET', 1
+'Address', '139-43 HILLSIDE AVENUE', 1
+'Address', '466 FT WASHINGTON AVENUE', 1
+'Address', '600 EAST 187 STREET', 2
+'Address', '155-10 CROSS BAY BOULEVARD', 1
+'Address', '603 WEST 57 STREET', 1
+'Address', '111-29 QUEENS BOULEVARD', 1
+'Address', '1432 6 AVENUE', 1
+'Address', '601 8 AVENUE', 1
+'Address', '26 COURT STREET', 2
+'Address', '54 AVENUE C', 1
+'Address', '444 MADISON AVENUE', 2
+'Address', '170 EAST 46 STREET', 2
+'Address', '747 NEW LOTS AVENUE', 1
+'Address', '787 8 AVENUE', 2
+'Address', '7101 FT HAMILTON PARKWAY', 1
+'Address', '460 CROSS BRONX EXPRESSWAY', 1
+'Address', '4224 12 AVENUE', 1
+'Address', '1948 86 STREET', 1
+'Address', '747 NEW YORK AVENUE', 1
+'Address', '32 MERCER STREET', 1
+'Address', '1876 WILLIAMSBRIDGE ROAD', 1
+'Address', '2937 WESTCHESTER AVENUE', 1
+'Address', '81 WEST 49 STREET', 1
+'Address', '43-02 NATIONAL STREET', 1
+'Address', '2101 MADISON AVENUE', 1
+'Address', '19 MURRAY STREET', 1
+'Address', '45 WALL STREET', 1
+'Address', '222-17 HEMPSTEAD AVENUE', 1
+'Address', '2274 MCDONALD AVENUE', 1
+'Address', '43-02 BELL BOULEVARD', 2
+'Address', '81 EAST 49 STREET', 2
+'Address', '809 SOUTHERN BOULEVARD', 1
+'Address', '224 CANAL STREET', 1
+'Address', '871 8 AVENUE', 1
+'Address', '145 ALLEN STREET', 1
+'Address', '2379 BROADWAY', 2
+'Address', '1463 2 AVENUE', 1
+'Address', '3975A AMBOY ROAD', 2
+'Address', '630 WEST 173 STREET', 1
+'Address', '608 11 AVENUE', 1
+'Address', '57-22 MYRTLE AVENUE', 1
+'Address', '1666 1 AVENUE', 1
+'Address', '3602 14 AVENUE', 1
+'Address', '1372 EDWARD L GRANT HIGHWAY', 1
+'Address', '575 WEST 159 STREET', 1
+'Address', '6094 FLATLANDS AVENUE', 1
+'Address', '100-23 QUEENS BOULEVARD', 1
+'Address', '37-41 JUNCTION BOULEVARD', 1
+'Address', '152 WEST 36 STREET', 1
+'Address', '337 3 AVENUE', 1
+'Address', '139-65 QUEENS BOULEVARD', 1
+'Address', '210 WEST 49 STREET', 2
+'Address', '704 FLATBUSH AVENUE', 1
+'Address', '113-19 LIBERTY AVENUE', 1
+'Address', '145 LAFAYETTE STREET', 2
+'Address', '126 GRAHAM AVENUE', 1
+'Address', '190 WEST BROADWAY', 1
+'Address', '113 WATER STREET', 1
+'Address', '361 WEST 29 STREET', 1
+'Address', '2283 2 AVENUE', 1
+'Address', '215-19 NORTHERN BOULEVARD', 1
+'Address', '206 3 AVENUE', 1
+'Address', '4840 BROADWAY', 1
+'Address', '199 WEST 50 STREET', 2
+'Address', '1250 AVENUE U', 1
+'Address', '133-45 41 ROAD', 1
+'Address', '359 GRAHAM AVENUE', 1
+'Address', '457 KNICKERBOCKER AVENUE', 1
+'Address', '9425 3 AVENUE', 1
+'Address', '110 WEST 40 STREET', 2
+'Address', '5218 8 AVENUE', 1
+'Address', '560 LENOX AVENUE', 1
+'Address', '3080 BRIGHTON 5 STREET', 1
+'Address', '340 STERLING PLACE', 1
+'Address', '200 WEST 79 STREET', 2
+'Address', '126 EAST 39 STREET', 2
+'Address', '1256 EAST 53 STREET', 1
+'Address', '284 MADISON AVENUE', 1
+'Address', '427 10 AVENUE', 2
+'Address', '104-20 QUEENS BOULEVARD', 1
+'Address', '464 CLINTON AVENUE', 1
+'Address', '46-00 - 46-98 48 STREET', 1
+'Address', '300 EAST 96 STREET', 2
+'Address', '23-01 31 STREET', 1
+'Address', '47-50 VAN DAM STREET', 1
+'Address', '4080 BROADWAY', 1
+'Address', '44-03 KISSENA BOULEVARD', 2
+'Address', '721 COLUMBUS AVENUE', 2
+'Address', '168 NAGLE AVENUE', 1
+'Address', '446 UTICA AVENUE', 1
+'Address', '371 NEW LOTS AVENUE', 1
+'Address', '42-01 BOWNE STREET', 1
+'Address', '1588 ROCKAWAY PARKWAY', 1
+'Address', '204 WEST 4 STREET', 2
+'Address', '4050 WHITE PLAINS ROAD', 1
+'Address', '188-07 UNION TURNPIKE', 1
+'Address', '24 WEST 56 STREET', 1
+'Address', '129 EAST 45 STREET', 1
+'Address', '1501 SURF AVENUE', 1
+'Address', '119-22 101 AVENUE', 1
+'Address', '250 EAST 90 STREET', 1
+'Address', '254-09 HORACE HARDING EXPRESSWAY', 3
+'Address', '501 WEST 58 STREET', 1
+'Address', '3859 BROADWAY', 2
+'Address', '72-32 AUSTIN STREET', 1
+'Address', '120 EAST 89 STREET', 2
+'Address', '297 10 AVENUE', 1
+'Address', '234 EAST GUN HILL ROAD', 1
+'Address', '104 EAST 56 STREET', 1
+'Address', '500 EAST 71 STREET', 1
+'Address', '526 WEST 166 STREET', 1
+'Address', '1476 PITKIN AVENUE', 1
+'Address', '69-30 QUEENS BOULEVARD', 1
+'Address', '1021 ROCKAWAY AVENUE', 1
+'Address', '187-12 HILLSIDE AVENUE', 1
+'Address', '343 WEST 23 STREET', 1
+'Address', '782 MANHATTAN AVENUE', 1
+'Address', '1644 BATH AVENUE', 1
+'Address', '2145 WHITE PLAINS ROAD', 2
+'Address', '499 RIVERDALE AVENUE', 1
+'Address', '87-05 ROOSEVELT AVENUE', 1
+'Address', '96-01 ALBERT ROAD', 1
+'Address', '155 EAST BROADWAY', 1
+'Address', '602 AMSTERDAM AVENUE', 1
+'Address', '2 EAST 42 STREET', 2
+'Address', '2123 BOSTON ROAD', 1
+'Address', '1560 2 AVENUE', 2
+'Address', '88 BROAD STREET', 3
+'Address', '223 SHERMAN AVENUE', 1
+'Address', '798 4 AVENUE', 1
+'Address', '253 EAST 167 STREET', 1
+'Address', '26 EAST 75 STREET', 2
+'Address', '27 EAST 15 STREET', 1
+'Address', '491 EAST 169 STREET', 1
+'Address', '518 COLUMBUS AVENUE', 1
+'Address', '101 EAST 58 STREET', 2
+'Address', '380 KNICKERBOCKER AVENUE', 2
+'Address', '683 9 AVENUE', 2
+'Address', '2 EAST 29 STREET', 1
+'Address', '91-01 37 AVENUE', 1
+'Address', '242 WEST 31 STREET', 2
+'Address', '123-02 SUTPHIN BOULEVARD', 1
+'Address', '314 9 AVENUE', 1
+'Address', '901 2 AVENUE', 2
+'Address', '35 IRVING PLACE', 1
+'Address', '285 FT WASHINGTON AVENUE', 1
+'Address', '133 EAST GUN HILL ROAD', 1
+'Address', '661 AMSTERDAM AVENUE', 2
+'Address', '861 EAST 180 STREET', 1
+'Address', '17 EAST 69 STREET', 1
+'Address', '4223 8 AVENUE', 1
+'Address', '2 MURRAY STREET', 1
+'Address', '1379 6 AVENUE', 1
+'Address', '196 WEST 66 STREET', 1
+'Address', '100 WEST 51 STREET', 2
+'Address', '209-09 NORTHERN BOULEVARD', 1
+'Address', '201 EAST 47 STREET', 2
+'Address', '135 EAST 23 STREET', 2
+'Address', '100-89 76 STREET', 1
+'Address', '2 EAST 41 STREET', 2
+'Address', '199-10 HOLLIS AVENUE', 1
+'Address', '1221 ST NICHOLAS AVENUE', 1
+'Address', '2441 ADAM CLAYTON POWELL JR BOULEVARD', 2
+'Address', '2075 GRAND CONCOURSE', 2
+'Address', '1381 MYRTLE AVENUE', 1
+'Address', '1603 SHEEPSHEAD BAY ROAD', 2
+'Address', '87-28 57 AVENUE', 1
+'Address', '98-01 NORTHERN BOULEVARD', 1
+'Address', '2450 CRESTON AVENUE', 1
+'Address', '335 7 AVENUE', 1
+'Address', '47-15 47 AVENUE', 1
+'Address', '132 7 AVENUE', 1
+'Address', '1572 WHITE PLAINS ROAD', 1
+'Address', '4402 5 AVENUE', 1
+'Address', '199 KINGS HIGHWAY', 1
+'Address', '98-76 QUEENS BOULEVARD', 1
+'Address', '1209 CASTLE HILL AVENUE', 1
+'Address', '22-04 31 STREET', 2
+'Address', '44-09 47 AVENUE', 1
+'Address', '142-02 LINDEN BOULEVARD', 1
+'Address', '352 EAST 105 STREET', 1
+'Address', '2 EAST 37 STREET', 2
+'Address', '51-10 30 AVENUE', 1
+'Address', '41-02 30 AVENUE', 1
+'Address', '73-01 AUSTIN STREET', 1
+'Address', '144-31 FARMERS BOULEVARD', 1
+'Address', '8321 3 AVENUE', 1
+'Address', '164-14 JAMAICA AVENUE', 1
+'Address', '320 WEST 31 STREET', 1
+'Address', '116 HAVEMEYER STREET', 1
+'Address', '54 MORNINGSIDE AVENUE', 1
+'Address', '462 6 AVENUE', 1
+'Address', '301 AUDUBON AVENUE', 1
+'Address', '25 WEST FORDHAM ROAD', 2
+'Address', '54 WEST 74 STREET', 1
+'Address', '214-11 NORTHERN BOULEVARD', 1
+'Address', '127 EAST 88 STREET', 2
+'Address', '160 WADSWORTH AVENUE', 2
+'Address', '8721 5 AVENUE', 1
+'Address', '195-25 JAMAICA AVENUE', 1
+'Address', '95-60 QUEENS BOULEVARD', 2
+'Address', '2905 AVENUE U', 1
+'Address', '969 COLUMBUS AVENUE', 1
+'Address', '1525 EAST GUN HILL ROAD', 1
+'Address', '192-08 JAMAICA AVENUE', 1
+'Address', '472 MC DONALD AVENUE', 1
+'Address', '38 EAST 77 STREET', 1
+'Address', '2208 WHITE PLAINS ROAD', 1
+'Address', '4814 KINGS HIGHWAY', 1
+'Address', '118-21 QUEENS BOULEVARD', 2
+'Address', '1869 FLATBUSH AVENUE', 1
+'Address', '140 WEST 55 STREET', 1
+'Address', '71 CHAMBERS STREET', 1
+'Address', '33 FT WASHINGTON AVENUE', 1
+'Address', '92-01 UNION HALL STREET', 4
+'Address', '250 WEST 84 STREET', 2
+'Address', '271 DIVISION AVENUE', 1
+'Address', '1076 NEW YORK AVENUE', 2
+'Address', '400 CATHEDRAL PARKWAY', 1
+'Address', '106-19 71 AVENUE', 3
+'Address', '2 WEST 20 STREET', 1
+'Address', '2726 BROADWAY', 1
+'Address', '77 EAST 10 STREET', 1
+'Address', '9122 3 AVENUE', 2
+'Address', '52 WEST 53 STREET', 1
+'Address', '1 WEST 19 STREET', 1
+'Address', '164-01 CROSS BAY BOULEVARD', 1
+'Address', '100 ST NICHOLAS AVENUE', 1
+'Address', '5902 FT HAMILTON PARKWAY', 1
+'Address', '705 BROADWAY', 1
+'Address', '265 WEST 19 STREET', 1
+'Address', '2749 HOMECREST AVENUE', 1
+'Address', '44-19 VERNON BOULEVARD', 1
+'Address', '24 EAST 18 STREET', 1
+'Address', '101 ROCHESTER AVENUE', 1
+'Address', '1651 EAST 16 STREET', 1
+'Address', '117-02 LIBERTY AVENUE', 1
+'Address', '205 BLEECKER STREET', 2
+'Address', '140 PENNSYLVANIA AVENUE', 1
+'Address', '110 5 AVENUE', 1
+'Address', '2297 CEDAR AVENUE', 1
+'Address', '60-02 KISSENA BOULEVARD', 1
+'Address', '364 WEST 22 STREET', 1
+'Address', '1572 PITKIN AVENUE', 1
+'Address', '495 1 AVENUE', 2
+'Address', '112-19 FARMERS BOULEVARD', 1
+'Address', '803 DUMONT AVENUE', 1
+'Address', '192 SANDS STREET', 1
+'Address', '4402 18 AVENUE', 1
+'Address', '2800 86 STREET', 1
+'Address', '9424 AVENUE L', 1
+'Address', '384 GRAHAM AVENUE', 2
+'Address', '2146 FOREST AVENUE', 1
+'Address', '47 EAST GUN HILL ROAD', 1
+'Address', '651 9 AVENUE', 1
+'Address', '220-06 NORTHERN BOULEVARD', 1
+'Address', '322 2 AVENUE', 1
+'Address', '1320 ST NICHOLAS AVENUE', 1
+'Address', '85-06 QUEENS BOULEVARD', 1
+'Address', '1 WEST 45 STREET', 2
+'Address', '89-01 QUEENS BOULEVARD', 1
+'Address', '104-27 QUEENS BOULEVARD', 1
+'Address', '955 AMSTERDAM AVENUE', 1
+'Address', '58-25 MYRTLE AVENUE', 1
+'Address', '1501 AVENUE M', 1
+'Address', '22 EAST 31 STREET', 1
+'Address', '173 WEST 48 STREET', 2
+'Address', '200 LEXINGTON AVENUE', 2
+'Address', '1901 KINGS HIGHWAY', 2
+'Address', '61-09 SPRINGFIELD BOULEVARD', 1
+'Address', '1865 BROADWAY', 1
+'Address', '12 EAST 36 STREET', 1
+'Address', '1640 ST NICHOLAS AVENUE', 1
+'Address', '1202 SURF AVENUE', 1
+'Address', '1425 63 STREET', 1
+'Address', '79-03 ROOSEVELT AVENUE', 1
+'Address', '116 5 AVENUE', 2
+'Address', '1664 FOREST AVENUE', 1
+'Address', '28-21 JACKSON AVENUE', 2
+'Address', '500 EAST 79 STREET', 2
+'Address', '887 BROADWAY', 1
+'Address', '73 WEST 23 STREET', 1
+'Address', '130 HAMILTON PLACE', 2
+'Address', '501 WEST 37 STREET', 1
+'Address', '1 HEGEMAN AVENUE', 1
+'Address', '614 WEST 120 STREET', 2
+'Address', '31-19 SEAGIRT BOULEVARD', 1
+'Address', '131 GRAND STREET', 1
+'Address', '414 WEST 36 STREET', 1
+'Address', '40-04 NATIONAL STREET', 2
+'Address', '233 UTICA AVENUE', 1
+'Address', '181-25 HILLSIDE AVENUE', 1
+'Address', '1728 MADISON AVENUE', 1
+'Address', '96 CHARLES STREET', 1
+'Address', '97-85 QUEENS BOULEVARD', 1
+'Address', '32-14 ASTORIA BLV SOUTH', 1
+'Address', '42-02 QUEENS BOULEVARD', 1
+'Address', '160-10 HILLSIDE AVENUE', 1
+'Address', '42 EAST 43 STREET', 2
+'Address', '1728 BROADWAY', 2
+'Address', '24 WEST 135 STREET', 1
+'Address', '273 TROY AVENUE', 1
+'Address', '221-26 HORACE HARDING EXPRESSWAY', 4
+'Address', '8024 18 AVENUE', 1
+'Address', '20 PIKE STREET', 1
+'Address', '1478 RALPH AVENUE', 1
+'Address', '415 BRIDGE STREET', 3
+'Address', '85-15 QUEENS BOULEVARD', 1
+'Address', '9401 CHURCH AVENUE', 1
+'Address', '317 EAST 181 STREET', 1
+'Address', '322 8 AVENUE', 1
+'Address', '267 5 AVENUE', 2
+'Address', '78 READE STREET', 1
+'Address', '1228 LEXINGTON AVENUE', 2
+'Address', '39-42 62 STREET', 1
+'Address', '8521 4 AVENUE', 1
+'Address', '4401 CHURCH AVENUE', 1
+'Address', '1970 RALPH AVENUE', 1
+'Address', '861 10 AVENUE', 2
+'Address', '107-34 71 AVENUE', 3
+'Address', '542 9 AVENUE', 2
+'Address', '1701 AVENUE Y', 1
+'Address', '251 SEELEY STREET', 1
+'Address', '3782 10 AVENUE', 1
+'Address', '35-04 DITMARS BOULEVARD', 2
+'Address', '100 EAST 60 STREET', 1
+'Address', '9006 CHURCH AVENUE', 1
+'Address', '79-65 METROPOLITAN AVENUE', 1
+'Address', '151 NAGLE AVENUE', 1
+'Address', '2131 BARNES AVENUE', 1
+'Address', '2700 EAST TREMONT AVENUE', 1
+'Address', '4500 BROADWAY', 1
+'Address', '468 4 AVENUE', 1
+'Address', '3005 STILLWELL AVENUE', 1
+'Address', '420 EAST 10 STREET', 1
+'Address', '198-05 MURDOCK AVENUE', 1
+'Address', '7414 3 AVENUE', 1
+'Address', '329 3 AVENUE', 1
+'Address', '177-03 UNION TURNPIKE', 1
+'Address', '56 1 AVENUE', 1
+'Address', '90 CHURCH STREET', 2
+'Address', '125 GRAND STREET', 1
+'Address', '2383 BROADWAY', 1
+'Address', '2759 ATLANTIC AVENUE', 1
+'Address', '27 WEST 28 STREET', 2
+'Address', '69-21 MYRTLE AVENUE', 1
+'Address', '4 EAST 15 STREET', 1
+'Address', '966 RUTLAND ROAD', 1
+'Address', '1240 PARK AVENUE', 1
+'Address', '1843 NOSTRAND AVENUE', 1
+'Address', '203-01 NORTHERN BOULEVARD', 1
+'Address', '184 CANAL STREET', 3
+'Address', '114-05 LIBERTY AVENUE', 1
+'Address', '257 1 AVENUE', 1
+'Address', '1537 BRUCKNER BOULEVARD', 1
+'Address', '154 EAST 41 STREET', 2
+'Address', '1 KING STREET', 1
+'Address', '5409 13 AVENUE', 1
+'Address', '77-53 VLEIGH PLACE', 1
+'Address', '37-09 24 AVENUE', 1
+'Address', '123 DYCKMAN STREET', 1
+'Address', '2134 LEXINGTON AVENUE', 1
+'Address', '82-17 153 AVENUE', 1
+'Address', '6423 18 AVENUE', 2
+'Address', '31 EAST 12 STREET', 2
+'Address', '218-28 MERRICK BOULEVARD', 1
+'Address', '57 WEST 57 STREET', 2
+'Address', '66 EAST 49 STREET', 2
+'Address', '122 EAST 87 STREET', 2
+'Address', '67 FRONT STREET', 1
+'Address', '40-08 104 STREET', 1
+'Address', '1 BAY 23 STREET', 1
+'Address', '277 5 AVENUE', 2
+'Address', '113 GREENWICH STREET', 1
+'Address', '78 ESSEX STREET', 1
+'Address', '460 PARK AVENUE SOUTH', 2
+'Address', '636 EAST 187 STREET', 1
+'Address', '192 LEXINGTON AVENUE', 1
+'Address', '2402 MERMAID AVENUE', 1
+'Address', '53 PARK PLACE', 1
+'Address', '2382 BROADWAY', 2
+'Address', '803 MORRIS PARK AVENUE', 1
+'Address', '523 WEST 181 STREET', 2
+'Address', '279 WEST 23 STREET', 1
+'Address', '711 BROADWAY', 1
+'Address', '879 9 AVENUE', 2
+'Address', '652 HUDSON STREET', 1
+'Address', '33-12 23 AVENUE', 1
+'Address', '4058 BROADWAY', 1
+'Address', '840 BROADWAY', 2
+'Address', '4081 BROADWAY', 1
+'Address', '28 TRINITY PLACE', 2
+'Address', '168-35 ROCKAWAY BOULEVARD', 1
+'Address', '8 WEST 81 STREET', 1
+'Address', '165 EAST BROADWAY', 2
+'Address', '604 9 AVENUE', 2
+'Address', '147-14 HILLSIDE AVENUE', 1
+'Address', '401 EAST 90 STREET', 1
+'Address', '204 PARK AVENUE SOUTH', 2
+'Address', '1329 HALSEY STREET', 1
+'Address', '735 6 AVENUE', 2
+'Address', '229-01 LINDEN BOULEVARD', 1
+'Address', '1042 WESTCHESTER AVENUE', 1
+'Address', '501 BRUCKNER BOULEVARD', 1
+'Address', '96-19 LIBERTY AVENUE', 1
+'Address', '134 EAST 25 STREET', 2
+'Address', '1409 MERMAID AVENUE', 1
+'Address', '214-21 JAMAICA AVENUE', 1
+'Address', '3915 BROADWAY', 2
+'Address', '134A EAST 62 STREET', 2
+'Address', '203 CHURCH AVENUE', 2
+'Address', '1395 NEW YORK AVENUE', 2
+'Address', '57 WEST 58 STREET', 2
+'Address', '1 HOYT STREET', 2
+'Address', '1384 65 STREET', 2
+'Address', '620 AMSTERDAM AVENUE', 1
+'Address', '1418 AVENUE Z', 1
+'Address', '1236 SURF AVENUE', 1
+'Address', '760 MANHATTAN AVENUE', 1
+'Address', '2800 8 AVENUE', 1
+'Address', '235-20 HILLSIDE AVENUE', 1
+'Address', '125-01 HOOVER AVENUE', 1
+'Address', '555 WEST 59 STREET', 1
+'Address', '106-02 NORTHERN BOULEVARD', 1
+'Address', '1501 AVENUE U', 3
+'Address', '35 EAST 85 STREET', 1
+'Address', '78-03 QUEENS BOULEVARD', 1
+'Address', '1798 WESTCHESTER AVENUE', 1
+'Address', '82-19 ROOSEVELT AVENUE', 1
+'Address', '32 WEST 48 STREET', 2
+'Address', '766 2 AVENUE', 2
+'Address', '395 GRAND STREET', 2
+'Address', '1 EAST 59 STREET', 2
+'Address', '24 EAST 24 STREET', 2
+'Address', '201 EAST 34 STREET', 2
+'Address', '412 3 AVENUE', 2
+'Address', '458 EASTERN PARKWAY', 1
+'Address', '37 PIKE STREET', 1
+'Address', '1487 ST NICHOLAS AVENUE', 1
+'Address', '41 EAST 52 STREET', 1
+'Address', '2027 MADISON AVENUE', 1
+'Address', '1522 BROADWAY', 2
+'Address', '637 10 AVENUE', 1
+'Address', '17 ADAMS STREET', 1
+'Address', '9 WEST 183 STREET', 1
+'Address', '80 MANHATTAN AVENUE', 1
+'Address', '1700 BROADWAY', 2
+'Address', '2895 BROADWAY', 2
+'Address', '360 WEST 44 STREET', 1
+'Address', '400 CLAREMONT PARKWAY', 1
+'Address', '2811 86 STREET', 1
+'Address', '8772 18 AVENUE', 1
+'Address', '44 JAY STREET', 1
+'Address', '2028 FOSTER AVENUE', 2
+'Address', '2095 SOUTHERN BOULEVARD', 1
+'Address', '2401 2 AVENUE', 1
+'Address', '204-03 LINDEN BOULEVARD', 1
+'Address', '79 AUDUBON AVENUE', 1
+'Address', '412 LOUISIANA AVENUE', 1
+'Address', '42-02 BELL BOULEVARD', 1
+'Address', '158-02 CROSS BAY BOULEVARD', 1
+'Address', '64 EAST 34 STREET', 1
+'Address', '1020 2 AVENUE', 1
+'Address', '35-21 108 STREET', 1
+'Address', '30 VESEY STREET', 1
+'Address', '215 WEST 23 STREET', 1
+'Address', '18 2 AVENUE', 1
+'Address', '1 WEST 125 STREET', 2
+'Address', '519 LENOX AVENUE', 1
+'Address', '101 WEST 35 STREET', 2
+'Address', '1983 68 STREET', 1
+'Address', '90-30 METROPOLITAN AVENUE', 1
+'Address', '33 EAST 42 STREET', 2
+'Address', '4 WEST 112 STREET', 1
+'Address', '600 9 AVENUE', 1
+'Address', '463 7 AVENUE', 2
+'Address', '99 HUDSON STREET', 2
+'Address', '1285 CASTLE HILL AVENUE', 1
+'Address', '253 WEST 35 STREET', 2
+'Address', '124-19 95 AVENUE', 2
+'Address', '347 EAST 63 STREET', 2
+'Address', '132-45 CROSS BAY BOULEVARD', 1
+'Address', '4791 BROADWAY', 2
+'Address', '570 6 AVENUE', 1
+'Address', '46-25 KISSENA BOULEVARD', 1
+'Address', '24-20 DITMARS BOULEVARD', 1
+'Address', '6002 13 AVENUE', 1
+'Address', '2291 NOSTRAND AVENUE', 1
+'Address', '195-02 47 AVENUE', 1
+'Address', '88-02 LIBERTY AVENUE', 1
+'Address', '274 GRAND STREET', 1
+'Address', '26 PEARL STREET', 2
+'Address', '4049 LACONIA AVENUE', 1
+'Address', '38-01 31 STREET', 1
+'Address', '483 47 STREET', 1
+'Address', '18 EAST 48 STREET', 2
+'Address', '122-20 LIBERTY AVENUE', 1
+'Address', '1516 ORIENTAL BOULEVARD', 1
+'Address', '116-11 LIBERTY AVENUE', 2
+'Address', '102 NAGLE AVENUE', 1
+'Address', '200 WEST 33 STREET', 3
+'Address', '1850 ADAM CLAYTON POWELL JR BOULEVARD', 1
+'Address', '650 ROCKAWAY AVENUE', 1
+'Address', '402 EAST 110 STREET', 1
+'Address', '1950 RALPH AVENUE', 1
+'Address', '2143 3 AVENUE', 1
+'Address', '144 WYCKOFF AVENUE', 1
+'Address', '281 BROADWAY', 1
+'Address', '1235 BROADWAY', 1
+'Address', '1480 ROCKAWAY PARKWAY', 1
+'Address', '66-26 METROPOLITAN AVENUE', 1
+'Address', '136 EAST 76 STREET', 2
+'Address', '40 EAST 98 STREET', 1
+'Address', '96-15 57 AVENUE', 1
+'Address', '498 AMSTERDAM AVENUE', 2
+'Address', '76 9 AVENUE', 2
+'Address', '349 BROADWAY', 1
+'Address', '568 9 AVENUE', 1
+'Address', '9129 4 AVENUE', 1
+'Address', '1241 2 AVENUE', 2
+'Address', '1426 BOSTON ROAD', 1
+'Address', '245 5 AVENUE', 2
+'Address', '196 WEST 68 STREET', 1
+'Address', '2185 2 AVENUE', 1
+'Address', '1190 CASTLE HILL AVENUE', 1
+'Address', '653 MC DONALD AVENUE', 1
+'Address', '35 FT WASHINGTON AVENUE', 1
+'Address', '318 ROGERS AVENUE', 1
+'Address', '359 EAST 204 STREET', 1
+'Address', '1671 FLATBUSH AVENUE', 1
+'Address', '4139 Broadway', 1
+'Address', '2134 FLATBUSH AVENUE', 1
+'Address', '57 AVENUE D', 2
+'Address', '76 WEST 35 STREET', 2
+'Address', '1128 EAST GUN HILL ROAD', 1
+'Address', '105-01 LIBERTY AVENUE', 1
+'Address', '2906 FREDERICK DOUGLASS BOULEVARD', 1
+'Address', '101 BARCLAY STREET', 1
+'Address', '196 EAST 75 STREET', 1
+'Address', '128 FT WASHINGTON AVENUE', 1
+'Address', '366 GRAHAM AVENUE', 1
+'Address', '1729 LEXINGTON AVENUE', 1
+'Address', '136-01 39 AVENUE', 1
+'Address', '95 KENMARE STREET', 1
+'Address', '2 EAST 28 STREET', 1
+'Address', '134-20 LIBERTY AVENUE', 1
+'Address', '1123 AMSTERDAM AVENUE', 2
+'Address', '2360 ADAM CLAYTON POWELL JR BOULEVARD', 1
+'Address', '141 EAST 99 STREET', 1
+'Address', '118-67 FARMERS BOULEVARD', 1
+'Address', '445 WEST BROADWAY', 2
+'Address', '61 WEST 46 STREET', 4
+'Address', '55 READE STREET', 2
+'Address', '601 WEST 152 STREET', 1
+'Address', '125 WEST 97 STREET', 2
+'Address', '4017 FLATLANDS AVENUE', 1
+'Address', '96-02 ROCKAWAY BOULEVARD', 1
+'Address', '75-21 MAIN STREET', 2
+'Address', '1424 LEXINGTON AVENUE', 1
+'Address', '2415 2 AVENUE', 1
+'Address', '135 LEXINGTON AVENUE', 1
+'Address', '111 AVENUE A', 1
+'Address', '730 WEST 181 STREET', 1
+'Address', '575 LEXINGTON AVENUE', 1
+'Address', '1107 RUTLAND ROAD', 1
+'Address', '58 BOWERY', 1
+'Address', '100 EAST 52 STREET', 2
+'Address', '2973 CROPSEY AVENUE', 1
+'Address', '78 WEST 55 STREET', 2
+'Address', '2081 AMSTERDAM AVENUE', 1
+'Address', '264 WEST 57 STREET', 2
+'Address', '89-11 MERRICK BOULEVARD', 1
+'Address', '2750 BOSTON ROAD', 2
+'Address', '50 EAST 43 STREET', 2
+'Address', '442 86 STREET', 1
+'Address', '61 WEST BROADWAY', 1
+'Address', '104-01 120 STREET', 1
+'Address', '4924 NEW UTRECHT AVENUE', 1
+'Address', '21 WATER STREET', 2
+'Address', '315 LENOX AVENUE', 1
+'Address', '1998 2 AVENUE', 1
+'Address', '3900 BROADWAY', 1
+'Address', '201 EAST 30 STREET', 1
+'Address', '97 LEXINGTON AVENUE', 1
+'Address', '238 FT WASHINGTON AVENUE', 1
+'Address', '166-34 JAMAICA AVENUE', 1
+'Address', '128 EAST 41 STREET', 1
+'Address', '90-48 160 STREET', 1
+'Address', '126-20 101 AVENUE', 1
+'Address', '1750 AMSTERDAM AVENUE', 2
+'Address', '691 LEXINGTON AVENUE', 2
+'Address', '1592 BROADWAY', 2
+'Address', '43-10 KISSENA BOULEVARD', 1
+'Address', '3 EAST 51 STREET', 2
+'Address', '570 MELROSE AVENUE', 1
+'Address', '332 LORIMER STREET', 1
+'Address', '344 GRAHAM AVENUE', 1
+'Address', '1833 AMSTERDAM AVENUE', 1
+'Address', '1240 BROADWAY', 1
+'Address', '195 PROSPECT PARK WEST', 1
+'Address', '351 WASHINGTON AVENUE', 2
+'Address', '2575 CONEY ISLAND AVENUE', 1
+'Address', '63-02 WOODHAVEN BOULEVARD', 1
+'Address', '767 PUGSLEY AVENUE', 1
+'Address', '462 AMSTERDAM AVENUE', 2
+'Address', '482 9 AVENUE', 2
+'Address', '136-12 ROOSEVELT AVENUE', 2
+'Address', '35 WEST 14 STREET', 1
+'Address', '2109 2 AVENUE', 1
+'Address', '439 7 AVENUE', 1
+'Address', '194 8 AVENUE', 1
+'Address', '1 WEST 16 STREET', 1
+'Address', '2487 UNIVERSITY AVENUE', 1
+'Address', '45-19 28 AVENUE', 1
+'Address', '664 EAST 187 STREET', 1
+'Address', '1152 YORK AVENUE', 2
+'Address', '117 ELDRIDGE STREET', 1
+'Address', '124-20 QUEENS BOULEVARD', 1
+'Address', '810 6 AVENUE', 1
+'Address', '63-59 WETHEROLE STREET', 1
+'Address', '19 UNION SQUARE WEST', 2
+'Address', '38-01 69 STREET', 1
+'Address', '9029 FLATLANDS AVENUE', 1
+'Address', '213-15 35 AVENUE', 1
+'Address', '2927 8 AVENUE', 2
+'Address', '201 EAST 44 STREET', 2
+'Address', '905 1 AVENUE', 1
+'Address', '175 WATER STREET', 1
+'Address', '17 RIVINGTON STREET', 1
+'Address', '1324 AVENUE J', 1
+'Address', '5002 18 AVENUE', 1
+'Address', '252 4 AVENUE', 1
+'Address', '2021 LEXINGTON AVENUE', 1
+'Address', '68-46 FRESH POND ROAD', 1
+'Address', '178 EAST 116 STREET', 1
+'Address', '564 WEST 57 STREET', 1
+'Address', '165 CANAL STREET', 2
+'Address', '3074 OCEAN AVENUE', 1
+'Address', '11 WARREN STREET', 1
+'Address', '6716 18 AVENUE', 2
+'Address', '641 LEXINGTON AVENUE', 2
+'Address', '2523 AVENUE U', 1
+'Address', '1111 EAST TREMONT AVENUE', 1
+'Address', '110 HUDSON STREET', 1
+'Address', '733 AMSTERDAM AVENUE', 1
+'Address', '201 WEST 40 STREET', 2
+'Address', '45-20 48 AVENUE', 1
+'Address', '1738 FLATBUSH AVENUE', 1
+'Address', '144-73 NORTHERN BOULEVARD', 1
+'Address', '1918 STORY AVENUE', 1
+'Address', '30-94 STEINWAY STREET', 2
+'Address', '200 EAST 79 STREET', 1
+'Address', '180-13 JAMAICA AVENUE', 1
+'Address', '1382 EAST GUN HILL ROAD', 1
+'Address', '2125 ALBEMARLE ROAD', 1
+'Address', '2 EAST 46 STREET', 2
+'Address', '80 5 AVENUE', 2
+'Address', '887 ROGERS AVENUE', 1
+'Address', '1531 YORK AVENUE', 2
+'Address', '24-11 150 STREET', 1
+'Address', '163 GRAND STREET', 1
+'Address', '105-19 177 STREET', 1
+'Address', '156-10 CROSS BAY BOULEVARD', 1
+'Address', '1581 MYRTLE AVENUE', 1
+'Address', '110 EAST 58 STREET', 2
+'Address', '2160 5 AVENUE', 2
+'Address', '219-05 JAMAICA AVENUE', 1
+'Address', '1381 MADISON AVENUE', 1
+'Address', '299 3 AVENUE', 2
+'Address', '138-01 QUEENS BOULEVARD', 2
+'Address', '203 EAST FORDHAM ROAD', 8
+'Address', '161 8 AVENUE', 2
+'Address', '41-01 BELL BOULEVARD', 1
+'Address', '5502 16 AVENUE', 1
+'Address', '28 WEST 48 STREET', 2
+'Address', '122-03 14 AVENUE', 1
+'Address', '129 EAST 42 STREET', 2
+'Address', '169 ROCHESTER AVENUE', 1
+'Address', '2473 ADAM CLAYTON POWELL JR BOULEVARD', 1
+'Address', '63 AVENUE A', 1
+'Address', '634 WEST 207 STREET', 1
+'Address', '48-09 CENTER BOULEVARD', 1
+'Address', '730 BROADWAY', 2
+'Address', '180 EAST BROADWAY', 1
+'Address', '92-02 GUY R BREWER BOULEVARD', 1
+'Address', '111-05 LIBERTY AVENUE', 1
+'Address', '45-03 30 AVENUE', 1
+'Address', '1104 BUSHWICK AVENUE', 1
+'Address', '547 NEW LOTS AVENUE', 1
+'Address', '622 9 AVENUE', 2
+'Address', '99-32 CORONA AVENUE', 1
+'Address', '665 LENOX AVENUE', 1
+'Address', '261 WEST 35 STREET', 2
+'Address', '218 BOND STREET', 2
+'Address', '1632 YORK AVENUE', 2
+'Address', '101 WEST 39 STREET', 2
+'Address', '551 9 AVENUE', 2
+'Address', '65 WEST 42 STREET', 1
+'Address', '1530 YORK AVENUE', 2
+'Address', '204-02 HILLSIDE AVENUE', 1
+'Address', '1911 ALBEMARLE ROAD', 1
+'Address', '28-28 FRANCIS LEWIS BOULEVARD', 2
+'Address', '235 DUFFIELD STREET', 1
+'Address', '139 WEST END AVENUE', 1
+'Address', '5719 4 AVENUE', 1
+'Address', '3864 FLATLANDS AVENUE', 1
+'Address', '1365 YORK AVENUE', 1
+'Address', '72 AVENUE A', 1
+'Address', '176-49 UNION TURNPIKE', 1
+'Address', '400 1 AVENUE', 1
+'Address', '479 7 AVENUE', 2
+'Address', '748 LINDEN BOULEVARD', 1
+'Address', '144 PARK AVENUE', 2
+'Address', '298 MADISON AVENUE', 2
+'Address', '95 GREENWICH STREET', 2
+'Address', '213 5 AVENUE', 1
+'Address', '1066 RUTLAND ROAD', 1
+'Address', '1000 SURF AVENUE', 1
+'Address', '200 MADISON STREET', 2
+'Address', '1646 1 AVENUE', 1
+'Address', '1750 FLATBUSH AVENUE', 1
+'Address', '102 DE KALB AVENUE', 1
+'Address', '25 SHERMAN AVENUE', 1
+'Address', '1927 86 STREET', 1
+'Address', '2190 RALPH AVENUE', 1
+'Address', '600 EAST 186 STREET', 1
+'Address', '1671 HYLAN BOULEVARD', 1
+'Address', '1317 BROADWAY', 1
+'Address', '134 DIVISION AVENUE', 1
+'Address', '1839 CONEY ISLAND AVENUE', 1
+'Address', '91 4 AVENUE', 1
+'Address', '82-02 37 AVENUE', 2
+'Address', '149-05 14 AVENUE', 1
+'Address', '781 OCEAN AVENUE', 2
+'Address', '490 EAST TREMONT AVENUE', 1
+'Address', '163-15 CROSS BAY BOULEVARD', 1
+'Address', '6302 18 AVENUE', 1
+'Address', '61-02 39 AVENUE', 1
+'Address', '1921 WESTCHESTER AVENUE', 1
+'Address', '1451 2 AVENUE', 1
+'Address', '394 3 AVENUE', 2
+'Address', '996 WINTHROP STREET', 1
+'Address', '580 WEST 218 STREET', 1
+'Address', '4808 BROADWAY', 2
+'Address', '522 9 AVENUE', 1
+'Address', '624 CONDUIT BOULEVARD', 1
+'Address', '60 8 AVENUE', 1
+'Address', '1311 EAST 19 STREET', 1
+'Address', '248-25 NORTHERN BOULEVARD', 1
+'Address', '3037 WEBSTER AVENUE', 1
+'Address', '29-35 NEWTOWN AVENUE', 1
+'Address', '25 WEST 47 STREET', 2
+'Address', '39 DELANCEY STREET', 1
+'Address', '55-02 108 STREET', 2
+'Address', '430 WEST 125 STREET', 1
+'Address', '924 3 AVENUE', 2
+'Address', '1979 ADAM CLAYTON POWELL JR BOULEVARD', 2
+'Address', '140 EAST 46 STREET', 2
+'Address', '109-10 PARK LANE SOUTH', 2
+'Address', '250 WEST 57 STREET', 2
+'Address', '2236 1 AVENUE', 1
+'Address', '248-05 NORTHERN BOULEVARD', 1
+'Address', '897 MADISON AVENUE', 2
+'Address', '108-02 NORTHERN BOULEVARD', 1
+'Address', '2036 BEDFORD AVENUE', 1
+'Address', '6523 20 AVENUE', 1
+'Address', '2 ASTOR PLACE', 2
+'Address', '360 EAST GUN HILL ROAD', 1
+'Address', '25 EAST 87 STREET', 1
+'Address', '310 BEVERLY ROAD', 1
+'Address', '1 EAST 53 STREET', 2
+'Address', '100 WEST 12 STREET', 1
+'Address', '862 HUNTS POINT AVENUE', 1
+'Address', '506 COURT STREET', 1
+'Address', '176 AVENUE B', 1
+'Address', '1682 1 AVENUE', 1
+'Address', '1021 PROSPECT AVENUE', 1
+'Address', '32-45 QUEENS BOULEVARD', 1
+'Address', '1586 UNIVERSITY AVENUE', 1
+'Address', '3403 AVENUE H', 1
+'Address', '7406 3 AVENUE', 1
+'Address', '100 WEST 53 STREET', 2
+'Address', '285 WEST BROADWAY', 2
+'Address', '605 WEST 158 STREET', 2
+'Address', '66 EAST 13 STREET', 2
+'Address', '147-50 NORTHERN BOULEVARD', 1
+'Address', '840 WESTCHESTER AVENUE', 1
+'Address', '105 5 AVENUE', 2
+'Address', '120 WEST 38 STREET', 2
+'Address', '475 NEW LOTS AVENUE', 1
+'Address', '135 EAST 78 STREET', 1
+'Address', '751 EAST GUN HILL ROAD', 1
+'Address', '101 EAST 19 STREET', 2
+'Address', '695 FLUSHING AVENUE', 1
+'Address', '37-04 DITMARS BOULEVARD', 1
+'Address', '88 GREENWICH STREET', 1
+'Address', '200 WEST 80 STREET', 1
+'Address', '245 EAST 79 STREET', 2
+'Address', '380 AMSTERDAM AVENUE', 2
+'Address', '31-01 STEINWAY STREET', 1
+'Address', '1046 1 AVENUE', 2
+'Address', '2186 FLATBUSH AVENUE', 1
+'Address', '645 1 AVENUE', 2
+'Address', '1990 LEXINGTON AVENUE', 1
+'Address', '8 THOMPSON STREET', 1
+'Address', '107-02 101 AVENUE', 1
+'Address', '215 PARK AVENUE SOUTH', 2
+'Address', '875 ELDERT LANE', 1
+'Address', '16 BEEKMAN STREET', 1
+'Address', '4618 CHURCH AVENUE', 1
+'Address', '222-51 JAMAICA AVENUE', 1
+'Address', '2580 EAST TREMONT AVENUE', 1
+'Address', '2220 ADAM CLAYTON POWELL JR BOULEVARD', 1
+'Address', '166 WEST 69 STREET', 1
+'Address', '49-05 20 AVENUE', 1
+'Address', '1264 WESTCHESTER AVENUE', 1
+'Address', '1480 WILLIAMSBRIDGE ROAD', 1
+'Address', '34 EAST 34 STREET', 1
+'Address', '23-31 NEWTOWN AVENUE', 1
+'Address', '400 EAST 89 STREET', 1
+'Address', '726 BROADWAY', 2
+'Address', '164 LEXINGTON AVENUE', 1
+'Address', '74-01 ROOSEVELT AVENUE', 1
+'Address', '85-01 WHITNEY AVENUE', 1
+'Address', '501 AVENUE P', 2
+'Address', '7318 18 AVENUE', 1
+'Address', '1993 LEXINGTON AVENUE', 1
+'Address', '23-91 BELL BOULEVARD', 1
+'Address', '385 MADISON STREET', 1
+'Address', '100 EAST 40 STREET', 2
+'Address', '574 AMSTERDAM AVENUE', 2
+'Address', '262 WEST BROADWAY', 1
+'Address', '257 BRIGHTON BEACH AVENUE', 1
+'Address', '150 PROSPECT PARK WEST', 1
+'Address', '137 KINGS HIGHWAY', 1
+'Address', '7911 5 AVENUE', 1
+'Address', '246 EAST 106 STREET', 1
+'Address', '1576 1 AVENUE', 2
+'Address', '35-02 ASTORIA BOULEVARD SOUTH', 1
+'Address', '76-14 37 AVENUE', 1
+'Address', '500 EAST 72 STREET', 1
+'Address', '2947 CROPSEY AVENUE', 1
+'Address', '158-18 CROSS BAY BOULEVARD', 1
+'Address', '138 EAST 86 STREET', 2
+'Address', '1713 BEVERLY ROAD', 2
+'Address', '2458 BROADWAY', 1
+'Address', '815 9 AVENUE', 2
+'Address', '590 METROPOLITAN AVENUE', 2
+'Address', '666 86 STREET', 2
+'Address', '199 WEST 31 STREET', 2
+'Address', '3251 WESTCHESTER AVENUE', 1
+'Address', '1421 5 AVENUE', 1
+'Address', '2032 FLATBUSH AVENUE', 1
+'Address', '148-27 JAMAICA AVENUE', 1
+'Address', '1251 JEROME AVENUE', 1
+'Address', '2301 AVENUE U', 1
+'Address', '501 WEST 50 STREET', 1
+'Address', '231 GRAND STREET', 1
+'Address', '74 WANAMAKER PLACE', 1
+'Address', '981 3 AVENUE', 1
+'Address', '35-26 MURRAY STREET', 1
+'Address', '995 EAST 13 STREET', 1
+'Address', '7510 NEW UTRECHT AVENUE', 1
+'Address', '19 WEST 27 STREET', 1
+'Address', '487 9 AVENUE', 2
+'Address', '208 BOWERY', 1
+'Address', '10 EAST 21 STREET', 1
+'Address', '150-24 NORTHERN BOULEVARD', 1
+'Address', '3201 KINGS HIGHWAY', 1
+'Address', '27 EAST 45 STREET', 2
+'Address', '285 WEST 125 STREET', 3
+'Address', '258 3 AVENUE', 2
+'Address', '130 WILLIAM STREET', 2
+'Address', '5922 BEVERLY ROAD', 1
+'Address', '3500 JEROME AVENUE', 1
+'Address', '1502 SURF AVENUE', 1
+'Address', '51-11 108 STREET', 1
+'Address', '564 WEST 148 STREET', 2
+'Address', '307 1 AVENUE', 2
+'Address', '44-01 - 44-99 34 STREET', 1
+'Address', '770 EVERGREEN AVENUE', 1
+'Address', '100 WEST 10 STREET', 3
+'Address', '76 CLINTON STREET', 2
+'Address', '37-02 JUNCTION BOULEVARD', 2
+'Address', '297 AVENUE X', 1
+'Address', '224-19 LINDEN BOULEVARD', 1
+'Address', '1048 CASTLE HILL AVENUE', 1
+'Address', '137 EAST 56 STREET', 1
+'Address', '287 EAST 169 STREET', 1
+'Address', '150 PARK ROW', 1
+'Address', '131 EAST 82 STREET', 1
+'Address', '40-02 GREENPOINT AVENUE', 1
+'Address', '2912 FREDERICK DOUGLASS BOULEVARD', 1
+'Address', '4380 BROADWAY', 1
+'Address', '7501 13 AVENUE', 1
+'Address', '624 UTICA AVENUE', 1
+'Address', '113-21 ROCKAWAY BOULEVARD', 1
+'Address', '110 MORNINGSIDE AVENUE', 1
+'Address', '1526 NEPTUNE AVENUE', 1
+'Address', '2459 BROADWAY', 2
+'Address', '2593 WESTCHESTER AVENUE', 1
+'Address', '201 WEST 47 STREET', 2
+'Address', '2102 NEWKIRK AVENUE', 1
+'Address', '1201 SURF AVENUE', 2
+'Address', '477 ROGERS AVENUE', 1
+'Address', '1045 BRIGHTON BEACH AVENUE', 1
+'Address', '1264 2 AVENUE', 2
+'Address', '1696 PITKIN AVENUE', 1
+'Address', '920 COLUMBUS AVENUE', 1
+'Address', '41 TRINITY PLACE', 1
+'Address', '54-54 MYRTLE AVENUE', 1
+'Address', '222-10 NORTHERN BOULEVARD', 1
+'Address', '743 EAST GUN HILL ROAD', 1
+'Address', '147 EAST 8 STREET', 1
+'Address', '112 WEST 34 STREET', 2
+'Address', '1441 BROADWAY', 1
+'Address', '161 WEST 44 STREET', 2
+'Address', '109-59 LEFFERTS BOULEVARD', 1
+'Address', '23-42 30 AVENUE', 1
+'Address', '460 WEST 57 STREET', 2
+'Address', '1780 1 AVENUE', 1
+'Address', '9530 CHURCH AVENUE', 1
+'Address', '107-31 QUEENS BOULEVARD', 2
+'Address', '41-96 MAIN STREET', 1
+'Address', '662 8 AVENUE', 2
+'Address', '1860 FLATBUSH AVENUE', 1
+'Address', '188-39 LINDEN BOULEVARD', 1
+'Address', '3163 CONEY ISLAND AVENUE', 1
+'Address', '931 WESTCHESTER AVENUE', 1
+'Address', '73-31 KISSENA BOULEVARD', 1
+'Address', '35-50 JUNCTION BOULEVARD', 1
+'Address', '2 EAST 44 STREET', 3
+'Address', '71 EAST 54 STREET', 2
+'Address', '127 EAST 47 STREET', 1
+'Address', '815 HART STREET', 1
+'Address', '144-07 SANFORD AVENUE', 1
+'Address', '220 WEST 80 STREET', 4
+'Address', '42-95 MAIN STREET', 2
+'Address', '28 EAST 31 STREET', 1
+'Address', '1301 6 AVENUE', 1
+'Address', '1465 ROCKAWAY PARKWAY', 2
+'Address', '435 WEST BROADWAY', 1
+'Address', '333 EAST 34 STREET', 2
+'Address', '1145 LIBERTY AVENUE', 1
+'Address', '590 ALBANY AVENUE', 1
+'Address', '6671 BROADWAY', 1
+'Address', '2 OLD BROADWAY', 1
+'Address', '301 EAST 180 STREET', 1
+'Address', '577 ISHAM STREET', 1
+'Address', '25 EAST 72 STREET', 1
+'Address', '214-50 JAMAICA AVENUE', 1
+'Address', '6 HANOVER PLACE', 2
+'Address', '79 SHERMAN AVENUE', 2
+'Address', '654 AMSTERDAM AVENUE', 2
+'Address', '64-21 BROADWAY', 1
+'Address', '51 EAST 169 STREET', 1
+'Address', '108 GANSEVOORT STREET', 1
+'Address', '351 EAST 109 STREET', 1
+'Address', '140 HOGAN PLACE', 1
+'Address', '1 WATER STREET', 2
+'Address', '557 LEFFERTS AVENUE', 1
+'Address', '406 EAST 8 STREET', 1
+'Address', '83 5 AVENUE', 2
+'Address', '42 EAST 40 STREET', 2
+'Address', '275 COLUMBUS AVENUE', 1
+'Address', '2 WEST 36 STREET', 2
+'Address', '715 4 AVENUE', 1
+'Address', '93-01 SUTTER AVENUE', 1
+'Address', '4148 WHITE PLAINS ROAD', 1
+'Address', '501 WEST 36 STREET', 1
+'Address', '2121 KINGS HIGHWAY', 1
+'Address', '575 1 AVENUE', 2
+'Address', '1915 WESTCHESTER AVENUE', 1
+'Address', '667 WEST 178 STREET', 1
+'Address', '1055 EAST 163 STREET', 1
+'Address', '44 EAST 92 STREET', 3
+'Address', '2430 AMSTERDAM AVENUE', 2
+'Address', '500 9 AVENUE', 2
+'Address', '1 WEST 106 STREET', 2
+'Address', '81-15 37 AVENUE', 3
+'Address', '257 EAST 65 STREET', 2
+'Address', '396 EAST 39 STREET', 1
+'Address', '130-22 101 AVENUE', 1
+'Address', '59-17 JUNCTION BOULEVARD', 1
+'Address', '1000 6 AVENUE', 2
+'Address', '696 EAST 241 STREET', 1
+'Address', '31-04 DITMARS BOULEVARD', 2
+'Address', '200 EAST 73 STREET', 2
+'Address', '242 EAST 40 STREET', 1
+'Address', '601 2 AVENUE', 2
+'Address', '798 11 AVENUE', 1
+'Address', '125-04 LIBERTY AVENUE', 1
+'Address', '139 EAST 12 STREET', 1
+'Address', '2090 2 AVENUE', 1
+'Address', '463 WEST 35 STREET', 1
+'Address', '403 PEARL STREET', 2
+'Address', '651 MORRIS PARK AVENUE', 1
+'Address', '212-02 HILLSIDE AVENUE', 1
+'Address', '135 EAST 27 STREET', 1
+'Address', '119 BAY RIDGE AVENUE', 1
+'Address', '3902 9 AVENUE', 1
+'Address', '778 9 AVENUE', 2
+'Address', '3070 STILLWELL AVENUE', 1
+'Address', '4481 BROADWAY', 1
+'Address', '1320 CONEY ISLAND AVENUE', 1
+'Address', '911 MORRIS PARK AVENUE', 1
+'Address', '3276 WESTCHESTER AVENUE', 1
+'Address', '880 AMSTERDAM AVENUE', 1
+'Address', '242 10 AVENUE', 2
+'Address', '172-27 HILLSIDE AVENUE', 1
+'Address', '846 HUNTS POINT AVENUE', 1
+'Address', '41 PARK ROW', 1
+'Address', '3940 BROADWAY', 1
+'Address', '200 EAST 58 STREET', 1
+'Address', '436 NOSTRAND AVENUE', 2
+'Address', '1111 2 AVENUE', 1
+'Address', '120 4 AVENUE', 2
+'Address', '5817 5 AVENUE', 1
+'Address', '575 MADISON AVENUE', 2
+'Address', '494 AMSTERDAM AVENUE', 2
+'Address', '641 BROADWAY', 1
+'Address', '1404 86 STREET', 1
+'Address', '1429 6 AVENUE', 3
+'Address', '798 HUNTS POINT AVENUE', 1
+'Address', '49-01 GRAND AVENUE', 1
+'Address', '4116 CHURCH AVENUE', 1
+'Address', '140 EAST 81 STREET', 2
+'Address', '907 MYRTLE AVENUE', 1
+'Address', '84-50 MAIN STREET', 1
+'Address', '85 AVENUE A', 1
+'Address', '156 WEST 34 STREET', 2
+'Address', '501 EAST 83 STREET', 2
+'Address', '2201 STILLWELL AVENUE', 2
+'Address', '1154 1 AVENUE', 2
+'Address', '1947 MADISON AVENUE', 1
+'Address', '2158 STARLING AVENUE', 1
+'Address', '350 EAST 21 STREET', 2
+'Address', '82-20 63 AVENUE', 1
+'Address', '1865 BRUCKNER BOULEVARD', 1
+'Address', '551B RALPH AVENUE', 1
+'Address', '123 EAST 11 STREET', 1
+'Address', '1 WEST 12 STREET', 1
+'Address', '825 WEST END AVENUE', 1
+'Address', '252 EAST 61 STREET', 2
+'Address', '400 WEST 33 STREET', 1
+'Address', '467 WEST 40 STREET', 1
+'Address', '39-71 59 STREET', 1
+'Address', '1 EAST 47 STREET', 2
+'Address', '231 WEST 230 STREET', 1
+'Address', '3815 BROADWAY', 1
+'Address', '269 EAST TREMONT AVENUE', 1
+'Address', '18 UNIVERSITY PLACE', 2
+'Address', '40 EAST 42 STREET', 2
+'Address', '3318 BOSTON ROAD', 1
+'Address', '412 LEXINGTON AVENUE', 2
+'Address', '1635 BAY RIDGE PARKWAY', 1
+'Address', '137 EAST 62 STREET', 1
+'Address', '109-02 QUEENS BOULEVARD', 1
+'Address', '519 BROOME STREET', 1
+'Address', '218-12 JAMAICA AVENUE', 1
+'Address', '3395 NOSTRAND AVENUE', 2
+'Address', '11 ASTOR PLACE', 1
+'Address', '62 WEST 47 STREET', 2
+'Address', '1824 AVENUE P', 1
+'Address', '122 EAST 42 STREET', 2
+'Address', '40 EAST 78 STREET', 2
+'Address', '35-34 PARSONS BOULEVARD', 1
+'Address', '352 RIDGEWOOD AVENUE', 1
+'Address', '3 WEST 46 STREET', 2
+'Address', '80 WEST 36 STREET', 1
+'Address', '1595 FOREST AVENUE', 1
+'Address', '3842 9 AVENUE', 1
+'Address', '63 PENNSYLVANIA AVENUE', 1
+'Address', '240 GRAHAM AVENUE', 1
+'Address', '238 EAST 42 STREET', 2
+'Address', '815 10 AVENUE', 2
+'Address', '1267 FOREST AVENUE', 1
+'Address', '4028 BOSTON ROAD', 1
+'Address', '193 ALBANY AVENUE', 1
+'Address', '1724 HYLAN BOULEVARD', 1
+'Address', '357 WEST 14 STREET', 1
+'Address', '243 EAST 59 STREET', 2
+'Address', '64 ORCHARD STREET', 2
+'Address', '1565 BEACH AVENUE', 1
+'Address', '117 MONTROSE AVENUE', 1
+'Address', '237 EAST 37 STREET', 1
+'Address', '1585 BROADWAY', 2
+'Address', '460 WEST 33 STREET', 1
+'Address', '2 FAIRVIEW AVENUE', 1
+'Address', '222 PARK AVENUE SOUTH', 1
+'Address', '1 EAST 55 STREET', 2
+'Address', '66-27 MYRTLE AVENUE', 1
+'Address', '253 MADISON STREET', 1
+'Address', '239 BROADWAY', 2
+'Address', '103-99 WOODHAVEN BOULEVARD', 1
+'Address', '400 WEST 56 STREET', 2
+'Address', '10 VERMILYEA AVENUE', 1
+'Address', '2206 FLATBUSH AVENUE', 1
+'Address', '510 BEACH 20 STREET', 1
+'Address', '755 9 AVENUE', 1
+'Address', '36-02 BROADWAY', 1
+'Address', '610 11 AVENUE', 1
+'Address', '161 EAST 55 STREET', 2
+'Address', '109-57 FRANCIS LEWIS BOULEVARD', 1
+'Address', '189-01 LINDEN BOULEVARD', 1
+'Address', '1078 WESTCHESTER AVENUE', 1
+'Address', '3777 WHITE PLAINS ROAD', 1
+'Address', '2146 2 AVENUE', 1
+'Address', '104 EAST 20 STREET', 2
+'Address', '1131 3 AVENUE', 2
+'Address', '271 SHERMAN AVENUE', 1
+'Address', '900 FRANKLIN AVENUE', 2
+'Address', '51-01 VAN DAM STREET', 1
+'Address', '219 COLUMBUS AVENUE', 1
+'Address', '438 WEST BROADWAY', 2
+'Address', '1 EAST 14 STREET', 2
+'Address', '875 6 AVENUE', 2
+'Address', '82-13 ELIOT AVENUE', 2
+'Address', '1430 2 AVENUE', 2
+'Address', '531 2 AVENUE', 1
+'Address', '2854 FREDERICK DOUGLASS BOULEVARD', 2
+'Address', '58 KENMARE STREET', 1
+'Address', '31 MULBERRY STREET', 1
+'Address', '105 EAST 18 STREET', 1
+'Address', '37-02 MAIN STREET', 1
+'Address', '442 BROOME STREET', 2
+'Address', '135-15 ROCKAWAY BOULEVARD', 1
+'Address', '773 STANLEY AVENUE', 1
+'Address', '5102 6 AVENUE', 1
+'Address', '6223 11 AVENUE', 1
+'Address', '125-10 QUEENS BOULEVARD', 1
+'Address', '74 3 AVENUE', 1
+'Address', '31 EAST 48 STREET', 2
+'Address', '346 MARCUS GARVEY BOULEVARD', 1
+'Address', '63 WALL STREET', 1
+'Address', '279 WEST 231 STREET', 1
+'Address', '281 PARK AVENUE SOUTH', 1
+'Address', '1059 EAST GUN HILL ROAD', 1
+'Address', '494 8 AVENUE', 2
+'Address', '176 EAST 60 STREET', 2
+'Address', '3139 BROADWAY', 2
+'Address', '311 2 AVENUE', 2
+'Address', '231 5 AVENUE', 1
+'Address', '391 EASTERN PARKWAY', 1
+'Address', '1445 MADISON AVENUE', 1
+'Address', '53 WEST 39 STREET', 2
+'Address', '115 SCHOLES STREET', 1
+'Address', '297 EAST 47 STREET', 2
+'Address', '208 COLUMBUS AVENUE', 1
+'Address', '175 EAST HOUSTON STREET', 1
+'Address', '44-06 KISSENA BOULEVARD', 1
+'Address', '874 5 AVENUE', 1
+'Address', '326 EAST 98 STREET', 1
+'Address', '2924 BEVERLY ROAD', 1
+'Address', '350 EAST 58 STREET', 1
+'Address', '139 EAST 54 STREET', 2
+'Address', '240 CHURCH STREET', 2
+'Address', '29-18 HOYT AVENUE SOUTH', 2
+'Address', '650 VICTORY BOULEVARD', 1
+'Address', '481 WEST END AVENUE', 1
+'Address', '708 AMSTERDAM AVENUE', 1
+'Address', '329 10 AVENUE', 2
+'Address', '700 WASHINGTON STREET', 1
+'Address', '133 BLEECKER STREET', 1
+'Address', '150-06 14 AVENUE', 1
+'Address', '396 NEPTUNE AVENUE', 1
+'Address', '480 8 AVENUE', 2
+'Address', '81 DELANCEY STREET', 1
+'Address', '19 EAST 44 STREET', 2
+'Address', '387 GRAND STREET', 2
+'Address', '108-01 NORTHERN BOULEVARD', 1
+'Address', '1265 ST NICHOLAS AVENUE', 1
+'Address', '765 2 AVENUE', 1
+'Address', '245-11 FRANCIS LEWIS BOULEVARD', 1
+'Address', '890 LEXINGTON AVENUE', 1
+'Address', '715 LEXINGTON AVENUE', 2
+'Address', '37-27 MAIN STREET', 1
+'Address', '2 WEST 97 STREET', 1
+'Address', '3001 MIDDLETOWN ROAD', 1
+'Address', '1740 1 AVENUE', 1
+'Address', '96-10 35 AVENUE', 1
+'Address', '57 AVENUE A', 1
+'Address', '434 AMSTERDAM AVENUE', 2
+'Address', '2068 1 AVENUE', 1
+'Address', '47-10 BROADWAY', 1
+'Address', '1623 ORIENTAL BOULEVARD', 1
+'Address', '1635 1 AVENUE', 1
+'Address', '4037 BROADWAY', 1
+'Address', '88 LEXINGTON AVENUE', 1
+'Address', '158 EAST 34 STREET', 2
+'Address', '100 WEST 90 STREET', 2
+'Address', '212 LIVINGSTON STREET', 2
+'Address', '103-02 ROOSEVELT AVENUE', 1
+'Address', '174 WEST 48 STREET', 1
+'Address', '159-30 JAMAICA AVENUE', 1
+'Address', '247 WEST 35 STREET', 2
+'Address', '209-25 JAMAICA AVENUE', 1
+'Address', '79-99 57 AVENUE', 1
+'Address', '65 WEST 13 STREET', 1
+'Address', '350 9 AVENUE', 1
+'Address', '1 EAST 26 STREET', 2
+'Address', '150 CENTRE STREET', 1
+'Address', '1788 FOREST AVENUE', 1
+'Address', '1400 BROADWAY', 2
+'Address', '38 AMSTERDAM AVENUE', 1
+'Address', '145-11 101 AVENUE', 1
+'Address', '211-79 JAMAICA AVENUE', 2
+'Address', '32 EAST 41 STREET', 2
+'Address', '287 PARK AVENUE SOUTH', 2
+'Address', '37 WEST 43 STREET', 1
+'Address', '231 BAY STREET', 1
+'Address', '2097 AMSTERDAM AVENUE', 1
+'Address', '1332 BROADWAY', 2
+'Address', '1020 SURF AVENUE', 1
+'Address', '994 EAST 163 STREET', 2
+'Address', '803 FLATBUSH AVENUE', 1
+'Address', '1539 2 AVENUE', 1
+'Address', '8124 18 AVENUE', 1
+'Address', '138-67 FRANCIS LEWIS BOULEVARD', 1
+'Address', '40-02 BROADWAY', 1
+'Address', '1200 VIELE AVENUE', 1
+'Address', '248-68 HORACE HARDING EXPRESSWAY', 1
+'Address', '537 6 AVENUE', 1
+'Address', '159 CHURCH STREET', 2
+'Address', '1298 BROADWAY', 2
+'Address', '4224 10 AVENUE', 1
+'Address', '2125 DITMAS AVENUE', 1
+'Address', '221-02 HORACE HARDING EXPRESSWAY', 2
+'Address', '501 WEST 57 STREET', 2
+'Address', '621 2 AVENUE', 2
+'Address', '7321 5 AVENUE', 2
+'Address', '462 3 AVENUE', 2
+'Address', '42-78 MAIN STREET', 1
+'Address', '102-29 ROOSEVELT AVENUE', 1
+'Address', '297 PLEASANT AVENUE', 1
+'Address', '133 EAST 30 STREET', 2
+'Address', '831 EAST 180 STREET', 1
+'Address', '175 9 AVENUE', 1
+'Address', '117 WEST 38 STREET', 2
+'Address', '135-11 NORTHERN BOULEVARD', 1
+'Address', '1720 FULTON STREET', 1
+'Address', '104-01 101 AVENUE', 1
+'Address', '703 CHURCH AVENUE', 1
+'Address', '38-14 97 STREET', 1
+'Address', '2501 AVENUE U', 1
+'Address', '1402 AVENUE J', 1
+'Address', '235 6 AVENUE', 1
+'Address', '1265 BROADWAY', 2
+'Address', '150 MANHATTAN AVENUE', 1
+'Address', '513 STANLEY AVENUE', 1
+'Address', '40-01 94 STREET', 1
+'Address', '1934 1 AVENUE', 1
+'Address', '1982 WESTCHESTER AVENUE', 1
+'Address', '127-03 111 AVENUE', 1
+'Address', '40-02 MAIN STREET', 1
+'Address', '20-21 SEAGIRT BOULEVARD', 1
+'Address', '4501 5 AVENUE', 1
+'Address', '2 EAST 167 STREET', 1
+'Address', '134 EAST 48 STREET', 2
+'Address', '88 9 AVENUE', 1
+'Address', '686 MORRIS PARK AVENUE', 1
+'Address', '2361 UTICA AVENUE', 1
+'Address', '902 7 AVENUE', 1
+'Address', '166 ROCKAWAY PARKWAY', 1
+'Address', '71-27 FRESH POND ROAD', 1
+'Address', '124-26 QUEENS BOULEVARD', 1
+'Address', '43 CHRYSTIE STREET', 1
+'Address', '3981 LACONIA AVENUE', 1
+'Address', '644 LEXINGTON AVENUE', 1
+'Address', '164-17 UNION TURNPIKE', 1
+'Address', '118-12 ROCKAWAY BOULEVARD', 1
+'Address', '307 MALCOLM X BOULEVARD', 1
+'Address', '65-35 QUEENS BOULEVARD', 1
+'Address', '735 EAST 152 STREET', 1
+'Address', '138-01 84 DRIVE', 1
+'Address', '65-15 YELLOWSTONE BOULEVARD', 1
+'Address', '490 ST NICHOLAS AVENUE', 1
+'Address', '166 CHAMBERS STREET', 2
+'Address', '643 WEST 29 STREET', 1
+'Address', '2305 EMMONS AVENUE', 1
+'Address', '100 EAST 26 STREET', 1
+'Address', '457 3 AVENUE', 2
+'Address', '5224 CHURCH AVENUE', 1
+'Address', '126 EAST 50 STREET', 2
+'Address', '4224 18 AVENUE', 1
+'Address', '86-01 ROOSEVELT AVENUE', 1
+'Address', '1929 AVENUE U', 2
+'Address', '81-19 ROOSEVELT AVENUE', 2
+'Address', '135-25 NORTHERN BOULEVARD', 2
+'Address', '1830 LEXINGTON AVENUE', 1
+'Address', '380 CANAL STREET', 2
+'Address', '82-37 164 STREET', 2
+'Address', '581 HALSEY STREET', 1
+'Address', '16 BEAVER STREET', 2
+'Address', '255-04 NORTHERN BOULEVARD', 1
+'Address', '101 EAST 10 STREET', 1
+'Address', '1133 6 AVENUE', 2
+'Address', '1041 WEST FARMS ROAD', 1
+'Address', '719 ALLERTON AVENUE', 1
+'Address', '310 MERCER STREET', 2
+'Address', '117 CHURCH STREET', 1
+'Address', '20 EAST 40 STREET', 2
+'Address', '322 1 AVENUE', 2
+'Address', '2176 BROADWAY', 2
+'Address', '4 WEST 21 STREET', 1
+'Address', '1715 2 AVENUE', 2
+'Address', '6506 20 AVENUE', 1
+'Address', '2455 WEBSTER AVENUE', 1
+'Address', '260 COLUMBUS AVENUE', 1
+'Address', '1995 1 AVENUE', 2
+'Address', '4040 BROADWAY', 2
+'Address', '300 EAST 34 STREET', 2
+'Address', '144 7 AVENUE SOUTH', 2
+'Address', '622 WEST 181 STREET', 1
+'Address', '234 LEXINGTON AVENUE', 2
+'Address', '29 EAST 60 STREET', 2
+'Address', '1421 ST JOHNS PLACE', 1
+'Address', '250 WEST 100 STREET', 1
+'Address', '2701 SEDGEWICK AVENUE', 1
+'Address', '1556 MYRTLE AVENUE', 1
+'Address', '145 AUDUBON AVENUE', 1
+'Address', '31-81 21 STREET', 1
+'Address', '2360 BROADWAY', 1
+'Address', '1390 BROADWAY', 2
+'Address', '200 SPRING STREET', 2
+'Address', '115 4 AVENUE', 2
+'Address', '134 EAST 57 STREET', 2
+'Address', '52 COURT STREET', 1
+'Address', '7203 18 AVENUE', 1
+'Address', '2 WEST END AVENUE', 1
+'Address', '2200 WESTCHESTER AVENUE', 1
+'Address', '122-16 SUTPHIN BOULEVARD', 1
+'Address', '3820 13 AVENUE', 1
+'Address', '125 EAST 49 STREET', 2
+'Address', '73 5 AVENUE', 2
+'Address', '5023 16 AVENUE', 1
+'Address', '2515 WEBSTER AVENUE', 1
+'Address', '10 TOMPKINS AVENUE', 1
+'Address', '161 WEST 54 STREET', 2
+'Address', '225-18 MERRICK BOULEVARD', 2
+'Address', '106-02 ROCKAWAY BOULEVARD', 1
+'Address', '1886 ADAM CLAYTON POWELL JR BOULEVARD', 2
+'Address', '40 WEST 34 STREET', 2
+'Address', '164-33 CROSS BAY BOULEVARD', 1
+'Address', '667 WEST 177 STREET', 1
+'Address', '672 HUDSON STREET', 2
+'Address', '948 EAST 163 STREET', 1
+'Address', '13-40 CENTRAL AVENUE', 1
+'Address', '3341 BROADWAY', 2
+'Address', '118-28 SPRINGFIELD BOULEVARD', 1
+'Address', '1423 AVENUE U', 1
+'Address', '145 9 AVENUE', 1
+'Address', '77 EAST 57 STREET', 2
+'Address', '2461 BROADWAY', 1
+'Address', '116-14 ROCKAWAY BOULEVARD', 1
+'Address', '39-33 QUEENS BOULEVARD', 1
+'Address', '5933 MCKINLEY PARK', 2
+'Address', '755 ROGERS AVENUE', 1
+'Address', '3501 PUTNAM PLACE', 1
+'Address', '101 6 AVENUE', 1
+'Address', '200 HAMILTON AVENUE', 1
+'Address', '4879 BROADWAY', 1
+'Address', '5619 14 AVENUE', 1
+'Address', '77-25 164 STREET', 1
+'Address', '539 9 AVENUE', 1
+'Address', '587 6 AVENUE', 1
+'Address', '75-04 37 AVENUE', 1
+'Address', '385 BAY RIDGE AVENUE', 1
+'Address', '46 GRAHAM AVENUE', 1
+'Address', '147-05 GUY R BREWER BOULEVARD', 1
+'Address', '1106 MORRIS AVENUE', 1
+'Address', '171 EAST 86 STREET', 2
+'Address', '165 EAST 56 STREET', 2
+'Address', '620 BROADWAY', 2
+'Address', '21-10 BORDEN AVENUE', 1
+'Address', '11 BRIDGE STREET', 2
+'Address', '2070 BROADWAY', 2
+'Address', '150 WEST 40 STREET', 2
+'Address', '153 10 AVENUE', 2
+'Address', '50 EAST 12 STREET', 2
+'Address', '215 FLATBUSH AVENUE', 1
+'Address', '500 GRAND CONCOURSE', 2
+'Address', '21 EAST 32 STREET', 1
+'Address', '218 EAST 116 STREET', 1
+'Address', '105-01 JAMAICA AVENUE', 1
+'Address', '108-02 LIBERTY AVENUE', 2
+'Address', '25 WARREN STREET', 2
+'Address', '144 EAST 100 STREET', 1
+'Address', '513 2 AVENUE', 1
+'Address', '2114 2 AVENUE', 2
+'Address', '68-02 FRESH POND ROAD', 1
+'Address', '181 SPRING STREET', 1
+'Address', '261 AUDUBON AVENUE', 1
+'Address', '318 3 AVENUE', 2
+'Address', '3902 3 AVENUE', 1
+'Address', '200 STANTON STREET', 2
+'Address', '1293 BROADWAY', 2
+'Address', '807 9 AVENUE', 1
+'Address', '1596 BEDFORD AVENUE', 1
+'Address', '540 LEXINGTON AVENUE', 1
+'Address', '37-21 JUNCTION BOULEVARD', 1
+'Address', '1615 UNIVERSITY AVENUE', 1
+'Address', '194-20 NORTHERN BOULEVARD', 1
+'Address', '78-40 164 STREET', 1
+'Address', '1716 1 AVENUE', 2
+'Address', '69 MULBERRY STREET', 1
+'Address', '4101 14 AVENUE', 1
+'Address', '2127 WHITE PLAINS ROAD', 1
+'Address', '2175 ADAM CLAYTON POWELL JR BOULEVARD', 2
+'Address', '176 BROADWAY', 1
+'Address', '595 TARGEE STREET', 1
+'Address', '73-04 72 STREET', 1
+'Address', '1954 FLATBUSH AVENUE', 1
+'Address', '401 LENOX AVENUE', 1
+'Address', '1369 BROADWAY', 2
+'Address', '30 MANHATTAN AVENUE', 1
+'Address', '22 EAST 39 STREET', 2
+'Address', '1 EAST 27 STREET', 1
+'Address', '243-01 144 AVENUE', 1
+'Address', '107-01 71 AVENUE', 1
+'Address', '5 EAST 18 STREET', 1
+'Address', '229-28 LINDEN BOULEVARD', 1
+'Address', '331 DE KALB AVENUE', 1
+'Address', '2417 CONEY ISLAND AVENUE', 1
+'Address', '2829 8 AVENUE', 1
+'Address', '1900 AVENUE U', 1
+'Address', '383 8 AVENUE', 1
+'Address', '92-44 GUY R BREWER BOULEVARD', 2
+'Address', '3168 CONEY ISLAND AVENUE', 1
+'Address', '2941 WESTCHESTER AVENUE', 1
+'Address', '94-02 69 AVENUE', 1
+'Address', '656 BROADWAY', 1
+'Address', '141 EAST 54 STREET', 2
+'Address', '87 ST MARKS PLACE', 2
+'Address', '133 EAST 80 STREET', 1
+'Address', '19 CONVENT AVENUE', 1
+'Address', '1791 WESTCHESTER AVENUE', 1
+'Address', '74 EAST END AVENUE', 1
+'Address', '2 FEATHERBED LANE', 1
+'Address', '88 BOWERY', 1
+'Address', '28-58 45 STREET', 1
+'Address', '87 9 AVENUE', 1
+'Address', '361 1 AVENUE', 1
+'Address', '266 EAST 205 STREET', 1
+'Address', '47-01 QUEENS BOULEVARD', 1
+'Address', '1929 MADISON AVENUE', 2
+'Address', '2469 EAST TREMONT AVENUE', 1
+'Address', '31-27 THOMSON AVENUE', 1
+'Address', '175 EAST 74 STREET', 1
+'Address', '3520 BROADWAY', 2
+'Address', '1932 ROCKAWAY PARKWAY', 2
+'Address', '1 BOWLING GREEN', 4
+'Address', '856 7 AVENUE', 1
+'Address', '91-21 QUEENS BOULEVARD', 2
+'Address', '2960 AVENUE U', 1
+'Address', '79-08 21 AVENUE', 1
+'Address', '722 2 AVENUE', 2
+'Address', '40-27 MAIN STREET', 2
+'Address', '3914 BROADWAY', 1
+'Address', '1578 BROADWAY', 2
+'Address', '3045 AVENUE U', 1
+'Address', '1 EAST 19 STREET', 1
+'Address', '222-01 LINDEN BOULEVARD', 1
+'Address', '724 1 AVENUE', 1
+'Address', '15 WEST 44 STREET', 2
+'Address', '706 11 AVENUE', 2
+'Address', '144 EAST 60 STREET', 2
+'Address', '892 9 AVENUE', 2
+'Address', '1992 RALPH AVENUE', 1
+'Address', '4935 BROADWAY', 2
+'Address', '3469 EAST TREMONT AVENUE', 1
+'Address', '219-15 JAMAICA AVENUE', 1
+'Address', '160 MARCUS GARVEY BOULEVARD', 1
+'Address', '132 ST MARKS PLACE', 2
+'Address', '432 KINGS HIGHWAY', 1
+'Address', '5529 BROADWAY', 1
+'Address', '116-23 MYRTLE AVENUE', 1
+'Address', '366 WEST BROADWAY', 2
+'Address', '979 WESTCHESTER AVENUE', 1
+'Address', '101-15 37 AVENUE', 1
+'Address', '59-04 MAIN STREET', 2
+'Address', '2501 EASTCHESTER ROAD', 1
+'Address', '125 EAST 38 STREET', 2
+'Address', '150-32 NORTHERN BOULEVARD', 1
+'Address', '160 LENOX AVENUE', 1
+'Address', '371 WEST STREET', 1
+'Address', '2149 KNAPP STREET', 1
+'Address', '3399 BROADWAY', 1
+'Address', '136 DYCKMAN STREET', 1
+'Address', '3843 EAST TREMONT AVENUE', 1
+'Address', '1790 BROADWAY', 2
+'Address', '2 VAN SINDEREN AVENUE', 1
+'Address', '30 BOWERY', 1
+'Address', '1790 MONROE AVENUE', 1
+'Address', '1902 ADAM CLAYTON POWELL JR BOULEVARD', 2
+'Address', '141 WEST 231 STREET', 1
+'Address', '467 ROCKAWAY AVENUE', 1
+'Address', '133 HARRISON AVENUE', 1
+'Address', '41-60 MAIN STREET', 4
+'Address', '353 EAST 53 STREET', 1
+'Address', '2054 86 STREET', 1
+'Address', '82-29 63 AVENUE', 1
+'Address', '216-10 NORTHERN BOULEVARD', 1
+'Address', '1271 WHITE PLAINS ROAD', 1
+'Address', '103-41 115 STREET', 1
+'Address', '2861 FREDERICK DOUGLASS BOULEVARD', 1
+'Address', '2844 HYLAN BOULEVARD', 1
+'Address', '676 9 AVENUE', 1
+'Address', '3528 NOSTRAND AVENUE', 1
+'Address', '69 NAGLE AVENUE', 1
+'Address', '139 FULTON STREET', 2
+'Address', '41-57 MAIN STREET', 1
+'Address', '189-16 HILLSIDE AVENUE', 1
+'Address', '34 EAST 49 STREET', 2
+'Address', '1017 6 AVENUE', 1
+'Address', '482 IRVING AVENUE', 1
+'Address', '616 WEST 180 STREET', 1
+'Address', '4101 15 AVENUE', 1
+'Address', '435 HUDSON STREET', 1
+'Address', '226 WEST 50 STREET', 1
+'Address', '902 RUTLAND ROAD', 2
+'Address', '480 AMSTERDAM AVENUE', 1
+'Address', '28-02 STEINWAY STREET', 1
+'Address', '101 WEST 40 STREET', 1
+'Address', '5301 14 AVENUE', 1
+'Address', '1201 BROADWAY', 1
+'Address', '70 WEST 135 STREET', 1
+'Address', '621 WEST END AVENUE', 1
+'Address', '1401 WEBSTER AVENUE', 1
+'Address', '4 WEST 57 STREET', 2
+'Address', '203 MONROE STREET', 1
+'Address', '136 EAST 56 STREET', 2
+'Address', '95-06 63 DRIVE', 2
+'Address', '576 EAST 187 STREET', 1
+'Address', '68 WESTCHESTER SQUARE', 1
+'Address', '435 FOUNTAIN AVENUE', 1
+'Address', '1496 1 AVENUE', 2
+'Address', '17 EAST 71 STREET', 1
+'Address', '761 9 AVENUE', 1
+'Address', '711 AMSTERDAM AVENUE', 2
+'Address', '5820 BROADWAY', 1
+'Address', '2317 2 AVENUE', 1
+'Address', '3497 BOSTON ROAD', 1
+'Address', '2885 OCEAN AVENUE', 1
+'Address', '8702 AVENUE L', 1
+'Address', '511 LA GUARDIA PLACE', 1
+'Address', '39 SOUTH STREET', 1
+'Address', '150-01 70 ROAD', 1
+'Address', '74 WALL STREET', 1
+'Address', '305 MADISON STREET', 1
+'Address', '49 CARMINE STREET', 1
+'Address', '69-18 ROOSEVELT AVENUE', 1
+'Address', '85 10 AVENUE', 2
+'Address', '31 ST MARKS PLACE', 1
+'Address', '604 10 AVENUE', 2
+'Address', '2016 LEXINGTON AVENUE', 1
+'Address', '255 10 AVENUE', 2
+'Address', '420 1 AVENUE', 2
+'Address', '110 ALLEN STREET', 2
+'Address', '368 DUMONT AVENUE', 1
+'Address', '401 EAST 58 STREET', 2
+'Address', '340 EAST 70 STREET', 1
+'Address', '119-04 LIBERTY AVENUE', 1
+'Address', '130 DELANCEY STREET', 1
+'Address', '37-58 86 STREET', 1
+'Address', '458 BROADWAY', 1
+'Address', '58 EAST 58 STREET', 2
+'Address', '778 60 STREET', 1
+'Address', '1500 BROADWAY', 2
+'Address', '201 EAST 41 STREET', 1
+'Address', '1459 UNIONPORT ROAD', 1
+'Address', '80 VARICK STREET', 1
+'Address', '2251 BROADWAY', 2
+'Address', '500 7 AVENUE', 2
+'Address', '1098 LEXINGTON AVENUE', 2
+'Address', '117 EAST HOUSTON STREET', 1
+'Address', '246 9 AVENUE', 2
+'Address', '1029 2 AVENUE', 2
+'Address', '212-20 NORTHERN BOULEVARD', 2
+'Address', '590 SUTTER AVENUE', 1
+'Address', '1 WEST 34 STREET', 2
+'Address', '4901 KINGS HIGHWAY', 1
+'Address', '1560 WATSON AVENUE', 1
+'Address', '540 AMSTERDAM AVENUE', 2
+'Address', '304 GRAND STREET', 1
+'Address', '9816 4 AVENUE', 2
+'Address', '396 HUDSON STREET', 1
+'Address', '30 MORNINGSIDE DRIVE', 1
+'Address', '3075 3 AVENUE', 1
+'Address', '300 EAST 30 STREET', 1
+'Address', '17-02 UTOPIA PARKWAY', 1
+'Address', '717 BURKE AVENUE', 1
+'Address', '7407 18 AVENUE', 1
+'Address', '2217 8 AVENUE', 1
+'Address', '209 WADSWORTH AVENUE', 1
+'Address', '1788 LEXINGTON AVENUE', 1
+'Address', '455 1 AVENUE', 2
+'Address', '1300 FLATBUSH AVENUE', 1
+'Address', '270 PARK AVENUE SOUTH', 2
+'Address', '20 WEST 64 STREET', 1
+'Address', '132 2 AVENUE', 1
+'Address', '440 RIVERSIDE DRIVE', 1
+'Address', '198 PROSPECT PARK SOUTHWEST', 1
+'Address', '105 CHRYSTIE STREET', 2
+'Address', '1443 LEXINGTON AVENUE', 2
+'Address', '53 EAST 20 STREET', 1
+'Address', '1179 2 AVENUE', 1
+'Address', '135 WEST 3 STREET', 2
+'Address', '504 GRAND STREET', 1
+'Address', '3001 AVENUE N', 1
+'Address', '149-40 ROOSEVELT AVENUE', 1
+'Address', '8102 3 AVENUE', 2
+'Address', '901 6 AVENUE', 3
+'Address', '36 EAST 58 STREET', 2
+'Address', '39-57 61 STREET', 1
+'Address', '471 WEST 147 STREET', 1
+'Address', '590 EMPIRE BOULEVARD', 1
+'Address', '71 AVENUE C', 1
+'Address', '41-11 QUEENS BOULEVARD', 1
+'Address', '630 3 AVENUE', 2
+'Address', '799 ALLERTON AVENUE', 1
+'Address', '40 CENTRE STREET', 2
+'Address', '88-50 MYRTLE AVENUE', 1
+'Address', '558 FULTON STREET', 1
+'Address', '6510 18 AVENUE', 1
+'Address', '160-02 NORTHERN BOULEVARD', 1
+'Address', '560 8 AVENUE', 2
+'Address', '301 EAST 47 STREET', 2
+'Address', '640 AMSTERDAM AVENUE', 1
+'Address', '259 11 AVENUE', 1
+'Address', '32-61 85 STREET', 2
+'Address', '3539 FT HAMILTON PARKWAY', 1
+'Address', '490 RIVERSIDE DRIVE', 1
+'Address', '3049 STILLWELL AVENUE', 2
+'Address', '141 EAST 33 STREET', 1
+'Address', '130 COLUMBUS AVENUE', 1
+'Address', '442 EAST 59 STREET', 2
+'Address', '986 FLATBUSH AVENUE', 2
+'Address', '1550 1 AVENUE', 2
+'Address', '2 WEST 26 STREET', 1
+'Address', '182-19 HORACE HARDING EXPRESSWAY', 1
+'Address', '114 MORTON STREET', 1
+'Address', '4759 WHITE PLAINS ROAD', 1
+'Address', '406 86 STREET', 1
+'Address', '69-15 ASTORIA BOULEVARD', 1
+'Address', '187 EAST 80 STREET', 1
+'Address', '1225 BROADWAY', 2
+'Address', '1258 FLATBUSH AVENUE', 1
+'Address', '2567 NOSTRAND AVENUE', 1
+'Address', '28-39 31 STREET', 1
+'Address', '172-10 NORTHERN BOULEVARD', 1
+'Address', '471 WEST 42 STREET', 2
+'Address', '59 MAIDEN LANE', 4
+'Address', '153 EAST 57 STREET', 2
+'Address', '550 HUNTS POINT AVENUE', 1
+'Address', '257 EAST 86 STREET', 1
+'Address', '403 EAST 8 STREET', 1
+'Address', '7122 FT HAMILTON PARKWAY', 1
+'Address', '147-08 46 AVENUE', 1
+'Address', '120-08 FARMERS BOULEVARD', 1
+'Address', '1256 ST NICHOLAS AVENUE', 1
+'Address', '36 EAST 41 STREET', 2
+'Address', '1866 RALPH AVENUE', 1
+'Address', '73 WEST 47 STREET', 2
+'Address', '2595 3 AVENUE', 1
+'Address', '29 EAST 9 STREET', 2
+'Address', '2 WASHINGTON STREET', 1
+'Address', '17 GREENWICH AVENUE', 1
+'Address', '1819 AVENUE L', 1
+'Address', '4306 BROADWAY', 1
+'Address', '2A SPRUCE STREET', 1
+'Address', '276 MALCOLM X BOULEVARD', 1
+'Address', '534 WILSON AVENUE', 1
+'Address', '4366 BROADWAY', 1
+'Address', '74 WEST 52 STREET', 1
+'Address', '476 SENECA AVENUE', 1
+'Address', '162 3 AVENUE', 2
+'Address', '373 KINGS HIGHWAY', 1
+'Address', '85 CENTRE STREET', 2
+'Address', '9006 AVENUE B', 1
+'Address', '321 PARK AVENUE SOUTH', 2
+'Address', '107-29 71 AVENUE', 2
+'Address', '5604 4 AVENUE', 1
+'Address', '262 MADISON AVENUE', 2
+'Address', '25 MAIDEN LANE', 2
+'Address', '15 EAST 20 STREET', 2
+'Address', '201 CLINTON AVENUE', 1
+'Address', '223-15 UNION TURNPIKE', 1
+'Address', '95 AVENUE A', 1
+'Address', '241 SOUTH STREET', 1
+'Address', '380 LEXINGTON AVENUE', 2
+'Address', '104-01 ROOSEVELT AVENUE', 1
+'Address', '2 CENTRAL PARK SOUTH', 1
+'Address', '201 WEST 31 STREET', 2
+'Address', '163-10 CROSS BAY BOULEVARD', 1
+'Address', '1387 3 AVENUE', 1
+'Address', '100 WEST 96 STREET', 2
+'Address', '32 CLINTON STREET', 1
+'Address', '461 LINCOLN PLACE', 1
+'Address', '1848 3 AVENUE', 1
+'Address', '146 ST NICHOLAS AVENUE', 1
+'Address', '106 FULTON STREET', 1
+'Address', '250 EAST 14 STREET', 1
+'Address', '889 8 AVENUE', 1
+'Address', '2122 2 AVENUE', 1
+'Address', '4261 BROADWAY', 2
+'Address', '90-08 ELMHURST AVENUE', 2
+'Address', '191-19 JAMAICA AVENUE', 1
+'Address', '1280 BROADWAY', 2
+'Address', '2557 AMSTERDAM AVENUE', 1
+'Address', '325 CYPRESS AVENUE', 1
+'Address', '150 EAST 61 STREET', 2
+'Address', '42631 MAIN AVENUE', 1
+'Address', '45-01 QUEENS BOULEVARD', 1
+'Address', '103-25 ROOSEVELT AVENUE', 2
+'Address', '21-01 31 STREET', 1
+'Address', '238 WEST 100 STREET', 2
+'Address', '1830 1 AVENUE', 1
+'Address', '337 WEST 138 STREET', 1
+'Address', '2402 CONEY ISLAND AVENUE', 2
+'Address', '30-01 21 STREET', 1
+'Address', '364 WEST 53 STREET', 1
+'Address', '78 WEST 68 STREET', 1
+'Address', '1 LINCOLN PLAZA', 2
+'Address', '3932 BROADWAY', 1
+'Address', '705 EAST GUN HILL ROAD', 1
+'Address', '500 WEST 207 STREET', 1
+'Address', '221 CANAL STREET', 2
+'Address', '7725 5 AVENUE', 1
+'Address', '31 EAST 74 STREET', 1
+'Address', '1310 SURF AVENUE', 2
+'Address', '110-76 QUEENS BOULEVARD', 1
+'Address', '2100 AMSTERDAM AVENUE', 1
+'Address', '2701 AVENUE D', 1
+'Address', '10 WEST 25 STREET', 2
+'Address', '1955 1 AVENUE', 1
+'Address', '2522 NEWKIRK AVENUE', 1
+'Address', '423 MARCUS GARVEY BOULEVARD', 1
+'Address', '54-12 48 STREET', 1
+'Address', '311 MADISON AVENUE', 2
+'Address', '64-22 108 STREET', 3
+'Address', '16 DEY STREET', 2
+'Address', '295 COLUMBUS AVENUE', 1
+'Address', '410 WEST BROADWAY', 2
+'Address', '1510 YORK AVENUE', 1
+'Address', '233 WEST 77 STREET', 2
+'Address', '216-01 LINDEN BOULEVARD', 1
+'Address', '86 PENNSYLVANIA AVENUE', 1
+'Address', '1452 YORK AVENUE', 2
+'Address', '2 WEST 102 STREET', 1
+'Address', '502 9 AVENUE', 2
+'Address', '285 WEST END AVENUE', 1
+'Address', '1753 LEXINGTON AVENUE', 1
+'Address', '110-52 SUTPHIN BOULEVARD', 1
+'Address', '103 WEST 14 STREET', 1
+'Address', '140-15 HOLLY AVENUE', 1
+'Address', '985 BRUCKNER BOULEVARD', 1
+'Address', '603 BRIGHTON BEACH AVENUE', 1
+'Address', '1594 PITKIN AVENUE', 1
+'Address', '1602 MERMAID AVENUE', 1
+'Address', '330 BUSHWICK AVENUE', 1
+'Address', '919 CASTLE HILL AVENUE', 1
+'Address', '328 KINGSTON AVENUE', 1
+'Address', '2322 2 AVENUE', 1
+'Address', '3 VICTORY BOULEVARD', 1
+'Address', '776 6 AVENUE', 1
+'Address', '299 WYCKOFF AVENUE', 2
+'Address', '39-02 MAIN STREET', 1
+'Address', '14 EAST 75 STREET', 1
+'Address', '1418 MADISON AVENUE', 1
+'Address', '5102 13 AVENUE', 1
+'Address', '99 UNIVERSITY PLACE', 1
+'Address', '1592 YORK AVENUE', 1
+'Address', '101 WEST 23 STREET', 1
+'Address', '145-02 14 AVENUE', 1
+'Address', '2 WEST 46 STREET', 2
+'Address', '424 ROCKAWAY AVENUE', 1
+'Address', '378 BEDFORD PARK BOULEVARD', 1
+'Address', '6401 FT HAMILTON PARKWAY', 1
+'Address', '354 EAST 15 STREET', 1
+'Address', '351 LENOX AVENUE', 1
+'Address', '7804 FLATLANDS AVENUE', 1
+'Address', '36 WEST 60 STREET', 2
+'Address', '101 EAST 51 STREET', 2
+'Address', '695 ST NICHOLAS AVENUE', 1
+'Address', '257 PARK AVENUE SOUTH', 2
+'Address', '983 1 AVENUE', 2
+'Address', '3001 FOSTER AVENUE', 2
+'Address', '102-26 ROOSEVELT AVENUE', 2
+'Address', '559 BROOME STREET', 1
+'Address', '1794 FLATBUSH AVENUE', 1
+'Address', '82 LIBERTY STREET', 2
+'Address', '845 MC DONALD AVENUE', 1
+'Address', '2450 AMSTERDAM AVENUE', 1
+'Address', '350 JAY STREET', 1
+'Address', '20 5 AVENUE', 1
+'Address', '686 3 AVENUE', 1
+'Address', '75 9 AVENUE', 1
+'Address', '28 EAST 33 STREET', 1
+'Address', '59 CENTRE STREET', 1
+'Address', '213-03 JAMAICA AVENUE', 1
+'Address', '125 WEST 25 STREET', 1
+'Address', '17-17 HANCOCK STREET', 1
+'Address', '4311 BROADWAY', 1
+'Address', '1809 3 AVENUE', 1
+'Address', '665 9 AVENUE', 1
+'Address', '51 EAST 42 STREET', 2
+'Address', '215 EAST 161 STREET', 2
+'Address', '89 GREENWICH STREET', 1
+'Address', '9 EAST 39 STREET', 1
+'Address', '2187 BROADWAY', 2
+'Address', '11-02 BORDEN AVENUE', 1
+'Address', '110-58 MERRICK BOULEVARD', 1
+'Address', '92-03 JAMAICA AVENUE', 1
+'Address', '52 EAST 30 STREET', 1
+'Address', '2 WEST 47 STREET', 2
+'Address', '300 WEST 19 STREET', 2
+'Address', '212 AVENUE B', 1
+'Address', '2535 65 STREET', 1
+'Address', '2 EAST 57 STREET', 1
+'Address', '33 RECTOR STREET', 1
+'Address', '222-02 JAMAICA AVENUE', 1
+'Address', '1751 TOWNSEND AVENUE', 1
+'Address', '1545 MADISON AVENUE', 1
+'Address', '59 4 AVENUE', 1
+'Address', '1 EAST 43 STREET', 5
+'Address', '275 SUMNER AVENUE', 1
+'Address', '40-02 79 STREET', 2
+'Address', '3323 AVENUE H', 1
+'Address', '68-20 MYRTLE AVENUE', 1
+'Address', '877 EAST TREMONT AVENUE', 1
+'Address', '421 1 AVENUE', 1
+'Address', '952 MYRTLE AVENUE', 1
+'Address', '2 EAST 18 STREET', 1
+'Address', '161 AVENUE A', 1
+'Address', '133 WEST BROADWAY', 1
+'Address', '31 NAGLE AVENUE', 2
+'Address', '1148 FLATBUSH AVENUE', 1
+'Address', '160-16 20 ROAD', 1
+'Address', '119 LEXINGTON AVENUE', 1
+'Address', '850 8 AVENUE', 1
+'Address', '100 SMITH STREET', 1
+'Address', '1515 GRAND CONCOURSE', 2
+'Address', '2430 DAVIDSON AVENUE', 1
+'Address', '140 EAST 12 STREET', 1
+'Address', '713 FLATBUSH AVENUE', 1
+'Address', '2 TOMPKINS AVENUE', 1
+'Address', '1268 SUTTER AVENUE', 1
+'Address', '551 EAST 12 STREET', 1
+'Address', '1065 CASTLETON AVENUE', 1
+'Address', '115 5 AVENUE', 2
+'Address', '2 AMSTERDAM AVENUE', 1
+'Address', '2658 BROADWAY', 2
+'Address', '361 EAST 19 STREET', 1
+'Address', '20 EAST 28 STREET', 1
+'Address', '55 5 AVENUE', 2
+'Address', '2934 QUENTIN ROAD', 1
+'Address', '101 EAST 55 STREET', 1
+'Address', '147-02 89 AVENUE', 1
+'Address', '220 CORTELYOU ROAD', 1
+'Address', '306 WEST 12 STREET', 2
+'Address', '501 10 AVENUE', 2
+'Address', '39-35 BELL BOULEVARD', 1
+'Address', '260 BRIGHTON BEACH AVENUE', 1
+'Address', '1345 6 AVENUE', 2
+'Address', '1155 WEBSTER AVENUE', 1
+'Address', '218 WEST 48 STREET', 1
+'Address', '301 WEST 37 STREET', 1
+'Address', '46-19 48 AVENUE', 1
+'Address', '176 BOERUM STREET', 1
+'Address', '62-27 JUNCTION BOULEVARD', 1
+'Address', '103 JAY STREET', 1
+'Address', '375 PORT RICHMOND AVENUE', 1
+'Address', '76 WEST 37 STREET', 1
+'Address', '1551 3 AVENUE', 1
+'Address', '1151 BRIGHTON BEACH AVENUE', 1
+'Address', '850 LONGWOOD AVENUE', 1
+'Address', '1124 BROADWAY', 2
+'Address', '1074 MORRIS PARK AVENUE', 1
+'Address', '320 PARK AVENUE', 2
+'Address', '213-34 38 AVENUE', 1
+'Address', '29 EAST 46 STREET', 2
+'Address', '33-02 28 AVENUE', 1
+'Address', '120 EAST 23 STREET', 2
+'Address', '540 WEST 143 STREET', 2
+'Address', '2270 OCEAN AVENUE', 1
+'Address', '402 HUNTS POINT AVENUE', 1
+'Address', '120 11 AVENUE', 1
+'Address', '8523 FT HAMILTON PARKWAY', 1
+'Address', '402 6 AVENUE', 1
+'Address', '76 EAST 1 STREET', 1
+'Address', '188 UTICA AVENUE', 1
+'Address', '220-36 NORTHERN BOULEVARD', 1
+'Address', '538 NEW YORK AVENUE', 1
+'Address', '18-59 MOTT AVENUE', 1
+'Address', '49-19 108 STREET', 1
+'Address', '1722 UNION STREET', 1
+'Address', '95 10 AVENUE', 2
+'Address', '5 DIVISION STREET', 1
+'Address', '1701 AVENUE M', 1
+'Address', '650 REMSEN AVENUE', 1
+'Address', '103-03 101 AVENUE', 1
+'Address', '38 FT WASHINGTON AVENUE', 1
+'Address', '300 8 AVENUE,', 2
+'Address', '94 WEST END AVENUE,', 1
+'Address', '107-08 160 STREET,', 2
+'Address', '70-0 PARSONS BOULEVARD,', 1
+'Address', '1-1 SOUTH CONDUIT AVENUE,', 2
+'Address', '40 EAST 75 STREET,', 1
+'Address', '5995 BROADWAY,', 1
+'Address', '5 WEST 7 STREET,', 2
+'Address', '834 ST NICHOLAS AVENUE,', 1
+'Address', '34-45 LINDEN PLACE,', 1
+'Address', '306 FT WASHINGTON AVENUE,', 1
+'Address', '675 ALLERTON AVENUE,', 1
+'Address', '282 WEST 7 STREET,', 1
+'Address', '90 DYCKMAN STREET,', 1
+'Address', '71 BAYARD STREET,', 2
+'Address', 'BEAVER STREET,', 1
+'Address', '163 WEST 17 STREET,', 2
+'Address', '2500 VALENTINE AVENUE,', 1
+'Address', '461 PARK AVENUE,', 2
+'Address', '40 BROADWAY,', 2
+'Address', '285 MERMAID AVENUE,', 1
+'Address', '200 WEST 37 STREET,', 1
+'Address', '675 6 AVENUE,', 2
+'Address', '84-2 97 AVENUE,', 1
+'Address', '04-4 METROPOLITAN AVENUE,', 1
+'Address', '255-03 NORTHERN BOULEVARD,', 1
+'Address', '53 EAST 180 STREET,', 2
+'Address', '28 EAST 86 STREET,', 1
+'Address', '561 AMSTERDAM AVENUE,', 2
+'Address', '401 BROADWAY,', 2
+'Address', '88-06 LIBERTY AVENUE,', 1
+'Address', '35-6 VERNON BOULEVARD,', 1
+'Address', '762 LEXINGTON AVENUE,', 1
+'Address', '440 9 AVENUE,', 1
+'Address', '72 HYLAN BOULEVARD,', 1
+'Address', '247 WEST 0 STREET,', 1
+'Address', '487 COLUMBUS AVENUE,', 1
+'Address', '66 DELANCEY STREET,', 2
+'Address', '28 BRIGHTON BEACH AVENUE,', 1
+'Address', '205 RALPH AVENUE,', 1
+'Address', '0 EAST 28 STREET,', 1
+'Address', '2 EAST GUN HILL ROAD,', 3
+'Address', '385 BROOME STREET,', 2
+'Address', '5 HUDSON STREET,', 1
+'Address', '87 SHERMAN AVENUE,', 1
+'Address', '1 EAST 13 STREET,', 2
+'Address', '148 7 AVENUE,', 2
+'Address', '575 AMSTERDAM AVENUE,', 1
+'Address', '1948 1 AVENUE,', 2
+'Address', '354 NOSTRAND AVENUE,', 1
+'Address', '428 RALPH AVENUE,', 1
+'Address', '40-0 NATIONAL STREET,', 1
+'Address', '98 UTICA AVENUE,', 1
+'Address', '297 2 AVENUE,', 1
+'Address', '9-01 JUNCTION BOULEVARD,', 5
+'Address', '2236 AMSTERDAM AVENUE,', 1
+'Address', '76  AVENUE,', 3
+'Address', '153  AVENUE,', 2
+'Address', '80 LEXINGTON AVENUE,', 1
+'Address', '423 CORTELYOU ROAD,', 1
+'Address', '55 WORTH STREET,', 1
+'Address', '60-22 ROOSEVELT AVENUE,', 1
+'Address', '85 NASSAU AVENUE,', 1
+'Address', '502 BRIGHTON BEACH AVENUE,', 1
+'Address', '96 CANAL STREET,', 2
+'Address', '39-22 04 STREET,', 1
+'Address', '37-6 QUEENS BOULEVARD,', 1
+'Address', '13 IRVING PLACE,', 2
+'Address', '607 YORK AVENUE,', 1
+'Address', '902 KINGS HIGHWAY,', 1
+'Address', '67 SAND LANE,', 1
+'Address', '3660 EAST TREMONT AVENUE,', 1
+'Address', '2000  AVENUE,', 1
+'Address', '60 PARK AVENUE SOUTH,', 2
+'Address', 'BEEKMAN STREET,', 1
+'Address', '22 EAST 36 STREET,', 1
+'Address', '56 WEST 45 STREET,', 1
+'Address', '203 86 STREET,', 1
+'Address', '94 WARREN STREET,', 2
+'Address', '746 ASTOR AVENUE,', 1
+'Address', '288 ST NICHOLAS AVENUE,', 1
+'Address', '45 EAST 1 STREET,', 2
+'Address', '7-8 ATLANTIC AVENUE,', 1
+'Address', '77 LIVINGSTON STREET,', 1
+'Address', '2837 ATLANTIC AVENUE,', 1
+'Address', 'EAST 37 STREET,', 1
+'Address', '74-0 ATLANTIC AVENUE,', 1
+'Address', '1151 SUTTER AVENUE,', 2
+'Address', '4902 0 AVENUE,', 1
+'Address', '6009 4 AVENUE,', 1
+'Address', '133 WEST 38 STREET,', 2
+'Address', '50 CLAREMONT PARKWAY,', 1
+'Address', '2036 2 AVENUE,', 1
+'Address', '23-39 ASTORIA BOULEVARD,', 1
+'Address', '89 LOTT AVENUE,', 1
+'Address', '429 WEST 29 STREET,', 1
+'Address', '46 WEST 5 STREET,', 2
+'Address', '22 WEST 34 STREET,', 1
+'Address', '5-02 LIBERTY AVENUE,', 1
+'Address', 'LENOX AVENUE,', 2
+'Address', '28 2 AVENUE,', 1
+'Address', '66 WEST 14 STREET,', 2
+'Address', '84-02 BROADWAY,', 1
+'Address', '60 GREENWICH STREET,', 2
+'Address', '42446 27 AVENUE,', 1
+'Address', '69 AMSTERDAM AVENUE,', 2
+'Address', '99 BOWERY,', 2
+'Address', '501 WEST 181 STREET,', 2
+'Address', '130 EAST 43 STREET,', 2
+'Address', '32-56 96 STREET,', 1
+'Address', '645 9 AVENUE,', 2
+'Address', '48 EAST 2 STREET,', 1
+'Address', '83-0 MYRTLE AVENUE,', 1
+'Address', '280 UTICA AVENUE,', 1
+'Address', '145 EAST  STREET,', 2
+'Address', '741 COLUMBUS AVENUE,', 2
+'Address', '58 9 AVENUE,', 2
+'Address', '74 ST NICHOLAS AVENUE,', 1
+'Address', '20 EAST 3 STREET,', 1
+'Address', '3006 STILLWELL AVENUE,', 1
+'Address', '0-0 ROCKAWAY BOULEVARD,', 1
+'Address', '297 NOSTRAND AVENUE,', 1
+'Address', '1  AVENUE,', 2
+'Address', '151 EAST 31 STREET,', 2
+'Address', '26 CANAL STREET,', 1
+'Address', '0 COURT STREET,', 2
+'Address', '40 EAST 8 STREET,', 1
+'Address', '45-37 BELL BOULEVARD,', 1
+'Address', '2926 AVENUE I,', 1
+'Address', '581 9 AVENUE,', 2
+'Address', '363 EAST 76 STREET,', 1
+'Address', '424 CHURCH AVENUE,', 1
+'Address', '27 SUTTER AVENUE,', 1
+'Address', '300 3 AVENUE,', 1
+'Address', '676 MORRIS PARK AVENUE,', 1
+'Address', '59-89 HOFFMAN DRIVE,', 2
+'Address', '263 BLAKE AVENUE,', 1
+'Address', '48 AUDUBON AVENUE,', 1
+'Address', '28 LUDLOW STREET,', 1
+'Address', '1446  AVENUE,', 2
+'Address', '00 6 AVENUE,', 1
+'Address', '267 COLUMBUS AVENUE,', 1
+'Address', '3 EAST 108 STREET,', 2
+'Address', '609 FRANKLIN AVENUE,', 1
+'Address', '587 EAST 87 STREET,', 1
+'Address', '96-03 69 AVENUE,', 1
+'Address', '38 ORCHARD STREET,', 1
+'Address', '00 WEST 44 STREET,', 1
+'Address', '80 WALL STREET,', 1
+'Address', '54-0 METROPOLITAN AVENUE,', 1
+'Address', '90 LEXINGTON AVENUE,', 1
+'Address', '234 8 AVENUE,', 1
+'Address', '90 LEXINGTON AVENUE,', 1
+'Address', '240 GRAND STREET,', 1
+'Address', '204-9 JAMAICA AVENUE,', 1
+'Address', '39 CANAL STREET,', 2
+'Address', '44 9 AVENUE,', 1
+'Address', '99 LEXINGTON AVENUE,', 2
+'Address', '730 5 AVENUE,', 1
+'Address', '468 8 AVENUE,', 1
+'Address', '6-02 UNION TURNPIKE,', 1
+'Address', '73 WEST 4 STREET,', 1
+'Address', '673 AMSTERDAM AVENUE,', 2
+'Address', '702 65 STREET,', 1
+'Address', '2 WEST 125 STREET,', 3
+'Address', '40-28 MAIN STREET,', 1
+'Address', '286 FT WASHINGTON AVENUE,', 1
+'Address', '35 EAST 06 STREET,', 1
+'Address', '94 AVENUE A,', 1
+'Address', '06 AVENUE U,', 2
+'Address', '34-02 CROSS BAY BOULEVARD,', 1
+'Address', '89 TILLARY STREET,', 1
+'Address', '68 BROADWAY,', 2
+'Address', '58 AVENUE O,', 1
+'Address', 'EAST FORDHAM ROAD,', 3
+'Address', '29 AUDUBON AVENUE,', 1
+'Address', '93-25 ROCKAWAY BOULEVARD,', 1
+'Address', '248 EAST 44 STREET,', 1
+'Address', '3030 WESTCHESTER AVENUE,', 1
+'Address', '60 6 AVENUE,', 2
+'Address', '3896 BROADWAY,', 1
+'Address', '95-04 SUTPHIN BOULEVARD,', 1
+'Address', '80 NEPTUNE AVENUE,', 1
+'Address', '200 MORRIS PARK AVENUE,', 1
+'Address', '42- BOWNE STREET,', 1
+'Address', '48 2 AVENUE,', 1
+'Address', '1365 3 AVENUE,', 2
+'Address', '895 AMSTERDAM AVENUE,', 2
+'Address', '0 WEST 32 STREET,', 1
+'Address', '860 9 AVENUE,', 1
+'Address', '80 WEST 15 STREET,', 2
+'Address', '66 11 AVENUE,', 2
+'Address', '249 BEDFORD AVENUE,', 1
+'Address', '350 3 AVENUE,', 2
+'Address', '3 MAIDEN LANE,', 2
+'Address', '1 WEST 7 STREET,', 4
+'Address', '2 EAST 86 STREET,', 1
+'Address', '7 LEXINGTON AVENUE,', 1
+'Address', '9-83  STREET,', 1
+'Address', '311 6 AVENUE,', 2
+'Address', '6 7 AVENUE SOUTH,', 1
+'Address', '86 BROADWAY,', 1
+'Address', '82-26 45 AVENUE,', 1
+'Address', '28-4 STEINWAY STREET,', 1
+'Address', '2 EAST 88 STREET,', 1
+'Address', '29-2 26 AVENUE,', 1
+'Address', '90 DUANE STREET,', 1
+'Address', '29 AVENUE D,', 1
+'Address', '684 3 AVENUE,', 1
+'Address', '03-07 ROOSEVELT AVENUE,', 1
+'Address', '6-50 SPRINGFIELD BOULEVARD,', 1
+'Address', '26-0 HILLSIDE AVENUE,', 1
+'Address', '500 2 AVENUE,', 1
+'Address', '39 WEST 63 STREET,', 2
+'Address', '504 WEST 207 STREET,', 1
+'Address', '115 3 AVENUE,', 2
+'Address', '3578 BROADWAY,', 2
+'Address', '100 WEST 47 STREET,', 2
+'Address', '101 EAST 33 STREET,', 2
+'Address', '66 9 AVENUE,', 2
+'Address', '2 GALLATIN PLACE,', 1
+'Address', '40 WEST BROADWAY,', 2
+'Address', '92 7 AVENUE,', 1
+'Address', '797 LEXINGTON AVENUE,', 1
+'Address', '41 JOHN STREET,', 2
+'Address', '87-02 88 STREET,', 1
+'Address', '300 EAST 23 STREET,', 1
+'Address', '904 HUNTS POINT AVENUE,', 1
+'Address', '76 9 AVENUE,', 2
+'Address', '53 CHAMBERS STREET,', 1
+'Address', '5924 8 AVENUE,', 1
+'Address', '53 EAST 184 STREET,', 2
+'Address', '308 EMMONS AVENUE,', 1
+'Address', '589 AMSTERDAM AVENUE,', 2
+'Address', '6902 FT HAMILTON PARKWAY,', 1
+'Address', '624 8 AVENUE,', 1
+'Address', '03 GREENWICH AVENUE,', 1
+'Address', '608 ROGERS AVENUE,', 1
+'Address', '570 CHURCH AVENUE,', 1
+'Address', '2324 FOREST AVENUE,', 1
+'Address', '0  AVENUE,', 1
+'Address', '5-9 FARMERS BOULEVARD,', 1
+'Address', '130 EAST 47 STREET,', 2
+'Address', '40 WEST 42 STREET,', 1
+'Address', '56 WEST 32 STREET,', 1
+'Address', '600 EAST 4 STREET,', 1
+'Address', '39-20 48 AVENUE,', 1
+'Address', '498 LENOX AVENUE,', 1
+'Address', '350 AUDUBON AVENUE,', 1
+'Address', '59 CANAL STREET,', 1
+'Address', '1369 3 AVENUE,', 2
+'Address', '250 EAST 82 STREET,', 1
+'Address', '40 NASSAU STREET,', 2
+'Address', '2275 BEDFORD AVENUE,', 1
+'Address', '60 BEAVER STREET,', 1
+'Address', '431 1 AVENUE,', 2
+'Address', '2 FLATLANDS AVENUE,', 1
+'Address', '8 MOTHER GASTON BOULEVARD,', 2
+'Address', '27 RALPH AVENUE,', 1
+'Address', '40 BROADWAY,', 1
+'Address', '60 EAST 65 STREET,', 1
+'Address', '23 EAST TREMONT AVENUE,', 1
+'Address', '1 NEVINS STREET,', 2
+'Address', '341 GRAND STREET,', 2
+'Address', '341 EAST 79 STREET,', 2
+'Address', '564 WEST 169 STREET,', 2
+'Address', '8402 NEW UTRECHT AVENUE,', 1
+'Address', '68 4 AVENUE,', 1
+'Address', '540 AUDUBON AVENUE,', 1
+'Address', '89-55 FRANCIS LEWIS BOULEVARD,', 2
+'Address', '552 GLENWOOD ROAD,', 1
+'Address', '82-23 BROADWAY,', 1
+'Address', '205 WEST BROADWAY,', 1
+'Address', '575 WEST 83 STREET,', 1
+'Address', '5 HYLAN BOULEVARD,', 1
+'Address', '44 PARK AVENUE SOUTH,', 2
+'Address', '535 AMSTERDAM AVENUE,', 1
+'Address', '588  AVENUE,', 1
+'Address', '65 WEST 37 STREET,', 2
+'Address', '97 PARK AVENUE SOUTH,', 2
+'Address', '70 BROADWAY,', 2
+'Address', '082 FLATLANDS AVENUE,', 1
+'Address', '17 AVENUE C,', 2
+'Address', '88-2 37 AVENUE,', 1
+'Address', '1663 BROADWAY,', 2
+'Address', '30 WEST 5 STREET,', 1
+'Address', '6702 8 AVENUE,', 1
+'Address', '9706 AVENUE M,', 1
+'Address', '80-03 QUEENS BOULEVARD,', 2
+'Address', '866 3 AVENUE,', 2
+'Address', '01 EAST 39 STREET,', 2
+'Address', '4623 6 AVENUE,', 1
+'Address', '3 EAST 46 STREET,', 1
+'Address', '238 WEST 78 STREET,', 1
+'Address', '40 WEST 48 STREET,', 1
+'Address', '11 WEST 53 STREET,', 2
+'Address', '320 FULTON STREET,', 1
+'Address', '52 BAY STREET,', 1
+'Address', '27 EAST 9 STREET,', 1
+'Address', '53-50 84 STREET,', 1
+'Address', '170 AVENUE U,', 2
+'Address', '100 WEST 33 STREET,', 2
+'Address', '23 EAST 3 STREET,', 1
+'Address', '88  AVENUE,', 2
+'Address', '7 5 AVENUE,', 1
+'Address', '242 AMSTERDAM AVENUE,', 1
+'Address', '465 10 AVENUE,', 2
+'Address', '59 10 AVENUE,', 2
+'Address', '26 SURF AVENUE,', 1
+'Address', '35-27 FARRINGTON STREET,', 1
+'Address', '234 CONEY ISLAND AVENUE,', 1
+'Address', 'WEST 55 STREET,', 2
+'Address', '400 MADISON AVENUE,', 2
+'Address', '86-0 5 AVENUE,', 1
+'Address', '25 EAST FORDHAM ROAD,', 1
+'Address', '93-33 JAMAICA AVENUE,', 1
+'Address', '45-05 ROCKAWAY BOULEVARD,', 1
+'Address', '242 EAST 36 STREET,', 1
+'Address', '08-0 QUEENS BOULEVARD,', 1
+'Address', '2405 AVENUE U,', 1
+'Address', '53 WEST 34 STREET,', 2
+'Address', '325 CORTELYOU ROAD,', 1
+'Address', '542 MYRTLE AVENUE,', 1
+'Address', '5 BOND STREET,', 2
+'Address', '74 WEST 45 STREET,', 2
+'Address', '441 BROADWAY,', 2
+'Address', '43-20 BELL BOULEVARD,', 1
+'Address', '366 MADISON AVENUE,', 1
+'Address', '75 WEST 48 STREET,', 1
+'Address', '43 SHERMAN AVENUE,', 1
+'Address', '88-9 ROOSEVELT AVENUE,', 1
+'Address', '491 1 AVENUE,', 2
+'Address', '9 BEDFORD PARK BOULEVARD,', 2
+'Address', '300 EAST 83 STREET,', 1
+'Address', '96-4 QUEENS BOULEVARD,', 2
+'Address', '40 5 AVENUE,', 1
+'Address', '2 ROCKAWAY PARKWAY,', 1
+'Address', '390 WHITE PLAINS ROAD,', 1
+'Address', '315 7 AVENUE,', 2
+'Address', '159 1 AVENUE,', 2
+'Address', '360 PARK AVENUE SOUTH,', 2
+'Address', '3879 BROADWAY,', 1
+'Address', '2003 ROCKAWAY PARKWAY,', 1
+'Address', '20 7 AVENUE,', 1
+'Address', '37 EAST 40 STREET,', 1
+'Address', '310 KINGS HIGHWAY,', 2
+'Address', '20 EAST 46 STREET,', 1
+'Address', '49-2 QUEENS BOULEVARD,', 1
+'Address', '2 WEST 0 STREET,', 1
+'Address', '09-5 CROSS BAY BOULEVARD,', 1
+'Address', '90 EAST 7 STREET,', 1
+'Address', '3029 MERMAID AVENUE,', 1
+'Address', '477 LENOX AVENUE,', 1
+'Address', '94-20 63 DRIVE,', 1
+'Address', '39 EAST 204 STREET,', 1
+'Address', 'LEWIS AVENUE,', 1
+'Address', '8767 16 AVENUE,', 2
+'Address', '905 WHITE PLAINS ROAD,', 1
+'Address', '765 FLATBUSH AVENUE,', 1
+'Address', '54 BROADWAY,', 1
+'Address', '30-49 STEINWAY STREET,', 1
+'Address', '71 ALLEN STREET,', 2
+'Address', '4723 5 AVENUE,', 1
+'Address', '18 LENOX AVENUE,', 2
+'Address', '88 TOMPKINS AVENUE,', 1
+'Address', '374 METROPOLITAN AVENUE,', 1
+'Address', '550 WEST 55 STREET,', 1
+'Address', '70-49 KESSEL STREET,', 1
+'Address', '63-0 JAMAICA AVENUE,', 1
+'Address', '385 BAY STREET,', 1
+'Address', '7 EAST 33 STREET,', 2
+'Address', '589 SENECA AVENUE,', 1
+'Address', '-04 LEFFERTS BOULEVARD,', 1
+'Address', '900 AMSTERDAM AVENUE,', 2
+'Address', '35-44 UTOPIA PARKWAY,', 1
+'Address', '255 2 AVENUE,', 1
+'Address', '8 WEST 3 STREET,', 1
+'Address', '27-0 NORTHERN BOULEVARD,', 1
+'Address', '9 FULTON STREET,', 1
+'Address', '0 BRIGHTON BEACH AVENUE,', 1
+'Address', '202 2 AVENUE,', 1
+'Address', '6-03 NORTHERN BOULEVARD,', 1
+'Address', '1740 AMSTERDAM AVENUE,', 2
+'Address', '548 WATSON AVENUE,', 1
+'Address', '30 RIVINGTON STREET,', 1
+'Address', '639 9 AVENUE,', 2
+'Address', '235-03 BRADDOCK AVENUE,', 1
+'Address', '9 BROADWAY,', 2
+'Address', '625 2 AVENUE,', 1
+'Address', '36-08 3 STREET,', 1
+'Address', '44-06 ROCKAWAY BOULEVARD,', 1
+'Address', '20-22 0 AVENUE,', 1
+'Address', '226 WEST 86 STREET,', 1
+'Address', '942 AVENUE L,', 1
+'Address', 'OLIVER STREET,', 1
+'Address', '39-0 PRINCE STREET,', 1
+'Address', '822 ROGERS AVENUE,', 1
+'Address', '139 EAST 57 STREET,', 2
+'Address', '38-2 04 STREET,', 1
+'Address', '200 METCALF AVENUE,', 1
+'Address', '74 SUTTER AVENUE,', 1
+'Address', '457 BROADWAY,', 1
+'Address', '95 5 AVENUE,', 2
+'Address', '27 WEST 47 STREET,', 1
+'Address', '1675 LEXINGTON AVENUE,', 2
+'Address', '75 DYCKMAN STREET,', 1
+'Address', '237 ROGERS AVENUE,', 1
+'Address', '4767 BROADWAY,', 2
+'Address', '3363 BAYCHESTER AVENUE,', 1
+'Address', '1998 BROADWAY,', 2
+'Address', '85 AMSTERDAM AVENUE,', 1
+'Address', '42 FULTON STREET,', 1
+'Address', 'WEST 2 STREET,', 1
+'Address', '305 6 AVENUE,', 1
+'Address', '06 LIBERTY STREET,', 1
+'Address', '45-45 KISSENA BOULEVARD,', 1
+'Address', '9-3 MERRICK BOULEVARD,', 1
+'Address', '450 FT HAMILTON PARKWAY,', 1
+'Address', '9-9 DITMARS BOULEVARD,', 2
+'Address', '134 BROADWAY,', 2
+'Address', '2 WEST FORDHAM ROAD,', 1
+'Address', '238 WHITE PLAINS ROAD,', 1
+'Address', '706 CASTLE HILL AVENUE,', 1
+'Address', '500 BOSTON ROAD,', 1
+'Address', '2220 60 STREET,', 1
+'Address', '45-8 FARMERS BOULEVARD,', 1
+'Address', '3 ABRAHAM KAZAN STREET,', 1
+'Address', '65-20 ROOSEVELT AVENUE,', 1
+'Address', '36 6 AVENUE,', 1
+'Address', '40 WEST 50 STREET,', 1
+'Address', '257 2 AVENUE,', 1
+'Address', '53 9 AVENUE,', 2
+'Address', '2-00 49 AVENUE,', 1
+'Address', '623 AVENUE U,', 1
+'Address', '71 EAST HOUSTON STREET,', 2
+'Address', '111 FRONT STREET,', 2
+'Address', '1130 1 AVENUE,', 2
+'Address', '323 MADISON STREET,', 1
+'Address', '41 LENOX AVENUE,', 2
+'Address', '647 ALBANY AVENUE,', 1
+'Address', '450 CHURCH AVENUE,', 1
+'Address', '26 8 AVENUE,', 1
+'Address', '355 EAST 61 STREET,', 2
+'Address', '2 WARREN STREET,', 1
+'Address', '3027 STILLWELL AVENUE,', 1
+'Address', '472 WILSON AVENUE,', 1
+'Address', '46 JAMAICA AVENUE,', 2
+'Address', '582 ALBANY AVENUE,', 1
+'Address', '788 ROGERS AVENUE,', 2
+'Address', '6 ST JAMES PLACE,', 1
+'Address', '2376 AMSTERDAM AVENUE,', 1
+'Address', '3845 BROADWAY,', 1
+'Address', '563 WEST 44 STREET,', 1
+'Address', '0 EAST 54 STREET,', 1
+'Address', '68 4 AVENUE,', 1
+'Address', '66 PARK AVENUE,', 1
+'Address', '692 FLATBUSH AVENUE,', 1
+'Address', '45-0 KISSENA BOULEVARD,', 1
+'Address', '5 EAST 47 STREET,', 2
+'Address', '150 WATER STREET,', 2
+'Address', '61-8 SPRINGFIELD BOULEVARD,', 2
+'Address', '555 7 AVENUE,', 4
+'Address', '66-02 FRESH POND ROAD,', 1
+'Address', '32-55 08 STREET,', 1
+'Address', '661 9 AVENUE,', 2
+'Address', '88-03 MERRICK BOULEVARD,', 1
+'Address', '660 RICHMOND AVENUE,', 1
+'Address', '77 8 AVENUE,', 1
+'Address', '77 WEST 55 STREET,', 2
+'Address', '44 AMSTERDAM AVENUE,', 1
+'Address', '59-4 MYRTLE AVENUE,', 1
+'Address', '905 LORIMER STREET,', 1
+'Address', '60 PITKIN AVENUE,', 1
+'Address', '156 5 AVENUE,', 2
+'Address', '496 BEACH CHANNEL DRIVE,', 1
+'Address', '240 ADAM CLAYTO POWEL BLVD,', 1
+'Address', '499 WEST 27 STREET,', 1
+'Address', '50 49 STREET,', 1
+'Address', '6-30 GUY R BREWER BOULEVARD,', 1
+'Address', '8707 FLATLANDS AVENUE,', 1
+'Address', '6 BOND STREET,', 2
+'Address', '35-53 1 STREET,', 2
+'Address', '84 9 AVENUE,', 2
+'Address', '904 POST AVENUE,', 1
+'Address', '28-55 34 STREET,', 1
+'Address', '360 AMSTERDAM AVENUE,', 1
+'Address', '346  AVENUE,', 1
+'Address', '330 CHURCH STREET,', 1
+'Address', '39-42 4 AVENUE,', 1
+'Address', '402 WEBSTER AVENUE,', 1
+'Address', '5402 AVENUE N,', 1
+'Address', '179 EMMONS AVENUE,', 2
+'Address', '43-01 47 AVENUE,', 2
+'Address', '2 RALPH AVENUE,', 1
+'Address', '350 WEST 25 STREET,', 1
+'Address', '60 EAST 5 STREET,', 2
+'Address', '164 WEST 34 STREET,', 2
+'Address', '2095 CONEY ISLAND AVENUE,', 1
+'Address', '7 KEAP STREET,', 1
+'Address', '846 3 AVENUE,', 1
+'Address', '07-29 METROPOLITAN AVENUE,', 1
+'Address', '63-57 FRESH POND ROAD,', 1
+'Address', '82 EAST 42 STREET,', 1
+'Address', '453 STERLING PLACE,', 1
+'Address', '3696 BROADWAY,', 1
+'Address', '5536 BROADWAY,', 1
+'Address', '2570 8 AVENUE,', 1
+'Address', '430 CHURCH AVENUE,', 1
+'Address', '477  AVENUE,', 1
+'Address', '333 9 AVENUE,', 1
+'Address', '88 LEXINGTON AVENUE,', 2
+'Address', '205 BRIGHTON BEACH AVENUE,', 1
+'Address', '609 9 AVENUE,', 1
+'Address', '4-25 GREENPOINT AVENUE,', 1
+'Address', '90 5 AVENUE,', 1
+'Address', '51 IRVING PLACE,', 2
+'Address', '240 WEST 40 STREET,', 1
+'Address', '35-97 46 STREET,', 1
+'Address', '32 SEIGEL STREET,', 1
+'Address', '498 WEST 55 STREET,', 1
+'Address', '84-54 63 ROAD,', 1
+'Address', '358 WEST 48 STREET,', 1
+'Address', '72 WEST 88 STREET,', 1
+'Address', '2 EAST 83 STREET,', 1
+'Address', '25 EAST 32 STREET,', 1
+'Address', '809 WEST 77 STREET,', 1
+'Address', '4708 CHURCH AVENUE,', 1
+'Address', '45-75 BELL BOULEVARD,', 1
+'Address', '30 WEST 38 STREET,', 2
+'Address', '836 6 AVENUE,', 2
+'Address', '20 EAST 75 STREET,', 1
+'Address', '684  AVENUE,', 2
+'Address', '08 MORRIS PARK AVENUE,', 1
+'Address', '28-20 DITMARS BOULEVARD,', 1
+'Address', '57 MADISON AVENUE,', 1
+'Address', '659 11 AVENUE,', 2
+'Address', '151 DYCKMAN STREET,', 2
+'Address', '50 6 AVENUE,', 1
+'Address', '27 MORNINGSIDE AVENUE,', 1
+'Address', '64-24 ROOSEVELT AVENUE,', 1
+'Address', '0 WEST 5 STREET,', 1
+'Address', '33  AVENUE,', 1
+'Address', '319 5 AVENUE,', 2
+'Address', '459 MC DONALD AVENUE,', 1
+'Address', '356 6 AVENUE,', 1
+'Address', '350 BROADWAY,', 2
+'Address', '54-01 BEACH CHANNEL DRIVE,', 2
+'Address', '11 EAST 68 STREET,', 2
+'Address', '530 MERMAID AVENUE,', 1
+'Address', '92 BROADWAY,', 1
+'Address', '26-9 MERRICK BOULEVARD,', 1
+'Address', '96-0 ROOSEVELT AVENUE,', 2
+'Address', '44-76 KISSENA BOULEVARD,', 1
+'Address', '0-9 ATLANTIC AVENUE,', 1
+'Address', '037 BROADWAY,', 1
+'Address', '70 WEST 06 STREET,', 1
+'Address', '2296 WEBSTER AVENUE,', 1
+'Address', '86-30 86 STREET,', 1
+'Address', '20 EAST 27 STREET,', 1
+'Address', '107 WEST 57 STREET,', 2
+'Address', '255 KINGS HIGHWAY,', 1
+'Address', '45 WILLIAM STREET,', 1
+'Address', '500 WEST 22 STREET,', 1
+'Address', '26 4 AVENUE,', 1
+'Address', '891 7 AVENUE,', 2
+'Address', '37-02 UNION STREET,', 1
+'Address', '48-36 LIBERTY AVENUE,', 1
+'Address', '40 TIEMANN PLACE,', 1
+'Address', '56 WEST 52 STREET,', 1
+'Address', '307 MADISON AVENUE,', 1
+'Address', '300 EAST 58 STREET,', 2
+'Address', '200 WESTCHESTER AVENUE,', 1
+'Address', '50 EAST 95 STREET,', 2
+'Address', '289 PITKIN AVENUE,', 1
+'Address', '601 9 AVENUE,', 2
+'Address', '0 EAST 39 STREET,', 1
+'Address', '87 6 AVENUE,', 1
+'Address', '435 1 AVENUE,', 2
+'Address', '00 WEST 4 STREET,', 1
+'Address', '23-34 35 AVENUE,', 1
+'Address', '57 WEST 25 STREET,', 1
+'Address', '6 STATE STREET,', 2
+'Address', '1165 BROADWAY,', 2
+'Address', '68 ELIZABETH STREET,', 1
+'Address', '2875 FLATBUSH AVENUE,', 1
+'Address', '658 FOREST AVENUE,', 1
+'Address', '579 WESTCHESTER AVENUE,', 1
+'Address', '757 BROADWAY,', 2
+'Address', '95-4 JAMAICA AVENUE,', 1
+'Address', '97-02 NORTHERN BOULEVARD,', 1
+'Address', '180 MADISON AVENUE,', 2
+'Address', '80 6 AVENUE,', 1
+'Address', '274a BRIGHTON BEACH AVENUE,', 1
+'Address', '205 ADAM CLAYTON POWELL JR BOULEVARD,', 1
+'Address', '30 AMSTERDAM AVENUE,', 2
+'Address', '108  AVENUE,', 2
+'Address', '0 EAST 13 STREET,', 2
+'Address', '57 WEST 53 STREET,', 1
+'Address', '4-49 50 STREET,', 1
+'Address', '1613 ORIENTAL BOULEVARD,', 2
+'Address', '402 5 AVENUE,', 1
+'Address', '576 0 AVENUE,', 1
+'Address', '235 PENNSYLVANIA AVENUE,', 1
+'Address', '360 KNICKERBOCKER AVENUE,', 1
+'Address', '737 LYDIG AVENUE,', 1
+'Address', '459 KINGS HIGHWAY,', 1
+'Address', '269 ROGERS AVENUE,', 1
+'Address', '305 WEST 58 STREET,', 1
+'Address', '30-2 30 AVENUE,', 1
+'Address', '9420 KINGS HIGHWAY,', 1
+'Address', '6 EAST 45 STREET,', 1
+'Address', '846 6 AVENUE,', 2
+'Address', '40 WEST 54 STREET,', 1
+'Address', '66-07 HILLSIDE AVENUE,', 1
+'Address', '675 CONEY ISLAND AVENUE,', 1
+'Address', '702 NEPTUNE AVENUE,', 1
+'Address', '300 EAST 88 STREET,', 2
+'Address', '80 CHURCH STREET,', 1
+'Address', '753 AVENUE Y,', 1
+'Address', '025 EAST 63 STREET,', 1
+'Address', '61 5 AVENUE,', 2
+'Address', '1595 LEXINGTON AVENUE,', 2
+'Address', '130 5 AVENUE,', 2
+'Address', '552 LA GUARDIA PLACE,', 1
+'Address', '95-9 63 DRIVE,', 1
+'Address', '90-25 6 STREET,', 1
+'Address', '4 WADSWORTH AVENUE,', 1
+'Address', '300 ST NICHOLAS AVENUE,', 1
+'Address', '02-2 ASTORIA BOULEVARD,', 1
+'Address', '209-4 35 AVENUE,', 1
+'Address', '69-54 MAIN STREET,', 2
+'Address', '160 WEST 14 STREET,', 2
+'Address', '10 5 AVENUE,', 2
+'Address', '275 YORK AVENUE,', 1
+'Address', '30 EAST 64 STREET,', 1
+'Address', '235 LEXINGTON AVENUE,', 1
+'Address', '20 WEST 74 STREET,', 1
+'Address', '40 CHURCH STREET,', 1
+'Address', '2-0 ROOSEVELT AVENUE,', 1
+'Address', '703 3 AVENUE,', 2
+'Address', '3 PEARL STREET,', 2
+'Address', '02 CORTELYOU ROAD,', 1
+'Address', '76 CANAL STREET,', 2
+'Address', '08 WEST 56 STREET,', 2
+'Address', '559 EAST TREMONT AVENUE,', 1
+'Address', '1-01 44 DRIVE,', 2
+'Address', '24-9 DITMARS BOULEVARD,', 1
+'Address', '100 WEST 56 STREET,', 2
+'Address', '86 ORCHARD STREET,', 1
+'Address', '200 STARLING AVENUE,', 1
+'Address', '674 BROADWAY,', 1
+'Address', '5660 BROADWAY,', 1
+'Address', '440 AVENUE N,', 1
+'Address', '5424 AVENUE I,', 1
+'Address', '35 EAST 04 STREET,', 1
+'Address', '81 BROAD STREET,', 2
+'Address', '500 MADISON AVENUE,', 3
+'Address', '03 LAFAYETTE STREET,', 2
+'Address', '33-59 4 ROAD,', 1
+'Address', '95 BROADWAY,', 2
+'Address', '2302 2 AVENUE,', 1
+'Address', '46 EAST 6 STREET,', 1
+'Address', '3040 AVENUE U,', 1
+'Address', '500 4 AVENUE,', 1
+'Address', '48 HESTER STREET,', 1
+'Address', '420 2 AVENUE,', 1
+'Address', '22 EAST BROADWAY,', 1
+'Address', '700 BURKE AVENUE,', 1
+'Address', '94-20 37 AVENUE,', 1
+'Address', '7323 3 AVENUE,', 1
+'Address', '007 BRIGHTON BEACH AVENUE,', 1
+'Address', '8 BROADWAY,', 1
+'Address', '604 5 AVENUE,', 1
+'Address', '5 EAST 50 STREET,', 2
+'Address', '2-02 ROCKAWAY BOULEVARD,', 1
+'Address', '5 ST JAMES PLACE,', 2
+'Address', '400 EAST 88 STREET,', 2
+'Address', '22 ADAM CLAYTON POWELL JR BOULEVARD,', 1
+'Address', '200 EAST GUN HILL ROAD,', 1
+'Address', '99 WEST 95 STREET,', 2
+'Address', '198 MADISON AVENUE,', 2
+'Address', '00 7 AVENUE,', 1
+'Address', '659 EAST 80 STREET,', 1
+'Address', '4901 4 AVENUE,', 2
+'Address', '1037 6 AVENUE,', 2
+'Address', '44 WEST 55 STREET,', 1
+'Address', '363 8 AVENUE,', 1
+'Address', '368 FLATBUSH AVENUE EXTENSION,', 1
+'Address', '1083  AVENUE,', 2
+'Address', '16-04 LIBERTY AVENUE,', 2
+'Address', '76-02 MAIN STREET,', 1
+'Address', '77-0 34 AVENUE,', 2
+'Address', '388 WEST STREET,', 1
+'Address', '522 MORRIS AVENUE,', 1
+'Address', '80-03 PARSONS BOULEVARD,', 1
+'Address', '670 ROGERS AVENUE,', 1
+'Address', '6 SURF AVENUE,', 1
+'Address', '492 HYLAN BOULEVARD,', 1
+'Address', '394 BROADWAY,', 2
+'Address', '89 EAST BROADWAY,', 1
+'Address', '1205 BROADWAY,', 3
+'Address', '1668 BROADWAY,', 2
+'Address', '700 BROADWAY,', 2
+'Address', '4360 BROADWAY,', 2
+'Address', '37 LEXINGTON AVENUE,', 1
+'Address', '269 VIRGINIA AVENUE,', 1
+'Address', '502 AVENUE U,', 1
+'Address', '900 COLUMBUS AVENUE,', 1
+'Address', 'CENTRE STREET,', 1
+'Address', '980 MORRIS AVENUE,', 1
+'Address', '07-44 SUTPHIN BOULEVARD,', 1
+'Address', '960 6 AVENUE,', 2
+'Address', '1430 BROADWAY,', 2
+'Address', '87-03 ROCKAWAY BEACH BOULEVARD,', 1
+'Address', '392 CONEY ISLAND AVENUE,', 1
+'Address', '76 WATER STREET,', 2
+'Address', '7 KINGSLAND AVENUE,', 1
+'Address', '61 EAST 71 STREET,', 2
+'Address', '030 CASTLE HILL AVENUE,', 1
+'Address', '995 6 AVENUE,', 1
+'Address', '50-02 QUEENS BOULEVARD,', 1
+'Address', '26-0 JAMAICA AVENUE,', 1
+'Address', '2300 AMSTERDAM AVENUE,', 1
+'Address', '92 ALLEN STREET,', 1
+'Address', '478 1 AVENUE,', 2
+'Address', '5 BAYARD STREET,', 2
+'Address', '59 1 AVENUE,', 2
+'Address', '97-05 ATLANTIC AVENUE,', 1
+'Address', '72-08 LINDEN BOULEVARD,', 1
+'Address', '504 WEST 45 STREET,', 1
+'Address', '03-27 4 STREET,', 1
+'Address', '45-7 243 STREET,', 1
+'Address', '50 DELANCEY STREET,', 1
+'Address', '3 EAST 30 STREET,', 1
+'Address', '33 CHURCH AVENUE,', 2
+'Address', '96 KINGSTON AVENUE,', 1
+'Address', '05-20 LIBERTY AVENUE,', 1
+'Address', '4 WEST 27 STREET,', 1
+'Address', '307 7 AVENUE,', 1
+'Address', '29 AVENUE B,', 1
+'Address', '543 9 AVENUE,', 1
+'Address', '2599 BROADWAY,', 1
+'Address', '55 WEST 110 STREET,', 2
+'Address', '40 EAST 33 STREET,', 2
+'Address', '38 ELIZABETH STREET,', 2
+'Address', '1331 BROADWAY,', 2
+'Address', '511 CANAL STREET,', 2
+'Address', '645 5 AVENUE,', 2
+'Address', '204 BOYNTON AVENUE,', 1
+'Address', '592 ROCKAWAY AVENUE,', 1
+'Address', '50 WEST BROADWAY,', 1
+'Address', '276 EAST GUN HILL ROAD,', 1
+'Address', '373 PARK AVENUE SOUTH,', 2
+'Address', '74 NOSTRAND AVENUE,', 1
+'Address', '807 CROTONA AVENUE,', 1
+'Address', '3750 EAST TREMONT AVENUE,', 1
+'Address', '7 HANOVER PLACE,', 2
+'Address', '25 EAST GUN HILL ROAD,', 1
+'Address', '958 BROADWAY,', 2
+'Address', '24 EAST 30 STREET,', 1
+'Address', '220 CANAL STREET,', 1
+'Address', '4225 BROADWAY,', 1
+'Address', '70 WYCKOFF AVENUE,', 1
+'Address', '545 FLATBUSH AVENUE,', 1
+'Address', '330 0 AVENUE,', 1
+'Address', '39 WEST 33 STREET,', 1
+'Address', '33-08 05 STREET,', 1
+'Address', '64-35 YELLOWSTONE BOULEVARD,', 1
+'Address', '208 WEST STREET,', 1
+'Address', '368 BROOME STREET,', 2
+'Address', '460 2 AVENUE,', 1
+'Address', '604 COLUMBUS AVENUE,', 1
+'Address', '47 3 AVENUE,', 1
+'Address', 'HOYT STREET,', 2
+'Address', '90 WASHINGTON AVENUE,', 1
+'Address', '647 COLUMBUS AVENUE,', 1
+'Address', '536 AMSTERDAM AVENUE,', 2
+'Address', '51 PEARL STREET,', 2
+'Address', '48 EAST 99 STREET,', 1
+'Address', '95-0 63 DRIVE,', 1
+'Address', '994 LEXINGTON AVENUE,', 2
+'Address', '505 3 AVENUE,', 1
+'Address', '397 LENOX AVENUE,', 1
+'Address', '554 WEST 53 STREET,', 1
+'Address', '329 WEST 2 STREET,', 1
+'Address', '344 EAST 7 STREET,', 1
+'Address', '100 WEST 41 STREET,', 2
+'Address', '20 WEST 6 STREET,', 1
+'Address', '28 AMSTERDAM AVENUE,', 1
+'Address', '29 AVENUE A,', 1
+'Address', '34  AVENUE,', 1
+'Address', '43-04 0 AVENUE,', 1
+'Address', '49 KINGSTON AVENUE,', 1
+'Address', '16 DELANCEY STREET,', 2
+'Address', '549 RIVERSIDE DRIVE,', 1
+'Address', '64 EAST 6 STREET,', 1
+'Address', '4290 BROADWAY,', 1
+'Address', '0-0 WOODHAVEN BOULEVARD,', 1
+'Address', '-5 LEFFERTS BOULEVARD,', 1
+'Address', '47 WEST 34 STREET,', 2
+'Address', '1000 3 AVENUE,', 2
+'Address', '25 WEST 8 STREET,', 1
+'Address', '68-4 JAMAICA AVENUE,', 1
+'Address', '8025 FLATLANDS AVENUE,', 1
+'Address', '17 3 AVENUE,', 2
+'Address', '85 AUDUBON AVENUE,', 1
+'Address', '30 DYCKMAN STREET,', 1
+'Address', '01 EAST 35 STREET,', 2
+'Address', '50-9 3 AVENUE,', 1
+'Address', '600 4 AVENUE,', 1
+'Address', '207 EAST 3 STREET,', 1
+'Address', '370 ST NICHOLAS AVENUE,', 1
+'Address', '517 AMSTERDAM AVENUE,', 2
+'Address', '89 FOREST AVENUE,', 1
+'Address', '62-94 FOCH BOULEVARD,', 1
+'Address', '62 AVENUE U,', 1
+'Address', '41-5 BELL BOULEVARD,', 2
+'Address', '99 EAST 80 STREET,', 1
+'Address', '66 FLATBUSH AVENUE,', 1
+'Address', '30 SURF AVENUE,', 1
+'Address', '44 EAST 79 STREET,', 2
+'Address', '259 UTICA AVENUE,', 1
+'Address', '483 MYRTLE AVENUE,', 1
+'Address', '50 EAST 93 STREET,', 1
+'Address', '144 EAST 74 STREET,', 2
+'Address', '44-04 2 STREET,', 1
+'Address', '985 EAST 74 STREET,', 1
+'Address', '0 PARK AVENUE SOUTH,', 3
+'Address', '44 PINE STREET,', 2
+'Address', '20 EAST 83 STREET,', 1
+'Address', '977 6 AVENUE,', 2
+'Address', '22-0 3 STREET,', 1
+'Address', '777 BEDFORD AVENUE,', 1
+'Address', '724 LYDIG AVENUE,', 1
+'Address', '230 WEST 82 STREET,', 1
+'Address', '63-24 JAMAICA AVENUE,', 1
+'Address', '90 ORCHARD STREET,', 1
+'Address', '86 KENMARE STREET,', 2
+'Address', '700 COLUMBUS AVENUE,', 4
+'Address', '360 BROADWAY,', 2
+'Address', '40 WEST 44 STREET,', 2
+'Address', '900 BROADWAY,', 2
+'Address', '99-00 35 AVENUE,', 1
+'Address', '46 0 AVENUE,', 1
+'Address', '00 HUGH J GRANT CIRCLE,', 1
+'Address', '171 WEST 3 STREET,', 2
+'Address', '2440 WASHINGTON AVENUE,', 1
+'Address', '97-25 LINDEN BOULEVARD,', 1
+'Address', '93 CABRINI BOULEVARD,', 1
+'Address', '876 9 AVENUE,', 2
+'Address', '62 BROADWAY,', 1
+'Address', '460 BEDFORD AVENUE,', 1
+'Address', '18 LEXINGTON AVENUE,', 2
+'Address', '75 WEST BROADWAY,', 1
+'Address', '360 EAST 57 STREET,', 2
+'Address', '365 9 AVENUE,', 1
+'Address', '22 NAGLE AVENUE,', 1
+'Address', '785 BROADWAY,', 2
+'Address', '443 PARK AVENUE SOUTH,', 2
+'Address', '315 5 AVENUE,', 2
+'Address', '437 THROOP AVENUE,', 2
+'Address', '656 BAY PARKWAY,', 1
+'Address', '20 EAST 53 STREET,', 1
+'Address', '970 MANHATTAN AVENUE,', 2
+'Address', '97-58 04 STREET,', 1
+'Address', '08 WEST 35 STREET,', 2
+'Address', '7-04 0 AVENUE,', 1
+'Address', '238 EAST 6 STREET,', 1
+'Address', '23-38 39 AVENUE,', 1
+'Address', '506 FT WASHINGTON AVENUE,', 1
+'Address', '067 BRIGHTON BEACH AVENUE,', 1
+'Address', '37-66 74 STREET,', 2
+'Address', '536 3 AVENUE,', 1
+'Address', '59-49 CROSS BAY BOULEVARD,', 1
+'Address', '510 3 AVENUE,', 2
+'Address', '0424 FLATLANDS AVENUE,', 1
+'Address', '04 GREENWICH AVENUE,', 1
+'Address', '36 DELANCEY STREET,', 1
+'Address', '24-20 SOUTH CONDUIT AVENUE,', 1
+'Address', '305 WEST 0 STREET,', 1
+'Address', '390 ROCKAWAY PARKWAY,', 1
+'Address', '8404 5 AVENUE,', 1
+'Address', '138 JOHN STREET,', 2
+'Address', '290 LENOX AVENUE,', 1
+'Address', '50 57 STREET,', 1
+'Address', '80-0 ELIOT AVENUE,', 2
+'Address', '160 FULTON STREET,', 2
+'Address', '273 KINGSTON AVENUE,', 1
+'Address', '435 KNICKERBOCKER AVENUE,', 1
+'Address', '6 WEST 3 STREET,', 1
+'Address', '80 WARD AVENUE,', 1
+'Address', '01 COURT STREET,', 2
+'Address', '96-05 37 AVENUE,', 1
+'Address', '638 MANHATTAN AVENUE,', 1
+'Address', '590 LEXINGTON AVENUE,', 1
+'Address', '828 HYLAN BOULEVARD,', 1
+'Address', '1400 MADISON AVENUE,', 2
+'Address', '543 CANAL STREET,', 1
+'Address', '90 NAGLE AVENUE,', 1
+'Address', '138 EAST 84 STREET,', 2
+'Address', '2530 HYLAN BOULEVARD,', 1
+'Address', '4-06 GREENPOINT AVENUE,', 1
+'Address', '466 LEXINGTON AVENUE,', 1
+'Address', '2-4 5 AVENUE,', 1
+'Address', '2522 ADAM CLAYTON POWELL JR BOULEVARD,', 1
+'Address', '101 WEST 56 STREET,', 2
+'Address', '432 ST JOHNS PLACE,', 1
+'Address', '409 WEST BROADWAY,', 2
+'Address', '352 WEST STREET,', 1
+'Address', '65-07 WOODHAVEN BOULEVARD,', 1
+'Address', '255 E 0 STREET,', 1
+'Address', '83-49 DONGAN AVENUE,', 1
+'Address', '72-65 KISSENA BOULEVARD,', 1
+'Address', '83-97 WOODHAVEN BOULEVARD,', 2
+'Address', '097 2 AVENUE,', 1
+'Address', '28  AVENUE,', 1
+'Address', '95-52 JAMAICA AVENUE,', 1
+'Address', '980 WYCKOFF AVENUE,', 2
+'Address', '050 CONEY ISLAND AVENUE,', 2
+'Address', '39-5 MAIN STREET,', 1
+'Address', '378 KINGS HIGHWAY,', 1
+'Address', '82 WALL STREET,', 1
+'Address', '464 WEST 155 STREET,', 2
+'Address', '53 3 AVENUE,', 1
+'Address', '872 BROADWAY,', 1
+'Address', '758 4 AVENUE,', 1
+'Address', '26-50 WHITESTONE EXPRESSWAY,', 1
+'Address', '424 GRAND CONCOURSE,', 1
+'Address', '3-25 COLLEGE POINT BOULEVARD,', 1
+'Address', '1440 BROADWAY,', 2
+'Address', '5655 BROADWAY,', 1
+'Address', '45-9 BELL BOULEVARD,', 1
+'Address', '629 CORTELYOU ROAD,', 1
+'Address', '56-07 ROCKAWAY BOULEVARD,', 1
+'Address', '984 7 STREET,', 1
+'Address', '0 WEST 69 STREET,', 1
+'Address', '6523  AVENUE,', 1
+'Address', '5 KENMARE STREET,', 2
+'Address', '32 LENOX AVENUE,', 1
+'Address', '33 IRVING PLACE,', 2
+'Address', '0-0 HORACE HARDING EXPRESSWAY,', 2
+'Address', '29 AVENUE U,', 1
+'Address', '69 9 AVENUE,', 1
+'Address', '41-0 MAIN STREET,', 2
+'Address', '9 EAST 3 STREET,', 1
+'Address', '60-77 FRESH POND ROAD,', 1
+'Address', '39-24 64 STREET,', 1
+'Address', '255 EAST 80 STREET,', 1
+'Address', '1076 6 AVENUE,', 2
+'Address', '137 YORK AVENUE,', 2
+'Address', '522 WEST 68 STREET,', 1
+'Address', '257 WEST 39 STREET,', 1
+'Address', '327 MYRTLE AVENUE,', 1
+'Address', '0 EAST 68 STREET,', 1
+'Address', '755 FLUSHING AVENUE,', 1
+'Address', '37-09 CROSS BAY BOULEVARD,', 1
+'Address', '40-5 PRINCE STREET,', 1
+'Address', '400 BAYCHESTER AVENUE,', 1
+'Address', '2826 CHURCH AVENUE,', 1
+'Address', '34-0 26 STREET,', 1
+'Address', '098 LAFAYETTE AVENUE,', 1
+'Address', '350 WEST BROADWAY,', 2
+'Address', '34-07 FRANCIS LEWIS BOULEVARD,', 1
+'Address', '662  AVENUE,', 1
+'Address', '5 9 AVENUE,', 2
+'Address', '61 UNIVERSITY PLACE,', 2
+'Address', '184 BROADWAY,', 2
+'Address', '57-4 CROSS BAY BOULEVARD,', 1
+'Address', '89 BROADWAY,', 2
+'Address', '67-24 METROPOLITAN AVENUE,', 1
+'Address', '23 EAST 38 STREET,', 1
+'Address', '25 ELDRIDGE STREET,', 1
+'Address', '20 FT WASHINGTON AVENUE,', 1
+'Address', '01 CLINTON STREET,', 2
+'Address', '88 BROADWAY,', 2
+'Address', '66-66 FRESH POND ROAD,', 1
+'Address', '29-20 CRESCENT STREET,', 1
+'Address', '55 EAST 9 STREET,', 1
+'Address', 'WEST 28 STREET,', 1
+'Address', '205 WEST 89 STREET,', 1
+'Address', '09-9 ATLANTIC AVENUE,', 1
+'Address', '420 GRAND CONCOURSE,', 1
+'Address', '50-04 GUY R BREWER BOULEVARD,', 1
+'Address', '44-61 1 STREET,', 2
+'Address', '178 OCEAN AVENUE,', 2
+'Address', '60 ST NICHOLAS AVENUE,', 1
+'Address', '69-40 BELL BOULEVARD,', 1
+'Address', '220-33 NORTHERN BOULEVARD,', 1
+'Address', '9 WEST 104 STREET,', 2
+'Address', '9 EAST 54 STREET,', 2
+'Address', '0 6 AVENUE,', 2
+'Address', '600 MADISON AVENUE,', 2
+'Address', '30 3 AVENUE,', 1
+'Address', '150 EAST 86 STREET,', 2
+'Address', '207 CORTELYOU ROAD,', 1
+'Address', '323 WEST BROADWAY,', 1
+'Address', '620 FT HAMILTON PARKWAY,', 1
+'Address', '44-6 QUEENS BOULEVARD,', 1
+'Address', '07-5 GUY R BREWER BOULEVARD,', 1
+'Address', '230 WEST 99 STREET,', 1
+'Address', '28-57 37 STREET,', 1
+'Address', '400 EAST 02 STREET,', 1
+'Address', '101 FULTON STREET,', 2
+'Address', '69-8 GRAND AVENUE,', 2
+'Address', '506 PENNSYLVANIA AVENUE,', 2
+'Address', '4-02 62 STREET,', 1
+'Address', '22 SUTTER AVENUE,', 1
+'Address', '97-02 37 AVENUE,', 1
+'Address', '4 4 AVENUE,', 1
+'Address', '250 WEST 238 STREET,', 1
+'Address', '6-37 FRANCIS LEWIS BOULEVARD,', 1
+'Address', '555 WEST 60 STREET,', 1
+'Address', '23 9 AVENUE,', 1
+'Address', '50 EAST 43 STREET,', 1
+'Address', '449 COLUMBUS AVENUE,', 1
+'Address', '97 EAST 40 STREET,', 2
+'Address', '97 DELANCEY STREET,', 1
+'Address', '4 EAST 53 STREET,', 2
+'Address', '560 FLATBUSH AVENUE,', 2
+'Address', '8 LEXINGTON AVENUE,', 2
+'Address', '3335 NEPTUNE AVENUE,', 1
+'Address', '589 CRESCENT STREET,', 1
+'Address', '31 EAST 59 STREET,', 2
+'Address', '3-45 FARMERS BOULEVARD,', 1
+'Address', '0 EAST 17 STREET,', 3
+'Address', '59-0 MAIN STREET,', 1
+'Address', '67 MANHATTAN AVENUE,', 1
+'Address', '227-23 MERRICK BOULEVARD,', 1
+'Address', '93 MADISON AVENUE,', 1
+'Address', '680 2 AVENUE,', 1
+'Address', '33 BEAVER STREET,', 2
+'Address', '36-2 MAIN STREET,', 1
+'Address', '69-07 WOODSIDE AVENUE,', 1
+'Address', '2062 BROADWAY,', 1
+'Address', 'SMITH STREET,', 2
+'Address', '5-08 31 STREET,', 2
+'Address', '835  AVENUE,', 1
+'Address', '14 BROAD STREET,', 2
+'Address', '165 EAST 54 STREET,', 2
+'Address', '30 WEST 52 STREET,', 1
+'Address', '933 EAST 74 STREET,', 1
+'Address', '70-24 MYRTLE AVENUE,', 1
+'Address', '2-4 HILLSIDE AVENUE,', 1
+'Address', '300 WEST 34 STREET,', 2
+'Address', '59 EAST 55 STREET,', 1
+'Address', '1517 LEXINGTON AVENUE,', 2
+'Address', '2483 FLATBUSH AVENUE,', 1
+'Address', '250-06 NORTHERN BOULEVARD,', 1
+'Address', '35 CLINTON STREET,', 1
+'Address', '339 BROADWAY,', 2
+'Address', '44 DYCKMAN STREET,', 1
+'Address', '33-35 ROOSEVELT AVENUE,', 1
+'Address', '95-25 SUTPHIN BOULEVARD,', 1
+'Address', '09-50 MERRICK BOULEVARD,', 1
+'Address', '444 PARK AVENUE SOUTH,', 2
+'Address', '630 8 AVENUE,', 1
+'Address', '2296  AVENUE,', 1
+'Address', '20-04 LIBERTY AVENUE,', 1
+'Address', '339 FULTON STREET,', 1
+'Address', '2542 EAST TREMONT AVENUE,', 1
+'Address', '714 LEXINGTON AVENUE,', 2
+'Address', '63-5 AUSTIN STREET,', 1
+'Address', '130 EAST 69 STREET,', 2
+'Address', '37 WARREN STREET,', 1
+'Address', '860 6 AVENUE,', 1
+'Address', '292 CASTLETON AVENUE,', 1
+'Address', '607 WEST 6 STREET,', 1
+'Address', '77 WEST 8 STREET,', 1
+'Address', '890 0 AVENUE,', 1
+'Address', '90 BROOKLYN AVENUE,', 1
+'Address', '56-7 7 AVENUE,', 1
+'Address', '701 BOSTON ROAD,', 2
+'Address', '46 EAST 05 STREET,', 1
+'Address', '79 UTICA AVENUE,', 1
+'Address', '400 EAST FORDHAM ROAD,', 1
+'Address', '086 BOSTON ROAD,', 1
+'Address', '225 WEST 4 STREET,', 1
+'Address', '90 KINGSLAND AVENUE,', 1
+'Address', '77-20 JAMAICA AVENUE,', 1
+'Address', 'CORTLANDT STREET,', 2
+'Address', '034 LAFAYETTE AVENUE,', 1
+'Address', '30-96 STEINWAY STREET,', 2
+'Address', '32-03 3 STREET,', 1
+'Address', '975 3 AVENUE,', 2
+'Address', '60 ESSEX STREET,', 1
+'Address', '909 SURF AVENUE,', 2
+'Address', '80 BROAD STREET,', 2
+'Address', '60 WEST 39 STREET,', 1
+'Address', '08-03 37 AVENUE,', 1
+'Address', '92-03 ROCKAWAY BOULEVARD,', 1
+'Address', '44-9 LITTLE NECK PARKWAY,', 1
+'Address', '885 6 AVENUE,', 2
+'Address', '4 VANDAM STREET,', 1
+'Address', '3500 BOSTON ROAD,', 2
+'Address', '573 KINGS HIGHWAY,', 1
+'Address', '438 WEST 6 STREET,', 1
+'Address', '266 QUENTIN ROAD,', 1
+'Address', '252 ALBANY AVENUE,', 1
+'Address', '252-34 NORTHERN BOULEVARD,', 1
+'Address', '72 WESTCHESTER AVENUE,', 1
+'Address', '252-04 NORTHERN BOULEVARD,', 1
+'Address', '06  AVENUE,', 1
+'Address', '6 WEST 9 STREET,', 2
+'Address', '724 EAST 24 STREET,', 1
+'Address', '370 WEST 30 STREET,', 1
+'Address', '4 BROAD STREET,', 1
+'Address', '435 3 AVENUE,', 1
+'Address', '247 EAST 8 STREET,', 1
+'Address', '141 WORTH STREET,', 2
+'Address', '100 CENTRE STREET,', 2
+'Address', '43 7 AVENUE,', 2
+'Address', '655  AVENUE,', 2
+'Address', '101 EAST 0 STREET,', 2
+'Address', '87-44 HILLSIDE AVENUE,', 1
+'Address', '00 EAST 88 STREET,', 1
+'Address', '4 EAST  STREET,', 2
+'Address', '470 3 AVENUE,', 2
+'Address', '43-39 25 STREET,', 1
+'Address', '968 MORRIS PARK AVENUE,', 1
+'Address', '3830 BOSTON ROAD,', 1
+'Address', '600 EAST 7 STREET,', 1
+'Address', '340 AMSTERDAM AVENUE,', 1
+'Address', '88 ST NICHOLAS AVENUE,', 1
+'Address', '47 EAST 9 STREET,', 1
+'Address', 'WEST 8 STREET,', 1
+'Address', '2537 ADAM CLAYTON POWELL JR BOULEVARD,', 1
+'Address', '887 BAY PARKWAY,', 1
+'Address', '528 86 STREET,', 1
+'Address', '79 9 AVENUE,', 1
+'Address', '2082 ROCKAWAY PARKWAY,', 1
+'Address', '33-53 VERNON BOULEVARD,', 1
+'Address', '1301 CASTLE HILL AVENUE,', 2
+'Address', '755 10 AVENUE,', 2
+'Address', '4-83 BOWNE STREET,', 1
+'Address', '22 COZINE AVENUE,', 1
+'Address', '101 EAST 57 STREET,', 2
+'Address', '781 LEXINGTON AVENUE,', 2
+'Address', '20 EAST 50 STREET,', 1
+'Address', '311 GREENWICH STREET,', 2
+'Address', '28-09 DITMARS BOULEVARD,', 1
+'Address', '64 8 AVENUE,', 1
+'Address', '181-05 HORACE HARDING EXPRESSWAY,', 2
+'Address', '62 MERMAID AVENUE,', 1
+'Address', '1370 ST NICHOLAS AVENUE,', 2
+'Address', '4 NEW LOTS AVENUE,', 1
+'Address', '585 HUDSON STREET,', 1
+'Address', '0-06 FARMERS BOULEVARD,', 1
+'Address', '1456  AVENUE,', 2
+'Address', '29 MURRAY STREET,', 1
+'Address', '160 CANAL STREET,', 2
+'Address', '1374 6 AVENUE,', 2
+'Address', '93 LEWIS AVENUE,', 1
+'Address', '220 ST NICHOLAS AVENUE,', 1
+'Address', '37-75 QUEENS BOULEVARD,', 1
+'Address', '538 2 AVENUE,', 1
+'Address', '92-02 CORONA AVENUE,', 1
+'Address', '1638 ST NICHOLAS AVENUE,', 2
+'Address', '593 AVENUE N,', 1
+'Address', '-5 FARMERS BOULEVARD,', 1
+'Address', '2344 UTICA AVENUE,', 1
+'Address', '1502 KINGS HIGHWAY,', 3
+'Address', '580 COLUMBUS AVENUE,', 1
+'Address', '647 BROADWAY,', 1
+'Address', '3500 EAST TREMONT AVENUE,', 1
+'Address', '622 WEST 57 STREET,', 1
+'Address', '49-59 4 AVENUE,', 1
+'Address', '473 BROADWAY,', 1
+'Address', '483 1 AVENUE,', 2
+'Address', 'WEST 20 STREET,', 1
+'Address', '438 6 AVENUE,', 1
+'Address', '00 WEST 92 STREET,', 1
+'Address', '56 TIEMANN PLACE,', 1
+'Address', '345 7 AVENUE,', 1
+'Address', '602 AVENUE L,', 1
+'Address', '2000 FLATBUSH AVENUE,', 1
+'Address', '654 YORK AVENUE,', 1
+'Address', '15 WEST 39 STREET,', 2
+'Address', '33-0 4 ROAD,', 1
+'Address', '161 WEST 106 STREET,', 3
+'Address', '593 NEW LOTS AVENUE,', 1
+'Address', '602 8 AVENUE,', 1
+'Address', '90 BURKE AVENUE,', 1
+'Address', '518 AMSTERDAM AVENUE,', 2
+'Address', '1776 BROADWAY,', 3
+'Address', '2630 86 STREET,', 1
+'Address', '240 WEST 238 STREET,', 1
+'Address', '560 5 AVENUE,', 2
+'Address', '247 EAST 98 STREET,', 1
+'Address', '77-0 WOODSIDE AVENUE,', 1
+'Address', '37 EAST 25 STREET,', 1
+'Address', '50 3 AVENUE,', 1
+'Address', '390 CHURCH AVENUE,', 1
+'Address', '88-0 MYRTLE AVENUE,', 1
+'Address', '4209 9 AVENUE,', 1
+'Address', '1143 LEXINGTON AVENUE,', 2
+'Address', '32-03  AVENUE,', 1
+'Address', '7602 NEW UTRECHT AVENUE,', 1
+'Address', '4 STUYVESANT STREET,', 1
+'Address', '10 BROADWAY,', 2
+'Address', '141 EAST 96 STREET,', 2
+'Address', 'HUGH J GRANT CIRCLE,', 1
+'Address', '510  AVENUE,', 2
+'Address', '26-2 NORTHERN BOULEVARD,', 1
+'Address', 'EAST 35 STREET,', 1
+'Address', '28-3 ASTORIA BOULEVARD,', 1
+'Address', '30 EAST 67 STREET,', 1
+'Address', '350 NEW YORK AVENUE,', 1
+'Address', '438  AVENUE,', 2
+'Address', '2502 AVENUE U,', 1
+'Address', '8604 4 AVENUE,', 1
+'Address', '496 2 AVENUE,', 1
+'Address', '40 EAST 83 STREET,', 1
+'Address', '4-69 KISSENA BOULEVARD,', 1
+'Address', '104 AVENUE C,', 2
+'Address', '8-18 QUEENS PLAZA SOUTH,', 2
+'Address', '160 EAST 54 STREET,', 2
+'Address', '42 HUNTS POINT AVENUE,', 1
+'Address', '303 5 AVENUE,', 2
+'Address', '5814 CLARENDON ROAD,', 2
+'Address', '462 7 AVENUE,', 1
+'Address', '88 7 AVENUE,', 2
+'Address', '500 5 AVENUE,', 1
+'Address', '4-0 MAIN STREET,', 2
+'Address', '160 BROADWAY,', 2
+'Address', '562 AMSTERDAM AVENUE,', 1
+'Address', '7 EAST 40 STREET,', 2
+'Address', '06 RALPH AVENUE,', 1
+'Address', '54 CATHERINE STREET,', 1
+'Address', '18 BROADWAY,', 2
+'Address', '82-5 JAMAICA AVENUE,', 1
+'Address', '544 SUTTER AVENUE,', 1
+'Address', '883 FLATLANDS AVENUE,', 1
+'Address', '466 COLUMBUS AVENUE,', 1
+'Address', '465 SUMNER AVENUE,', 1
+'Address', '23 WEST 56 STREET,', 1
+'Address', '2042 5 AVENUE,', 1
+'Address', '84-3 37 AVENUE,', 2
+'Address', '400 EAST 89 STREET,', 1
+'Address', '390 RICHMOND AVENUE,', 1
+'Address', '05 EAST 54 STREET,', 2
+'Address', 'BEAVER STREET,', 2
+'Address', '36 EAST 39 STREET,', 1
+'Address', '2384 NOSTRAND AVENUE,', 1
+'Address', '75-4 64 STREET,', 1
+'Address', '67 EAST BROADWAY,', 1
+'Address', '501 1 AVENUE,', 2
+'Address', '25 LIBERTY AVENUE,', 1
+'Address', 'WASHINGTON STREET,', 1
+'Address', '77-23 UNION TURNPIKE,', 1
+'Address', '36 AVENUE A,', 1
+'Address', '80 PARKSIDE AVENUE,', 1
+'Address', '5824 FT HAMILTON PARKWAY,', 1
+'Address', '5 FT WASHINGTON AVENUE,', 1
+'Address', '58 EAST 5 STREET,', 3
+'Address', '771 BROADWAY,', 2
+'Address', '170 MONTAGUE STREET,', 2
+'Address', '4523 8 AVENUE,', 1
+'Address', '05 WEST 54 STREET,', 2
+'Address', '2327 MERMAID AVENUE,', 1
+'Address', '5 ST NICHOLAS AVENUE,', 2
+'Address', '11 HAVEMEYER STREET,', 2
+'Address', '799 SOUTHERN BOULEVARD,', 1
+'Address', '858 3 AVENUE,', 2
+'Address', '4720 BROADWAY,', 1
+'Address', '782 FLATLANDS AVENUE,', 1
+'Address', '225 EAST 65 STREET,', 1
+'Address', '146 EAST 56 STREET,', 2
+'Address', '2809 3 AVENUE,', 1
+'Address', '43-20 25 AVENUE,', 1
+'Address', '777 PITKIN AVENUE,', 1
+'Address', '485 THROOP AVENUE,', 2
+'Address', '300 EAST 8 STREET,', 1
+'Address', '449 6 AVENUE,', 2
+'Address', '6 ST MARKS PLACE,', 2
+'Address', '264 WEST 5 STREET,', 1
+'Address', '79 HAVEN AVENUE,', 1
+'Address', '401 WEST 51 STREET,', 2
+'Address', '222 AVENUE A,', 1
+'Address', '850 PENNSYLVANIA AVENUE,', 1
+'Address', '723 MORRIS PARK AVENUE,', 1
+'Address', '240 UTICA AVENUE,', 1
+'Address', 'WALL STREET,', 1
+'Address', '237 8 AVENUE,', 1
+'Address', '845 WHITE PLAINS ROAD,', 1
+'Address', '845 BATH AVENUE,', 1
+'Address', '30 EAST 58 STREET,', 1
+'Address', '872 GERARD AVENUE,', 1
+'Address', '839 9 AVENUE,', 2
+'Address', '220 WEST 73 STREET,', 1
+'Address', '301 EAST 74 STREET,', 2
+'Address', '00-02 ROCKAWAY BOULEVARD,', 1
+'Address', '40 EAST 50 STREET,', 1
+'Address', '04-3 ROOSEVELT AVENUE,', 1
+'Address', '2224 AVENUE U,', 1
+'Address', '20-0 MURDOCK AVENUE,', 1
+'Address', '6-50 CROSS BAY BOULEVARD,', 1
+'Address', '49 WHITEHALL STREET,', 1
+'Address', '837 6 AVENUE,', 2
+'Address', '975 MORRIS PARK AVENUE,', 1
+'Address', '925 FLATBUSH AVENUE,', 1
+'Address', '354 LAFAYETTE STREET,', 1
+'Address', '35 ALBANY AVENUE,', 1
+'Address', '36-03 MAPLE AVENUE,', 1
+'Address', '1840 CONEY ISLAND AVENUE,', 2
+'Address', '30 EAST 29 STREET,', 1
+'Address', '388 FT HAMILTON PARKWAY,', 1
+'Address', '04-05 LIBERTY AVENUE,', 1
+'Address', '94-03 NORTHERN BOULEVARD,', 1
+'Address', '00 EAST 49 STREET,', 1
+'Address', '30 EAST 76 STREET,', 1
+'Address', '155 FOSTER AVENUE,', 2
+'Address', '641  AVENUE,', 2
+'Address', '44-8 BROADWAY,', 1
+'Address', '264 0 AVENUE,', 1
+'Address', '62 EAST 59 STREET,', 1
+'Address', '256 WEST 5 STREET,', 1
+'Address', '5002 AVENUE K,', 1
+'Address', '697 9 AVENUE,', 1
+'Address', '5 BROADWAY,', 2
+'Address', '1419 6 AVENUE,', 3
+'Address', '10 EAST 46 STREET,', 2
+'Address', '68-08 FRESH MEADOW LANE,', 1
+'Address', '30 WEST 45 STREET,', 1
+'Address', '93-20 NORTHERN BOULEVARD,', 1
+'Address', '555 WEST 57 STREET,', 1
+'Address', '84 WEST END AVENUE,', 1
+'Address', '44-02 243 STREET,', 1
+'Address', '200-0 32 AVENUE,', 1
+'Address', '300 BROADWAY,', 1
+'Address', '469 WEST 42 STREET,', 1
+'Address', '345 EAST 2 STREET,', 1
+'Address', '53 CANAL STREET,', 1
+'Address', '82-43 JAMAICA AVENUE,', 1
+'Address', '34-9 ATLANTIC AVENUE,', 1
+'Address', '376 HUDSON STREET,', 1
+'Address', '68 WEST 56 STREET,', 2
+'Address', '76-2 35 AVENUE,', 1
+'Address', '349 UTICA AVENUE,', 1
+'Address', '16 MADISON AVENUE,', 2
+'Address', '1056 6 AVENUE,', 2
+'Address', '1510  AVENUE,', 2
+'Address', '230 8 AVENUE,', 1
+'Address', '8 FULTON STREET,', 1
+'Address', '530 WEST 23 STREET,', 1
+'Address', '29 8 AVENUE,', 1
+'Address', '30 EAST 204 STREET,', 1
+'Address', '217 WEST 42 STREET,', 3
+'Address', '63-65 WOODHAVEN BOULEVARD,', 2
+'Address', '83-27 ROOSEVELT AVENUE,', 1
+'Address', '722 3 AVENUE,', 1
+'Address', '38.5 EAST 5 STREET,', 1
+'Address', '1653 1 AVENUE,', 2
+'Address', '5 6 AVENUE,', 1
+'Address', '33 EAST 83 STREET,', 1
+'Address', '165 CLOVE ROAD,', 2
+'Address', '370  AVENUE,', 1
+'Address', '259 BROADWAY,', 1
+'Address', '49 8 AVENUE,', 1
+'Address', '5760 BROADWAY,', 1
+'Address', '5680 BROADWAY,', 1
+'Address', '534 WEST 35 STREET,', 1
+'Address', '790 FLATLANDS AVENUE,', 1
+'Address', '2985 AVENUE X,', 1
+'Address', '200 WARD AVENUE,', 1
+'Address', '155 BROADWAY,', 2
+'Address', '36-4 4 AVENUE,', 1
+'Address', '178 8 AVENUE,', 2
+'Address', '50 EAST 27 STREET,', 1
+'Address', '64-9 KISSENA BOULEVARD,', 1
+'Address', '95 WORTH STREET,', 1
+'Address', '40 5 AVENUE,', 1
+'Address', '02 WAVERLY PLACE,', 1
+'Address', '42-37 BELL BOULEVARD,', 1
+'Address', '482 6 AVENUE,', 1
+'Address', '199 EAST 167 STREET,', 2
+'Address', '33 HOWARD AVENUE,', 1
+'Address', '742 MYRTLE AVENUE,', 1
+'Address', '661 WEST 176 STREET,', 2
+'Address', '469 4 AVENUE,', 1
+'Address', '73-5 KISSENA BOULEVARD,', 1
+'Address', '497 ALBANY AVENUE,', 1
+'Address', '803 AVENUE U,', 2
+'Address', '64-0 89 AVENUE,', 1
+'Address', '70 ASTOR AVENUE,', 1
+'Address', '505 FLATBUSH AVENUE,', 1
+'Address', '314 AMSTERDAM AVENUE,', 2
+'Address', '78-0 64 STREET,', 1
+'Address', '20 WEST 36 STREET,', 1
+'Address', '308 STILLWELL AVENUE,', 1
+'Address', '524 SHEEPSHEAD BAY ROAD,', 1
+'Address', '1 EAST 40 STREET,', 2
+'Address', '0 WEST 80 STREET,', 1
+'Address', '10 PARK AVENUE,', 2
+'Address', '400 WEST 26 STREET,', 1
+'Address', '1634 1 AVENUE,', 2
+'Address', '3985 WHITE PLAINS ROAD,', 1
+'Address', '699 8 AVENUE,', 1
+'Address', '2245 8 AVENUE,', 1
+'Address', '730 8 AVENUE,', 1
+'Address', '533 BROADWAY,', 1
+'Address', '33 SARATOGA AVENUE,', 1
+'Address', '43-0 2 STREET,', 1
+'Address', '390 1 AVENUE,', 2
+'Address', '383 WEST 25 STREET,', 1
+'Address', '4 8 AVENUE,', 1
+'Address', '740 9 AVENUE,', 2
+'Address', '6 PIKE STREET,', 1
+'Address', '220 CADMAN PLAZA WEST,', 1
+'Address', '29 EAST FORDHAM ROAD,', 1
+'Address', '703 9 AVENUE,', 1
+'Address', '76-23 37 AVENUE,', 1
+'Address', '77 WEST 38 STREET,', 1
+'Address', '599 7 AVENUE,', 2
+'Address', '189 7 AVENUE,', 2
+'Address', '6-36 SPRINGFIELD BOULEVARD,', 1
+'Address', '337 KNICKERBOCKER AVENUE,', 1
+'Address', '42-20 BROADWAY,', 1
+'Address', '46-24 KISSENA BOULEVARD,', 1
+'Address', '154  AVENUE,', 2
+'Address', '101 WEST 8 STREET,', 2
+'Address', '603 SOUNDVIEW AVENUE,', 1
+'Address', '4 ROCKAWAY AVENUE,', 1
+'Address', '44 EAST 2 STREET,', 1
+'Address', '70 WHITE PLAINS ROAD,', 1
+'Address', '5 ESSEX STREET,', 1
+'Address', '44-45 KISSENA BOULEVARD,', 1
+'Address', '238 2 AVENUE,', 1
+'Address', '57- LINDEN BOULEVARD,', 1
+'Address', '580 AMSTERDAM AVENUE,', 1
+'Address', '54-24 ROOSEVELT AVENUE,', 1
+'Address', '38-02 QUEENS BOULEVARD,', 1
+'Address', '398 PEARL STREET,', 2
+'Address', '43 AVENUE C,', 1
+'Address', '48-18 QUEENS BOULEVARD,', 2
+'Address', '94-3 NORTHERN BOULEVARD,', 2
+'Address', '64 WEST WASHINGTON PLACE,', 1
+'Address', '176 WEST 7 STREET,', 2
+'Address', '32-20 LIBERTY AVENUE,', 1
+'Address', '97-21 57 AVENUE,', 3
+'Address', '300 AMSTERDAM AVENUE,', 2
+'Address', '64 AVENUE B,', 1
+'Address', '99 CHAMBERS STREET,', 1
+'Address', '7-51 MAIN STREET,', 2
+'Address', '03-09 LIBERTY AVENUE,', 1
+'Address', '539 8 AVENUE,', 1
+'Address', '008 86 STREET,', 2
+'Address', '894 6 AVENUE,', 2
+'Address', '88 BOWERY,', 1
+'Address', '50 EAST 02 STREET,', 1
+'Address', '044 MORRIS PARK AVENUE,', 1
+'Address', '76-05 MAIN STREET,', 1
+'Address', '362 6 AVENUE,', 1
+'Address', '680 BROADWAY,', 1
+'Address', '85 EAST NEW YORK AVENUE,', 1
+'Address', '401 BROADWAY,', 2
+'Address', '28 HEGEMAN AVENUE,', 1
+'Address', '616 AMSTERDAM AVENUE,', 2
+'Address', '86-5 JUSTICE AVENUE,', 1
+'Address', '20 EAST 6 STREET,', 1
+'Address', '00 DELANCEY STREET,', 1
+'Address', '94-5 NORTHERN BOULEVARD,', 1
+'Address', '400 WEST 53 STREET,', 1
+'Address', '400 EAST 9 STREET,', 1
+'Address', '44 WEST BROADWAY,', 1
+'Address', '567 WEST 149 STREET,', 2
+'Address', '010 LEXINGTON AVENUE,', 2
+'Address', '42706 35 AVENUE,', 1
+'Address', '354 WEST 4 STREET,', 1
+'Address', '64-48 108 STREET,', 2
+'Address', '33 GRAND CONCOURSE,', 1
+'Address', '40-8 BELL BOULEVARD,', 1
+'Address', '420 AMSTERDAM AVENUE,', 1
+'Address', '668  AVENUE,', 1
+'Address', '60-50 CROSS BAY BOULEVARD,', 1
+'Address', '2 WEST 48 STREET,', 3
+'Address', '9 PIKE STREET,', 1
+'Address', '05 CANAL STREET,', 1
+'Address', '144 BLEECKER STREET,', 2
+'Address', '50 WEST 56 STREET,', 1
+'Address', '70 WEST END AVENUE,', 1
+'Address', '2580 ADAM CLAYTON POWELL JR BOULEVARD,', 1
+'Address', '57-09 ROOSEVELT AVENUE,', 1
+'Address', '73 WEST 7 STREET,', 1
+'Address', '255 ROCKAWAY PARKWAY,', 1
+'Address', '276 CONEY ISLAND AVENUE,', 1
+'Address', '710 13 AVENUE,', 2
+'Address', '69-0 QUEENS BOULEVARD,', 1
+'Address', '335 LEXINGTON AVENUE,', 1
+'Address', '119 LIBERTY AVENUE,', 2
+'Address', '80 PARK ROW,', 1
+'Address', '244 EAST 28 STREET,', 1
+'Address', '546 WEST 207 STREET,', 1
+'Address', '899 0 AVENUE,', 1
+'Address', '0 EAST 30 STREET,', 1
+'Address', '6023 5 AVENUE,', 1
+'Address', '9 WEST BROADWAY,', 1
+'Address', '86-53 WOODHAVEN BOULEVARD,', 1
+'Address', '224 WEST STREET,', 1
+'Address', '40-02 04 STREET,', 1
+'Address', '00 EAST 59 STREET,', 2
+'Address', '42645 BEACH 20 STREET,', 1
+'Address', '77 LEXINGTON AVENUE,', 1
+'Address', '50 EAST 77 STREET,', 1
+'Address', '270 EAST 78 STREET,', 1
+'Address', '23-02 3 STREET,', 1
+'Address', '9 EAST 96 STREET,', 1
+'Address', '138 EAST 3 STREET,', 2
+'Address', '179 GRAND STREET,', 2
+'Address', '57 KENMARE STREET,', 2
+'Address', '2830 CONEY ISLAND AVENUE,', 1
+'Address', '387 EAST 69 STREET,', 1
+'Address', '627 UTICA AVENUE,', 1
+'Address', '700 2 AVENUE,', 1
+'Address', '70 EASTERN PARKWAY,', 1
+'Address', '97 5 AVENUE,', 2
+'Address', '4-0 SUTPHIN BOULEVARD,', 1
+'Address', '600 WEST 25 STREET,', 1
+'Address', '68 ORCHARD STREET,', 2
+'Address', '380 COLUMBUS AVENUE,', 2
+'Address', '681 COLUMBUS AVENUE,', 2
+'Address', '42 EAST 73 STREET,', 1
+'Address', '03-54 94 STREET,', 1
+'Address', '73 EAST 8 STREET,', 1
+'Address', '70 EASTCHESTER ROAD,', 1
+'Address', '759 7 AVENUE,', 2
+'Address', '1653 ST NICHOLAS AVENUE,', 2
+'Address', '70 WEST 40 STREET,', 2
+'Address', '29-23 2 AVENUE,', 1
+'Address', '62 UTICA AVENUE,', 1
+'Address', '8 EAST 40 STREET,', 2
+'Address', '3 EAST 8 STREET,', 1
+'Address', '325 WEST 37 STREET,', 1
+'Address', '64-5 08 STREET,', 1
+'Address', '100 GOLD STREET,', 2
+'Address', '06- 96 STREET,', 1
+'Address', '94 CHURCH AVENUE,', 1
+'Address', '101 WEST 58 STREET,', 2
+'Address', '545 LEXINGTON AVENUE,', 1
+'Address', '9 EAST 51 STREET,', 2
+'Address', '949  AVENUE,', 1
+'Address', '0406 GLENWOOD ROAD,', 1
+'Address', '20 EAST 65 STREET,', 1
+'Address', '38-20 3 ROAD,', 1
+'Address', '64 HESTER STREET,', 1
+'Address', '23-06 0 AVENUE,', 1
+'Address', '2654 FREDERICK DOUGLASS BOULEVARD,', 1
+'Address', '400 EAST 87 STREET,', 1
+'Address', '456 7 AVENUE,', 1
+'Address', '66 1 AVENUE,', 2
+'Address', '300 EAST 204 STREET,', 1
+'Address', '150 3 AVENUE,', 2
+'Address', 'WEST 77 STREET,', 1
+'Address', '35-0 JUNCTION BOULEVARD,', 1
+'Address', '5 WEST 37 STREET,', 1
+'Address', '455 BEACH AVENUE,', 1
+'Address', '689 10 AVENUE,', 2
+'Address', '44 UTICA AVENUE,', 1
+'Address', '573 8 AVENUE,', 1
+'Address', '50-09 BAYSIDE AVENUE,', 1
+'Address', '9680 AVENUE L,', 1
+'Address', '280 WADSWORTH AVENUE,', 1
+'Address', '379 BROADWAY,', 2
+'Address', '350 CENTRAL PARK WEST,', 2
+'Address', '44 2 AVENUE,', 1
+'Address', '23 ST JAMES PLACE,', 1
+'Address', '98-05 METROPOLITAN AVENUE,', 1
+'Address', '20 EAST 32 STREET,', 1
+'Address', '34 EDGECOMBE AVENUE,', 1
+'Address', '45-0 COURT SQUARE,', 1
+'Address', '2537 GRAND CONCOURSE,', 1
+'Address', '40 WEST 30 STREET,', 2
+'Address', '157 EAST 86 STREET,', 2
+'Address', '2 WEST 49 STREET,', 3
+'Address', '52 EAST 32 STREET,', 1
+'Address', '507 52 STREET,', 1
+'Address', '8 WARREN STREET,', 2
+'Address', '20-88 QUEENS BOULEVARD,', 1
+'Address', '25 MULBERRY STREET,', 1
+'Address', '870 WEST 8 STREET,', 1
+'Address', '23 HILLEL PLACE,', 1
+'Address', '300 WEST BROADWAY,', 2
+'Address', '2878 VICTORY BOULEVARD,', 1
+'Address', '3400 SNYDER AVENUE,', 1
+'Address', '44-7 UNION TURNPIKE,', 1
+'Address', '8-40 MOTT AVENUE,', 1
+'Address', '288 0 AVENUE,', 1
+'Address', '153-67 HORACE HARDING EXPRESSWAY,', 2
+'Address', '65-54 MYRTLE AVENUE,', 1
+'Address', '4 SAMUEL DICKSTEIN PLAZA,', 1
+'Address', '203 EAST 36 STREET,', 1
+'Address', '6 BROADWAY,', 1
+'Address', '28 EAST 68 STREET,', 1
+'Address', '42-5 MAIN STREET,', 1
+'Address', '777 OCEAN AVENUE,', 1
+'Address', '00 WEST 45 STREET,', 1
+'Address', '483 45 STREET,', 1
+'Address', '18 5 AVENUE,', 2
+'Address', '38 7 AVENUE,', 2
+'Address', '11 WEST 67 STREET,', 2
+'Address', '295 5 AVENUE,', 4
+'Address', '36-0 26 STREET,', 1
+'Address', '259 ST NICHOLAS AVENUE,', 1
+'Address', '80 WADSWORTH AVENUE,', 1
+'Address', '2737 3 AVENUE,', 1
+'Address', '783 5 STREET,', 1
+'Address', '690 EASTERN PARKWAY,', 1
+'Address', '220 MADISON AVENUE,', 1
+'Address', '860 3 AVENUE,', 1
+'Address', '3273 WESTCHESTER AVENUE,', 1
+'Address', '682  AVENUE,', 1
+'Address', '90 CHURCH STREET,', 1
+'Address', '726 FLATBUSH AVENUE,', 3
+'Address', '34-63 MAPLE AVENUE,', 1
+'Address', '101 EAST 13 STREET,', 2
+'Address', '35-06 2 STREET,', 1
+'Address', '065 BROADWAY,', 1
+'Address', '2237 2 AVENUE,', 1
+'Address', '197 10 AVENUE,', 2
+'Address', '99 AUDUBON AVENUE,', 1
+'Address', '55-8 HAMILTON PLACE,', 1
+'Address', 'BROADWAY,', 2
+'Address', '556 AMSTERDAM AVENUE,', 1
+'Address', '70 WEST 75 STREET,', 1
+'Address', '697 COLUMBUS AVENUE,', 2
+'Address', '235 WEST 56 STREET,', 1
+'Address', '643 EVERGREEN AVENUE,', 1
+'Address', '800 WHITE PLAINS ROAD,', 1
+'Address', '392 EAST 49 STREET,', 1
+'Address', '30-04 STEINWAY STREET,', 1
+'Address', '85 6 AVENUE,', 1
+'Address', '00 BROADWAY,', 1
+'Address', '946 FLUSHING AVENUE,', 1
+'Address', '56-20 RIVERSIDE DRIVE,', 1
+'Address', '701 WEST 184 STREET,', 2
+'Address', '985 FLATBUSH AVENUE,', 1
+'Address', '51 ASTOR PLACE,', 2
+'Address', '3008 BROADWAY,', 2
+'Address', '68-44 27 AVENUE,', 1
+'Address', '540 WEST 44 STREET,', 1
+'Address', '200 DE KALB AVENUE,', 1
+'Address', '95 BROADWAY,', 1
+'Address', '974 EAST GUN HILL ROAD,', 1
+'Address', '20 6 AVENUE,', 1
+'Address', '40 EAST 34 STREET,', 1
+'Address', '380 MADISON AVENUE,', 1
+'Address', '929 COLUMBUS AVENUE,', 1
+'Address', '30 WEST 77 STREET,', 1
+'Address', '67-29 MYRTLE AVENUE,', 1
+'Address', '70 9 AVENUE,', 2
+'Address', '772 EAST 80 STREET,', 1
+'Address', '460 3 AVENUE,', 2
+'Address', '95 86 STREET,', 1
+'Address', '0 HAMILTON PLACE,', 1
+'Address', '47-42 BELL BOULEVARD,', 1
+'Address', '75 3 AVENUE,', 2
+'Address', '0 WEST FORDHAM ROAD,', 1
+'Address', '174 KINGS HIGHWAY,', 2
+'Address', '85-5 ROOSEVELT AVENUE,', 1
+'Address', '43-0 BROADWAY,', 1
+'Address', '25-97 STEINWAY STREET,', 1
+'Address', '72 WEST END AVENUE,', 1
+'Address', '220-4 HILLSIDE AVENUE,', 1
+'Address', '09-02 VAN WYCK EXPRESSWAY,', 1
+'Address', '82 EAST 82 STREET,', 1
+'Address', '2265 GRAND AVENUE,', 1
+'Address', '70 EAST 90 STREET,', 1
+'Address', '205-04 NORTHERN BOULEVARD,', 1
+'Address', '97-45 QUEENS BOULEVARD,', 1
+'Address', '58-27 HORACE HARDING EXPRESSWAY,', 1
+'Address', '34-17 38 AVENUE,', 2
+'Address', '60 MADISON AVENUE,', 2
+'Address', '48 PEARL STREET,', 2
+'Address', '860 FT HAMILTON PARKWAY,', 2
+'Address', '759 5 AVENUE,', 1
+'Address', '20-20 SEAGIRT BOULEVARD,', 1
+'Address', '242 WEST 36 STREET,', 1
+'Address', '80 EAST 84 STREET,', 1
+'Address', '545 TARGEE STREET,', 1
+'Address', '51 EAST 106 STREET,', 2
+'Address', '97 WEST 27 STREET,', 1
+'Address', '2500 EAST TREMONT AVENUE,', 1
+'Address', '387 UTICA AVENUE,', 1
+'Address', '200 WEST 06 STREET,', 1
+'Address', '000 SUTTER AVENUE,', 1
+'Address', '45 EAST 66 STREET,', 2
+'Address', '57-07 MAIN STREET,', 2
+'Address', '4 HOWARD STREET,', 2
+'Address', '1110  AVENUE,', 2
+'Address', '350 EAST 53 STREET,', 2
+'Address', '8 LEFFERTS AVENUE,', 2
+'Address', '0-06 6 STREET,', 1
+'Address', '458 ALBEE SQUARE,', 3
+'Address', '130 10 AVENUE,', 2
+'Address', '2060 2 AVENUE,', 1
+'Address', '30-02 CRESCENT STREET,', 1
+'Address', '7 2 AVENUE,', 1
+'Address', '1 WEST 4 STREET,', 2
+'Address', '8 EAST 49 STREET,', 2
+'Address', '34-0 24 STREET,', 1
+'Address', '919 EAST TREMONT AVENUE,', 2
+'Address', '405 EAST 0 STREET,', 1
+'Address', '34-4 BELL BOULEVARD,', 1
+'Address', '70 CHURCH AVENUE,', 1
+'Address', '75 1 AVENUE,', 2
+'Address', '30-0 WHITESTONE EXPRESSWAY,', 1
+'Address', '35 SOUTH END AVENUE,', 2
+'Address', '48 WESTCHESTER AVENUE,', 1
+'Address', '805  AVENUE,', 1
+'Address', '627 SURF AVENUE,', 1
+'Address', '9 EAST 48 STREET,', 1
+'Address', '9324 AVENUE L,', 1
+'Address', '14 ORCHARD STREET,', 2
+'Address', '72-09 NORTHERN BOULEVARD,', 1
+'Address', '05 EAST 44 STREET,', 1
+'Address', '55 EAST 50 STREET,', 2
+'Address', '8 WASHINGTON AVENUE,', 1
+'Address', '32 ST NICHOLAS AVENUE,', 1
+'Address', '723 6 AVENUE,', 1
+'Address', '133 FOSTER AVENUE,', 2
+'Address', '1588 AVENUE P,', 2
+'Address', '259 FLATBUSH AVENUE,', 1
+'Address', '63 EAST BROADWAY,', 1
+'Address', '4602 9 AVENUE,', 1
+'Address', '234-35 MERRICK BOULEVARD,', 1
+'Address', '29-40 NORTHERN BOULEVARD,', 1
+'Address', '6 6 AVENUE,', 1
+'Address', '053 ROGERS AVENUE,', 1
+'Address', '2 WEST 45 STREET,', 1
+'Address', '47-02 QUEENS BLVD,', 1
+'Address', '2347 2 AVENUE,', 1
+'Address', '47 RIVINGTON STREET,', 1
+'Address', '1534  AVENUE,', 2
+'Address', '837 NOSTRAND AVENUE,', 1
+'Address', '2264 GRAND CONCOURSE,', 1
+'Address', '753 FAIRVIEW AVENUE,', 1
+'Address', '39 MADISON AVENUE,', 1
+'Address', '863 WESTCHESTER AVENUE,', 1
+'Address', '41-10 BOWNE STREET,', 2
+'Address', '350 EAST 9 STREET,', 2
+'Address', '49 WEST 37 STREET,', 2
+'Address', '351 1 AVENUE,', 2
+'Address', '300 EAST 41 STREET,', 2
+'Address', '49 WEST 43 STREET,', 2
+'Address', '360 EAST 88 STREET,', 2
+'Address', '73 UNION AVENUE,', 1
+'Address', '101 WEST 54 STREET,', 2
+'Address', '402 BRIGHTON BEACH AVENUE,', 1
+'Address', '00 MADISON AVENUE,', 2
+'Address', '54 SUFFOLK STREET,', 1
+'Address', '822 SURF AVENUE,', 1
+'Address', '225 WEST 230 STREET,', 1
+'Address', '04-70 QUEENS BOULEVARD,', 1
+'Address', '7 PEARL STREET,', 1
+'Address', '3439 EAST TREMONT AVENUE,', 1
+'Address', '402 EAST 69 STREET,', 1
+'Address', '2645 BRIGGS AVENUE,', 1
+'Address', '4351 BROADWAY,', 2
+'Address', '56 WEST 4 STREET,', 1
+'Address', '275 46 STREET,', 1
+'Address', '378 MYRTLE AVENUE,', 1
+'Address', '302 SOUTH STREET,', 1
+'Address', '58-4 NORTHERN BOULEVARD,', 1
+'Address', '700 3 AVENUE,', 1
+'Address', '357 EAST 57 STREET,', 1
+'Address', '3-0 36 AVENUE,', 1
+'Address', '442 AMSTERDAM AVENUE,', 1
+'Address', '675 MORRIS PARK AVENUE,', 1
+'Address', '10 CENTRE STREET,', 2
+'Address', '352 BOSTON ROAD,', 1
+'Address', '1 BOERUM PLACE,', 2
+'Address', '59-40 CROSS BAY BOULEVARD,', 1
+'Address', '578 RALPH AVENUE,', 1
+'Address', '23 EAST 47 STREET,', 1
+'Address', '29-33 HILLSIDE AVENUE,', 1
+'Address', '40 WEST 52 STREET,', 1
+'Address', '40-20 SANFORD AVENUE,', 1
+'Address', '377 BOSTON ROAD,', 1
+'Address', '6 LEXINGTON AVENUE,', 2
+'Address', '57-02 CROSS BAY BOULEVARD,', 1
+'Address', '89 CANAL STREET,', 1
+'Address', '41-99 MAIN STREET,', 2
+'Address', '53-0 HILLSIDE AVENUE,', 1
+'Address', '47-32 JUNCTION BOULEVARD,', 1
+'Address', '95 EAST HOUSTON STREET,', 1
+'Address', '7-55 YELLOWSTONE BOULEVARD,', 1
+'Address', '548 WESTCHESTER AVENUE,', 1
+'Address', '2035 CONEY ISLAND AVENUE,', 1
+'Address', '355 LEXINGTON AVENUE,', 1
+'Address', '270 WEST 39 STREET,', 1
+'Address', '3195 CONEY ISLAND AVENUE,', 2
+'Address', '90-9 UNION TURNPIKE,', 1
+'Address', '9705 SEAVIEW AVENUE,', 1
+'Address', 'VESEY STREET,', 2
+'Address', '30 EAST 42 STREET,', 1
+'Address', '6823 20 AVENUE,', 1
+'Address', '595 COLUMBUS AVENUE,', 1
+'Address', '98-02 ASTORIA BOULEVARD,', 1
+'Address', '23 WEST 5 STREET,', 1
+'Address', '795 9 AVENUE,', 2
+'Address', '2900 PHILIP AVENUE,', 1
+'Address', '48 STORY AVENUE,', 1
+'Address', '424 WEST BROADWAY,', 1
+'Address', '64-50 CROSS BAY BOULEVARD,', 1
+'Address', '2060 FLATBUSH AVENUE,', 1
+'Address', '17 7 AVENUE,', 2
+'Address', '49-07 04 STREET,', 1
+'Address', '37.5 ST MARKS PLACE,', 1
+'Address', '39-20 BELL BOULEVARD,', 1
+'Address', '83 PITT STREET,', 1
+'Address', '9 AVENUE D,', 1
+'Address', '377 1 AVENUE,', 2
+'Address', '30-07 MERRICK BOULEVARD,', 1
+'Address', '15 EAST 3 STREET,', 2
+'Address', '492 CLARKSON AVENUE,', 1
+'Address', '47-39 BELL BOULEVARD,', 1
+'Address', '3 BUSHWICK AVENUE,', 1
+'Address', '400 EAST 99 STREET,', 1
+'Address', '2 EAST 36 STREET,', 1
+'Address', '342 LENOX AVENUE,', 1
+'Address', '306 BRIGHTON 2 STREET,', 1
+'Address', '77C CANAL STREET,', 2
+'Address', '6-35 METROPOLITAN AVENUE,', 1
+'Address', '404 BROADWAY,', 1
+'Address', '300 WEST 4 STREET,', 2
+'Address', '330 7 AVENUE,', 2
+'Address', '44-14 ASTORIA BOULEVARD,', 2
+'Address', '48 PARK ROW,', 2
+'Address', '3 PARK PLACE,', 2
+'Address', '206 WEST 37 STREET,', 1
+'Address', '380 WEST 35 STREET,', 1
+'Address', '66 JANE STREET,', 1
+'Address', '68 BRIGHTON BEACH AVENUE,', 1
+'Address', '92-07 37 AVENUE,', 1
+'Address', '4 GREENE AVENUE,', 1
+'Address', '983 EAST 233 STREET,', 1
+'Address', '300 WYCKOFF AVENUE,', 1
+'Address', '30 EAST 7 STREET,', 1
+'Address', '526 7 AVENUE,', 1
+'Address', 'WEST 30 STREET,', 2
+'Address', '830 FLATLANDS AVENUE,', 1
+'Address', '0 7 AVENUE,', 1
+'Address', '249 OCEAN PARKWAY,', 1
+'Address', '1 ELM PLACE,', 3
+'Address', '33 MOTT STREET,', 2
+'Address', '9-06 DITMARS BOULEVARD,', 1
+'Address', '3029 STILLWELL AVENUE,', 1
+'Address', '4754 BROADWAY,', 1
+'Address', '6 HESTER STREET,', 1
+'Address', '73-09 YELLOWSTONE BOULEVARD,', 1
+'Address', '269 LAFAYETTE STREET,', 1
+'Address', '78 WOODRUFF AVENUE,', 1
+'Address', '2383 2 AVENUE,', 1
+'Address', '34 SPRING STREET,', 1
+'Address', '65-2 METROPOLITAN AVENUE,', 1
+'Address', '45 EAST 44 STREET,', 1
+'Address', '73-0 NORTHERN BOULEVARD,', 1
+'Address', '206 VARICK STREET,', 1
+'Address', '62 LAFAYETTE STREET,', 1
+'Address', '3 AUDUBON AVENUE,', 1
+'Address', '3515 BROADWAY,', 2
+'Address', '546 COLUMBUS AVENUE,', 2
+'Address', '36 ASTOR PLACE,', 2
+'Address', '401  AVENUE,', 2
+'Address', '6-54 108 STREET,', 3
+'Address', '144 WEST 3 STREET,', 2
+'Address', '88-3 37 AVENUE,', 1
+'Address', '656 9 AVENUE,', 2
+'Address', '37 6 AVENUE,', 1
+'Address', '300 EAST 87 STREET,', 1
+'Address', '253 MYRTLE AVENUE,', 1
+'Address', '468 ROCKAWAY PARKWAY,', 1
+'Address', '85 5 AVENUE,', 2
+'Address', '33-0 DITMARS BOULEVARD,', 1
+'Address', '805 FOREST AVENUE,', 1
+'Address', '566 TROY AVENUE,', 1
+'Address', '53 CLERMONT AVENUE,', 1
+'Address', '50 WEST 40 STREET,', 1
+'Address', '87-05 UNION TURNPIKE,', 1
+'Address', '4-55 SPRINGFIELD BOULEVARD,', 1
+'Address', '38-02 NORTHERN BOULEVARD,', 1
+'Address', '2208 2 AVENUE,', 1
+'Address', '101 WEST 43 STREET,', 2
+'Address', '1401 KINGS HIGHWAY,', 3
+'Address', '37-0 CROSS BAY BOULEVARD,', 1
+'Address', '2255 CROPSEY AVENUE,', 1
+'Address', '75 EAST BROADWAY,', 2
+'Address', '3 9 AVENUE,', 2
+'Address', '91 BROADWAY,', 2
+'Address', '2005  AVENUE,', 1
+'Address', '488 3 AVENUE,', 2
+'Address', '655 LEXINGTON AVENUE,', 1
+'Address', '93-7 LIBERTY AVENUE,', 1
+'Address', '1 WEST 5 STREET,', 2
+'Address', '79 8 AVENUE,', 1
+'Address', '133 EAST 41 STREET,', 2
+'Address', '17 WEST 4 STREET,', 2
+'Address', '37 MARKET STREET,', 2
+'Address', '4722 8 AVENUE,', 1
+'Address', '369 EAST TREMONT AVENUE,', 1
+'Address', '094 AMSTERDAM AVENUE,', 1
+'Address', '2-20 LIBERTY AVENUE,', 1
+'Address', '30 WEST 28 STREET,', 1
+'Address', '7-20 8 STREET,', 1
+'Address', '05 SURF AVENUE,', 1
+'Address', '263 TOMPKINS AVENUE,', 1
+'Address', '46 6 AVENUE,', 1
+'Address', '26 AVENUE B,', 1
+'Address', '141 EAST 8 STREET,', 2
+'Address', '6-4 ROOSEVELT AVENUE,', 2
+'Address', '250 WEST BROADWAY,', 1
+'Address', '85-2 44 AVENUE,', 1
+'Address', '90 MEEKER AVENUE,', 1
+'Address', '47 EAST 89 STREET,', 1
+'Address', '596 FT WASHINGTON AVENUE,', 1
+'Address', '161 LENOX AVENUE,', 2
+'Address', '78-7 ROOSEVELT AVENUE,', 1
+'Address', '54 COLUMBUS AVENUE,', 2
+'Address', '401 WEST 34 STREET,', 2
+'Address', '6029 BROADWAY,', 1
+'Address', '50 EMPIRE BOULEVARD,', 1
+'Address', '22 CHAMBERS STREET,', 1
+'Address', '43 NEW DORP LANE,', 2
+'Address', '95 1 AVENUE,', 2
+'Address', '204 BEACH 6 STREET,', 1
+'Address', '636 CONEY ISLAND AVENUE,', 1
+'Address', '9 EAST 35 STREET,', 1
+'Address', '260 INDEPENDENCE AVENUE,', 1
+'Address', '77-07 37 AVENUE,', 1
+'Address', '540 CONEY ISLAND AVENUE,', 1
+'Address', '385 CANAL STREET,', 2
+'Address', '50 EAST 43 STREET,', 2
+'Address', '5 EAST FORDHAM ROAD,', 1
+'Address', '323 RALPH AVENUE,', 1
+'Address', '150 EAST 3 STREET,', 2
+'Address', '575 6 AVENUE,', 2
+'Address', '538 BEDFORD AVENUE,', 1
+'Address', '82 RICHMOND AVENUE,', 1
+'Address', '59-02 UNION TURNPIKE,', 1
+'Address', '0 EAST 4 STREET,', 2
+'Address', '34 EAST 32 STREET,', 1
+'Address', '220 JEROME AVENUE,', 1
+'Address', '155-14 ROOSEVELT AVENUE,', 2
+'Address', '86 9 AVENUE,', 1
+'Address', '220  AVENUE,', 1
+'Address', '275 ST NICHOLAS AVENUE,', 1
+'Address', '289 FULTON STREET,', 1
+'Address', '14 FLATBUSH AVENUE,', 2
+'Address', '3-98 200 STREET,', 1
+'Address', '131 PARK AVENUE,', 2
+'Address', '2009 EASTERN PARKWAY,', 1
+'Address', '55 GREENWICH AVENUE,', 1
+'Address', '040 BROADWAY,', 1
+'Address', '684 CASTLE HILL AVENUE,', 1
+'Address', '8924 3 AVENUE,', 1
+'Address', '248 EAST 35 STREET,', 1
+'Address', '65 BROADWAY,', 2
+'Address', '470 WEST 53 STREET,', 1
+'Address', '4 EAST 38 STREET,', 2
+'Address', '156 BLEECKER STREET,', 2
+'Address', '556 WEST 58 STREET,', 1
+'Address', '101-01 QUEENS BOULEVARD,', 2
+'Address', '77 WEST 35 STREET,', 1
+'Address', '582 WATSON AVENUE,', 1
+'Address', '51 5 AVENUE,', 2
+'Address', '557 BROADWAY,', 1
+'Address', '69 CHURCH AVENUE,', 1
+'Address', '100 WEST 79 STREET,', 2
+'Address', '4-28 JUNCTION BOULEVARD,', 1
+'Address', '270 WEST 2 STREET,', 1
+'Address', '666 MADISON AVENUE,', 1
+'Address', '20-02 ROOSEVELT AVENUE,', 1
+'Address', '373 LEXINGTON AVENUE,', 1
+'Address', '228 5 AVENUE,', 1
+'Address', '98-6 0 AVENUE,', 1
+'Address', '274 BOSTON ROAD,', 1
+'Address', '17 MAIDEN LANE,', 2
+'Address', '200 TILLARY STREET,', 1
+'Address', '1135 LEXINGTON AVENUE,', 2
+'Address', '406 BROADWAY,', 1
+'Address', '67 FEATHERBED LANE,', 1
+'Address', '01 EAST 59 STREET,', 2
+'Address', '65 WEST 56 STREET,', 2
+'Address', '089 LEGGETT AVENUE,', 1
+'Address', '849 6 AVENUE,', 1
+'Address', '22 WEST 29 STREET,', 1
+'Address', '76 MAC DOUGAL STREET,', 1
+'Address', '95 LEXINGTON AVENUE,', 1
+'Address', '2320 86 STREET,', 1
+'Address', '47 SHERMAN AVENUE,', 1
+'Address', 'WEST 15 STREET,', 2
+'Address', '137-35 NORTHERN BOULEVARD,', 2
+'Address', '280 NOSTRAND AVENUE,', 1
+'Address', '903 EMPIRE BOULEVARD,', 1
+'Address', '44 MADISON AVENUE,', 2
+'Address', '30-30 THOMSON AVENUE,', 1
+'Address', '2 DELANCEY STREET,', 1
+'Address', '2089 ATLANTIC AVENUE,', 1
+'Address', '7-4 37 AVENUE,', 1
+'Address', '541 AMSTERDAM AVENUE,', 2
+'Address', '560 MADISON AVENUE,', 1
+'Address', '79 7 AVENUE,', 1
+'Address', '275 WEST 38 STREET,', 1
+'Address', '7-40 HOYT AVENUE SOUTH,', 2
+'Address', '48-20 SKILLMAN AVENUE,', 1
+'Address', '4 EAST 8 STREET,', 2
+'Address', '7528 AMBOY ROAD,', 1
+'Address', '29 EAST 80 STREET,', 1
+'Address', '59-0 JAMAICA AVENUE,', 1
+'Address', '25-9 30 AVENUE,', 1
+'Address', '80 LEXINGTON AVENUE,', 2
+'Address', '08-02 7 AVENUE,', 1
+'Address', '8727 4 AVENUE,', 1
+'Address', '249 BLEECKER STREET,', 1
+'Address', '401 PARK AVENUE SOUTH,', 3
+'Address', '206 REMSEN AVENUE,', 1
+'Address', '100 WEST 115 STREET,', 2
+'Address', '94 AVENUE Y,', 2
+'Address', '660 FLATBUSH AVENUE,', 1
+'Address', '333 PEARL STREET,', 1
+'Address', '3680 EAST TREMONT AVENUE,', 1
+'Address', '86 WEST WASHINGTON PLACE,', 1
+'Address', '344 EAST 28 STREET,', 1
+'Address', '3-0 LIBERTY AVENUE,', 1
+'Address', '16 EAST 3 STREET,', 2
+'Address', '326 HUDSON STREET,', 1
+'Address', '202 OCEAN AVENUE,', 1
+'Address', '50-0 LINDEN BOULEVARD,', 1
+'Address', '502 0 AVENUE,', 1
+'Address', '76 CHURCH STREET,', 1
+'Address', '1601 1 AVENUE,', 2
+'Address', '346 NEW YORK AVENUE,', 1
+'Address', '2928 AVENUE S,', 1
+'Address', '66 WEST 72 STREET,', 1
+'Address', '5 AVENUE,', 1
+'Address', '235  AVENUE,', 1
+'Address', '72 VAN SICLEN AVENUE,', 1
+'Address', '45-74 KISSENA BOULEVARD,', 1
+'Address', '84 BROADWAY,', 2
+'Address', '362 MALCOLM X BOULEVARD,', 1
+'Address', '506 3 AVENUE,', 2
+'Address', '772 3 AVENUE,', 1
+'Address', '31 WEST 83 STREET,', 2
+'Address', '05 WEST END AVENUE,', 2
+'Address', '607 BRIGHTON BEACH AVENUE,', 1
+'Address', '01 EAST 38 STREET,', 2
+'Address', '24 PEARL STREET,', 1
+'Address', '258-0 HILLSIDE AVENUE,', 1
+'Address', '42 EAST 72 STREET,', 1
+'Address', '549 NEPTUNE AVENUE,', 1
+'Address', '50 EAST 4 STREET,', 1
+'Address', '926 SURF AVENUE,', 1
+'Address', '2007  AVENUE,', 1
+'Address', '460 WEST 67 STREET,', 1
+'Address', '329 LEXINGTON AVENUE,', 1
+'Address', '84-49 64 STREET,', 1
+'Address', '9 AVENUE D,', 1
+'Address', '386 WEST STREET,', 1

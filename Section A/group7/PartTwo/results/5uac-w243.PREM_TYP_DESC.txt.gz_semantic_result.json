@@ -1,0 +1,1 @@
+{"column name": "PREM_TYP_DESC", "semantic_types": [{"semantic_type": "location_type", "count": 221272}, {"semantic_type": "other", "label": "location_type", "count": 189}], "true_type": "location_type", "prediction_type": "location_type"}

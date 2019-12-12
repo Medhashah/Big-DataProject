@@ -1,0 +1,37 @@
+Aerial tramway
+Airplane
+Aircraft
+Ambulance
+Baby carriage
+Pram
+Hot-air balloon
+Bulldozer
+Bicycle
+Boat
+Bus
+Carriage
+Cement mixer
+Crane
+Camper van
+Caravan
+Dump truck
+Delivery van
+Fire engine
+Forklift
+Helicopter
+Motorcycle
+Mountain bike
+Moped
+Police car
+Rowboat
+Scooter
+Skateboard
+Subway
+Taxi
+cab
+Tractor
+Train
+Truck
+Tram
+Streetcar
+Van

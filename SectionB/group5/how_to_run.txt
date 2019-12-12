@@ -1,0 +1,28 @@
+Part 1:
+1. If you wish the change the output folder, modify line 170 of project-part1.py:
+with open(<path-to-output> + f + '.json', 'w+') as outfile:
+
+2. Run 'chmod +x project-part1.py' command when inside the main project folder
+
+3. Run './test.sh' command when inside the main project folder
+
+Part 2:
+Unzip the file "part2.zip" using the command "unzip part2.zip"
+
+Enter the directory "part2"
+
+Run "chmod u+x test_part2.sh" and "chmod u+x test_stats.sh"
+
+Run "./test_part2.sh", this will generate predictions for the data set in a file named "test.txt", along with the json files.
+This step will take around four minutes
+
+Run "./test_stats.sh", this will generate the statistics included in the report
+
+Manually determined semantic classes are contained in "actual.txt"
+
+Part 3:
+Input the name of dataset into attribute f at line 34 in the python file.
+
+From the main project directory run the command:
+
+spark-submit --conf spark.pyspark.python=$PYSPARK_PYTHON --conf spark.executor.memoryOverhead=4G --executor-memory 6G prject-part3.py

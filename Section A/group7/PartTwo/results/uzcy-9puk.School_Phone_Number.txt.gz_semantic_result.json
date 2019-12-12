@@ -1,0 +1,1 @@
+{"column name": "School_Phone_Number", "semantic_types": [{"semantic_type": "other", "label": "phone_number", "count": 1859698}, {"semantic_type": "phone_number", "count": 14999}], "true_type": "phone_number", "prediction_type": "phone_number"}

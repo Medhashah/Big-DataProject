@@ -1,0 +1,7 @@
+'Areas of study', 'Social Studies', 4175
+'Areas of study', 'Science', 4141
+'Areas of study', 'None', 0
+'Areas of study', 'Math,', 4437
+'Areas of study', 'English,', 5289
+'Areas of study', '-,', 11860
+'Areas of study', 'SIZE OF LARGEST CLASS,', 1

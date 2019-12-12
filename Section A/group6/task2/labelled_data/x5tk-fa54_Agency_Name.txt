@@ -1,0 +1,86 @@
+'City agency', 'Miscellaneous', 123
+'City agency', 'Law Department', 123
+'City agency', 'Fire Department', 123
+'City agency', 'Civic Engagement Commission', 30
+'City agency', 'Off. of Prosec. & Spec. Narc.', 123
+'City agency', 'New York Public Library', 123
+'City agency', 'Department of Investigation', 123
+'City agency', 'Department of Correction', 123
+'City agency', 'Board of Correction', 123
+'City agency', 'Community Boards (All)', 123
+'City agency', 'District Attorney - N.Y.', 123
+'City agency', 'Public Administrator - Bronx', 123
+'City agency', 'Mayoralty', 123
+'City agency', 'Financial Info. Serv. Agency', 123
+'City agency', 'Citywide Savings Initiatives', 90
+'City agency', 'District Attorney - Richmond', 123
+'City agency', 'Department of Buildings', 123
+'City agency', 'Dept Health & Mental Hygiene', 123
+'City agency', 'Department of Transportation', 123
+'City agency', 'Dept of Records & Info Serv.', 123
+'City agency', 'President,Borough of the Bronx', 123
+'City agency', 'Public Administrator - Queens', 123
+'City agency', 'Health and Hospitals Corp.', 123
+'City agency', 'Public Administrator- Brooklyn', 123
+'City agency', 'Public Administrator -Richmond', 123
+'City agency', 'Dept. of Homeless Services', 123
+'City agency', 'Landmarks Preservation Comm.', 123
+'City agency', 'Independent Budget Office', 123
+'City agency', 'Dept. Small Business Services', 123
+'City agency', 'Civilian Complaint Review Bd.', 123
+'City agency', 'Energy Adjustment', 123
+'City agency', 'Business Integrity Commission', 123
+'City agency', 'Board of Elections', 123
+'City agency', 'Department of City Planning', 123
+'City agency', 'NY Public Library - Research', 123
+'City agency', 'Department of Social Services', 123
+'City agency', 'Housing Preservation & Dev.', 123
+'City agency', 'Queens Borough Public Library', 123
+'City agency', 'Department of Probation', 123
+'City agency', 'Youth & Community Development', 123
+'City agency', 'OTPS Inflation Adjustment', 123
+'City agency', 'Prior Payable Adjustment', 123
+'City agency', 'Public Administrator - N.Y.,', 123
+'City agency', 'Department of Finance,', 123
+'City agency', 'Conflicts of Interest Board,', 123
+'City agency', 'City University,', 123
+'City agency', 'President,Borough of Queens,', 123
+'City agency', 'Campaign Finance Board,', 123
+'City agency', 'Dept of Citywide Admin Srvces,', 123
+'City agency', 'Department of Education,', 123
+'City agency', 'Police Department,', 123
+'City agency', 'District Attorney - Queens,', 123
+'City agency', 'City Council,', 123
+'City agency', 'Department of Cultural Affairs,', 123
+'City agency', 'Department of Consumer Affairs,', 123
+'City agency', 'Admin. for Children Services,', 123
+'City agency', 'Dept of Environmental Prot.,', 123
+'City agency', 'Office of Admin. Tax Appeals,', 123
+'City agency', 'Office of the Comptroller,', 123
+'City agency', 'Public Advocate,', 123
+'City agency', 'City Clerk,', 123
+'City agency', 'Office of Payroll Admin.,', 123
+'City agency', 'D.O.I.T.T.,', 123
+'City agency', 'District Attorney - Bronx,', 123
+'City agency', 'General Reserve,', 123
+'City agency', 'Citywide Pension Contributions,', 123
+'City agency', 'District Attorney - Kings,', 123
+'City agency', 'Civil Service Commission,', 123
+'City agency', 'Taxi & Limousine Commission,', 123
+'City agency', 'Dept. of Emergency Management,', 123
+'City agency', 'Dept. of Design & Construction,', 123
+'City agency', 'Office of the Actuary,', 123
+'City agency', 'Brooklyn Public Library,', 123
+'City agency', 'Department for the Aging,', 123
+'City agency', 'Equal Employment Practices Com,', 123
+'City agency', 'Dept. of Veterans' Services,', 123
+'City agency', 'Debt Service,', 123
+'City agency', 'Office Admin Trials & Hearings,', 123
+'City agency', 'Commission on Human Rights,', 123
+'City agency', 'President,Borough of Brooklyn,', 123
+'City agency', 'President,Borough of Manhattan,', 123
+'City agency', 'President,Borough of S.I.,', 123
+'City agency', 'Department of Sanitation,', 123
+'City agency', 'Lease Adjustment,', 123
+'City agency', 'Office of Collective Barg.,', 123
+'City agency', 'Dept of Parks and Recreation,', 123

@@ -1,0 +1,4 @@
+'Building Classification', 'R0-CONDOMINIUM', 1
+'Building Classification', 'R2-WALK-UP,', 52
+'Building Classification', 'R9-CONDOPS,', 170
+'Building Classification', 'R4-ELEVATOR,', 845

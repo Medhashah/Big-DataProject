@@ -1,0 +1,3 @@
+Command to run the data_analysis.py file
+
+./test2.sh data_analysis.py /user/hm74/NYCOpenData

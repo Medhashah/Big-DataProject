@@ -1,0 +1,1 @@
+{"column name": "TOP_VEHICLE_MODELS___5", "semantic_types": [{"semantic_type": "other", "label": "car_make", "count": 643}, {"semantic_type": "car_make", "count": 2}, {"semantic_type": "vehicel_type", "count": 2}], "true_type": "car_make", "prediction_type": "car_make"}

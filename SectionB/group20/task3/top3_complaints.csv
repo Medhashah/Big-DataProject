@@ -1,0 +1,15 @@
+blocked driveway,QUEENS,343474,1
+noise - residential,QUEENS,330446,2
+illegal parking,QUEENS,242157,3
+noise - residential,BROOKLYN,502155,1
+blocked driveway,BROOKLYN,309128,2
+illegal parking,BROOKLYN,292021,3
+noise - residential,BRONX,417895,1
+blocked driveway,BRONX,140850,2
+illegal parking,BRONX,89027,3
+noise - residential,MANHATTAN,376823,1
+noise - street/sidewalk,MANHATTAN,169007,2
+noise - commercial,MANHATTAN,134440,3
+illegal parking,STATEN ISLAND,49903,1
+noise - residential,STATEN ISLAND,49706,2
+street condition,STATEN ISLAND,32792,3

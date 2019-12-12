@@ -1,0 +1,1 @@
+Here are the steps to run task2:Step1- Copy the task2 folder in your machineStep2- Inside the task2 folder change mode of task2.sh to executable (>chmod 777 task2.sh)Step3- Run the task2.sh (>./task2.sh)

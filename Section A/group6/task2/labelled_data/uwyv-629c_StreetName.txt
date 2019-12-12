@@ -1,0 +1,5387 @@
+'Street name', 'WELDON STREET', 80
+'Street name', 'EAST 232 STREET', 428
+'Street name', 'STARR STREET', 522
+'Street name', 'BARCLAY AVENUE', 356
+'Street name', '148 AVENUE', 447
+'Street name', '132 AVENUE', 38
+'Street name', '47 AVENUE', 462
+'Street name', 'EAST 145 STREET', 237
+'Street name', 'WEST 12 STREET', 538
+'Street name', 'TIFFANY PLACE', 99
+'Street name', 'GERALD H CHAMBERS SQUARE', 226
+'Street name', 'KING STREET', 90
+'Street name', 'KETCHAM STREET', 115
+'Street name', 'WILLETT AVENUE', 93
+'Street name', 'MUNDY LANE', 36
+'Street name', 'MACORMAC PLACE', 7
+'Street name', 'GRAND CENTRAL PARKWAY NORTH', 15
+'Street name', '150 PLACE', 64
+'Street name', 'ROSE STREET', 15
+'Street name', 'BETHUNE STREET', 10
+'Street name', 'COURTNEY LOOP', 3
+'Street name', 'BEACH 99 STREET', 15
+'Street name', 'SHARON AVENUE', 11
+'Street name', 'RANDALLS ISLAND', 2
+'Street name', '205 PLACE', 4
+'Street name', 'RUPERT AVENUE', 2
+'Street name', 'MARVIN STREET', 1
+'Street name', 'JOSEPH LANE', 1
+'Street name', 'ABINGDON ROAD', 9
+'Street name', 'VAUGHAN STREET', 1
+'Street name', 'COURT SQUARE', 8
+'Street name', 'OSBOURNE PLACE', 1
+'Street name', 'TINTON AVENUE', 1690
+'Street name', '27 AVENUE', 460
+'Street name', 'WEST 167 STREET', 392
+'Street name', 'FREEMAN STREET', 395
+'Street name', 'SCHENECTADY AVENUE', 2315
+'Street name', 'CHISHOLM STREET', 141
+'Street name', 'GREENWICH STREET', 204
+'Street name', 'ADRIAN AVENUE', 816
+'Street name', 'HILL STREET', 320
+'Street name', 'POWELL AVENUE', 684
+'Street name', 'EAST 222 STREET', 760
+'Street name', 'PUTNAM AVENUE WEST', 16
+'Street name', 'DAHILL ROAD', 636
+'Street name', 'ROWLAND STREET', 155
+'Street name', '26 STREET', 88
+'Street name', 'BAY 19 STREET', 267
+'Street name', 'WEST 1 STREET', 826
+'Street name', 'MACOMBS PLACE', 257
+'Street name', 'PAUW STREET', 33
+'Street name', 'IVAN COURT', 3
+'Street name', 'WASHINGTON SQUARE NORTH', 11
+'Street name', 'MAYBERRY PROMENADE', 1
+'Street name', 'HECKER STREET', 4
+'Street name', 'WILLOWWOOD LANE', 10
+'Street name', 'MC DERMOTT AVENUE', 3
+'Street name', 'BENNETT COURT', 21
+'Street name', 'JAMES COURT', 1
+'Street name', 'HUMBOLDT STREET', 196
+'Street name', 'BLACKROCK AVENUE', 218
+'Street name', 'BARRETTO STREET', 94
+'Street name', 'LAYTON STREET', 276
+'Street name', 'OVERING STREET', 207
+'Street name', '82 AVENUE', 86
+'Street name', 'EAST AVENUE', 64
+'Street name', 'MOFFAT STREET', 270
+'Street name', 'HILLYER STREET', 7
+'Street name', 'WESTCHESTER SQUARE', 80
+'Street name', 'INDIAN ROAD', 3
+'Street name', 'LEVERICH STREET', 9
+'Street name', 'DEMOPOLIS AVENUE', 3
+'Street name', 'WHITEPLAINS ROAD', 8
+'Street name', 'BELLAIRE PLACE', 3
+'Street name', '23 ROAD', 5
+'Street name', 'GREENFIELD AVENUE', 6
+'Street name', 'ST EDWARDS STREET', 3
+'Street name', 'CANTON COURT', 18
+'Street name', 'HOBART STREET', 10
+'Street name', 'PAERDEGAT 10 STREET', 1
+'Street name', 'OAKLAND AVENUE', 3
+'Street name', 'HIGHLAND LANE', 2
+'Street name', 'IONIA AVENUE', 4
+'Street name', 'LENOX ROAD', 3820
+'Street name', 'CENTRAL PARK WEST', 658
+'Street name', 'RIVERDALE AVENUE', 1086
+'Street name', 'GREENE STREET', 90
+'Street name', 'SEBA AVENUE', 4
+'Street name', 'ZEREGA AVENUE', 447
+'Street name', 'EAST 236 STREET', 406
+'Street name', 'SENATOR STREET', 296
+'Street name', '228 STREET', 81
+'Street name', 'HARBOR ROAD', 145
+'Street name', 'VAN WYCK EXPRESSWAY', 95
+'Street name', 'BAYARD STREET', 257
+'Street name', 'SHIEL AVENUE', 5
+'Street name', 'CRESTWATER COURT', 2
+'Street name', 'SOUTH 6 STREET', 39
+'Street name', 'SOUTH 10 STREET', 7
+'Street name', 'VAN WYCK EXPRESSWAY SR EAST', 35
+'Street name', 'MEADOW DRIVE', 11
+'Street name', 'SUNBURY ROAD', 1
+'Street name', '43 ROAD', 3
+'Street name', 'GALE PLACE', 14
+'Street name', 'REMSEN PLACE', 2
+'Street name', 'GOWER STREET', 5
+'Street name', 'MILTON AVENUE', 2
+'Street name', 'ORMOND PLACE', 2
+'Street name', 'STOBE AVENUE', 1
+'Street name', 'NORWALK AVENUE', 1
+'Street name', 'MANILA AVENUE', 1
+'Street name', 'EAST BAY AVENUE', 1
+'Street name', '23 AVENUE', 967
+'Street name', 'JEFFERSON STREET', 1344
+'Street name', 'WEST 185 STREET', 168
+'Street name', 'STEINWAY STREET', 659
+'Street name', '89 AVENUE', 782
+'Street name', 'CAMBRELENG AVENUE', 438
+'Street name', 'EAST 137 STREET', 461
+'Street name', 'DIGNEY AVENUE', 235
+'Street name', 'WOODHAVEN BOULEVARD', 424
+'Street name', 'EAST 99 STREET', 348
+'Street name', 'GIPSON STREET', 254
+'Street name', 'GIVAN AVENUE', 58
+'Street name', 'NEPTUNE COURT', 8
+'Street name', 'PHILIP AVENUE', 30
+'Street name', 'MILES AVENUE', 41
+'Street name', 'TOMLINSON AVENUE', 43
+'Street name', 'KEMBALL AVENUE', 1
+'Street name', 'BOOTH MEMORIAL AVENUE', 55
+'Street name', 'ARCADIA PLACE', 5
+'Street name', 'GOLD AVENUE', 9
+'Street name', 'NORMAL ROAD', 13
+'Street name', 'WAKEMAN PLACE', 6
+'Street name', 'BLONDELL AVENUE', 8
+'Street name', 'FREDERICK DOUGAL BOULEVARD', 21
+'Street name', 'NAVIGATOR COURT', 1
+'Street name', 'EDGECOMBE AVENUE', 2418
+'Street name', 'FIFTH AVENUE', 256
+'Street name', 'EAST 94 STREET', 2233
+'Street name', 'AVENUE X', 470
+'Street name', '97 AVENUE', 182
+'Street name', '97 STREET', 658
+'Street name', 'CORPRL KENNEDY STREET', 67
+'Street name', 'WEST TREMONT AVENUE', 826
+'Street name', 'EAST 103 STREET', 874
+'Street name', 'FLETCHER PLACE', 23
+'Street name', 'EAST 147 STREET', 263
+'Street name', 'CLOVE ROAD', 165
+'Street name', 'WEST 88 STREET', 513
+'Street name', 'CHARLTON STREET', 88
+'Street name', 'FORDHAM PLACE', 13
+'Street name', 'KING AVENUE', 3
+'Street name', 'NORTH 10 STREET', 20
+'Street name', 'NASSAU STREET', 38
+'Street name', 'MERSEREAU AVENUE', 10
+'Street name', 'NORTH 3 STREET', 6
+'Street name', 'CO OP CITY BOULEVARD', 6
+'Street name', 'VASSAR STREET', 11
+'Street name', 'FABER TERRACE', 2
+'Street name', 'DARCEY AVENUE', 2
+'Street name', 'HUBBARD STREET', 2
+'Street name', 'VAN DAM STREET', 17
+'Street name', 'RIVERSIDE HOSP SHOP & STORAGE', 1
+'Street name', 'CANDON AVENUE', 3
+'Street name', '113 STREET', 467
+'Street name', '24 AVENUE', 1058
+'Street name', 'WEST 75 STREET', 766
+'Street name', 'HAMMERSLEY AVENUE', 40
+'Street name', 'WHITNEY AVENUE', 474
+'Street name', 'EAST 229 STREET', 318
+'Street name', 'ELSMERE PLACE', 558
+'Street name', 'CLIFFORD PLACE', 31
+'Street name', 'EAST 20 STREET', 294
+'Street name', '40 AVENUE', 58
+'Street name', 'BAYVIEW AVENUE', 16
+'Street name', 'BIALYSTOKER PLACE', 17
+'Street name', 'ARLO ROAD', 177
+'Street name', 'EDMORE AVENUE', 13
+'Street name', 'CHEVY CHASE STREET', 16
+'Street name', 'FAIRBANKS AVENUE', 7
+'Street name', 'WILLOW LANE', 31
+'Street name', 'RICHMOND COURT', 2
+'Street name', 'ELLSWORTH PLACE', 1
+'Street name', '264 STREET', 1
+'Street name', 'COOPER TERRACE', 3
+'Street name', 'THROOP AVE', 2
+'Street name', 'POMPEII AVENUE', 1
+'Street name', 'FLAGSHIP CIRCLE', 1
+'Street name', 'KILLARNEY STREET', 3
+'Street name', 'BOODY STREET', 2
+'Street name', 'LOCKE AVENUE', 4
+'Street name', 'LENOX AVENUE', 3659
+'Street name', 'ADAM C POWELL BOULEVARD', 6060
+'Street name', 'GREENE AVENUE', 2581
+'Street name', 'JEFFERSON PLACE', 114
+'Street name', 'LAKEWOOD AVENUE', 157
+'Street name', 'COLONIAL AVENUE', 79
+'Street name', 'EAST 128 STREET', 586
+'Street name', 'KINGSTON PLACE', 47
+'Street name', '98 AVENUE', 55
+'Street name', '20 STREET', 274
+'Street name', 'COLBY COURT', 30
+'Street name', 'EUCLID AVENUE', 424
+'Street name', '154 STREET', 99
+'Street name', 'CONNER STREET', 2
+'Street name', 'WEST 33 STREET', 163
+'Street name', 'YOUNG AVENUE', 21
+'Street name', 'GILBERT PLACE', 56
+'Street name', '135 DRIVE', 2
+'Street name', 'HINSDALE AVENUE', 1
+'Street name', 'WOOLEY AVENUE', 1
+'Street name', 'GR CONCOURSE', 1
+'Street name', 'HASKIN STREET', 2
+'Street name', 'BAY 53 STREET', 1
+'Street name', 'CARROLL STREET', 4732
+'Street name', 'WEST 96 STREET', 937
+'Street name', 'MARION STREET', 522
+'Street name', 'WALTON AVENUE', 9720
+'Street name', 'EVERGREEN AVENUE', 2541
+'Street name', 'RALPH AVENUE', 996
+'Street name', 'EAST 152 STREET', 417
+'Street name', 'EAST 74 STREET', 514
+'Street name', 'EAST 215 STREET', 667
+'Street name', 'BAY RIDGE PARKWAY', 405
+'Street name', 'LORING PLACE NORTH', 839
+'Street name', 'REDDING STREET', 1
+'Street name', '147 STREET', 567
+'Street name', 'OXFORD AVENUE', 486
+'Street name', 'MANOR AVENUE', 699
+'Street name', 'BAY 13 STREET', 41
+'Street name', 'VIRGIL PLACE', 78
+'Street name', '92 ROAD', 15
+'Street name', 'CHESTNUT COURT', 9
+'Street name', 'EAST MACON AVENUE', 2
+'Street name', 'REEDER STREET', 2
+'Street name', 'WOOD AVENUE', 6
+'Street name', 'SCRANTON AVENUE', 3
+'Street name', 'EVERGREEN STREET', 1
+'Street name', 'FARRAGUT AVENUE', 2
+'Street name', 'YACHT CLUB COVE', 2
+'Street name', 'TUCKERTON STREET', 1
+'Street name', 'DEAN STREET', 1945
+'Street name', 'GATES AVENUE', 3587
+'Street name', 'COLUMBIA HEIGHTS', 47
+'Street name', 'BEACH 96 STREET', 135
+'Street name', 'GREYSTONE AVENUE', 492
+'Street name', 'WEST 123 STREET', 864
+'Street name', '112 STREET', 388
+'Street name', 'CROTON LOOP', 41
+'Street name', 'BANES COURT', 28
+'Street name', 'GOUVERNEUR AVENUE', 460
+'Street name', 'EAST 125 STREET', 472
+'Street name', '152 STREET', 45
+'Street name', 'FIELDSTON TERRACE', 89
+'Street name', 'NORTH 1 STREET', 84
+'Street name', 'COOLIDGE AVENUE', 22
+'Street name', 'PITMAN AVENUE', 27
+'Street name', 'CLARK STREET', 25
+'Street name', 'ROFF STREET', 18
+'Street name', 'JANSEN STREET', 3
+'Street name', 'EAST 214 ST', 16
+'Street name', 'HYLAN BOULEVARD NORTH', 4
+'Street name', 'MERMAID LANE', 5
+'Street name', 'BEACH 58 STREET', 26
+'Street name', 'DENNETT PLACE', 1
+'Street name', '235 COURT', 1
+'Street name', 'STONE LANE', 1
+'Street name', 'REINHART ROAD', 1
+'Street name', 'PARKSIDE PLACE', 348
+'Street name', 'WILSON AVENUE', 1810
+'Street name', 'PENFIELD STREET', 518
+'Street name', 'EAST 49 STREET', 1166
+'Street name', 'EAST 179 STREET', 1384
+'Street name', '54 STREET', 608
+'Street name', 'EAST MOSHOLU PARKWAY NORTH', 2518
+'Street name', 'EAST 167 STREET', 1266
+'Street name', 'METCALFE STREET', 58
+'Street name', 'EAST 141 STREET', 637
+'Street name', '48 STREET', 1626
+'Street name', '30 STREET', 686
+'Street name', 'PINEHURST AVENUE', 829
+'Street name', 'AVENUE W', 376
+'Street name', 'HAROLD STREET', 11
+'Street name', 'PROSPECT PARK SOUTHWEST', 79
+'Street name', 'DUDLEY AVENUE', 13
+'Street name', 'FINGERBOARD ROAD', 18
+'Street name', 'DYCKMAN STREET', 184
+'Street name', 'SOUTHGATE PLAZA', 1
+'Street name', 'CALLOWAY STREET', 21
+'Street name', 'VINELAND AVENUE', 6
+'Street name', 'NICOLLS AVENUE', 31
+'Street name', 'BRIGHTON 1 COURT', 1
+'Street name', '124 AVENUE', 5
+'Street name', 'WENNER PLACE', 36
+'Street name', 'HAMDEN AVENUE', 8
+'Street name', '234 PLACE', 12
+'Street name', 'WRIGHT AVENUE', 23
+'Street name', 'FLATLAND AVENUE', 2
+'Street name', 'GRAND ST EXTENSION', 1
+'Street name', '163 DRIVE', 1
+'Street name', 'CAMP ROAD', 1
+'Street name', 'BEACH AVE', 1
+'Street name', 'BAY 43 STREET', 8
+'Street name', 'AUGUSTA COURT', 2
+'Street name', 'SUMNER PLACE', 1
+'Street name', 'LYVERE STREET', 173
+'Street name', 'WEST 16 STREET', 948
+'Street name', 'BOERUM STREET', 212
+'Street name', '13 STREET', 126
+'Street name', '206 STREET', 19
+'Street name', 'EAST 85 STREET', 784
+'Street name', 'LOWELL STREET', 253
+'Street name', 'LEONARD STREET', 174
+'Street name', 'YATES AVENUE', 124
+'Street name', 'MCBRIDE STREET', 66
+'Street name', 'DIKEMAN STREET', 109
+'Street name', 'WEST 215 STREET', 134
+'Street name', 'BEAVER STREET', 44
+'Street name', 'NORWAY AVENUE', 17
+'Street name', '90 ROAD', 7
+'Street name', 'FRISCO AVENUE', 28
+'Street name', 'BYRD STREET', 3
+'Street name', 'EARHART LANE', 13
+'Street name', 'PITNEY AVENUE', 2
+'Street name', 'BAY 31 STREET', 64
+'Street name', 'DARTMOUTH STREET', 225
+'Street name', 'DURANT AVENUE', 11
+'Street name', 'GLENZ ESTATE', 2
+'Street name', '144 PLACE', 10
+'Street name', 'TABB PLACE', 5
+'Street name', 'BRIGHTON 2 LANE', 1
+'Street name', 'SOUTH GOFF AVENUE', 1
+'Street name', 'WOODLAND AVENUE', 1
+'Street name', 'GRISSOM AVENUE', 2
+'Street name', '193 LANE', 3
+'Street name', 'ESCANABA AVENUE', 1
+'Street name', 'PEMBROKE AVENUE', 1
+'Street name', 'CROSSFIELD AVENUE', 1
+'Street name', 'WEBERS COURT', 2
+'Street name', 'CONFUCIUS PLAZA', 1
+'Street name', '150 STREET', 702
+'Street name', 'EAST 169 STREET', 2047
+'Street name', 'HALSEY STREET', 2149
+'Street name', '61 STREET', 1580
+'Street name', 'WEST 25 STREET', 626
+'Street name', 'OSGOOD AVENUE', 431
+'Street name', 'PELHAM PARKWAY NORTH', 978
+'Street name', 'EAST 164 STREET', 890
+'Street name', 'DOUGLASTON PARKWAY', 316
+'Street name', 'COLFAX AVENUE', 38
+'Street name', '124 STREET', 233
+'Street name', 'SPOFFORD AVENUE', 409
+'Street name', 'COMMONWEALTH AVENUE', 1174
+'Street name', 'WEST 211 STREET', 357
+'Street name', 'BRIGHTON 2 STREET', 148
+'Street name', 'BLAKE AVENUE', 718
+'Street name', 'HUSSON STREET', 39
+'Street name', '220 PLACE', 12
+'Street name', 'GABRIEL DRIVE', 10
+'Street name', 'BROAD STREET', 300
+'Street name', 'REMSEN STREET', 118
+'Street name', 'SOUTH END AVENUE', 103
+'Street name', 'MOSHOLU AVENUE', 40
+'Street name', 'BEACH 80 STREET', 9
+'Street name', 'GREEN VALLEY ROAD', 24
+'Street name', 'HICKORY AVENUE', 21
+'Street name', 'MACE STREET', 1
+'Street name', 'FLATLANDS 7 STREET', 6
+'Street name', 'MARSHALL DRIVE', 7
+'Street name', 'SAMANTHA LANE', 3
+'Street name', 'SANDY DUNE WAY', 2
+'Street name', 'MT OLIVET CRESCENT', 5
+'Street name', 'ASTOR PLACE', 1
+'Street name', 'PITTSVILLE AVENUE', 1
+'Street name', 'BRICK COURT', 1
+'Street name', 'BAY CLUB DRIVE', 1
+'Street name', 'ARTHUR AVENUE', 1022
+'Street name', 'UNION AVENUE', 1541
+'Street name', 'EAST CLARKE PLACE', 93
+'Street name', 'MAC DOUGAL STREET', 863
+'Street name', 'WEST 2 STREET', 283
+'Street name', 'FRESH POND ROAD', 683
+'Street name', 'SHEPHERD AVENUE', 298
+'Street name', 'ALLEN STREET', 753
+'Street name', 'EAST 194 STREET', 849
+'Street name', 'WEST 121 STREET', 553
+'Street name', 'WADSWORTH TERRACE', 1311
+'Street name', '184 STREET', 434
+'Street name', '41 ROAD', 21
+'Street name', 'BEACH 69 STREET', 101
+'Street name', 'BEACH 66 STREET', 121
+'Street name', 'AMHERST STREET', 3
+'Street name', 'NORTH 9 STREET', 56
+'Street name', 'VANDERVEER STREET', 126
+'Street name', 'PARK TERRACE WEST', 149
+'Street name', '106 ROAD', 42
+'Street name', 'HORACE HARDING EXPRESSWAY N SR', 11
+'Street name', 'DONIZETTI PLACE', 41
+'Street name', 'ORIENT AVENUE', 12
+'Street name', 'ANDERSON ROAD', 31
+'Street name', 'ROSSVILLE AVENUE', 6
+'Street name', 'LYMAN STREET', 7
+'Street name', 'DUNCAN STREET', 22
+'Street name', 'JARVIS AVENUE', 26
+'Street name', 'LATOURETTE LANE', 1
+'Street name', 'BERGAN STREET', 1
+'Street name', 'SHIFT PLACE', 1
+'Street name', 'FREEDOM PLACE SOUTH', 1
+'Street name', 'STUDIO LANE', 2
+'Street name', 'BARRY STREET', 1
+'Street name', 'MAY PLACE', 1
+'Street name', 'FLUSHING AVENUE', 604
+'Street name', '90 STREET', 600
+'Street name', 'CUMBERLAND STREET', 292
+'Street name', 'HOE AVENUE', 1683
+'Street name', 'MYRTLE AVENUE', 1665
+'Street name', '34 STREET', 1172
+'Street name', 'CYPRESS AVENUE', 288
+'Street name', 'EDGEWOOD STREET', 38
+'Street name', 'EAST 209 STREET', 577
+'Street name', 'REISS PLACE', 113
+'Street name', 'BRIGHTON 4 STREET', 364
+'Street name', 'NICHOLS AVENUE', 123
+'Street name', 'NAUTILUS AVENUE', 62
+'Street name', 'RIDGEDALE STREET', 15
+'Street name', 'KELVIN AVENUE', 3
+'Street name', '16 ROAD', 7
+'Street name', 'BAY 11 STREET', 10
+'Street name', 'EAST 179TH ST.', 11
+'Street name', 'OAK LANE', 1
+'Street name', 'HOLCOMB AVENUE', 2
+'Street name', 'WESTBROOK AVENUE', 27
+'Street name', 'NOME AVENUE', 3
+'Street name', 'THORNYCROFT AVENUE', 1
+'Street name', 'LATIMER PLACE', 1
+'Street name', 'DONGAN HILLS AVENUE', 3
+'Street name', 'HELLS GATE CIRCLE', 10
+'Street name', 'BENNETT PLACE', 1
+'Street name', 'EAST 166 STREET', 703
+'Street name', 'EAST 119 STREET', 1308
+'Street name', 'MAHAN AVENUE', 89
+'Street name', 'SACKETT STREET', 283
+'Street name', 'EAST 149 STREET', 908
+'Street name', '18 STREET', 432
+'Street name', 'WOODHULL AVENUE', 312
+'Street name', 'CANEY LANE', 53
+'Street name', '99 AVENUE', 121
+'Street name', 'MARKET STREET', 363
+'Street name', 'NORTH HENRY STREET', 29
+'Street name', '68 PLACE', 19
+'Street name', 'POYER STREET', 2
+'Street name', 'EAST SCRANTON AVENUE', 5
+'Street name', 'PENN AVENUE', 1
+'Street name', 'ONTARIO AVENUE', 1
+'Street name', 'HAVEN AVENUE', 718
+'Street name', 'WOODWARD AVENUE', 528
+'Street name', '86 AVENUE', 107
+'Street name', 'BRITTON AVENUE', 213
+'Street name', 'ELBERTSON STREET', 455
+'Street name', 'MERRILL STREET', 60
+'Street name', 'PLYMOUTH ROAD', 8
+'Street name', '77 AVENUE', 107
+'Street name', 'MANOR ROAD', 44
+'Street name', 'MELVIN AVENUE', 1
+'Street name', 'BEMENT AVENUE', 46
+'Street name', 'ST FRANCIS PLACE', 8
+'Street name', 'FILIPE LANE', 3
+'Street name', 'LEE COURT', 5
+'Street name', 'FEDERAL PLACE', 5
+'Street name', 'COUNTRY CLUB ROAD', 2
+'Street name', 'HEMLOCK COURT', 2
+'Street name', 'SKILLMAN AVENUE', 508
+'Street name', 'STADIUM AVENUE', 77
+'Street name', 'DEKRUIF PLACE WEST', 119
+'Street name', 'CRYSTAL STREET', 121
+'Street name', 'MAPLE AVENUE', 268
+'Street name', 'LITTLE CLOVE ROAD', 10
+'Street name', 'WEST 57 STREET', 457
+'Street name', 'BEACH 57 STREET', 198
+'Street name', 'HENRY HUDSON PARKWAY EAST', 188
+'Street name', 'BRIGHTON 3 PLACE', 8
+'Street name', 'ASTER COURT', 2
+'Street name', 'BAYSWATER AVENUE', 15
+'Street name', 'WEST 235 STREET', 74
+'Street name', '145 ROAD', 48
+'Street name', 'COHANCY STREET', 4
+'Street name', 'MILBURN STREET', 20
+'Street name', 'KINGSBURY AVENUE', 10
+'Street name', 'AMADOR STREET', 32
+'Street name', 'HENLEY ROAD', 15
+'Street name', 'BELLAVISTA COURT', 5
+'Street name', 'WELLMAN AVENUE', 7
+'Street name', 'LISK AVENUE', 20
+'Street name', 'FRESH MEADOW LANE', 6
+'Street name', 'CANDA AVENUE', 2
+'Street name', 'GREAVES AVENUE', 1
+'Street name', 'POPHAM AVENUE', 643
+'Street name', 'IRWIN AVENUE', 145
+'Street name', 'RYER AVENUE', 2338
+'Street name', 'WYONA STREET', 1052
+'Street name', 'BAY 32 STREET', 69
+'Street name', 'WEST 72 STREET', 1028
+'Street name', '145 AVENUE', 91
+'Street name', 'MALDEN PLACE', 143
+'Street name', 'WEST 49 STREET', 714
+'Street name', 'WEST 162 STREET', 1595
+'Street name', 'CONSELYEA STREET', 21
+'Street name', 'LAURELTON PARKWAY', 8
+'Street name', 'OSBORN STREET', 209
+'Street name', '257 STREET', 54
+'Street name', 'OLIVER STREET', 93
+'Street name', 'EAST 190 STREET', 587
+'Street name', 'RESEARCH AVENUE', 13
+'Street name', 'CHERRY STREET', 94
+'Street name', 'PENNYFIELD AVENUE', 27
+'Street name', 'MONTAGUE TERRACE', 6
+'Street name', 'GETZ AVENUE', 9
+'Street name', 'LANDER STREET', 36
+'Street name', 'BENSON STREET', 93
+'Street name', 'TOMPKINS CIRCLE', 6
+'Street name', 'ASHTON DRIVE', 8
+'Street name', 'GEORGETOWN LANE', 4
+'Street name', '88 DRIVE', 3
+'Street name', 'SHELLEY AVENUE', 7
+'Street name', 'TUDOR ROAD', 1
+'Street name', 'MARLBOROUGH COURT', 2
+'Street name', 'WEST 177 STREET', 1537
+'Street name', '50 AVENUE', 534
+'Street name', 'JERSEY STREET', 454
+'Street name', 'BEACH CHANNEL DRIVE', 779
+'Street name', 'RIDGE BOULEVARD', 2329
+'Street name', 'TRYON AVENUE', 303
+'Street name', '25 ROAD', 58
+'Street name', 'RYERSON STREET', 86
+'Street name', 'RADCLIFF AVENUE', 181
+'Street name', 'NEWMAN AVENUE', 44
+'Street name', 'BEACH 84 STREET', 90
+'Street name', 'DEVOE STREET', 233
+'Street name', 'LOTT STREET', 56
+'Street name', 'CHRISTIE AVENUE', 5
+'Street name', 'SPENCER AVENUE', 10
+'Street name', '55 AVENUE', 205
+'Street name', '158 AVENUE', 3
+'Street name', 'PARK CIRCLE', 8
+'Street name', 'PARKVIEW AVENUE', 16
+'Street name', 'CYPRESS COURT', 16
+'Street name', 'ROBIN LANE', 1
+'Street name', 'WINDSOR PLACE', 5
+'Street name', 'ROCCO COURT', 2
+'Street name', 'KENMORE TERRACE', 1
+'Street name', 'BAYONNE COURT', 1
+'Street name', 'LONGFELLOW AVENUE', 1554
+'Street name', 'EAST 223 STREET', 722
+'Street name', 'BEDFORD AVENUE', 7528
+'Street name', 'PIERCE AVENUE', 58
+'Street name', 'WEIRFIELD STREET', 261
+'Street name', 'SAULL STREET', 75
+'Street name', '87 STREET', 250
+'Street name', 'SOUTH 3 STREET', 1426
+'Street name', 'DYRE AVENUE', 94
+'Street name', 'DE REIMER AVENUE', 191
+'Street name', 'WEST 23 STREET', 817
+'Street name', 'BRIGHTON BEACH AVENUE', 269
+'Street name', 'DEWEY PLACE', 11
+'Street name', 'FORBELL STREET', 248
+'Street name', 'FORT PLACE', 8
+'Street name', 'BEACH 101 STREET', 23
+'Street name', 'FRANKTON STREET', 9
+'Street name', 'JAY AVENUE', 5
+'Street name', 'PARK CRESCENT', 11
+'Street name', 'BOWLING GREEN PLACE', 3
+'Street name', 'BANNER 3 ROAD', 3
+'Street name', 'GRANTWOOD AVENUE', 1
+'Street name', 'LANGHAM STREET', 2
+'Street name', 'EAST 25 STREET', 537
+'Street name', 'TIEBOUT AVENUE', 4300
+'Street name', 'SAND LANE', 42
+'Street name', 'EAST 199 STREET', 750
+'Street name', 'WATER STREET', 368
+'Street name', '190 STREET', 109
+'Street name', 'WEST 149 STREET', 1603
+'Street name', '78 STREET', 594
+'Street name', 'MIDDLETOWN ROAD', 110
+'Street name', 'MIDWOOD STREET', 735
+'Street name', 'NORFOLK STREET', 335
+'Street name', 'DEVOE TERRACE', 233
+'Street name', 'SUNNYSIDE AVENUE', 286
+'Street name', 'LORETTA ROAD', 76
+'Street name', 'ARCHER STREET', 34
+'Street name', 'OVERLOOK TERRACE', 188
+'Street name', 'JEWEL AVENUE', 122
+'Street name', 'SCHNECTADY AVENUE', 4
+'Street name', 'BEVERLEY ROAD', 74
+'Street name', 'STONE STREET', 6
+'Street name', 'DE LAVALL AVENUE', 7
+'Street name', 'RECTOR STREET', 4
+'Street name', 'WILKINS AVENUE', 1
+'Street name', 'DARE COURT', 5
+'Street name', 'SABRE STREET', 3
+'Street name', 'GEORGIA ROAD', 1
+'Street name', 'MICHAEL PLACE', 1
+'Street name', 'ROEBLING AVENUE', 106
+'Street name', 'HANCOCK STREET', 2496
+'Street name', 'WEST 108 STREET', 582
+'Street name', 'CONVENT AVENUE', 1849
+'Street name', 'LOUISA STREET', 29
+'Street name', '7 STREET', 131
+'Street name', 'BEACH 125 STREET', 37
+'Street name', 'BEACH 90 STREET', 68
+'Street name', 'PLATTWOOD AVENUE', 19
+'Street name', '171 STREET', 604
+'Street name', 'ST MARYS STREET', 69
+'Street name', 'AVENUE R', 190
+'Street name', 'EAST 61 STREET', 442
+'Street name', 'WEST 65 STREET', 74
+'Street name', '109 DRIVE', 27
+'Street name', 'SLOSSON TERRACE', 206
+'Street name', '63 AVENUE', 152
+'Street name', '164 PLACE', 57
+'Street name', 'SELOVER ROAD', 48
+'Street name', 'ALLISON AVENUE', 20
+'Street name', '230 STREET', 38
+'Street name', 'CONCOURSE VILLAGE WEST', 514
+'Street name', 'KISWICK STREET', 3
+'Street name', 'GERRY STREET', 182
+'Street name', 'LACONIA AVENUE', 213
+'Street name', 'COFFEY STREET', 18
+'Street name', 'BAY 22 STREET', 56
+'Street name', 'SUNNYSIDE COURT', 12
+'Street name', 'ELIZABETH ROAD', 3
+'Street name', 'BEACH 89 STREET', 9
+'Street name', 'BEACH 40 STREET', 14
+'Street name', 'COONLEY COURT', 5
+'Street name', 'CUMBERLAND WALK', 1
+'Street name', 'FANCHON PLACE', 1
+'Street name', '23 DRIVE', 6
+'Street name', 'GAY STREET', 15
+'Street name', 'RED HOOK LANE', 1
+'Street name', 'COLLIS PLACE', 4
+'Street name', 'EAST 117 STREET', 1776
+'Street name', '84 DRIVE', 316
+'Street name', '67 STREET', 1001
+'Street name', 'MARMION AVENUE', 1666
+'Street name', 'EAST 55 STREET', 617
+'Street name', 'SUTPHIN BOULEVARD', 697
+'Street name', 'WOODBINE STREET', 938
+'Street name', 'WEST 24 STREET', 1277
+'Street name', 'PHELAN PLACE', 676
+'Street name', '91 STREET', 288
+'Street name', 'HICKS STREET', 296
+'Street name', 'EAST 131 STREET', 276
+'Street name', 'DONNA COURT', 9
+'Street name', 'WASHINGTON PARK', 108
+'Street name', 'KRISSA COURT', 15
+'Street name', 'REGINA AVENUE', 8
+'Street name', 'HARWAY AVENUE', 79
+'Street name', 'THOMPSON AVENUE', 2
+'Street name', 'JORDAN AVENUE', 8
+'Street name', 'BAYPORT PLACE', 44
+'Street name', 'GILMORE COURT', 3
+'Street name', 'ASTORIA BOULEVARD NORTH', 42
+'Street name', 'FREDERICK DOUGLAS BOULEVARD', 29
+'Street name', '195 PLACE', 12
+'Street name', 'EAST WILLISTON AVENUE', 10
+'Street name', '240 STREET', 18
+'Street name', 'QUAY STREET', 1
+'Street name', 'MASON AVENUE', 1
+'Street name', 'GRAND STREET EXTENSION', 2
+'Street name', 'COPLEY STREET', 3
+'Street name', 'KATAN LOOP', 2
+'Street name', 'RODER AVENUE', 1
+'Street name', 'BOONE STREET', 4
+'Street name', 'WEBB AVENUE', 4512
+'Street name', 'HULL AVENUE', 2660
+'Street name', 'FURMAN AVENUE', 1032
+'Street name', '88 AVENUE', 1749
+'Street name', 'BROOK AVENUE', 1317
+'Street name', 'KIELY PLACE', 24
+'Street name', '102 STREET', 606
+'Street name', 'MENAHAN STREET', 1111
+'Street name', 'VAN SICLEN AVENUE', 828
+'Street name', 'BAY 16 STREET', 212
+'Street name', 'BEACH 120 STREET', 70
+'Street name', 'YETMAN AVENUE', 3
+'Street name', 'DAKOTA PLACE', 2
+'Street name', 'GRACE COURT', 206
+'Street name', 'EAST 99TH STREET', 5
+'Street name', 'MC CLEAN AVENUE', 54
+'Street name', 'THOMAS BOYLAND STREET', 204
+'Street name', 'ELM AVENUE', 41
+'Street name', '115 ROAD', 52
+'Street name', 'HOOVER AVENUE', 75
+'Street name', 'MAURICE AVENUE', 19
+'Street name', '7 AVENUE SOUTH', 23
+'Street name', 'GRISWOLD AVENUE', 13
+'Street name', 'KINGS PLACE', 5
+'Street name', 'BEDFORD PLACE', 5
+'Street name', 'WISSMAN AVENUE', 17
+'Street name', 'WANDELL AVENUE', 8
+'Street name', 'WEST 234 STREET', 5
+'Street name', 'GANSEVOORT STREET', 1
+'Street name', 'QUEENS STREET', 1
+'Street name', 'UTAH STREET', 1
+'Street name', 'TONE LANE', 1
+'Street name', 'EAST 67 STREET', 77
+'Street name', 'BRIGHTON 13 STREET', 737
+'Street name', '62 AVENUE', 434
+'Street name', '137 ROAD', 35
+'Street name', 'SACKMAN STREET', 225
+'Street name', 'SCHAEFER STREET', 629
+'Street name', '231 STREET', 70
+'Street name', 'MC BRIDE STREET', 181
+'Street name', '174 STREET', 43
+'Street name', 'JAVA STREET', 107
+'Street name', 'SAXON AVENUE', 12
+'Street name', 'ANDREWS STREET', 22
+'Street name', '80 ROAD', 2
+'Street name', '208 PLACE', 3
+'Street name', 'WINHAM AVENUE', 10
+'Street name', 'JERICHO TURNPIKE', 3
+'Street name', 'VANDERVEER PLACE', 3
+'Street name', 'WILLIAMSBDG ROAD', 1
+'Street name', 'NANCY LANE', 2
+'Street name', 'DORSET STREET', 5
+'Street name', 'TRYON PLACE', 3
+'Street name', 'SHARROTTS ROAD', 1
+'Street name', 'CLARKSON STREET', 1
+'Street name', 'MALCOLM X BOULEVARD', 1477
+'Street name', 'WEST 59 STREET', 39
+'Street name', 'BEACH 20 STREET', 96
+'Street name', '188 STREET', 57
+'Street name', '262 PLACE', 9
+'Street name', '81 ROAD', 4
+'Street name', 'SUYDAM PLACE', 14
+'Street name', 'DUNBAR STREET', 6
+'Street name', 'LEONA STREET', 3
+'Street name', 'CENTER PLACE', 1
+'Street name', 'AMBER STREET', 58
+'Street name', 'WATERS EDGE DRIVE', 1
+'Street name', 'WEST 66 STREET', 1
+'Street name', 'HOLDEN BOULEVARD', 1
+'Street name', 'RAMBLE ROAD', 1
+'Street name', 'SAINT MARKS PLACE', 1
+'Street name', 'OUTERBRIDGE AVENUE', 1
+'Street name', 'TOMPKINS STREET', 40
+'Street name', 'TYSENS LANE', 213
+'Street name', 'AVENUE D', 1802
+'Street name', 'NARROWS AVENUE', 25
+'Street name', 'EAST 43 STREET', 175
+'Street name', 'BRONX RIVER AVENUE', 404
+'Street name', 'MONTROSE AVENUE', 291
+'Street name', 'MAGENTA STREET', 440
+'Street name', 'DIAMOND STREET', 96
+'Street name', '190 LANE', 10
+'Street name', 'KEAP STREET', 124
+'Street name', '208 STREET', 373
+'Street name', 'UNION SQUARE SOUTH', 1
+'Street name', 'ALMEDA AVENUE', 203
+'Street name', '109 ROAD', 28
+'Street name', 'CLEVELAND AVENUE', 16
+'Street name', 'MURDOCK COURT', 49
+'Street name', '65 ROAD', 63
+'Street name', 'DELANCEY PLACE', 41
+'Street name', 'REDFERN AVENUE', 9
+'Street name', 'TOMPKINS PLACE', 3
+'Street name', 'MAZEAU STREET', 5
+'Street name', 'MINETTA LANE', 4
+'Street name', 'STEPHEN LOOP', 1
+'Street name', 'HOLLY STREET', 1
+'Street name', 'LELAND AVENUE', 1339
+'Street name', 'BENSON AVENUE', 212
+'Street name', 'ARDEN STREET', 5149
+'Street name', 'SEAMAN AVENUE', 2976
+'Street name', 'JOHNSON AVENUE', 177
+'Street name', '119 AVENUE', 154
+'Street name', 'WEST 13 STREET', 293
+'Street name', 'BENEDICT AVENUE', 116
+'Street name', 'JODIE COURT', 111
+'Street name', 'CRESCENT AVENUE', 73
+'Street name', 'ESPLANADE', 100
+'Street name', 'BEACH 129 STREET', 6
+'Street name', '33 AVENUE', 37
+'Street name', 'VOGEL AVENUE', 2
+'Street name', '149 DRIVE', 16
+'Street name', '93 ROAD', 6
+'Street name', 'PALISADE PLACE', 233
+'Street name', 'BRONX PARK AVENUE', 35
+'Street name', 'BEACH 62 STREET', 2
+'Street name', 'ALBERTA AVENUE', 4
+'Street name', 'IRELAND STREET', 2
+'Street name', 'SUMMIT COURT', 1
+'Street name', 'CROTONA PARK NO', 23
+'Street name', 'GARDENIA LANE', 2
+'Street name', 'TIMBER RIDGE DRIVE', 3
+'Street name', 'MILL LANE', 6
+'Street name', 'QUEENS PLAZA NORTH', 5
+'Street name', 'REGAN AVENUE', 4
+'Street name', '37 AVENUE', 1135
+'Street name', 'WEST 42 STREET', 760
+'Street name', 'MORRIS PARK AVENUE', 927
+'Street name', 'WOODYCREST AVENUE', 2215
+'Street name', '164 STREET', 811
+'Street name', 'MC CLELLAN STREET', 406
+'Street name', 'WEST 218 STREET', 329
+'Street name', 'WAYNE AVENUE', 147
+'Street name', 'HOLLERS AVENUE', 45
+'Street name', 'WEST 79 STREET', 135
+'Street name', '243 STREET', 95
+'Street name', 'MC KINLEY AVENUE', 93
+'Street name', 'VESTRY STREET', 3
+'Street name', '211 PLACE', 15
+'Street name', 'BEACH 38 STREET', 12
+'Street name', 'MONTAUK STREET', 28
+'Street name', 'STRYKER STREET', 43
+'Street name', 'DORMANS ROAD', 16
+'Street name', 'EAST MT EDEN PARKWAY', 3
+'Street name', 'GALLOWAY AVENUE', 3
+'Street name', 'UNION PORT ROAD', 1
+'Street name', 'NAT COURT', 1
+'Street name', 'CYRUS AVENUE', 1
+'Street name', 'VANBUREN STREET', 1
+'Street name', 'ZOE STREET', 3
+'Street name', 'WALES AVENUE', 296
+'Street name', 'EAST 12 STREET', 3274
+'Street name', 'CHESTER STREET', 602
+'Street name', 'BRADFORD AVENUE', 60
+'Street name', 'EAST 211 STREET', 255
+'Street name', 'TENNIS COURT', 234
+'Street name', 'EDGEWATER STREET', 12
+'Street name', 'BENCHLEY PLACE', 73
+'Street name', 'ALDERTON STREET', 39
+'Street name', 'BEACH 13 STREET', 54
+'Street name', 'DEWITT PLACE', 38
+'Street name', 'PRINCESS LANE', 1
+'Street name', 'OAK TERRACE', 44
+'Street name', '3 PLACE', 84
+'Street name', 'HOOKER PLACE', 34
+'Street name', 'YATES ROAD', 22
+'Street name', '45 DRIVE', 6
+'Street name', 'SAULTELL AVENUE', 10
+'Street name', '187 STREET', 20
+'Street name', 'LUCY LOOP', 14
+'Street name', 'WOOLLEY AVENUE', 12
+'Street name', 'FERNSIDE PLACE', 25
+'Street name', 'ROBIN ROAD', 11
+'Street name', 'FREEBORN STREET', 12
+'Street name', 'SKINNER LANE', 13
+'Street name', 'GARRETSON AVENUE', 7
+'Street name', 'VERA STREET', 7
+'Street name', 'GARDEN PLACE', 3
+'Street name', '176 PLACE', 6
+'Street name', 'POPLAR LANE', 2
+'Street name', 'WEST 260 STREET', 4
+'Street name', 'VAN CLEEF STREET', 66
+'Street name', 'METCALF AVENUE', 299
+'Street name', 'MORNINGSIDE AVENUE', 1000
+'Street name', 'VYSE AVENUE', 1727
+'Street name', 'RESERVOIR AVENUE', 365
+'Street name', 'EAST 163 STREET', 3348
+'Street name', 'WORTMAN AVENUE', 46
+'Street name', 'WILLOUGHBY AVENUE', 1558
+'Street name', 'EAST 217 STREET', 545
+'Street name', '136 STREET', 45
+'Street name', '56 DRIVE', 18
+'Street name', 'BUFFALO AVENUE', 455
+'Street name', '66 AVENUE', 266
+'Street name', 'BRIGHTON 10 COURT', 87
+'Street name', 'MC INTOSH STREET', 18
+'Street name', 'RYDER AVENUE', 2
+'Street name', 'STAFFORD AVENUE', 11
+'Street name', 'VIRGINIA PLACE', 3
+'Street name', 'ALDRICH STREET', 5
+'Street name', 'IMPERIAL COURT', 5
+'Street name', 'BENJAMIN DRIVE', 1
+'Street name', '133 DRIVE', 7
+'Street name', 'WINANT STREET', 6
+'Street name', 'SONIA COURT', 2
+'Street name', 'PARKWAY COURT', 1
+'Street name', 'WEST 237 STREET', 6
+'Street name', '200 EAST 94 STREET', 2
+'Street name', 'STUYVESANT AVENUE', 745
+'Street name', 'PARKVILLE AVENUE', 268
+'Street name', 'WEST 144 STREET', 1681
+'Street name', 'LINDEN STREET', 1846
+'Street name', 'SEWARD AVENUE', 408
+'Street name', 'HILLMEYER AVENUE', 28
+'Street name', 'COYLE STREET', 214
+'Street name', 'WEST 97 STREET', 642
+'Street name', 'WEST STREET', 335
+'Street name', 'GREENWOOD AVENUE', 173
+'Street name', 'WEST 124 STREET', 421
+'Street name', '69 LANE', 32
+'Street name', 'WEED AVENUE', 3
+'Street name', 'BEACH 12 STREET', 7
+'Street name', '142 PLACE', 29
+'Street name', 'EAST 229 DRIVE NORTH', 3
+'Street name', 'ERICSSON PLACE', 1
+'Street name', 'BEACH 8 STREET', 1
+'Street name', 'ST. ALBANS PLACE', 1
+'Street name', '100 DRIVE', 1
+'Street name', 'THOMPSON PLACE', 1
+'Street name', 'MANN AVENUE', 4
+'Street name', 'NAUGHTON AVENUE', 13
+'Street name', 'RICHMOND PLAZA', 2
+'Street name', '84 PLACE', 8
+'Street name', 'CLAY AVENUE', 3754
+'Street name', 'BEACH 70 STREET', 109
+'Street name', 'WEST 44 STREET', 415
+'Street name', 'EAST 100 STREET', 618
+'Street name', 'ETNA STREET', 377
+'Street name', 'EAST 216 STREET', 405
+'Street name', 'ARLINGTON TERRACE', 37
+'Street name', 'ST MARYS AVENUE', 94
+'Street name', 'RICHMOND ROAD', 134
+'Street name', '218 PLACE', 21
+'Street name', 'SHORE AVENUE', 38
+'Street name', 'PINE PLACE', 9
+'Street name', 'WASHINGTON AVE', 1
+'Street name', '31 DRIVE', 192
+'Street name', 'BANYER PLACE', 51
+'Street name', 'LIEBIG AVENUE', 7
+'Street name', '118 ROAD', 25
+'Street name', 'SLOSSON AVENUE', 3
+'Street name', 'RIDGEFIELD AVENUE', 3
+'Street name', 'FOOTHILL AVENUE', 5
+'Street name', 'LUCILLE AVENUE', 6
+'Street name', 'PENNSYLVAN AVENUE', 1
+'Street name', 'ALAMEDA AVENUE', 4
+'Street name', 'POPPENHUSEN AVENUE', 21
+'Street name', 'PRESIDENT STREET', 3829
+'Street name', 'FULTON STREET', 6467
+'Street name', 'CENTRAL AVENUE', 1302
+'Street name', '51 AVENUE', 141
+'Street name', '91 PLACE', 23
+'Street name', 'INWOOD AVENUE', 112
+'Street name', 'NEW HAVEN AVENUE', 659
+'Street name', 'BOGART AVENUE', 102
+'Street name', '215 PLACE', 35
+'Street name', 'BEACH 17 STREET', 373
+'Street name', 'EAST 66 STREET', 311
+'Street name', 'LAUREL AVENUE', 242
+'Street name', '186 STREET', 80
+'Street name', 'EAST 76 STREET', 270
+'Street name', 'CENTRAL PARK SOUTH', 67
+'Street name', 'RIVER PLACE', 8
+'Street name', 'CHANDLER AVENUE', 3
+'Street name', 'VAN CORTLANDT AVENUE', 4
+'Street name', 'MEADOW LANE', 1
+'Street name', 'GOULDEN AVENUE', 1
+'Street name', 'ALBEE SQUARE', 11
+'Street name', 'BEACH 136 STREET', 1
+'Street name', 'LINCOLN WALK', 1
+'Street name', 'ALLEN PLACE', 1
+'Street name', '67 AVENUE', 558
+'Street name', 'AVENUE N', 677
+'Street name', 'FLATLANDS AVENUE', 300
+'Street name', 'REMSEN AVENUE', 421
+'Street name', 'CONCORD AVENUE', 1047
+'Street name', 'JACKSON AVENUE', 1055
+'Street name', '75 ROAD', 178
+'Street name', 'AVENUE I', 809
+'Street name', '147 AVENUE', 144
+'Street name', 'ARTHUR KILL ROAD', 63
+'Street name', 'TIEMANN AVENUE', 129
+'Street name', 'HIMROD STREET', 899
+'Street name', '36 STREET', 402
+'Street name', 'STORY AVENUE', 340
+'Street name', 'ROOSEVELT PLACE', 38
+'Street name', 'ELIOT AVENUE', 91
+'Street name', '145 DRIVE', 71
+'Street name', 'SPRAGUE AVENUE', 8
+'Street name', 'PEARSALL AVENUE', 51
+'Street name', 'EAST 24 STREET', 394
+'Street name', 'WEST 196 STREET', 170
+'Street name', 'BRADLEY AVENUE', 33
+'Street name', 'BEACH 46 STREET', 25
+'Street name', 'DE GROOT PLACE', 30
+'Street name', 'BRIAN CRESCENT', 2
+'Street name', 'WOODHULL STREET', 8
+'Street name', 'LAKE PLACE', 4
+'Street name', 'KELL AVENUE', 16
+'Street name', 'EXTERIOR STREET', 17
+'Street name', 'CLYDE STREET', 26
+'Street name', 'JUSTICE AVENUE', 16
+'Street name', 'BAGLEY AVENUE', 11
+'Street name', 'GIORDAN COURT', 3
+'Street name', 'KNEELAND AVENUE', 4
+'Street name', 'ZACHARY COURT', 2
+'Street name', 'MARTINEAU STREET', 1
+'Street name', 'TIOGA STREET', 2
+'Street name', 'ROHR PLACE', 1
+'Street name', 'NATICK STREET', 1
+'Street name', 'BAY 37 STREET', 190
+'Street name', 'DR M L KING JR BOULEVARD', 8922
+'Street name', 'GRANT AVENUE', 1879
+'Street name', 'PITKIN AVENUE', 2131
+'Street name', 'EAST 77 STREET', 486
+'Street name', 'HONEYWELL AVENUE', 626
+'Street name', '98 PLACE', 112
+'Street name', 'AMETHYST STREET', 100
+'Street name', 'HAVEMEYER STREET', 311
+'Street name', 'LUDLOW STREET', 508
+'Street name', 'WHITELAW STREET', 25
+'Street name', 'NAVY PIER COURT', 29
+'Street name', 'SOUTH 11 STREET', 539
+'Street name', 'FOREST HILL ROAD', 4
+'Street name', 'KAUFMAN PLACE', 8
+'Street name', 'GOODALL STREET', 9
+'Street name', 'CLOVER PLACE', 3
+'Street name', 'BELVEDERE STREET', 17
+'Street name', 'SUTTON PLACE', 11
+'Street name', 'DE COSTA AVENUE', 16
+'Street name', 'CHARLOTTE STREET', 7
+'Street name', 'DURYEA PLACE', 7
+'Street name', 'OAK STREET', 18
+'Street name', '142 AVENUE', 14
+'Street name', 'JAKE COURT', 13
+'Street name', 'GUN HILL ROAD', 1
+'Street name', '153 COURT', 1
+'Street name', 'AUDUBON AVENUE', 5168
+'Street name', 'BEACH 28 STREET', 135
+'Street name', 'EAST 188 STREET', 916
+'Street name', 'MILLER AVENUE', 2032
+'Street name', '135 STREET', 430
+'Street name', 'WEST 6 STREET', 367
+'Street name', 'OTIS AVENUE', 75
+'Street name', '110 AVENUE', 132
+'Street name', 'ORANGE AVENUE', 12
+'Street name', 'EAST 47 STREET', 19
+'Street name', '8 STREET', 247
+'Street name', '1 STREET', 117
+'Street name', 'PHELAN PLACEDUMMY', 1
+'Street name', 'MAIDEN LANE', 28
+'Street name', 'LAUREL HILL BOULEVARD', 19
+'Street name', 'MC LAUGHLIN STREET', 3
+'Street name', 'BEACH TERRACE', 1
+'Street name', '147 PLACE', 32
+'Street name', 'EVAN PLACE', 2
+'Street name', 'NORTH GANNON AVENUE', 13
+'Street name', 'DAFFODIL LANE', 4
+'Street name', '260 PLACE', 1
+'Street name', 'WOODROSE LANE', 5
+'Street name', 'HUBERT STREET', 3
+'Street name', 'REDFIELD STREET', 1
+'Street name', 'FOREST GREEN', 1
+'Street name', 'BEACON LANE', 3
+'Street name', 'CAROL PLACE', 1
+'Street name', 'KERMIT AVENUE', 3
+'Street name', 'EAST 115 STREET', 1622
+'Street name', 'WEST 119 STREET', 730
+'Street name', 'KELLY STREET', 1015
+'Street name', 'BRIGHTON 3 STREET', 258
+'Street name', '107 STREET', 197
+'Street name', 'BEACH 26 STREET', 217
+'Street name', 'STEUBEN STREET', 210
+'Street name', '28 AVENUE', 624
+'Street name', 'HOME STREET', 511
+'Street name', 'REGENT PLACE', 229
+'Street name', 'GRENADA PLACE', 6
+'Street name', 'CALHOUN AVENUE', 87
+'Street name', 'CALYER STREET', 135
+'Street name', 'BUCKINGHAM ROAD', 42
+'Street name', 'CONCORD STREET', 84
+'Street name', 'DORSEY STREET', 44
+'Street name', 'GREENLEAF AVENUE', 17
+'Street name', 'NEW LANE', 7
+'Street name', 'CAFFREY AVENUE', 130
+'Street name', 'RACAL COURT', 17
+'Street name', 'SEMINOLE AVENUE', 20
+'Street name', 'WILLOWBROOK COURT', 3
+'Street name', 'HART PLACE', 3
+'Street name', 'FINLEY AVENUE', 7
+'Street name', 'BEACH 105 STREET', 1
+'Street name', 'BOYD STREET', 23
+'Street name', 'STRICKLAND AVENUE', 7
+'Street name', 'NORTH 4 PLACE', 9
+'Street name', 'FLATBUSH AVENUE EXTENSION', 9
+'Street name', 'PAERDEGAT 7 STREET', 1
+'Street name', 'CRANFORD STREET', 3
+'Street name', 'NORTH 6 PLACE', 8
+'Street name', 'PRALL AVENUE', 1
+'Street name', 'WEST 179 STREET', 1154
+'Street name', 'WEST 111 STREET', 1720
+'Street name', 'EAST 78 STREET', 732
+'Street name', 'WEST 113 STREET', 550
+'Street name', 'JENNINGS STREET', 454
+'Street name', 'RIDGE STREET', 84
+'Street name', 'COLLEGE AVE', 4
+'Street name', 'MC DONALD AVENUE', 504
+'Street name', 'MALLORY AVENUE', 9
+'Street name', 'GARRISON AVENUE', 95
+'Street name', 'BEACH 119 STREET', 93
+'Street name', 'HAZEL COURT', 22
+'Street name', 'WINDHAM LOOP', 11
+'Street name', 'POPLAR AVENUE', 40
+'Street name', 'ALBANY AVE', 44
+'Street name', 'BODINE STREET', 25
+'Street name', 'DUNNE COURT', 10
+'Street name', 'WOODSTOCK AVENUE', 2
+'Street name', 'FAHY AVENUE', 20
+'Street name', 'TYNDALE STREET', 9
+'Street name', 'MC KEE AVENUE', 1
+'Street name', 'OTTO ROAD', 1
+'Street name', 'CENTRE MARKET PLACE', 4
+'Street name', 'MALBONE STREET', 1
+'Street name', 'GRAY COURT', 1
+'Street name', 'BAISLEY AVENUE', 5
+'Street name', 'JUNIPER BLVD SOUTH', 2
+'Street name', 'ROBERTSON PLACE', 3
+'Street name', 'WEST 73 STREET', 502
+'Street name', 'KINGSBRIDGE TERRACE', 1260
+'Street name', 'STOCKHOLM STREET', 860
+'Street name', 'WEST 137 STREET', 1807
+'Street name', 'CLOVERDALE BOULEVARD', 13
+'Street name', 'WILSON STREET', 23
+'Street name', '179 PLACE', 106
+'Street name', 'PAERDEGAT 9 STREET', 33
+'Street name', '26 ROAD', 36
+'Street name', 'CENTREVILLE STREET', 34
+'Street name', 'COLUMBUS PLACE', 20
+'Street name', '252 STREET', 20
+'Street name', 'CANARSIE ROAD', 13
+'Street name', 'HAZEN STREET', 20
+'Street name', 'PORTLAND PLACE', 39
+'Street name', 'MONAHAN AVENUE', 10
+'Street name', 'DURYEA COURT', 2
+'Street name', '248 STREET', 10
+'Street name', 'NEW STREET', 9
+'Street name', 'HILBURN AVENUE', 12
+'Street name', 'SANTIAGO STREET', 1
+'Street name', 'GARRETT STREET', 1
+'Street name', '51 ROAD', 4
+'Street name', 'INGRAM AVENUE', 6
+'Street name', 'WALCOTT AVENUE', 3
+'Street name', 'ANCHOR DRIVE', 3
+'Street name', 'TIER STREET', 1
+'Street name', 'BANG TERRACE', 1
+'Street name', 'PERRY AVENUE', 3931
+'Street name', 'EAST 83 STREET', 1241
+'Street name', 'QUINCY AVENUE', 41
+'Street name', 'EAST 82 STREET', 1056
+'Street name', 'LIVINGSTON STREET', 129
+'Street name', 'VAN BUREN STREET', 809
+'Street name', '16 STREET', 405
+'Street name', '32 AVENUE', 328
+'Street name', '91 AVENUE', 412
+'Street name', 'WYTHE PLACE', 451
+'Street name', 'ADEE AVENUE', 350
+'Street name', 'ARGYLE ROAD', 566
+'Street name', 'EAST 65 STREET', 322
+'Street name', '12TH STREET', 31
+'Street name', '4 PLACE', 67
+'Street name', 'CYRUS PLACE', 79
+'Street name', 'CLIFF STREET', 20
+'Street name', '246 CRESCENT', 4
+'Street name', 'CUBA AVENUE', 8
+'Street name', 'TRAVIS AVENUE', 28
+'Street name', 'FIELDSTONE ROAD', 5
+'Street name', 'PLUNKETT AVENUE', 1
+'Street name', 'NASBY PLACE', 9
+'Street name', 'MILLENNIUM LOOP', 2
+'Street name', 'CLEARMONT AVENUE', 2
+'Street name', 'WALWORTH STREET', 1
+'Street name', 'DELAVAN STREET', 3
+'Street name', 'LIGHTNER AVENUE', 9
+'Street name', 'BROADWAY', 22345
+'Street name', 'BARBEY STREET', 300
+'Street name', 'CHRISTOPHER STREET', 724
+'Street name', 'THOMAS S BOYLAND STREET', 366
+'Street name', 'SHAKESPEARE AVENUE', 1006
+'Street name', 'YORK AVENUE', 1069
+'Street name', 'HINTON STREET', 4
+'Street name', '185 STREET', 123
+'Street name', 'VEDDER AVENUE', 11
+'Street name', '24 STREET', 314
+'Street name', 'DE GRAW STREET', 16
+'Street name', 'COURSEN PLACE', 159
+'Street name', 'AVENUE Y', 253
+'Street name', 'DEERFIELD ROAD', 41
+'Street name', 'RICHARD AVENUE', 5
+'Street name', 'ROBINSON STREET', 14
+'Street name', 'ASHLAND PLACE', 34
+'Street name', 'CASSIDY PLACE', 48
+'Street name', 'WATERSIDE PLAZA', 42
+'Street name', 'WALKER STREET', 22
+'Street name', 'WEST 261 STREET', 11
+'Street name', '77 PLACE', 1
+'Street name', 'MT EDEN PARKWAY', 9
+'Street name', 'FRASER STREET', 5
+'Street name', '39 DRIVE', 2
+'Street name', 'UPTON STREET', 1
+'Street name', 'ARLEIGH ROAD', 3
+'Street name', 'KEATING PLACE', 20
+'Street name', 'WHITEHALL PLACE', 1
+'Street name', 'BRIGHTON 5 PLACE', 2
+'Street name', 'CASTLE HILL AVENUE', 1149
+'Street name', 'MAPES AVENUE', 307
+'Street name', 'CHURCH AVENUE', 2502
+'Street name', 'WEST 39 STREET', 262
+'Street name', '64 STREET', 892
+'Street name', 'ROCKAWAY BOULEVARD', 460
+'Street name', 'KATONAH AVENUE', 31
+'Street name', 'ATKINS AVENUE', 476
+'Street name', 'NEW UTRECHT AVENUE', 304
+'Street name', 'PETER COOPER ROAD', 82
+'Street name', 'EAST 127 STREET', 68
+'Street name', 'ORIENTAL BOULEVARD', 31
+'Street name', 'MONITOR STREET', 39
+'Street name', '169 PLACE', 14
+'Street name', 'ALASKA STREET', 30
+'Street name', 'THURSBY AVENUE', 16
+'Street name', 'FORDHAM STREET', 7
+'Street name', 'PATRICIA LANE', 5
+'Street name', 'SEGUINE LOOP', 3
+'Street name', 'BEACH 134 STREET', 1
+'Street name', 'PACIFIC STREET', 3778
+'Street name', 'BARKER AVENUE', 1111
+'Street name', 'WEST 163 STREET', 598
+'Street name', '55 STREET', 807
+'Street name', '87 ROAD', 98
+'Street name', 'INWOOD STREET', 149
+'Street name', 'WEST 186 STREET', 871
+'Street name', 'WESTMINSTER ROAD', 490
+'Street name', 'SHELL ROAD', 84
+'Street name', 'COLDEN STREET', 471
+'Street name', 'TAPSCOTT STREET', 413
+'Street name', 'GOODWIN PLACE', 88
+'Street name', 'ESSEX DRIVE', 5
+'Street name', 'BEACH 85 STREET', 39
+'Street name', 'EAST 240 STREET', 34
+'Street name', 'BAY 30 STREET', 79
+'Street name', 'SOUTH ROAD', 232
+'Street name', 'SEXTON PLACE', 56
+'Street name', 'BETTY COURT', 27
+'Street name', 'SHARPE AVENUE', 35
+'Street name', 'RIVERTON STREET', 14
+'Street name', 'BAY VIEW AVENUE', 16
+'Street name', 'SUFFOLK AVENUE', 1
+'Street name', 'CORRELL AVENUE', 8
+'Street name', 'SCREVIN AVENUE', 11
+'Street name', 'CATHERINE SLIP', 1
+'Street name', 'MILLS AVENUE', 1
+'Street name', 'CAMBRIDGE ROAD', 3
+'Street name', 'LANGERE PLACE', 1
+'Street name', 'DEYO STREET', 2
+'Street name', 'WOLVERINE STREET', 1
+'Street name', 'BARLOW DRIVE SOUTH', 1
+'Street name', 'BASSFORD AVENUE', 334
+'Street name', 'DE KALB AVENUE', 3163
+'Street name', 'ADAMS PLACE', 341
+'Street name', 'WEST 89 STREET', 686
+'Street name', 'STANLEY AVENUE', 287
+'Street name', 'EAST 134 STREET', 203
+'Street name', '210 STREET', 202
+'Street name', '224 STREET', 161
+'Street name', 'CHANNING ROAD', 4
+'Street name', 'GUNTHER PLACE', 25
+'Street name', 'VAN NOSTRAND COURT', 2
+'Street name', '237 STREET', 22
+'Street name', 'LASALLE STREET', 6
+'Street name', 'BRYSON AVENUE', 12
+'Street name', 'ROCKAWAY FREEWAY', 9
+'Street name', 'DOROTHEA PLACE', 3
+'Street name', 'BREWSTER STREET', 1
+'Street name', 'CEDAR GROVE AVENUE', 1
+'Street name', 'EINSTEIN LOOP NORTH', 12
+'Street name', '159 ROAD', 1
+'Street name', 'ARNOW AVENUE', 609
+'Street name', 'BOWNE STREET', 770
+'Street name', '45 AVENUE', 496
+'Street name', 'STARR AVENUE', 6
+'Street name', '14 AVENUE', 586
+'Street name', 'NORTH MOORE STREET', 64
+'Street name', 'WEST 54 STREET', 287
+'Street name', '145 STREET', 184
+'Street name', 'PELL STREET', 108
+'Street name', 'BAISLEY BOULEVARD', 76
+'Street name', 'QUIMBY AVENUE', 95
+'Street name', 'HOYT STREET', 61
+'Street name', '75 PLACE', 8
+'Street name', 'EBONY STREET', 5
+'Street name', 'TWIN PINES DRIVE', 18
+'Street name', '265 STREET', 7
+'Street name', 'KINSELLA STREET', 4
+'Street name', 'GRANT STREET', 10
+'Street name', '187 PLACE', 4
+'Street name', 'TERRACE PLACE', 4
+'Street name', 'MC VEIGH AVENUE', 5
+'Street name', 'DUNE STREET', 2
+'Street name', 'MOUNT MORRIS PARK WEST', 1
+'Street name', 'WILLIAMS COURT', 1
+'Street name', 'RADNOR ROAD', 1
+'Street name', 'CLAY PIT ROAD', 7
+'Street name', 'FIGUREA AVENUE', 3
+'Street name', '73 TERRACE', 1
+'Street name', 'HELLGATE CIRCLE', 1
+'Street name', 'DIX AVENUE', 788
+'Street name', 'MT HOPE PLACE', 1277
+'Street name', 'WEST 135 STREET', 3197
+'Street name', 'NELSON AVENUE', 2465
+'Street name', 'NOBLE AVENUE', 756
+'Street name', 'EAST 116 STREET', 1868
+'Street name', 'LIGHT STREET', 207
+'Street name', '93 AVENUE', 211
+'Street name', 'DELANCEY STREET', 173
+'Street name', 'WEST 22 STREET', 746
+'Street name', 'EAST 75 STREET', 460
+'Street name', 'ROBERTS AVENUE', 190
+'Street name', 'SECOR AVENUE', 121
+'Street name', 'JESUP PLACE', 168
+'Street name', 'SPRUCE STREET', 5
+'Street name', 'BETHEL LOOP', 76
+'Street name', '5 STREET', 69
+'Street name', 'LOUIS PLACE', 6
+'Street name', 'WEST 214 STREET', 112
+'Street name', 'LOCKMAN AVENUE', 34
+'Street name', 'SANDRA LANE', 22
+'Street name', 'EDGAR TERRACE', 2
+'Street name', 'YORK STREET', 11
+'Street name', 'VAN HOESEN AVENUE', 1
+'Street name', 'PAERDEGAT 12 STREET', 7
+'Street name', 'BANGOR STREET', 30
+'Street name', 'NOVA COURT', 1
+'Street name', 'SWEETBROOK ROAD', 1
+'Street name', 'TILLARY STREET', 3
+'Street name', 'MULBERRY CIRCLE', 2
+'Street name', '73 STREET', 769
+'Street name', 'FT GEORGE AVENUE', 357
+'Street name', '105 AVENUE', 284
+'Street name', 'BEDELL STREET', 37
+'Street name', 'EAST 89 STREET', 895
+'Street name', 'BRIGHTON 7 STREET', 309
+'Street name', 'DEVON LOOP', 4
+'Street name', 'NEW DORP PLAZA', 2
+'Street name', '60 PLACE', 62
+'Street name', 'MILTON STREET', 53
+'Street name', '60 DRIVE', 33
+'Street name', '37 DRIVE', 17
+'Street name', 'HERKIMER PLACE', 59
+'Street name', 'ROSECLIFF ROAD', 4
+'Street name', '259 STREET', 10
+'Street name', 'JUPITER LANE', 1
+'Street name', 'INTERVALE AVE', 1
+'Street name', 'PELICAN CIRCLE', 5
+'Street name', 'COVERLY AVENUE', 1
+'Street name', 'WHARTON PLACE', 1
+'Street name', 'QUEENS BLVD', 2
+'Street name', 'PINEWOOD AVENUE', 1
+'Street name', 'HERZL STREET', 565
+'Street name', '153 STREET', 780
+'Street name', 'EAST 143 STREET', 100
+'Street name', 'AVENUE U', 662
+'Street name', 'LEFFERTS BOULEVARD', 826
+'Street name', 'WARD AVENUE', 701
+'Street name', 'BEACH 29 STREET', 216
+'Street name', 'ORCHARD STREET', 654
+'Street name', 'SEYMOUR AVENUE', 396
+'Street name', 'PURDY STREET', 209
+'Street name', 'EASTBURN AVENUE', 780
+'Street name', 'RADDE PLACE', 29
+'Street name', 'EAGLE AVENUE', 600
+'Street name', 'KANE PLACE', 67
+'Street name', 'NOBLE STREET', 26
+'Street name', 'NEWTOWN ROAD', 37
+'Street name', 'HOOKCREEK BOULEVARD', 3
+'Street name', 'MCDONALD AVENUE', 12
+'Street name', 'CRANBERRY STREET', 9
+'Street name', 'MCCLANCY PLACE', 4
+'Street name', 'REYNOLDS STREET', 6
+'Street name', 'KATHY PLACE', 6
+'Street name', 'PARK HILL LANE', 3
+'Street name', 'NEW ENGLAND THRUWY SERINCE ROAD', 9
+'Street name', 'MOUNT OLIVET CRESCENT', 2
+'Street name', 'LOCKE STREET', 20
+'Street name', '271 STREET', 2
+'Street name', 'STAGE LANE', 12
+'Street name', 'FT HILL PLACE', 1
+'Street name', 'EAST 233 STREET', 1154
+'Street name', 'SHERIDAN EXPRESSWAY SR', 11
+'Street name', 'BROOKHAVEN AVENUE', 257
+'Street name', 'EAST 31 STREET', 1366
+'Street name', 'MULINER AVENUE', 86
+'Street name', 'HORNELL LOOP', 93
+'Street name', 'TUDOR CITY PLACE', 219
+'Street name', 'NORTH 4 STREET', 38
+'Street name', 'KENT STREET', 87
+'Street name', 'CLERMONT AVENUE', 184
+'Street name', '41 DRIVE', 11
+'Street name', 'DUPONT STREET', 88
+'Street name', 'GLENDALE COURT', 10
+'Street name', 'TOMPKINS COURT', 21
+'Street name', 'SCHURZ AVENUE', 30
+'Street name', 'BEACH 114 STREET', 40
+'Street name', 'SEA CREST LANE', 1
+'Street name', 'BURTON AVENUE', 2
+'Street name', 'JOHNSON STREET', 2
+'Street name', 'BROADWY FRONT', 2
+'Street name', 'QUINN STREET', 73
+'Street name', 'LIPSETT AVENUE', 4
+'Street name', 'ZULETTE AVENUE', 4
+'Street name', 'PEARSALL STREET', 2
+'Street name', 'GROSVENOR STREET', 1
+'Street name', 'SELDIN AVENUE', 1
+'Street name', 'SHERMAN STREET', 1
+'Street name', 'BRYANT AVENUE', 3221
+'Street name', 'GARDEN STREET', 739
+'Street name', 'PAYSON AVENUE', 444
+'Street name', '39 STREET', 521
+'Street name', 'CHARLECOTE RIDGE', 17
+'Street name', 'JEROME STREET', 514
+'Street name', 'RICHARDSON AVENUE', 232
+'Street name', '59 DRIVE', 53
+'Street name', 'CORONA AVENUE', 430
+'Street name', 'BAKER AVENUE', 86
+'Street name', '44 DRIVE', 268
+'Street name', 'BEACH 60 STREET', 102
+'Street name', 'BEACH 127 STREET', 4
+'Street name', 'REGAL WALK', 2
+'Street name', 'LEAVITT STREET', 21
+'Street name', 'LLOYD ROAD', 7
+'Street name', 'CORPORAL STONE STREET', 14
+'Street name', 'ASCH LOOP NORTH', 4
+'Street name', 'HAMPTON PLACE', 6
+'Street name', 'NEW ENGLAND THRWY', 1
+'Street name', 'BAY 44 STREET', 12
+'Street name', 'BRUCKNER EXPRESSWAY', 1
+'Street name', 'STONE AVENUE', 2
+'Street name', 'ASHWORTH AVENUE', 1
+'Street name', 'AMITY PLACE', 2
+'Street name', 'EADIE PLACE', 1
+'Street name', 'BUSHWICK AVENUEDUMMY', 1
+'Street name', 'CORNELIA AVENUE', 6
+'Street name', 'HULL STREET', 730
+'Street name', 'FINDLAY AVENUE', 2057
+'Street name', 'RICHMAN PLAZA', 1192
+'Street name', '18 AVENUE', 1000
+'Street name', 'EAST 111 STREET', 1174
+'Street name', 'WEST 74 STREET', 253
+'Street name', 'ALBEMARLE ROAD', 2961
+'Street name', '49 STREET', 1355
+'Street name', '62 ROAD', 564
+'Street name', 'INDEPENDENCE AVENUE', 109
+'Street name', '211 STREET', 102
+'Street name', '79 STREET', 629
+'Street name', 'WEST 153 STREET', 417
+'Street name', 'BRIGHTON 11 STREET', 98
+'Street name', 'STEUBEN AVENUE', 143
+'Street name', 'QUINLAN AVENUE', 5
+'Street name', 'WELLINGTON COURT', 90
+'Street name', 'PARADE PLACE', 264
+'Street name', 'SHEEPSHEAD BAY ROAD', 71
+'Street name', 'BERKELEY PLACE', 88
+'Street name', 'LAMOKA AVENUE', 8
+'Street name', 'SIMONSON PLACE', 29
+'Street name', '134 AVENUE', 95
+'Street name', 'MAJOR AVENUE', 1
+'Street name', 'MOSEL AVENUE', 11
+'Street name', 'HIAWATHA AVENUE', 5
+'Street name', 'FLEET STREET', 5
+'Street name', 'TENNYSON DRIVE', 1
+'Street name', 'BEVY COURT', 1
+'Street name', 'BALTIC AVENUE', 2
+'Street name', 'BRIDGETON STREET', 1
+'Street name', 'PONTIAC STREET', 13
+'Street name', '122 STREET', 171
+'Street name', 'CANAL STREET', 220
+'Street name', 'EAST 48 STREET', 541
+'Street name', 'CATON AVENUE', 1285
+'Street name', 'EAST 53 STREET', 1380
+'Street name', 'WEST 71 STREET', 804
+'Street name', 'GLEANE STREET', 204
+'Street name', 'WEST MOSHOLU PARKWAY SOUTH', 362
+'Street name', 'SEAVIEW AVENUE', 187
+'Street name', 'PARKCHESTER ROAD', 195
+'Street name', 'VIRGINIA AVENUE', 286
+'Street name', 'SOUTH 8 STREET', 264
+'Street name', '53 DRIVE', 20
+'Street name', 'MANSION STREET', 10
+'Street name', 'HENRY HUDSON PARKWAY WEST', 254
+'Street name', 'DUMONT AVE', 54
+'Street name', 'COVINGTON CIRCLE', 4
+'Street name', 'BALFOUR PLACE', 28
+'Street name', 'QUEENS MIDTOWN EXPRESSWAY', 2
+'Street name', 'NICOLOSI DRIVE', 1
+'Street name', 'INNIS STREET', 13
+'Street name', '107 ROAD', 7
+'Street name', 'DAVIDSON STREET', 7
+'Street name', 'FARRINGTON STREET', 19
+'Street name', 'BEACH 42 STREET', 10
+'Street name', 'PARK LANE', 2
+'Street name', 'FIELDSTONE TERRACE', 1
+'Street name', 'EAST 19 STREET', 4934
+'Street name', '104 STREET', 428
+'Street name', 'WEST 152 STREET', 1460
+'Street name', 'EAST 8 STREET', 954
+'Street name', 'MULBERRY STREET', 880
+'Street name', 'LINCOLN AVENUE', 2558
+'Street name', 'EAST 132 STREET', 506
+'Street name', 'ROCKLAND AVENUE', 42
+'Street name', 'ARVERNE MEWS DRIVE', 1
+'Street name', 'SPRUCE LANE', 2
+'Street name', 'EAST 123 STREET', 192
+'Street name', 'TERRACE VIEW AVENUE', 170
+'Street name', '20 ROAD', 9
+'Street name', 'DOUGLASS STREET', 45
+'Street name', 'WICKLOW PLACE', 1
+'Street name', 'TAIPEI COURT', 14
+'Street name', 'NORTH ELLIOTT PLACE', 25
+'Street name', 'ABBEY COURT', 4
+'Street name', 'HUNTER STREET', 9
+'Street name', 'LEVIT AVENUE', 1
+'Street name', 'DAFFODIL COURT', 1
+'Street name', 'CAMPUS ROAD', 1
+'Street name', 'NEWARK AVENUE', 6
+'Street name', 'THOMAS S BOULAND STREET', 1
+'Street name', '270 STREET', 1
+'Street name', 'EAST 176 STREET', 2318
+'Street name', 'SHERMAN AVENUE', 5326
+'Street name', 'BUSHWICK AVENUE', 2575
+'Street name', 'EAST 14 STREET', 2653
+'Street name', 'ST THERESA AVENUE', 83
+'Street name', 'DENMAN STREET', 533
+'Street name', 'BEACH 14 STREET', 76
+'Street name', 'EAST 9 STREET', 1111
+'Street name', 'WATKINS STREET', 310
+'Street name', 'HUXLEY STREET', 62
+'Street name', 'EAST FORDHAM ROAD', 37
+'Street name', 'MONTEREY AVENUE', 330
+'Street name', 'HUNTINGTON STREET', 24
+'Street name', 'RUBIE PLAZA', 5
+'Street name', 'STROUD AVENUE', 3
+'Street name', '83 DRIVE', 12
+'Street name', 'DAHLIA AVENUE', 13
+'Street name', 'JEFFERSON AVE', 4
+'Street name', 'ADMIRALTY LOOP', 3
+'Street name', 'MOSS PLACE', 1
+'Street name', 'SANFORD AVENUE', 2863
+'Street name', 'EAST 178 STREET', 2316
+'Street name', 'GRAND CENTRAL PARKWAY', 159
+'Street name', 'WEST 238 STREET', 715
+'Street name', 'WEST 103 STREET', 581
+'Street name', 'BROOKLYN AVENUE', 3220
+'Street name', 'CLAFLIN AVENUE', 1046
+'Street name', 'WEST 106 STREET', 585
+'Street name', 'FORLEY STREET', 126
+'Street name', 'EAST 41 STREET', 185
+'Street name', 'FAIRFIELD AVENUE', 42
+'Street name', 'LOUISIANA AVENUE', 127
+'Street name', 'DURYEA AVENUE', 30
+'Street name', '49 AVENUE', 141
+'Street name', 'EGMONT PLACE', 20
+'Street name', 'FERNDALE AVENUE', 66
+'Street name', 'VARICK AVENUE', 8
+'Street name', 'WHITE STREET', 33
+'Street name', 'MULBACH COURT', 7
+'Street name', 'WEST WASHINGTON PLACE', 17
+'Street name', 'SEELEY LANE', 4
+'Street name', 'DONLEY AVENUE', 13
+'Street name', 'BAUGHMAN PLACE', 5
+'Street name', 'ALPINE AVENUE', 5
+'Street name', 'KNICKERBOCK AVENUE', 1
+'Street name', 'SKIDMORE PLACE', 1
+'Street name', 'MARTIN L KING JR BOULEVARD', 1
+'Street name', 'COTTER AVENUE', 2
+'Street name', 'CANTON AVENUE', 1
+'Street name', 'WATERS PLACE', 4
+'Street name', 'BRIDGE COURT', 1
+'Street name', 'LEWIS AVENUE', 479
+'Street name', 'BEACH 68 STREET', 85
+'Street name', '42 STREET', 1833
+'Street name', 'EAST 221 STREET', 566
+'Street name', '123 STREET', 243
+'Street name', 'STEPHENS COURT', 3
+'Street name', 'SEAGIRT AVENUE', 672
+'Street name', 'WEST 183 STREET', 1532
+'Street name', 'LYMAN PLACE', 147
+'Street name', '134 STREET', 206
+'Street name', 'PAERDEGAT 5 STREET', 14
+'Street name', 'KESSEL STREET', 9
+'Street name', 'FAIRVIEW PLACE', 32
+'Street name', 'WEST 191 STREET', 678
+'Street name', 'FOWLER AVENUE', 75
+'Street name', 'GILLESPIE AVENUE', 103
+'Street name', 'HUNTINGTON AVENUE', 201
+'Street name', 'WOLCOTT STREET', 17
+'Street name', 'BENTLEY ROAD', 8
+'Street name', 'SEABRING STREET', 5
+'Street name', 'WOOSTER STREET', 23
+'Street name', 'GERVIL STREET', 12
+'Street name', 'WEST 110 STREET', 83
+'Street name', 'BRIGHTON 1 PATH', 9
+'Street name', 'TITUS AVENUE', 14
+'Street name', 'HORACE HARDING EXPRE', 1
+'Street name', 'SLOANE AVENUE', 1
+'Street name', '268 STREET', 20
+'Street name', 'HAMMELS BOULEVARD', 3
+'Street name', 'PECONIC STREET', 26
+'Street name', 'JUMEL STREET', 2
+'Street name', 'ST GEORGE ROAD', 2
+'Street name', 'HOLT PLACE', 1
+'Street name', 'SIMONSON STREET', 3
+'Street name', 'DECATUR AVENUE', 7131
+'Street name', 'ST NICHOLAS AVENUE', 12391
+'Street name', 'HILLSIDE AVENUE', 3293
+'Street name', 'EAST TREMONT AVENUE', 5264
+'Street name', 'WEST FORDHAM ROAD', 195
+'Street name', 'LYDIG AVENUE', 190
+'Street name', 'WEST 213 STREET', 335
+'Street name', 'FIELDSTON ROAD', 361
+'Street name', 'BEACH 102 STREET', 17
+'Street name', 'FLATLANDS 6 STREET', 6
+'Street name', '110 ROAD', 73
+'Street name', '144 AVENUE', 121
+'Street name', 'NARROWS ROAD NORTH', 34
+'Street name', 'SNEDEN AVENUE', 2
+'Street name', 'ALABAMA AVENUE', 444
+'Street name', 'AUGUSTINA AVENUE', 64
+'Street name', '102 ROAD', 65
+'Street name', 'ST GEORGES CRESCENT', 28
+'Street name', 'EGBERT AVENUE', 5
+'Street name', 'FRANKLIN LANE', 4
+'Street name', 'NEWBURG STREET', 22
+'Street name', '148 DRIVE', 100
+'Street name', 'MAYDA ROAD', 20
+'Street name', 'PAERDEGAT 2 STREET', 24
+'Street name', 'VAN HORN STREET', 11
+'Street name', 'HALPIN AVENUE', 1
+'Street name', 'MANSE STREET', 7
+'Street name', 'BRIGHTON COURT', 67
+'Street name', 'JULIANA PLACE', 1
+'Street name', 'SCHOHARIE STREET', 11
+'Street name', 'RIVERSIDE LANE', 1
+'Street name', 'EAST 168 STREET', 1444
+'Street name', 'HUNTERFLY PLACE', 7
+'Street name', 'PELHAM PARKWAY SOUTH', 1313
+'Street name', 'PARKER STREET', 248
+'Street name', '56 AVENUE', 141
+'Street name', 'CAESAR PLACE', 6
+'Street name', 'ELTON STREET', 1436
+'Street name', 'MALTA STREET', 78
+'Street name', '128 STREET', 119
+'Street name', 'MARCONI PLACE', 40
+'Street name', 'OCEANA DRIVE EAST', 32
+'Street name', 'PECK SLIP', 2
+'Street name', 'ST OUEN STREET', 37
+'Street name', 'AGUILAR AVENUE', 14
+'Street name', 'BEACH 72 STREET', 47
+'Street name', 'FIEDLER AVENUE', 5
+'Street name', 'ADMIRAL LANE', 5
+'Street name', 'KEEL COURT', 6
+'Street name', 'CIRCLE LOOP', 2
+'Street name', 'ARCADIA AVENUE', 1
+'Street name', '56 PLACE', 9
+'Street name', '154 PLACE', 1
+'Street name', 'CARNEGIE AVENUE', 1
+'Street name', 'EAST 187 STREET', 2213
+'Street name', 'PARK PLACE', 4358
+'Street name', 'WEST 192 STREET', 675
+'Street name', 'WILLIAMSBRIDGE ROAD', 1189
+'Street name', '146 STREET', 226
+'Street name', 'VILLAGE ROAD', 90
+'Street name', 'OAKLEY STREET', 79
+'Street name', 'ORLANDO STREET', 4
+'Street name', 'DEPPE PLACE', 8
+'Street name', 'MT MORRIS PARK WEST', 221
+'Street name', 'BRIGHTON 1 ROAD', 62
+'Street name', 'VAN CORTLANDT AVENUE EAST', 59
+'Street name', 'KLONDIKE AVENUE', 15
+'Street name', 'GUERLAIN STREET', 25
+'Street name', 'TAFT AVENUE', 90
+'Street name', 'KANE STREET', 23
+'Street name', 'OLD MILL ROAD', 9
+'Street name', 'LAKEVIEW BLVD EAST', 1
+'Street name', 'LOWE COURT', 9
+'Street name', 'FENWAY CIRCLE', 4
+'Street name', 'ROCKNE STREET', 5
+'Street name', 'FOSTER ROAD', 4
+'Street name', 'PURITAN AVENUE', 4
+'Street name', 'MERRILL AVENUE', 1
+'Street name', 'PIEDMONT AVENUE', 1
+'Street name', 'MOULTRIE STREET', 1
+'Street name', 'WILLMOHR STREET', 1144
+'Street name', 'SELWYN AVENUE', 1720
+'Street name', 'EAST 51 STREET', 1301
+'Street name', 'SURF AVENUE', 368
+'Street name', 'EAST 220 STREET', 711
+'Street name', 'HONE AVENUE', 229
+'Street name', 'VISITATION PLACE', 113
+'Street name', 'HEALY AVENUE', 170
+'Street name', 'SMART STREET', 32
+'Street name', 'EAST 226 STREET', 538
+'Street name', 'WEST 9 STREET', 206
+'Street name', 'BRIGHTWATER COURT', 438
+'Street name', 'TREADWELL AVENUE', 39
+'Street name', 'ARNOLD AVENUE', 20
+'Street name', 'FAR ROCKAWAY BOULEVARD', 62
+'Street name', 'EDGEMERE AVENUE', 6
+'Street name', 'LORRAINE STREET', 6
+'Street name', 'POST ROAD', 19
+'Street name', 'DORIS STREET', 14
+'Street name', 'SAGAMORE AVENUE', 1
+'Street name', 'REGIS DRIVE', 8
+'Street name', 'LANDER AVENUE', 2
+'Street name', 'WORLD TRADE CENTER', 1
+'Street name', 'ATARI LANE', 4
+'Street name', 'FERNDALE COURT', 1
+'Street name', 'CORNELL AVENUE', 1
+'Street name', 'RENO AVENUE', 1
+'Street name', 'ELTINGE STREET', 1
+'Street name', 'BRIGHTON 3 COURT', 3
+'Street name', 'GLENWOOD STREET', 1
+'Street name', 'BERRY COURT', 1
+'Street name', 'AVENUE ST JOHN', 532
+'Street name', 'HEATH AVENUE', 1707
+'Street name', 'ORLOFF AVENUE', 817
+'Street name', 'WEST END AVENUE', 3315
+'Street name', 'AVENUE T', 451
+'Street name', 'SHEPERD AVE', 4
+'Street name', 'HILLMAN AVENUE', 24
+'Street name', 'PARKHILL AVENUE', 863
+'Street name', 'WEST 28 STREET', 519
+'Street name', 'KENT AVENUE', 225
+'Street name', 'ALSTYNE AVENUE', 37
+'Street name', 'BEACH 97 STREET', 22
+'Street name', 'WAVECREST STREET', 3
+'Street name', 'OAKVILLE STREET', 14
+'Street name', 'DAHLGREN PLACE', 21
+'Street name', 'BARCLAY STREET', 4
+'Street name', 'GORGE ROAD', 1
+'Street name', 'BOW STREET', 1
+'Street name', 'LENHART STREET', 3
+'Street name', 'SOUNDVIEW LANE', 2
+'Street name', 'ISELIN AVENUE', 1
+'Street name', 'WEST 263 STREET', 2
+'Street name', 'GRAND CONCOURSE', 28283
+'Street name', 'FREDERICK DOUGLASS BOULEVARD', 4857
+'Street name', 'EAST 32 STREET', 620
+'Street name', 'VAN NEST AVENUE', 371
+'Street name', '65 STREET', 1204
+'Street name', 'HEGEMAN AVENUE', 1526
+'Street name', 'LEROY STREET', 114
+'Street name', 'WEST 95 STREET', 671
+'Street name', 'ELLIOT PLACE', 1392
+'Street name', '241 STREET', 39
+'Street name', 'MAYFLOWER AVENUE', 371
+'Street name', 'CATALPA AVENUE', 204
+'Street name', 'MORELAND STREET', 32
+'Street name', '136 ROAD', 47
+'Street name', 'DRUMGOOLE ROAD WEST', 17
+'Street name', '210 PLACE', 13
+'Street name', 'MIDDLETON STREET', 19
+'Street name', 'HUNGRY HARBOR ROAD', 6
+'Street name', 'GREENCROFT AVENUE', 2
+'Street name', 'OCEANIC AVENUE', 8
+'Street name', 'SOMMERS LANE', 3
+'Street name', 'ST NICHLAS TERRACE', 1
+'Street name', 'BREHAUT AVENUE', 2
+'Street name', 'EAST 196 STREET', 1458
+'Street name', '41 STREET', 1799
+'Street name', 'SUNSET BOULEVARD', 2
+'Street name', 'EAST 180 STREET', 2193
+'Street name', 'GILES PLACE', 648
+'Street name', 'NEW JERSEY AVENUE', 810
+'Street name', 'SAUNDERS STREET', 708
+'Street name', 'MATILDA AVENUE', 525
+'Street name', 'MELROSE AVENUE', 620
+'Street name', 'EAST 181 STREET', 1265
+'Street name', '130 STREET', 188
+'Street name', 'PRINCE STREET', 635
+'Street name', 'VIREO AVENUE', 307
+'Street name', 'EAST 191 STREET', 214
+'Street name', 'GELSTON AVENUE', 317
+'Street name', 'MIDLAND AVENUE', 32
+'Street name', '104 AVENUE', 139
+'Street name', 'EAST 159 STREET', 558
+'Street name', 'HEMPSTEAD AVENUE', 156
+'Street name', '144 ROAD', 42
+'Street name', 'HAIGHT AVENUE', 101
+'Street name', 'SUMMER STREET', 3
+'Street name', 'BEACH 30 STREET', 47
+'Street name', 'FULLER STREET', 24
+'Street name', 'SCHERMERHORN STREET', 94
+'Street name', 'OLD FULTON STREET', 7
+'Street name', 'BOGART STREET', 3
+'Street name', 'CATON PLACE', 44
+'Street name', 'MACDOUGAL STREET', 21
+'Street name', 'BEECHWOOD AVENUE', 9
+'Street name', 'CONFEDERATION PLACE', 2
+'Street name', 'MARISA COURT', 3
+'Street name', 'SEABURY PLACE', 62
+'Street name', 'BLOOMINGDALE ROAD', 11
+'Street name', 'SCHIEFFELIN AVENUE', 38
+'Street name', 'STRONGHURST AVENUE', 3
+'Street name', 'LION STREET', 2
+'Street name', 'MIMOSA LANE', 1
+'Street name', 'EDGERTON BOULEVARD', 1
+'Street name', 'BEACH 5 STREET', 5
+'Street name', 'BELLA VISTA COURT', 7
+'Street name', 'SUFFOLK DRIVE', 2
+'Street name', 'TURIN DRIVE', 1
+'Street name', 'WATERSTONE DRIVE', 1
+'Street name', 'NUNZIE COURT', 1
+'Street name', 'ROCKWELL AVENUE', 2
+'Street name', 'BAY 34 STREET', 130
+'Street name', 'CLARKSON AVENUE', 2812
+'Street name', 'WEST 47 STREET', 1236
+'Street name', '137 AVENUE', 94
+'Street name', '222 STREET', 209
+'Street name', 'EAST 37 STREET', 546
+'Street name', '57 ROAD', 78
+'Street name', 'PEBBLE LANE', 1
+'Street name', '70 ROAD', 27
+'Street name', 'WEST 246 STREET', 91
+'Street name', 'CROSS BRONX SERVICE ROAD SOUTH', 74
+'Street name', '148 ROAD', 45
+'Street name', 'ECKFORD AVENUE', 4
+'Street name', 'PALO ALTO STREET', 10
+'Street name', 'BEACON COURT', 3
+'Street name', 'MILDRED AVENUE', 2
+'Street name', 'ALBANY STREET', 1
+'Street name', 'LAKEVIEW LANE', 1
+'Street name', 'ROPES AVENUE', 3
+'Street name', 'WHITESTONE PARKWAY ST EAST', 3
+'Street name', 'NECK ROAD', 1
+'Street name', 'KUNATH AVENUE', 4
+'Street name', 'POUCH TERRACE', 4
+'Street name', 'MICHAEL COURT', 1
+'Street name', 'BRADEY AVENUE', 1
+'Street name', 'RIVERSIDE DRIVE', 6712
+'Street name', 'EAST 45 STREET', 449
+'Street name', 'WEST 127 STREET', 1071
+'Street name', 'CROWN STREET', 4058
+'Street name', 'NORTHERN BOULEVARD', 1373
+'Street name', 'ESSEX STREET', 1142
+'Street name', 'EASTERN PARKWAY EXTENSION', 748
+'Street name', 'NEWBOLD AVENUE', 689
+'Street name', 'EAST 243 STREET', 401
+'Street name', 'VANDERBILT AVENUE', 712
+'Street name', 'CONOVER STREET', 106
+'Street name', '115 AVENUE', 157
+'Street name', 'BIRCHALL AVENUE', 128
+'Street name', 'FREMONT AVENUE', 1
+'Street name', '40 ROAD', 47
+'Street name', '127 AVENUE', 68
+'Street name', '73 PLACE', 38
+'Street name', 'LOUIS NINE BOULEVARD', 75
+'Street name', 'HENDRICKSON STREET', 14
+'Street name', 'BELKNAP STREET', 10
+'Street name', 'EXCHANGE PLACE', 15
+'Street name', 'SPRUCE AVENUE', 4
+'Street name', 'THOMAS STREET', 7
+'Street name', 'CORBIN AVENUE', 2
+'Street name', 'EDISON STREET', 10
+'Street name', 'BEACH 51 STREET', 29
+'Street name', 'KOSCIUSKO STREET', 1
+'Street name', 'BAYSIDE LANE', 2
+'Street name', 'KINGS BRIDGE TERRACE', 1
+'Street name', 'SIMPSON STREET', 447
+'Street name', 'EAST 105 STREET', 851
+'Street name', '9 STREET', 503
+'Street name', 'BELL BOULEVARD', 607
+'Street name', 'WEST 87 STREET', 659
+'Street name', 'MARLBOROUGH ROAD', 317
+'Street name', '73 AVENUE', 340
+'Street name', 'MORTON STREET', 239
+'Street name', 'CINCINNATUS AVENUE', 12
+'Street name', 'EAST 151 STREET', 571
+'Street name', 'BEECH TERRACE', 157
+'Street name', 'KAPPOCK STREET', 122
+'Street name', 'JONES STREET', 52
+'Street name', '76 DRIVE', 179
+'Street name', 'ATTORNEY STREET', 48
+'Street name', 'BEACH 48 STREET', 24
+'Street name', '131 AVENUE', 74
+'Street name', 'PORTSMOUTH AVENUE', 3
+'Street name', 'SUNSET AVENUE', 3
+'Street name', 'LOGAN AVENUE', 56
+'Street name', 'CHENEY STREET', 12
+'Street name', 'LIBRARY AVENUE', 10
+'Street name', 'GRANITE AVENUE', 9
+'Street name', 'MARS PLACE', 1
+'Street name', '141 ROAD', 10
+'Street name', 'POINT BREEZE PLACE', 19
+'Street name', 'TRINA LANE', 2
+'Street name', 'CANON DRIVE', 2
+'Street name', 'SYLVAN AVENUE', 4
+'Street name', 'OLD WOODPOINT ROAD', 1
+'Street name', 'COUNTRY DRIVE WEST', 3
+'Street name', 'NORTHEN BOULEVARD', 4
+'Street name', 'ST LUKES PLACE', 2
+'Street name', 'RUTH STREET', 3
+'Street name', 'SMITH COURT', 1
+'Street name', 'BOGARDUS STREET', 2
+'Street name', 'BRIGHAM STREET', 79
+'Street name', 'ESTATES LANE', 3
+'Street name', 'PULASKI STREET', 1001
+'Street name', 'REV JAMES POLITE AVENUE', 873
+'Street name', 'BEACH 36 STREET', 60
+'Street name', '46 STREET', 1575
+'Street name', '10 AVENUE', 2708
+'Street name', 'EAST 71 STREET', 262
+'Street name', 'EAST 193 STREET', 567
+'Street name', 'PINSON STREET', 52
+'Street name', 'NELSON STREET', 101
+'Street name', 'BRIGHTON 10 TERRACE', 3
+'Street name', 'BRIDGE STREET', 45
+'Street name', 'MASPETH AVENUE', 53
+'Street name', 'MIDLAND PARKWAY', 80
+'Street name', '24 ROAD', 11
+'Street name', 'WEST MT EDEN AVENUE', 10
+'Street name', 'BOLTON AVENUE', 84
+'Street name', 'LINCOLN STREET', 16
+'Street name', 'BIDWELL AVENUE', 16
+'Street name', 'SEASPRAY AVENUE', 4
+'Street name', 'SCARBORO AVENUE', 1
+'Street name', 'GOLD ROAD', 11
+'Street name', 'SANDS PLACE', 15
+'Street name', 'VILLAGE ROAD NORTH', 4
+'Street name', 'JOSEPH AVENUE', 4
+'Street name', 'RHINE AVENUE', 6
+'Street name', 'RIVER AVENUE', 6
+'Street name', 'DOVER STREET', 2
+'Street name', 'HUXLEY AVENUE', 29
+'Street name', 'FORDHAM HILL OVAL', 4
+'Street name', '267 STREET', 2
+'Street name', 'GATEWAY DRIVE', 5
+'Street name', 'EBONY COURT', 3
+'Street name', '129 AVENUE', 43
+'Street name', 'EAST 228 STREET', 1275
+'Street name', 'CONEY ISLAND AVENUE', 1817
+'Street name', '50 STREET', 1039
+'Street name', '56 STREET', 508
+'Street name', 'STODDARD PLACE', 795
+'Street name', 'AVENUE H', 731
+'Street name', 'ITHACA STREET', 187
+'Street name', 'WITHERS STREET', 77
+'Street name', '215 STREET', 83
+'Street name', 'ELK DRIVE', 535
+'Street name', 'HURON STREET', 160
+'Street name', 'SPENCER PLACE', 121
+'Street name', 'HOLMES LANE', 9
+'Street name', 'SELFRIDGE STREET', 15
+'Street name', 'BIONIA AVENUE', 4
+'Street name', 'WHEATLEY STREET', 2
+'Street name', 'HEWITT AVENUE', 1
+'Street name', 'COVENTRY ROAD', 3
+'Street name', 'ARMAND PLACE', 4
+'Street name', 'ROSITA ROAD', 7
+'Street name', 'FIELD STREET', 2
+'Street name', 'DONCASTER PLACE', 6
+'Street name', 'WHITEHALL STREET', 1
+'Street name', '141 ST', 1
+'Street name', 'DANK COURT', 13
+'Street name', '130 ROAD', 3
+'Street name', 'KENWOOD AVENUE', 2
+'Street name', 'CEDAR TERRACE', 1
+'Street name', 'EAST KINGSBRIDGE ROAD', 462
+'Street name', 'WEST 168 STREET', 423
+'Street name', 'NEW YORK AVENUE', 5459
+'Street name', 'TARGEE STREET', 255
+'Street name', 'EAST 202 STREET', 597
+'Street name', 'WEST 117 STREET', 402
+'Street name', 'LITHONIA AVENUE', 1
+'Street name', 'WEST 81 STREET', 237
+'Street name', 'ELMWOOD AVENUE', 156
+'Street name', 'PAUL AVENUE', 36
+'Street name', 'BAXTER STREET', 142
+'Street name', 'BILLOP AVENUE', 20
+'Street name', 'HARING STREET', 85
+'Street name', 'PHEASANT LANE', 9
+'Street name', 'HERKIMER COURT', 12
+'Street name', 'NORTH OAK DRIVE', 10
+'Street name', 'BERGEN PLACE', 83
+'Street name', '46 ROAD', 25
+'Street name', 'GATLING PLACE', 20
+'Street name', 'BABYLON AVENUE', 1
+'Street name', 'TORRY AVENUE', 9
+'Street name', '163 AVENUE', 1
+'Street name', 'FLOYD STREET', 4
+'Street name', 'SIDEVIEW AVENUE', 1
+'Street name', 'BLUE SLIP', 7
+'Street name', 'PEMBERTON AVENUE', 1
+'Street name', 'WALDRON AVENUE', 2
+'Street name', 'DUANE COURT', 2
+'Street name', 'MANHATTAN STREET', 1
+'Street name', 'QUARRY ROAD', 1
+'Street name', 'ALBANY AVENUE', 1589
+'Street name', 'WEST 132 STREET', 547
+'Street name', 'WEST 129 STREET', 1290
+'Street name', 'WEST 15 STREET', 567
+'Street name', '221 PLACE', 13
+'Street name', '135 AVENUE', 108
+'Street name', 'WALTON STREET', 61
+'Street name', 'DE SALES PLACE', 79
+'Street name', 'DREYER AVENUE', 1
+'Street name', 'BLACKFORD AVENUE', 19
+'Street name', '123 AVENUE', 25
+'Street name', '64 CIRCLE', 8
+'Street name', 'BUTTRICK AVENUE', 30
+'Street name', 'LAGUNA LANE', 1
+'Street name', 'COUNTRY WOODS LANE', 1
+'Street name', 'GAULDY AVENUE', 2
+'Street name', 'BEMENT COURT', 4
+'Street name', 'STEPHENS AVENUE', 15
+'Street name', 'DALIAN COURT', 5
+'Street name', 'SANTA MONICA LANE', 3
+'Street name', 'CHICOT ROAD', 2
+'Street name', 'BALTIMORE STREET', 4
+'Street name', 'URSINA ROAD', 3
+'Street name', '60 COURT', 1
+'Street name', 'JUNIPER VALLEY ROAD', 2
+'Street name', 'FRIENDSHIP LANE', 1
+'Street name', '226 STREET', 89
+'Street name', '92 STREET', 330
+'Street name', 'SPRINGFIELD BOULEVARD', 361
+'Street name', 'REVIEW PLACE', 481
+'Street name', 'EAST 214 STREET', 1068
+'Street name', '20 AVENUE', 1467
+'Street name', '120 STREET', 608
+'Street name', 'EAST 206 STREET', 349
+'Street name', 'THROOP AVENUE', 796
+'Street name', '138 PLACE', 66
+'Street name', 'HUMPHREYS STREET', 52
+'Street name', 'DEBS PLACE', 39
+'Street name', 'CAMBRIDGE AVENUE', 26
+'Street name', 'BOONE AVENUE', 143
+'Street name', 'CAMERON AVENUE', 1
+'Street name', 'RIVER TERRACE', 7
+'Street name', 'SANDERS PLACE', 18
+'Street name', 'NEHRING AVENUE', 8
+'Street name', 'FDR DRIVE', 1
+'Street name', 'ROCKVILLE AVENUE', 3
+'Street name', 'BEARD STREET', 1
+'Street name', 'GOTHIC DRIVE', 2
+'Street name', 'ARKANSAS AVENUE', 1
+'Street name', 'ELLERY STREET', 180
+'Street name', '39 PLACE', 555
+'Street name', 'WEST 36 STREET', 458
+'Street name', 'EAST HOUSTON STREET', 254
+'Street name', 'BRIGHTON 5 STREET', 352
+'Street name', 'NORMAN AVENUE', 95
+'Street name', 'ST LAWRENCE AVENUE', 604
+'Street name', '195 STREET', 980
+'Street name', 'BARROW STREET', 107
+'Street name', 'AVENUE O', 685
+'Street name', 'ADELPHI STREET', 203
+'Street name', 'BELMONT PLACE', 261
+'Street name', '66 ROAD', 191
+'Street name', 'MINETTA STREET', 6
+'Street name', '121 STREET', 186
+'Street name', '37 ROAD', 21
+'Street name', 'BROOK STREET', 134
+'Street name', '70 AVENUE', 225
+'Street name', 'BRIGHTON 6 STREET', 282
+'Street name', 'NORTH 12 STREET', 2
+'Street name', 'DEWEY AVENUE', 24
+'Street name', 'SUNNYSIDE STREET', 3
+'Street name', 'BEADEL STREET', 8
+'Street name', 'ARVERNE BOULEVARD', 10
+'Street name', 'CHURCH LANE', 1
+'Street name', 'HARTFORD AVENUE', 2
+'Street name', 'MILBANK ROAD', 4
+'Street name', 'COENTIES SLIP', 12
+'Street name', 'WESTSIDE AVENUE', 5
+'Street name', 'ENDEAVOR PLACE', 6
+'Street name', '30 PLACE', 1
+'Street name', 'ROOSEVELT AVENUE', 1052
+'Street name', '26 AVENUE', 269
+'Street name', 'EAST 109 STREET', 962
+'Street name', 'FRANKLIN AVENUE', 3561
+'Street name', '160 STREET', 354
+'Street name', 'CLAY STREET', 298
+'Street name', '178 STREET', 60
+'Street name', '218 STREET', 176
+'Street name', '85 DRIVE', 256
+'Street name', '138 STREET', 204
+'Street name', 'ENRIGHT ROAD', 14
+'Street name', '140 STREET', 122
+'Street name', 'TIFFANY STREET', 173
+'Street name', 'EAST 9TH STREET', 9
+'Street name', '20 LANE', 198
+'Street name', 'BALTIC STREET', 160
+'Street name', 'DOMAIN STREET', 2
+'Street name', 'WEST 250 STREET', 1
+'Street name', 'HEINZ AVENUE', 1
+'Street name', 'DOOLEY STREET', 4
+'Street name', 'WEST BUCHANAN STREET', 3
+'Street name', 'WELLER AVENUE', 4
+'Street name', 'LAX AVENUE', 14
+'Street name', 'SHARROTTS LANE', 2
+'Street name', 'ANACONDA STREET', 2
+'Street name', 'MOUNTAINVIEW AVENUE', 3
+'Street name', 'SEMINOLE STREET', 1
+'Street name', 'BEACH 148 STREET', 1
+'Street name', 'DAVIS COURT', 2
+'Street name', 'WALBROOKE AVENUE', 1
+'Street name', 'PUTNAM AVENUE', 2580
+'Street name', 'KOSCIUSZKO STREET', 1058
+'Street name', 'WEST 165 STREET', 371
+'Street name', '101 AVENUE', 743
+'Street name', 'EAST 170 STREET', 974
+'Street name', 'EAST 34 STREET', 1847
+'Street name', 'KINGSLAND AVENUE', 535
+'Street name', 'WARING AVENUE', 399
+'Street name', 'BROOME STREET', 1618
+'Street name', 'BEACH 15 STREET', 263
+'Street name', 'BLAIR AVENUE', 19
+'Street name', 'ST JAMES PLACE', 235
+'Street name', 'ERDMAN PLACE', 22
+'Street name', 'RICE AVENUE', 1
+'Street name', 'ROSEWOOD STREET', 76
+'Street name', 'CORYN COURT', 2
+'Street name', 'WASHINGTON SQUARE WEST', 4
+'Street name', 'FULLER COURT', 1
+'Street name', 'CRANDALL AVENUE', 5
+'Street name', 'EAST 106 STREET', 903
+'Street name', 'WEST 184 STREET', 1054
+'Street name', '169 STREET', 450
+'Street name', 'TILDEN AVENUE', 286
+'Street name', 'EAST 139 STREET', 888
+'Street name', 'ALLERTON AVENUE', 533
+'Street name', 'LEWMAY ROAD', 138
+'Street name', 'KNICKERBOCKER AVENUE', 1328
+'Street name', '111 AVENUE', 708
+'Street name', 'SCHOLES STREET', 273
+'Street name', 'GREENPOINT AVENUE', 479
+'Street name', '204 STREET', 218
+'Street name', '14 STREET', 474
+'Street name', 'ERICSON PLACE', 466
+'Street name', '234 STREET', 35
+'Street name', 'BAY 10 STREET', 18
+'Street name', '10 STREET', 206
+'Street name', 'HOYT AVENUE SOUTH', 107
+'Street name', '113 DRIVE', 72
+'Street name', 'EMERSON PLACE', 26
+'Street name', 'NORTH 11 STREET', 23
+'Street name', 'FT GEORGE HILL', 11
+'Street name', 'CROSS ISLE PARKWAY SR NORTH', 7
+'Street name', 'OHM AVENUE', 1
+'Street name', 'ASKE STREET', 11
+'Street name', 'FIRTH ROAD', 4
+'Street name', 'CARMEL COURT', 8
+'Street name', 'CROWELL AVENUE', 2
+'Street name', 'RHETT AVENUE', 1
+'Street name', 'LORETTO STREET', 1
+'Street name', 'MOONLIGHT COURT', 6
+'Street name', 'CONDUIT BOULEVARD', 1
+'Street name', 'GREENE AVE', 1
+'Street name', 'PILCHER STREET', 2
+'Street name', '83 PLACE', 1
+'Street name', 'RAMAPO AVENUE', 1
+'Street name', 'BOSTON ROAD', 3225
+'Street name', 'WEBSTER AVENUE', 3458
+'Street name', '2 STREET', 296
+'Street name', 'BROWN PLACE', 66
+'Street name', 'EAST 185 STREET', 181
+'Street name', 'ST PAULS COURT', 594
+'Street name', 'WITTHOFF STREET', 15
+'Street name', 'SLAIGHT STREET', 81
+'Street name', 'VAN RIPER STREET', 6
+'Street name', 'ADMIRAL AVENUE', 19
+'Street name', 'MESEROLE STREET', 374
+'Street name', 'VAN BRUNT STREET', 240
+'Street name', 'LONGSTREET AVENUE', 333
+'Street name', 'EAST 189 STREET', 600
+'Street name', 'DOSCHER STREET', 139
+'Street name', 'EAST 238 STREET', 60
+'Street name', 'AVA PLACE', 9
+'Street name', 'AURELIA COURT', 71
+'Street name', '22 ROAD', 16
+'Street name', 'CLARA STREET', 4
+'Street name', 'MACY PLACE', 26
+'Street name', 'BRIGHTON 5 LANE', 4
+'Street name', 'CANAL AVENUE', 2
+'Street name', 'SHALER AVENUE', 3
+'Street name', 'BEDELL AVENUE', 2
+'Street name', 'WEEHAWKEN STREET', 2
+'Street name', '29 STREET', 1075
+'Street name', 'CLARKE PLACE EAST', 702
+'Street name', 'EAST 148 STREET', 961
+'Street name', 'LORING PLACE SOUTH', 337
+'Street name', 'EAST 235 STREET', 374
+'Street name', 'CALDWELL AVENUE', 34
+'Street name', 'ROCHELLE PLACE', 3
+'Street name', 'VREELAND STREET', 34
+'Street name', 'MARSDEN STREET', 43
+'Street name', 'MERRYMOUNT STREET', 11
+'Street name', 'NORTHFIELD AVENUE', 6
+'Street name', 'BEACH 118 STREET', 101
+'Street name', 'FLEET COURT', 31
+'Street name', 'QUINTARD STREET', 1
+'Street name', 'REV JAMES A. POLITE AVENUE', 1
+'Street name', 'GRACIE SQUARE', 11
+'Street name', 'SUNRISE COURT', 4
+'Street name', 'MINNA STREET', 5
+'Street name', 'SIDNEY PLACE', 41
+'Street name', 'GOVERNOR ROAD', 1
+'Street name', 'HUTCH RIVER PARKWAY', 7
+'Street name', 'BEACH 110 STREET', 6
+'Street name', 'BARTHOLDI STREET', 372
+'Street name', 'COLUMBIA PLACE', 66
+'Street name', 'EAST 161 STREET', 993
+'Street name', 'QUEENS BOULEVARD', 1362
+'Street name', 'WADSWORTH AVENUE', 3440
+'Street name', '34 ROAD', 415
+'Street name', 'ST NICHOLAS TERRACE', 1040
+'Street name', 'DE SOTA ROAD', 6
+'Street name', 'EDGEWOOD AVENUE', 61
+'Street name', 'WEST 3 STREET', 322
+'Street name', 'GLOVER STREET', 58
+'Street name', '119 ROAD', 29
+'Street name', 'RECTOR PLACE', 20
+'Street name', 'ASCAN AVENUE', 93
+'Street name', 'LANSING AVENUE', 12
+'Street name', 'WASHINGTON STREET', 287
+'Street name', '205 STREET', 171
+'Street name', 'WEST 62 STREET', 12
+'Street name', 'WEST 41 STREET', 28
+'Street name', 'MEADOW ROAD', 5
+'Street name', 'BEACH FRONT ROAD', 5
+'Street name', 'LATHROP AVENUE', 2
+'Street name', 'HILLSIDE TERRACE', 6
+'Street name', 'TUCKAHOE AVENUE', 3
+'Street name', 'MOLINE STREET', 6
+'Street name', 'DAVIES ROAD', 12
+'Street name', 'EVELETH ROAD', 25
+'Street name', 'VULCAN STREET', 30
+'Street name', 'ANKENER AVENUE', 2
+'Street name', 'NEPONSIT AVENUE', 1
+'Street name', 'JOUENEAY STREET', 2
+'Street name', 'ELDERT LANE', 897
+'Street name', 'BRUCKNER BOULEVARD', 2654
+'Street name', '118 STREET', 2019
+'Street name', '38 STREET', 532
+'Street name', '85 AVENUE', 219
+'Street name', 'GODWIN TERRACE', 1114
+'Street name', 'VANDALIA AVENUE', 266
+'Street name', 'GRAVESEND NECK ROAD', 153
+'Street name', 'CODDINGTON AVENUE', 18
+'Street name', 'GEORGE STREET', 449
+'Street name', 'DEWITT AVENUE', 16
+'Street name', 'GILDERSLEEVE AVENUE', 44
+'Street name', 'PITT STREET', 271
+'Street name', 'VALLES AVENUE', 23
+'Street name', 'READE STREET', 21
+'Street name', 'ROMBOUTS AVENUE', 19
+'Street name', 'DUFFIELD STREET', 148
+'Street name', 'CROTONA PLACE', 49
+'Street name', 'LINDENWOOD ROAD', 5
+'Street name', '149 PLACE', 8
+'Street name', 'PELHAM BAY PARK WEST', 1
+'Street name', 'VAN ALLEN AVENUE', 2
+'Street name', 'LEGION PLACE', 1
+'Street name', 'MACKENZIE STREET', 2
+'Street name', 'MONROE STREET', 1140
+'Street name', '103 STREET', 503
+'Street name', 'COURTLANDT AVENUE', 1083
+'Street name', 'WEST AVENUE', 111
+'Street name', 'FARRAGUT ROAD', 383
+'Street name', 'DELAFIELD AVENUE', 32
+'Street name', '199 STREET', 138
+'Street name', '63 DRIVE', 180
+'Street name', 'ARDSLEY LOOP', 83
+'Street name', 'PAERDEGAT 14 STREET', 42
+'Street name', 'HOSMER AVENUE', 20
+'Street name', 'SHAUGHNESSY LANE', 1
+'Street name', '64 LANE', 17
+'Street name', 'EAGLE STREET', 49
+'Street name', 'FRONT STREET', 32
+'Street name', '164 AVENUE', 17
+'Street name', 'TAHOE STREET', 14
+'Street name', '15 ROAD', 16
+'Street name', 'LISPENARD STREET', 2
+'Street name', 'LAWTON AVENUE', 5
+'Street name', 'GOLDSMITH STREET', 11
+'Street name', 'RIDGECREST TERRACE', 2
+'Street name', 'IRIS COURT', 2
+'Street name', 'PACKARD STREET', 2
+'Street name', '99 STREET', 1162
+'Street name', '79 AVENUE', 220
+'Street name', 'BEECH AVENUE', 216
+'Street name', 'WEST 190 STREET', 807
+'Street name', 'EAST 21 STREET', 5751
+'Street name', 'WEST 64 STREET', 230
+'Street name', 'EINSTEIN LOOP', 15
+'Street name', 'ROGERS PLACE', 80
+'Street name', 'BRUNER AVENUE', 239
+'Street name', 'TENBROECK AVENUE', 81
+'Street name', 'WEST 230 STREET', 357
+'Street name', 'ADLER PLACE', 17
+'Street name', 'HARPER AVENUE', 53
+'Street name', 'DELEVAN STREET', 79
+'Street name', '81 AVENUE', 12
+'Street name', 'GARLAND COURT', 1
+'Street name', 'BRIGHTON 10 PATH', 13
+'Street name', 'ROMA AVENUE', 11
+'Street name', 'SCOTT AVENUE', 11
+'Street name', 'KENSINGTON AVENUE', 1
+'Street name', 'MERRITT AVENUE', 3
+'Street name', 'CURZON ROAD', 2
+'Street name', 'MARNE AVENUE', 6
+'Street name', '64 AVENUE', 1534
+'Street name', '83 STREET', 894
+'Street name', 'COOPER STREET', 1614
+'Street name', 'ACADEMY STREET', 1561
+'Street name', 'BURKE AVENUE', 557
+'Street name', '30 AVENUE', 484
+'Street name', 'CROMWELL AVENUE', 796
+'Street name', 'NOEL AVENUE', 1
+'Street name', 'REVERE AVENUE', 70
+'Street name', 'JARDINE PLACE', 28
+'Street name', 'BENTON STREET', 28
+'Street name', 'CO-OP CITY BOULEVARD', 99
+'Street name', 'BATTERY AVENUE', 7
+'Street name', '244 STREET', 27
+'Street name', 'MERLE PLACE', 66
+'Street name', 'ENGERT AVENUE', 53
+'Street name', 'DENNIS STREET', 13
+'Street name', 'CASWELL AVENUE', 5
+'Street name', 'SATTERLEE STREET', 1
+'Street name', 'BLOSSOM AVENUE', 8
+'Street name', 'TRINITY PLACE', 8
+'Street name', 'CLINTON TERRACE', 2
+'Street name', 'OCEANA TERRACE', 1
+'Street name', 'BERGEN BEACH PLACE', 1
+'Street name', 'HEENAN AVENUE', 1
+'Street name', 'NEAL DOW AVENUE', 1
+'Street name', 'CARPENTER AVENUE', 3331
+'Street name', '87 DRIVE', 268
+'Street name', 'EAST 234 STREET', 1215
+'Street name', '35 STREET', 1317
+'Street name', '35 AVENUE', 1701
+'Street name', 'SOUNDVIEW AVENUE', 337
+'Street name', 'PARK AVENUE SOUTH', 247
+'Street name', 'BEACH 64 STREET', 44
+'Street name', 'WELLER LANE', 25
+'Street name', 'BREVOORT PLACE', 84
+'Street name', 'ARLINGTON PLACE', 23
+'Street name', 'GARFIELD PLACE', 162
+'Street name', 'RITTER PLACE', 272
+'Street name', 'SEIDMAN AVENUE', 9
+'Street name', 'PLUMB 1 STREET', 12
+'Street name', 'FLATLANDS 4 STREET', 3
+'Street name', 'BOGOTA STREET', 2
+'Street name', 'SKYLINE DRIVE', 1
+'Street name', 'ALVINE AVENUE', 1
+'Street name', 'VANDAM STREET', 1
+'Street name', '100 ROAD', 1
+'Street name', 'OLD TOWN ROAD', 1
+'Street name', 'PORT LANE', 3
+'Street name', 'EAST 146 STREET', 419
+'Street name', 'BARNES AVENUE', 2793
+'Street name', 'EAST NEW YORK AVENUE', 1251
+'Street name', 'CLASSON AVENUE', 863
+'Street name', 'WEST 161 STREET', 1157
+'Street name', 'VIETOR AVENUE', 200
+'Street name', 'BETTS AVENUE', 23
+'Street name', 'CROTONA PARK NORTH', 936
+'Street name', 'HENWOOD PLACE', 84
+'Street name', '85 ROAD', 597
+'Street name', 'SUMPTER STREET', 727
+'Street name', 'JACKSON STREET', 102
+'Street name', 'FTELEY AVENUE', 726
+'Street name', 'SECOND AVENUE', 114
+'Street name', 'RANGE STREET', 1
+'Street name', '212 PLACE', 27
+'Street name', 'WILLOW AVENUE', 21
+'Street name', 'NICHOLAS AVENUE', 56
+'Street name', 'AVON STREET', 41
+'Street name', 'WEST 63 STREET', 95
+'Street name', 'DUBOIS AVENUE', 22
+'Street name', 'ASTORIA PARK SOUTH', 10
+'Street name', 'MARTIN L KING BOULEVARD', 29
+'Street name', 'MELBA STREET', 30
+'Street name', 'LANCASTER AVENUE', 11
+'Street name', 'DEMEYER STREET', 5
+'Street name', 'CEDARWOOD COURT', 1
+'Street name', 'COMBS AVENUE', 1
+'Street name', '107 AVENUE', 375
+'Street name', '2 AVENUE', 7085
+'Street name', 'EAST 35 STREET', 1071
+'Street name', 'STANTON STREET', 1009
+'Street name', 'EAST 107 STREET', 857
+'Street name', 'HURON PLACE', 4
+'Street name', 'MILL ROAD', 336
+'Street name', '23 STREET', 670
+'Street name', 'GROTE STREET', 54
+'Street name', 'ARNOLD STREET', 33
+'Street name', '153 AVENUE', 77
+'Street name', 'BAY TERRACE', 13
+'Street name', 'GOETHALS AVENUE', 13
+'Street name', 'STRONG PLACE', 13
+'Street name', '60 ROAD', 80
+'Street name', 'JANET PLACE', 1
+'Street name', 'FANCHER PLACE', 1
+'Street name', 'MEADOW PLACE', 3
+'Street name', 'HOPE LANE', 1
+'Street name', 'PRICES LANE', 1
+'Street name', 'STATION ROAD', 10
+'Street name', 'WILLOW PLACE', 1
+'Street name', '125 ST', 1
+'Street name', 'BOUCK COURT', 2
+'Street name', 'BEACH 56 PLACE', 329
+'Street name', 'WEST 104 STREET', 874
+'Street name', 'SETON AVENUE', 292
+'Street name', 'WEST 109 STREET', 997
+'Street name', 'HORACE HARDING EXPRESSWAY', 1496
+'Street name', '88 ROAD', 213
+'Street name', 'WEST 86 STREET', 881
+'Street name', '40 STREET', 1498
+'Street name', '149 STREET', 313
+'Street name', '37 STREET', 695
+'Street name', 'WEST 195 STREET', 234
+'Street name', '6 STREET', 181
+'Street name', 'SOUTH 9 STREET', 115
+'Street name', '182 STREET', 96
+'Street name', '143 STREET', 169
+'Street name', '57 DRIVE', 11
+'Street name', 'BURDEN CRESCENT', 58
+'Street name', 'PAERDEGAT 13 STREET', 6
+'Street name', 'PALISADE AVENUE', 58
+'Street name', '2 PLACE', 20
+'Street name', 'BAY 46 STREET', 16
+'Street name', 'MC KIBBIN STREET', 25
+'Street name', 'CENTER BOULEVARD', 14
+'Street name', 'LIVINGSTON AVENUE', 14
+'Street name', 'ELVIN STREET', 5
+'Street name', 'VETERANS AVENUE', 4
+'Street name', 'PRINCETON STREET', 17
+'Street name', 'WIRT AVENUE', 5
+'Street name', '164 DRIVE', 2
+'Street name', 'BRABANT STREET', 10
+'Street name', '17 ROAD', 32
+'Street name', 'WINDSOR ROAD', 3
+'Street name', 'LEWIS PLACE', 1
+'Street name', 'MOHEGAN AVENUE', 739
+'Street name', 'EAST 73 STREET', 702
+'Street name', 'DORCHESTER ROAD', 740
+'Street name', 'EAST 28 STREET', 815
+'Street name', 'EAST 15 STREET', 717
+'Street name', '68 DRIVE', 384
+'Street name', 'CANNON PLACE', 344
+'Street name', '149 AVENUE', 90
+'Street name', 'EAST 114 STREET', 284
+'Street name', 'UNIVERSITY PLACE', 239
+'Street name', '67 PLACE', 134
+'Street name', '15 DRIVE', 25
+'Street name', '64 ROAD', 195
+'Street name', 'LEBANON STREET', 115
+'Street name', 'SAPPHIRE STREET', 18
+'Street name', 'MENTONE AVENUE', 26
+'Street name', 'BURNETT STREET', 48
+'Street name', 'WEST 26 STREET', 167
+'Street name', 'VAN SINDEREN AVENUE', 15
+'Street name', 'ADAM CLAYTON POWELL BOULEVARD', 11
+'Street name', 'GILLMORE COURT', 1
+'Street name', 'SOUTH MANN AVENUE', 1
+'Street name', 'WILLOW ROAD EAST', 3
+'Street name', 'FOREST STREET', 4
+'Street name', 'ELLWELL CRESCENT', 1
+'Street name', 'RIVINGTON AVENUE', 1
+'Street name', 'ONEIL PLACE', 6
+'Street name', 'HARLEM RIVER DRIVE', 1
+'Street name', '27 STREET', 665
+'Street name', 'WEST 158 STREET', 1218
+'Street name', 'YELLOWSTONE BOULEVARD', 905
+'Street name', 'TEHAMA STREET', 93
+'Street name', 'FENTON AVENUE', 494
+'Street name', 'DICKENS STREET', 133
+'Street name', 'HEWES STREET', 206
+'Street name', 'BEACH 43 STREET', 77
+'Street name', 'AMUNDSON AVENUE', 64
+'Street name', 'HAMILTON STREET', 25
+'Street name', 'VLEIGH PLACE', 8
+'Street name', 'POPLE AVENUE', 37
+'Street name', 'HAMILTON AVENUE', 120
+'Street name', 'ALAN LOOP', 4
+'Street name', 'MOORE STREET', 21
+'Street name', 'BELL AVENUE', 2
+'Street name', 'WILLOW ROAD WEST', 78
+'Street name', 'SMITH PLACE', 1
+'Street name', 'OVID PLACE', 10
+'Street name', 'OPENVIEW LANE', 4
+'Street name', 'DEEMS AVENUE', 3
+'Street name', 'FISHER AVENUE', 1
+'Street name', 'WEST 55 STREET', 862
+'Street name', '62 DRIVE', 142
+'Street name', 'WOODSIDE AVENUE', 320
+'Street name', 'PLIMPTON AVENUE', 374
+'Street name', 'ONDERDONK AVENUE', 389
+'Street name', 'JACOBUS PLACE', 505
+'Street name', 'FARMERS BOULEVARD', 538
+'Street name', 'GRANDVIEW PLACE', 52
+'Street name', 'EAST 205 STREET', 733
+'Street name', 'WEST 34 STREET', 112
+'Street name', 'DIVISION STREET', 134
+'Street name', 'BEEKMAN PLACE', 156
+'Street name', '70 DRIVE', 9
+'Street name', 'RONALD AVENUE', 2
+'Street name', 'OLYMPIA BOULEVARD', 23
+'Street name', 'BOLLER AVENUE', 36
+'Street name', 'GRAVES STREET', 2
+'Street name', 'WARDS MEADOW LOOP', 1
+'Street name', 'LEITH ROAD', 1
+'Street name', 'CRANBERRY COURT', 1
+'Street name', 'SEGUINE PLACE', 2
+'Street name', 'VILLAGE ROAD SOUTH', 5
+'Street name', 'FAIRMOUNT PLACE', 981
+'Street name', 'HUGHES AVENUE', 2346
+'Street name', 'WEST 99 STREET', 400
+'Street name', 'PATTERSON AVENUE', 47
+'Street name', 'COZINE AVENUE', 290
+'Street name', 'CLAREMONT AVENUE', 471
+'Street name', 'BEACH 21 STREET', 33
+'Street name', '120 ROAD', 30
+'Street name', 'EAST 40 STREET', 97
+'Street name', 'FLATLANDS 9 STREET', 18
+'Street name', 'AINSLIE STREET', 24
+'Street name', 'PETER AVENUE', 1
+'Street name', 'VERONICA PLACE', 56
+'Street name', 'GERSON COURT', 14
+'Street name', 'PAERDEGAT 6 STREET', 9
+'Street name', 'HYLAN BOULEVARD', 148
+'Street name', 'ABERDEEN STREET', 20
+'Street name', 'KEW FOREST LANE', 39
+'Street name', 'MADISON PLACE', 10
+'Street name', 'LAURIE AVENUE', 1
+'Street name', 'B 58 STREET', 1
+'Street name', 'NORMA PLACE', 9
+'Street name', 'WESTCOTT BOULEVARD', 9
+'Street name', 'GARIBALDI AVENUE', 5
+'Street name', 'SANDY LANE', 2
+'Street name', 'MAINE AVENUE', 3
+'Street name', 'RENE COURT', 1
+'Street name', 'HOLDRIDGE AVENUE', 6
+'Street name', 'PLATT STREET', 1
+'Street name', 'CONFERENCE COURT', 1
+'Street name', 'OPAL COURT', 1
+'Street name', 'LYNDALE AVENUE', 1
+'Street name', 'SYLVAN TERRACE', 1
+'Street name', 'VILLA AVENUE', 1193
+'Street name', 'BLEECKER STREET', 1892
+'Street name', 'SOUTH 2 STREET', 972
+'Street name', 'MARTENSE STREET', 1065
+'Street name', 'KINGS HIGHWAY', 4591
+'Street name', 'SENECA AVENUE', 1000
+'Street name', '21 AVENUE', 1694
+'Street name', 'WEST 225 STREET', 320
+'Street name', 'FOUNTAIN AVENUE', 407
+'Street name', 'NAMEOKE STREET', 205
+'Street name', 'IRVING PLACE', 133
+'Street name', 'SNEDIKER AVENUE', 416
+'Street name', 'OSWEGO STREET', 4
+'Street name', 'NORTON AVENUE', 22
+'Street name', 'SLATER BOULEVARD', 17
+'Street name', 'DODWORTH STREET', 9
+'Street name', 'DEBEVOISE AVENUE', 58
+'Street name', 'ROBERTSON STREET', 10
+'Street name', 'ADAM COURT', 2
+'Street name', 'LEVERETT AVENUE', 14
+'Street name', 'LOMBARD COURT', 1
+'Street name', 'FISKE PLACE', 3
+'Street name', 'SCHORR PLACE', 2
+'Street name', 'EAST 176 STRET', 3
+'Street name', 'PARKINSON AVENUE', 13
+'Street name', 'FISKE AVENUE', 1
+'Street name', '79 LANE', 1
+'Street name', '10 ST', 4
+'Street name', 'ELDER AVENUE', 1657
+'Street name', 'NORTH 7 STREET', 3121
+'Street name', 'BRONX BOULEVARD', 3239
+'Street name', 'EAST 219 STREET', 319
+'Street name', 'WEST 70 STREET', 140
+'Street name', 'WINTHROP STREET', 2318
+'Street name', '168 STREET', 710
+'Street name', 'BEACH 54 STREET', 140
+'Street name', 'TIMPSON PLACE', 274
+'Street name', 'WEST 8 STREET', 531
+'Street name', 'LYON AVENUE', 87
+'Street name', 'MERMAID AVENUE', 400
+'Street name', 'POWELL STREET', 185
+'Street name', '137 STREET', 101
+'Street name', 'GRIMSBY STREET', 11
+'Street name', 'HARBOR LOOP', 49
+'Street name', '28 ROAD', 20
+'Street name', 'COLLEGE PLACE', 7
+'Street name', 'WHITESTONE EXPRESSWAY', 4
+'Street name', 'CRAWFORD AVENUE', 9
+'Street name', 'ST JUDES PLACE', 1
+'Street name', 'NORTH MADA AVENUE', 1
+'Street name', 'LITTLENECK PARKWAY', 2
+'Street name', 'DICTUM COURT', 6
+'Street name', 'SPENCER DRIVE', 1
+'Street name', 'PURVES STREET', 46
+'Street name', 'AUDOBON AVENUE', 1
+'Street name', 'COMMERCIAL STREET', 2
+'Street name', 'BRONXWOOD AVENUE', 775
+'Street name', '5 AVENUE', 5574
+'Street name', '33 STREET', 1749
+'Street name', 'CLARENDON ROAD', 979
+'Street name', 'MELBOURNE AVENUE', 76
+'Street name', '133 ROAD', 15
+'Street name', '119 STREET', 15
+'Street name', 'THROGS NECK BOULEVARD', 26
+'Street name', 'CASALS PLACE', 96
+'Street name', 'BROADWAY TERRACE', 333
+'Street name', 'LARUE AVENUE', 29
+'Street name', 'EDGERTON ROAD', 3
+'Street name', '131 STREET', 149
+'Street name', 'HIGH STREET', 1
+'Street name', 'BURGHER AVENUE', 4
+'Street name', 'AUDLEY STREET', 14
+'Street name', 'VERMONT COURT', 19
+'Street name', 'JEROME ROAD', 3
+'Street name', 'LYMAN AVENUE', 13
+'Street name', 'BENNETT STREET', 1
+'Street name', 'NEW DORP LANE', 5
+'Street name', 'RUDD PLACE', 1
+'Street name', 'PARK AVENUE', 3343
+'Street name', 'HERKIMER STREET', 2387
+'Street name', 'WEST 207 STREET', 598
+'Street name', '39 ROAD', 9
+'Street name', 'PALMETTO STREET', 719
+'Street name', 'PROSPECT PLACE', 3785
+'Street name', '12 AVENUE', 263
+'Street name', 'WEST 173 STREET', 770
+'Street name', '225 STREET', 66
+'Street name', '66 STREET', 643
+'Street name', 'CHAMBERS STREET', 294
+'Street name', 'BAY 29 STREET', 309
+'Street name', 'SOUTH OAK DRIVE', 112
+'Street name', 'ASHFORD STREET', 566
+'Street name', 'SPRING STREET', 616
+'Street name', 'HILLDALE COURT', 1
+'Street name', 'WEST 90 STREET', 168
+'Street name', 'LEE AVENUE', 139
+'Street name', '155 AVENUE', 76
+'Street name', 'EAST 155 STREET', 189
+'Street name', 'BEACH 98 STREET', 23
+'Street name', 'BANNER AVENUE', 97
+'Street name', '153 LANE', 2
+'Street name', 'DURLAND PLACE', 33
+'Street name', 'CORBETT ROAD', 12
+'Street name', 'BEACH 53 STREET', 12
+'Street name', 'RICHARDS STREET', 39
+'Street name', 'BETHEL AVENUE', 4
+'Street name', 'DANIEL STREET', 9
+'Street name', 'BOELSEN CRESCENT', 1
+'Street name', 'CROSS BAY PARKWAY', 2
+'Street name', 'NUGENT AVENUE', 9
+'Street name', 'BURNETT PLACE', 5
+'Street name', 'ST FELIX AVENUE', 3
+'Street name', '95 AVENUE', 503
+'Street name', 'MAPLE STREET', 1348
+'Street name', 'LINCOLN ROAD', 1436
+'Street name', '43 STREET', 1908
+'Street name', 'EAST 91 STREET', 876
+'Street name', 'MC KEEVER PLACE', 541
+'Street name', 'KNOX PLACE', 746
+'Street name', 'TOMPKINS AVENUE', 1461
+'Street name', '139 STREET', 130
+'Street name', 'FALCON AVENUE', 53
+'Street name', '28 STREET', 367
+'Street name', 'COOK STREET', 15
+'Street name', 'ST JOHNS ROAD', 12
+'Street name', 'DWIGHT STREET', 54
+'Street name', 'VINCENT AVENUE', 26
+'Street name', 'DOGWOOD DRIVE', 3
+'Street name', 'BRIGHTON 6 COURT', 1
+'Street name', 'CLINTONVILLE STREET', 10
+'Street name', 'OCEAN CREST BOULEVARD', 61
+'Street name', 'OLIVE STREET', 15
+'Street name', 'DALNY ROAD', 8
+'Street name', 'RALEIGH PLACE', 9
+'Street name', 'STANTON ROAD', 1
+'Street name', 'BURBANK AVENUE', 2
+'Street name', 'LARCH COURT', 1
+'Street name', 'ALTON PLACE', 1
+'Street name', 'HART AVENUE', 2
+'Street name', 'ADAMS AVENUE', 5
+'Street name', 'BEACH 39TH STREET', 1
+'Street name', 'OCEAN AVENUEDUMMY0', 1
+'Street name', 'HOLLYWOOD AVENUE', 72
+'Street name', 'MATTHEWS AVENUE', 716
+'Street name', 'NEREID AVENUE', 726
+'Street name', 'SHORE PARKWAY', 688
+'Street name', '72 STREET', 882
+'Street name', 'VAN PELT AVENUE', 80
+'Street name', 'WEST 83 STREET', 1069
+'Street name', '253 STREET', 20
+'Street name', 'SHORE BOULEVARD', 234
+'Street name', 'COVERT STREET', 434
+'Street name', '191 STREET', 195
+'Street name', '202 STREET', 155
+'Street name', 'BAY 7 STREET', 12
+'Street name', 'WEST 91 STREET', 166
+'Street name', 'WEST 67 STREET', 16
+'Street name', 'COLLEGE POINT BOULEVARD', 158
+'Street name', 'VAN LOON STREET', 8
+'Street name', 'HOMER AVENUE', 47
+'Street name', 'SCRIBNER AVENUE', 106
+'Street name', 'KIMBALL STREET', 8
+'Street name', '135 PLACE', 53
+'Street name', 'WOODROW ROAD', 11
+'Street name', 'LUX ROAD', 3
+'Street name', 'ROCKWELL PLACE', 3
+'Street name', 'BEACH 77 STREET', 1
+'Street name', 'CRESTON AVENUE', 7422
+'Street name', 'ECKFORD STREET', 203
+'Street name', 'POST AVENUE', 2469
+'Street name', 'COLUMBUS AVENUE', 2079
+'Street name', 'EAST 126 STREET', 1297
+'Street name', 'ROCKAWAY AVENUE', 826
+'Street name', 'THIERIOT AVENUE', 1129
+'Street name', 'EAST 10 STREET', 2118
+'Street name', 'BRIGHTON AVENUE', 151
+'Street name', 'NORTH 5 STREET', 76
+'Street name', 'WEST 242 STREET', 816
+'Street name', '249 STREET', 70
+'Street name', 'BEACH 27 STREET', 182
+'Street name', 'ANDREWS AVENUE', 275
+'Street name', 'PINEGROVE STREET', 37
+'Street name', 'EAST 30 STREET', 457
+'Street name', 'NECKAR AVENUE', 4
+'Street name', 'CUTHBERT ROAD', 3
+'Street name', 'KENMORE ROAD', 2
+'Street name', 'ORINOCO PLACE', 11
+'Street name', '58 PLACE', 2
+'Street name', '79 PLACE', 13
+'Street name', 'PIAVE AVENUE', 4
+'Street name', 'HARROW STREET', 2
+'Street name', 'MORRIS AVENUE', 13033
+'Street name', 'WEST 182 STREET', 1076
+'Street name', 'LEFFERTS AVENUE', 2184
+'Street name', 'WILDER AVENUE', 176
+'Street name', 'GRACE AVENUE', 178
+'Street name', 'EAST 130 STREET', 431
+'Street name', 'AVENUE S', 484
+'Street name', 'AMPERE AVENUE', 12
+'Street name', 'RARITAN AVENUE', 4
+'Street name', 'WAYNE STREET', 13
+'Street name', 'DEREIMER AVENUE', 37
+'Street name', 'CHEEVER PLACE', 16
+'Street name', 'RUTLEDGE STREET', 4
+'Street name', 'REVIEW AVENUE', 8
+'Street name', 'LATOURETTE STREET', 11
+'Street name', 'CLEARVIEW EXPRESSWAY', 7
+'Street name', 'WOODRUFF LANE', 1
+'Street name', 'DELAWARE AVENUE', 11
+'Street name', 'CARLTON PLACE', 1
+'Street name', 'WALNUT STREET', 5
+'Street name', 'STERLING PLACE', 4127
+'Street name', 'NEEDHAM AVENUE', 195
+'Street name', '198 STREET', 121
+'Street name', 'EAST 108 STREET', 826
+'Street name', 'WEST 116 STREET', 1129
+'Street name', 'SULLIVAN STREET', 339
+'Street name', '217 STREET', 185
+'Street name', 'DAVIS AVENUE', 140
+'Street name', 'NAPLES TERRACE', 825
+'Street name', 'SILVER ROAD', 247
+'Street name', 'ELIZABETH AVENUE', 53
+'Street name', '136 AVENUE', 51
+'Street name', 'WEST 193 STREET', 284
+'Street name', 'LUQUER STREET', 78
+'Street name', 'GREENWAY TERRACE', 127
+'Street name', '114 AVENUE', 24
+'Street name', 'RICHARDSON STREET', 81
+'Street name', 'BOX STREET', 4
+'Street name', 'CAROLINE STREET', 39
+'Street name', 'GIFFORDS LANE', 12
+'Street name', 'SIMONSON AVENUE', 40
+'Street name', '45 ROAD', 25
+'Street name', 'SLOAN STREET', 1
+'Street name', 'AMORY COURT', 7
+'Street name', 'DELANOY AVENUE', 2
+'Street name', 'GARDNER AVENUE', 1
+'Street name', 'MATHEWSON COURT', 2
+'Street name', 'GRAHAM STREET', 1
+'Street name', 'KOSSUTH PLACE', 11
+'Street name', 'HOLIDAY WAY', 1
+'Street name', 'EAST 122 STREET', 516
+'Street name', 'MANHATTAN AVENUE', 3361
+'Street name', 'WINTER AVENUE', 79
+'Street name', 'ESPLANADE GDNS PLAZA', 168
+'Street name', '63 ROAD', 108
+'Street name', 'TRINITY AVENUE', 744
+'Street name', 'CLINTON STREET', 637
+'Street name', 'FRANKLIN STREET', 549
+'Street name', 'EAST 58 STREET', 390
+'Street name', 'MC GRAW AVENUE', 383
+'Street name', 'EAST 102 STREET', 754
+'Street name', 'MELVILLE STREET', 147
+'Street name', 'MINERVA PLACE', 110
+'Street name', 'HERING AVENUE', 138
+'Street name', 'WEST 18 STREET', 172
+'Street name', 'BAILEY PLACE', 27
+'Street name', 'HOLLY AVENUE', 82
+'Street name', 'VAN CORTLANDT PARK EAST', 46
+'Street name', 'KELLY BOULEVARD', 7
+'Street name', 'ARION PLACE', 22
+'Street name', 'FORD STREET', 31
+'Street name', 'SOUTHGATE COURT', 17
+'Street name', 'THIRD AVENUE', 33
+'Street name', 'HOUSEMAN AVENUE', 5
+'Street name', '114 DRIVE', 22
+'Street name', 'QUEEN STREET', 6
+'Street name', 'MARENGO STREET', 6
+'Street name', 'STEDMAN PLACE', 16
+'Street name', 'LLEWELLYN PLACE', 2
+'Street name', 'MAYBURY COURT', 1
+'Street name', 'BEACH 39 STREET', 4
+'Street name', 'STATION SQUARE', 1
+'Street name', 'WEST 151 STREET', 1938
+'Street name', 'GUNTHER AVENUE', 189
+'Street name', 'QUENTIN ROAD', 652
+'Street name', 'EAST 218 STREET', 252
+'Street name', '19 STREET', 290
+'Street name', '82 STREET', 782
+'Street name', 'SWINTON AVENUE', 28
+'Street name', 'VICTORY BOULEVARD', 527
+'Street name', 'ABBOTT STREET', 3
+'Street name', 'BRIELLE AVENUE', 114
+'Street name', '230 PLACE', 80
+'Street name', '111 ROAD', 41
+'Street name', 'BURLING STREET', 25
+'Street name', 'JORDAN STREET', 36
+'Street name', 'NASSAU AVENUE', 175
+'Street name', '181 STREET', 66
+'Street name', 'WILCOX AVENUE', 18
+'Street name', 'PARKVIEW LOOP', 6
+'Street name', 'ELGAR PLACE', 78
+'Street name', '156 AVENUE', 27
+'Street name', 'NURGE AVENUE', 4
+'Street name', 'BARUCH DRIVE', 3
+'Street name', 'GALWAY AVENUE', 15
+'Street name', 'PALERMO STREET', 1
+'Street name', 'LOVE LANE', 1
+'Street name', 'HENDRIX STREET', 532
+'Street name', 'BAY PARKWAY', 3978
+'Street name', 'WALDRON STREET', 133
+'Street name', 'CEDAR STREET', 26
+'Street name', '102 AVENUE', 321
+'Street name', 'NETHERLAND AVENUE', 459
+'Street name', 'BAY 23 STREET', 76
+'Street name', 'EAST 72 STREET', 281
+'Street name', 'CEBRA AVENUE', 51
+'Street name', 'STEINWAY AVENUE', 24
+'Street name', 'INGRAHAM STREET', 9
+'Street name', 'DWIGHT AVENUE', 57
+'Street name', 'ROSS AVENUE', 10
+'Street name', 'VICTORIA ROAD', 12
+'Street name', '61 AVENUE', 13
+'Street name', '77 CRESCENT', 6
+'Street name', 'KINGSHIGWY', 1
+'Street name', 'WATTS STREET', 2
+'Street name', 'REEVES AVENUE', 2
+'Street name', 'BAYRIDGE AVENUE', 1
+'Street name', 'ADELAIDE AVENUE', 3
+'Street name', 'KEATS STREET', 1
+'Street name', 'FLATBUSH AVENUE', 3882
+'Street name', 'EAST 60 STREET', 933
+'Street name', 'WEST 187 STREET', 998
+'Street name', 'EAST 204 STREET', 329
+'Street name', 'ROGERS AVENUE', 4108
+'Street name', 'ST ANNS AVENUE', 1092
+'Street name', 'EAST BURNSIDE AVENUE', 267
+'Street name', 'GLEASON AVENUE', 710
+'Street name', 'NEWTOWN AVENUE', 263
+'Street name', 'SHORE PARKWAY SR NORTH', 268
+'Street name', '103 DRIVE', 16
+'Street name', '33 ROAD', 19
+'Street name', 'WEST 23RD', 6
+'Street name', 'HENNESSY PLACE', 99
+'Street name', '92 AVENUE', 36
+'Street name', '142 ROAD', 40
+'Street name', 'EAST 133 STREET', 22
+'Street name', '77 ROAD', 65
+'Street name', 'BISMARK AVENUE', 5
+'Street name', 'LUDWIG LANE', 64
+'Street name', '238 STREET', 25
+'Street name', 'CANNON AVENUE', 6
+'Street name', 'BELLHAVEN PLACE', 3
+'Street name', 'AUSTIN PLACE', 26
+'Street name', '53 ROAD', 6
+'Street name', 'CALLAN AVENUE', 1
+'Street name', 'HEWITT PLACE', 19
+'Street name', 'BRISBIN STREET', 5
+'Street name', 'RIVERSIDE BOULEVARD', 15
+'Street name', 'RIEDEL AVENUE', 2
+'Street name', 'WHITEHALL TERRACE', 6
+'Street name', 'COMMERCE STREET', 25
+'Street name', 'CHARLES PLACE', 4
+'Street name', 'DENIS STREET', 4
+'Street name', '251 STREET', 1
+'Street name', 'MELYN PLACE', 5
+'Street name', '174 PLACE', 2
+'Street name', 'ISABELLA AVENUE', 1
+'Street name', 'ROCKAWAY PARKWAY', 5472
+'Street name', 'METROPOLITAN AVENUE', 3369
+'Street name', 'MACOMBS ROAD', 1112
+'Street name', '78 AVENUE', 138
+'Street name', 'CADMAN PLAZA WEST', 24
+'Street name', '58 AVENUE', 134
+'Street name', '21 DRIVE', 112
+'Street name', 'BAY 14 STREET', 51
+'Street name', 'OCEAN PROMENADE', 98
+'Street name', 'SOUTH STREET', 33
+'Street name', 'WEST 206 STREET', 36
+'Street name', 'CAYUGA AVENUE', 15
+'Street name', '146 TERRACE', 13
+'Street name', 'COUNTRY DRIVE NORTH', 4
+'Street name', 'NIPPON AVENUE', 3
+'Street name', 'JULES DRIVE', 22
+'Street name', 'LOCKMAN LOOP', 20
+'Street name', '146 ROAD', 34
+'Street name', 'GERALD COURT', 3
+'Street name', 'TIBBETT AVENUE', 18
+'Street name', '235 STREET', 8
+'Street name', 'MARATHON PARKWAY', 4
+'Street name', 'RANDALL AVE', 1
+'Street name', '262 STREET', 6
+'Street name', 'FLATLANDS 8 STREET', 4
+'Street name', 'WELLBROOK AVENUE', 3
+'Street name', '20 DRIVE', 1
+'Street name', 'VARIAN AVENUE', 3
+'Street name', 'HOLSMAN ROAD', 1
+'Street name', 'RUGBY AVENUE', 1
+'Street name', 'EAST 173 STREET', 874
+'Street name', 'BENNETT AVENUE', 933
+'Street name', 'WHEELER AVENUE', 778
+'Street name', 'SCHENCK AVENUE', 301
+'Street name', 'WEST 197 STREET', 691
+'Street name', 'ELIZABETH STREET', 502
+'Street name', 'HALL PLACE', 148
+'Street name', 'AVENUE K', 1349
+'Street name', '141 AVENUE', 136
+'Street name', '52 STREET', 823
+'Street name', 'BEACH 108 STREET', 5
+'Street name', 'ROSE AVENUE', 13
+'Street name', 'BAY PARK PLACE', 6
+'Street name', 'GARRETT PLACE', 3
+'Street name', 'RUTLEDGE AVENUE', 6
+'Street name', 'THOLLEN STREET', 1
+'Street name', 'HATFIELD PLACE', 5
+'Street name', 'HARATIO STREET', 1
+'Street name', 'RIDGEWOOD AVENUE', 297
+'Street name', 'SULLIVAN PLACE', 883
+'Street name', 'MELROSE STREET', 384
+'Street name', 'EAST 33 STREET', 425
+'Street name', 'EAST 156 STREET', 1345
+'Street name', '117 STREET', 175
+'Street name', 'BERRY STREET', 292
+'Street name', 'HEYWARD STREET', 10
+'Street name', 'OBRIEN AVENUE', 25
+'Street name', 'MESEROLE AVENUE', 170
+'Street name', 'WOODCUTTERS LANE', 15
+'Street name', 'PARIS COURT', 7
+'Street name', 'BAY AVENUE', 8
+'Street name', 'OXFORD PLACE', 70
+'Street name', 'STUART STREET', 12
+'Street name', 'TIERNEY PLACE', 3
+'Street name', 'ALBION PLACE', 7
+'Street name', 'JULIE COURT', 1
+'Street name', 'NORTH STREET', 44
+'Street name', 'DAWSON CIRCLE', 4
+'Street name', 'DEBEVOISE STREET', 2
+'Street name', 'CANNON BOULEVARD', 7
+'Street name', 'LIBERTY AVENUE', 1604
+'Street name', '85 STREET', 1704
+'Street name', 'CLINTON AVENUE', 2548
+'Street name', '47 STREET', 1482
+'Street name', '34 AVENUE', 1840
+'Street name', 'WEST 4 STREET', 1005
+'Street name', 'PARK LANE SOUTH', 194
+'Street name', 'EAST 36 STREET', 611
+'Street name', '22 AVENUE', 23
+'Street name', '172 STREET', 232
+'Street name', '182 PLACE', 14
+'Street name', 'CREST ROAD', 36
+'Street name', 'PARK TERRACE EAST', 330
+'Street name', 'LYNHURST AVENUE', 6
+'Street name', 'BAY 28 STREET', 36
+'Street name', 'CROSS BX SERVICE ROAD NORTH', 31
+'Street name', 'ROYCE PLACE', 46
+'Street name', 'ROSEWOOD PLACE', 5
+'Street name', 'BEACH 11 STREET', 3
+'Street name', 'OLCOTT STREET', 17
+'Street name', 'DARNELL LANE', 5
+'Street name', 'GUIDER AVENUE', 19
+'Street name', 'ARDSLEY STREET', 1
+'Street name', 'STACK DRIVE', 5
+'Street name', 'RUSTIC PLACE', 1
+'Street name', 'WHITAKER PLACE', 2
+'Street name', 'SIMMONS LANE', 3
+'Street name', 'NORTH EDO COURT', 1
+'Street name', 'PLAZA PLACE', 1
+'Street name', 'HAYWOOD ROAD', 1
+'Street name', 'TOWNSEND AVENUE', 2120
+'Street name', 'RIVINGTON STREET', 1025
+'Street name', 'WEEKS AVENUE', 1091
+'Street name', 'COLDEN AVENUE', 488
+'Street name', 'HAMPDEN PLACE', 77
+'Street name', 'ELY AVENUE', 275
+'Street name', 'BYRON AVENUE', 148
+'Street name', '212 STREET', 195
+'Street name', '52 DRIVE', 17
+'Street name', 'JEWEL STREET', 15
+'Street name', '166 PLACE', 92
+'Street name', 'BURR AVENUE', 29
+'Street name', 'EAST 42 STREET', 154
+'Street name', 'EXETER STREET', 10
+'Street name', 'CRONSTON AVENUE', 12
+'Street name', 'WEST 40 STREET', 126
+'Street name', 'LA FONTAINE AVENUE', 179
+'Street name', 'BOULDER STREET', 3
+'Street name', 'SYLVIA STREET', 4
+'Street name', '103 ROAD', 27
+'Street name', 'NAMEOKE AVENUE', 39
+'Street name', '22 DRIVE', 9
+'Street name', 'LONG POND LANE', 8
+'Street name', 'HOYT AVENUE', 5
+'Street name', 'GARFIELD AVENUE', 1
+'Street name', 'SHORE DRIVE', 1
+'Street name', 'SETON PLACE', 1
+'Street name', '68 STREET', 988
+'Street name', '75 STREET', 547
+'Street name', 'SNYDER AVENUE', 1027
+'Street name', 'CEDAR AVENUE', 859
+'Street name', 'ARCHER ROAD', 127
+'Street name', '45 STREET', 1497
+'Street name', 'LONG STREET', 41
+'Street name', 'WEST FARMS ROAD', 385
+'Street name', '69 AVENUE', 170
+'Street name', 'MONTGOMERY AVENUE', 805
+'Street name', 'ST PAUL AVENUE', 17
+'Street name', 'IRVINE STREET', 29
+'Street name', 'CALAMUS AVENUE', 29
+'Street name', 'FAYETTE STREET', 24
+'Street name', 'WAGNER STREET', 4
+'Street name', 'BEACH 128 STREET', 14
+'Street name', '183 PLACE', 8
+'Street name', 'BESSEMUND AVENUE', 33
+'Street name', 'BISHOP STREET', 2
+'Street name', '146 DRIVE', 15
+'Street name', 'CANEY ROAD', 29
+'Street name', 'VAN DOREN STREET', 20
+'Street name', 'DORAN AVENUE', 5
+'Street name', 'ST JOHN PLACE', 48
+'Street name', 'CANAL PLACE', 1
+'Street name', 'DALTON AVENUE', 1
+'Street name', 'WINDING WD LOOP', 1
+'Street name', 'EAST 153 STREET', 1020
+'Street name', 'RHINELANDER AVENUE', 218
+'Street name', 'HORATIO STREET', 266
+'Street name', 'BRIGHTON 12 STREET', 1268
+'Street name', 'MONTAUK AVENUE', 735
+'Street name', 'GEORGIA AVENUE', 553
+'Street name', 'MEEHAN AVENUE', 7
+'Street name', 'ALDUS STREET', 461
+'Street name', 'FILLMORE STREET', 220
+'Street name', 'CAMP STREET', 1
+'Street name', 'EATON PLACE', 5
+'Street name', 'METROTECH CENTER', 12
+'Street name', 'BOYNTON PLACE', 15
+'Street name', '150 AVENUE', 6
+'Street name', 'CLIFFSIDE AVENUE', 7
+'Street name', 'VAN CORLEAR PLACE', 9
+'Street name', 'LUCAS STREET', 5
+'Street name', 'WINFIELD AVENUE', 1
+'Street name', 'MITCHELL LANE,', 1
+'Street name', 'CHATHAM SQUARE,', 9
+'Street name', 'E MOSHOLU PARKWAY N,', 30
+'Street name', 'BRADLEY COURT,', 1
+'Street name', 'SHAINA COURT,', 1
+'Street name', 'EAST 57 PLACE,', 3
+'Street name', 'MARTIN L KING PLACE,', 18
+'Street name', 'COLON AVENUE,', 4
+'Street name', 'ROANOKE STREET,', 1
+'Street name', 'KENNINGTON STREET,', 2
+'Street name', 'WEST 105 STREET,', 332
+'Street name', 'EAST 16 STREET,', 1706
+'Street name', 'ANDERSON AVENUE,', 3950
+'Street name', 'RICHMOND TERRACE,', 449
+'Street name', 'WEST 45 STREET,', 1305
+'Street name', 'WEST 112 STREET,', 467
+'Street name', 'OCEAN VIEW AVENUE,', 168
+'Street name', 'JORALEMON STREET,', 87
+'Street name', 'HENRY HUDSON PARKWAY,', 11
+'Street name', 'WATERBURY AVENUE,', 59
+'Street name', 'TAYLOR STREET,', 67
+'Street name', '59 AVENUE,', 196
+'Street name', 'BATCHELDER STREET,', 51
+'Street name', 'CALLAHAN LANE,', 1
+'Street name', 'EXCELSIOR AVENUE,', 11
+'Street name', 'WATERVIEW COURT,', 2
+'Street name', 'WILLOW DRIVE,', 1
+'Street name', 'PROSPECT STREET,', 21
+'Street name', 'BURCHELL ROAD,', 3
+'Street name', 'KARWEG PLACE,', 2
+'Street name', 'CELEBRATION LANE,', 4
+'Street name', 'WALKER DRIVE,', 2
+'Street name', 'EAST 7 STREET,', 2077
+'Street name', 'CROPSEY AVENUE,', 1095
+'Street name', 'WEST 180 STREET,', 1542
+'Street name', 'WEST 51 STREET,', 1148
+'Street name', 'BERRIMAN STREET,', 402
+'Street name', '133 STREET,', 171
+'Street name', 'AMELIA ROAD,', 4
+'Street name', 'EAST 1 STREET,', 355
+'Street name', 'WATSON PLACE,', 36
+'Street name', 'MORGAN AVENUE,', 269
+'Street name', 'AVENUE V,', 530
+'Street name', 'BARKER STREET,', 79
+'Street name', 'MALCOM X BOULEVARD,', 48
+'Street name', '201 PLACE,', 8
+'Street name', 'DRY HARBOR ROAD,', 79
+'Street name', '72 PLACE,', 41
+'Street name', 'GREELEY AVENUE,', 25
+'Street name', 'CASANOVA STREET,', 15
+'Street name', 'STALIE COURT,', 1
+'Street name', 'PARK STREET,', 27
+'Street name', 'SEAVIEW COURT,', 19
+'Street name', 'KIRSHON AVENUE,', 1
+'Street name', 'WEST 38 STREET,', 51
+'Street name', 'EAST 86 STREET,', 696
+'Street name', 'ST NICHOLAS PLACE,', 1629
+'Street name', 'LAFAYETTE AVENUE,', 3719
+'Street name', 'SHERIDAN AVENUE,', 7080
+'Street name', 'COSTER STREET,', 355
+'Street name', 'RIVERSIDE DRIVE WEST,', 167
+'Street name', 'WEST 140 STREET,', 1300
+'Street name', '110 STREET,', 471
+'Street name', '109 STREET,', 388
+'Street name', 'TILDEN STREET,', 151
+'Street name', 'WILLETS POINT BOULEVARD,', 40
+'Street name', 'GRATTAN STREET,', 222
+'Street name', 'EAST 186 STREET,', 64
+'Street name', 'SEACREST LANE,', 8
+'Street name', 'HALE AVENUE,', 153
+'Street name', 'SEDDON STREET,', 210
+'Street name', 'COMSTOCK AVENUE,', 24
+'Street name', 'COX PLACE,', 42
+'Street name', 'KRIER PLACE,', 3
+'Street name', 'GANSEVOORT BOULEVARD,', 14
+'Street name', 'BOERUM PLACE,', 38
+'Street name', 'WOODPOINT ROAD,', 28
+'Street name', 'PARK ROW,', 93
+'Street name', '94 AVENUE,', 26
+'Street name', 'MERIDIAN BOULEVARD ,', 1
+'Street name', 'YALE STREET,', 4
+'Street name', 'MEMPHIS AVENUE,', 14
+'Street name', 'MORROW STREET,', 2
+'Street name', 'TRUCKELMANS LANE,', 1
+'Street name', 'RUMSON ROAD,', 1
+'Street name', 'LUKE COURT,', 11
+'Street name', 'EVERETT AVENUE,', 1
+'Street name', 'NEPTON STREET,', 9
+'Street name', 'NORTH ELLIOTT WALK,', 1
+'Street name', 'ST JOHNS PLACE,', 5544
+'Street name', 'EAST 52 STREET,', 2392
+'Street name', 'NEW LOTS AVENUE,', 1040
+'Street name', '41 AVENUE,', 4000
+'Street name', '260 STREET,', 42
+'Street name', 'ARLINGTON AVENUE,', 455
+'Street name', 'WILLOUGHBY STREET,', 62
+'Street name', 'UNDERCLIFF AVENUE,', 1339
+'Street name', 'METROPOLITAN OVAL,', 646
+'Street name', 'WYCKOFF AVENUE,', 986
+'Street name', 'WEST 145 STREET,', 2412
+'Street name', 'ASTORIA BOULEVARD,', 367
+'Street name', 'KOSSUTH AVENUE,', 198
+'Street name', 'THOMPSON STREET,', 1086
+'Street name', '158 STREET,', 174
+'Street name', 'WELLING COURT,', 25
+'Street name', 'MERCER STREET,', 65
+'Street name', '118 AVENUE,', 85
+'Street name', 'LA GUARDIA PLACE,', 30
+'Street name', 'BEACH 124 STREET,', 16
+'Street name', 'BRADDOCK AVENUE,', 38
+'Street name', 'ROBIN COURT,', 24
+'Street name', 'HEUSDEN STREET,', 2
+'Street name', 'SUTTER PLACE,', 1
+'Street name', 'BEACH  STREET,', 4
+'Street name', 'SETH COURT,', 1
+'Street name', 'BARB STREET,', 1
+'Street name', 'OLMSTEAD AVENUE,', 647
+'Street name', 'MILFORD STREET,', 694
+'Street name', '84 STREET,', 1232
+'Street name', 'WEST 130 STREET,', 753
+'Street name', 'WEST 228 STREET,', 214
+'Street name', 'BROUN PLACE,', 8
+'Street name', 'STAGG STREET,', 221
+'Street name', 'BEACH 95 STREET,', 47
+'Street name', 'MACE AVENUE,', 649
+'Street name', 'AVERY AVENUE,', 65
+'Street name', 'CROTONA PARK SOUTH,', 58
+'Street name', 'AGNES PLACE,', 3
+'Street name', 'HARRISON STREET,', 185
+'Street name', 'FREEDOM AVENUE,', 5
+'Street name', 'CORPORAL KENNEDY STREET,', 24
+'Street name', 'RUTGERS SLIP,', 117
+'Street name', 'BEACH 121 STREET,', 32
+'Street name', 'LAKEVIEW PLACE,', 7
+'Street name', 'YOUNG STREET,', 14
+'Street name', 'FLATLANDS 1 STREET,', 25
+'Street name', 'MAYFAIR DRIVE NORTH,', 8
+'Street name', 'MELROSE LANE,', 4
+'Street name', 'SUSAN COURT,', 1
+'Street name', 'DIERAUF STREET,', 2
+'Street name', 'CARTERET STREET,', 1
+'Street name', 'MIRIAM STREET,', 58
+'Street name', 'FAIRVIEW AVENUE,', 1078
+'Street name', 'RUSSELL STREET,', 74
+'Street name', 'HOFFMAN STREET,', 619
+'Street name', 'WEST 146 STREET,', 1238
+'Street name', 'GRAMERCY PARK,', 142
+'Street name', '39 AVENUE,', 431
+'Street name', 'LOTT AVENUE,', 503
+'Street name', 'NEWKIRK AVENUE,', 3814
+'Street name', 'EAST BROADWAY,', 484
+'Street name', 'BEACH 65 STREET,', 103
+'Street name', 'HOOPER STREET,', 303
+'Street name', 'CASE STREET,', 218
+'Street name', 'VAN NAME AVENUE,', 12
+'Street name', 'HIGHLAND PLACE,', 309
+'Street name', 'HOPE STREET,', 18
+'Street name', 'THAMES STREET,', 68
+'Street name', '84 AVENUE,', 134
+'Street name', 'WEST 256 STREET,', 15
+'Street name', 'FORREST STREET,', 23
+'Street name', 'E 231 ST,', 64
+'Street name', 'DUANE STREET,', 37
+'Street name', 'FAYETTE AVENUE,', 1
+'Street name', 'SEAFOAM STREET,', 4
+'Street name', 'PLANK ROAD,', 3
+'Street name', 'SMITH TERRACE,', 1
+'Street name', 'PARROTT PLACE,', 17
+'Street name', 'LISBON PLACE,', 4
+'Street name', 'ARCHER AVENUE,', 4
+'Street name', 'CROSS ISLAND PARKWAY SR SOUTH,', 4
+'Street name', 'ROCKY HILL ROAD,', 8
+'Street name', 'AQUATIC DRIVE,', 1
+'Street name', 'WEST 138 STREET,', 1828
+'Street name', 'WILLIS AVENUE,', 933
+'Street name', 'ROSS STREET,', 574
+'Street name', '125 STREET,', 422
+'Street name', 'LAWRENCE AVENUE,', 199
+'Street name', 'DONGAN PLACE,', 543
+'Street name', 'PERRY STREET,', 403
+'Street name', 'WEST 204 STREET,', 1340
+'Street name', 'TAAFFE PLACE,', 315
+'Street name', 'WEST FINGERBOARD ROAD,', 17
+'Street name', 'ST PAULS AVENUE,', 123
+'Street name', 'CONTINENTAL AVENUE,', 105
+'Street name', 'BOKEE COURT,', 96
+'Street name', 'BAY 49 STREET,', 11
+'Street name', 'WEST 170TH STREET,', 25
+'Street name', 'ALLENDALE STREET,', 12
+'Street name', 'WESTGATE STREET,', 2
+'Street name', 'DESMOND COURT,', 1
+'Street name', 'CONGRESS STREET,', 7
+'Street name', 'SANDGAP STREET,', 2
+'Street name', 'IRONWOOD STREET,', 1
+'Street name', 'MUNDY AVENUE,', 3
+'Street name', '50TH AVENUE,', 1
+'Street name', 'HERON LANE,', 2
+'Street name', 'COLLYER AVENUE,', 2
+'Street name', 'RUDYARD STREET,', 3
+'Street name', 'VETERANS ROAD WEST,', 1
+'Street name', '11 PLACE,', 2
+'Street name', 'LORRAINE LOOP,', 4
+'Street name', 'UTOPIA COURT,', 1
+'Street name', 'TABOR COURT,', 8
+'Street name', 'STONEHAM STREET,', 1
+'Street name', 'BRIGHTON 10 LANE,', 2
+'Street name', 'SUMMIT AVENUE,', 919
+'Street name', 'BRADHURST AVENUE,', 597
+'Street name', 'CENTRAL PARK NORTH,', 688
+'Street name', 'WEST 14 STREET,', 808
+'Street name', 'FT INDEPENDENCE STREET,', 483
+'Street name', 'WEST 156 STREET,', 1027
+'Street name', '87 AVENUE,', 77
+'Street name', 'NORTH 6 STREET,', 232
+'Street name', 'BAY 35 STREET,', 17
+'Street name', 'DANIELS STREET,', 12
+'Street name', 'RICHMOND AVENUE,', 97
+'Street name', 'HARRISON PLACE,', 73
+'Street name', 'BRIGHTON 3 ROAD,', 26
+'Street name', 'GIBSON AVENUE,', 10
+'Street name', 'DRIVE,', 5
+'Street name', 'ST PETERS AVENUE,', 48
+'Street name', 'SHERADEN AVENUE,', 45
+'Street name', 'DECKER AVENUE,', 14
+'Street name', 'GRAVETT ROAD,', 5
+'Street name', 'RIDGECREST AVENUE,', 1
+'Street name', 'SHORE ROAD LANE,', 1
+'Street name', 'FAIRMOUNT AVENUE,', 2
+'Street name', 'SEDGEWICK AVENUE,', 1
+'Street name', 'PRESENTATION CIRCLE,', 1
+'Street name', 'WATSON AVENUE,', 294
+'Street name', 'WEST 178 STREET,', 794
+'Street name', 'LORING PLACE,', 574
+'Street name', 'EAST 120 STREET,', 269
+'Street name', '82 DRIVE,', 26
+'Street name', 'EAST 140 STREET,', 387
+'Street name', 'CHARLES STREET,', 134
+'Street name', 'CLEVELAND PLACE,', 66
+'Street name', 'MORNINGSIDE DRIVE,', 43
+'Street name', 'WARWICK CRESCENT,', 8
+'Street name', 'CRESSKILL PLACE,', 15
+'Street name', '13 ROAD,', 5
+'Street name', '63 PLACE,', 2
+'Street name', 'MARTIN AVENUE,', 1
+'Street name', '89 ROAD,', 6
+'Street name', 'SHEFIELD AVENUE,', 1
+'Street name', 'FRANCINE COURT,', 2
+'Street name', 'THOMAS PLACE,', 1
+'Street name', 'LAIGHT STREET,', 1
+'Street name', 'EAST 213 STREET,', 785
+'Street name', 'WEST 142 STREET,', 2082
+'Street name', 'ANTHONY AVENUE,', 1461
+'Street name', 'ANNADALE ROAD,', 15
+'Street name', 'CASTLETON AVENUE,', 225
+'Street name', 'DANA COURT,', 30
+'Street name', '126 STREET,', 356
+'Street name', 'RANDALL AVENUE,', 121
+'Street name', 'WINCHESTER BOULEVARD,', 74
+'Street name', '146 AVENUE,', 47
+'Street name', 'BEACH STREET,', 83
+'Street name', 'CROOKE AVENUE,', 658
+'Street name', 'BEACON AVENUE,', 1
+'Street name', 'ALBERT ROAD,', 17
+'Street name', 'BEAUMONT STREET,', 3
+'Street name', 'IRWIN PLACE,', 13
+'Street name', 'ROME DRIVE,', 2
+'Street name', 'RAMONA AVENUE,', 10
+'Street name', '59 DRIVE,', 1
+'Street name', 'CORSO COURT,', 2
+'Street name', 'GARY COURT,', 27
+'Street name', 'ST ANN'S AVENUE,', 1
+'Street name', 'HARBOUR COURT,', 2
+'Street name', 'ABINGDON AVENUE,', 4
+'Street name', 'ISMAY STREET,', 1
+'Street name', 'EATON COURT,', 2
+'Street name', 'CHAPIN COURT,', 1
+'Street name', 'OLINVILLE AVENUE,', 3396
+'Street name', 'SUYDAM STREET,', 744
+'Street name', 'HUNTS POINT AVENUE,', 714
+'Street name', 'CABRINI BOULEVARD,', 1073
+'Street name', '65 PLACE,', 578
+'Street name', 'PARKSIDE AVENUE,', 1607
+'Street name', 'EAST 118 STREET,', 910
+'Street name', 'COLGATE AVENUE,', 616
+'Street name', 'ALEXANDER AVENUE,', 181
+'Street name', 'WEST 166 STREET,', 212
+'Street name', 'CORNAGA AVENUE,', 195
+'Street name', 'MACON STREET,', 1494
+'Street name', '59 STREET,', 1216
+'Street name', 'TURNER PLACE,', 228
+'Street name', 'VAN CORTLANDT AVENUE WEST,', 431
+'Street name', '30 DRIVE,', 157
+'Street name', '112 AVENUE,', 94
+'Street name', 'HENDERSON AVENUE,', 120
+'Street name', 'GLORIA COURT,', 2
+'Street name', 'AVENUE ST JOHNS,', 1
+'Street name', 'RIDGE AVENUE,', 1
+'Street name', 'HELL GATE CIRCLE,', 7
+'Street name', 'DESBROSSES STREET,', 2
+'Street name', 'WEST 7 STREET,', 717
+'Street name', 'EAST 172 STREET,', 1707
+'Street name', 'CITY ISLAND AVENUE,', 228
+'Street name', 'FAIRFAX AVENUE,', 12
+'Street name', 'HAVILAND AVENUE,', 640
+'Street name', 'STUYVESANT OVAL,', 609
+'Street name', 'EAST 212 STREET,', 145
+'Street name', 'KEARNEY AVENUE,', 15
+'Street name', '112 ROAD,', 54
+'Street name', 'OCEAN COURT,', 30
+'Street name', 'PLEASANT PLAINS AVENUE,', 3
+'Street name', 'CARLISLE PLACE,', 126
+'Street name', 'WINDOM AVENUE,', 11
+'Street name', 'EAST 14 STREET ,', 6
+'Street name', 'HERRICK AVENUE,', 5
+'Street name', 'WALLOON STREET,', 15
+'Street name', 'MAPLE TERRACE,', 2
+'Street name', 'CROSS STREET,', 6
+'Street name', 'RAU COURT,', 10
+'Street name', '144 TERRACE,', 2
+'Street name', 'TRUMAN STREET,', 1
+'Street name', 'AUBREY AVENUE,', 2
+'Street name', 'TYNDALL AVENUE,', 6
+'Street name', 'ASPEN KNOLLS WAY,', 1
+'Street name', 'HANOVER AVENUE ,', 2
+'Street name', 'CHAUNCEY STREET,', 1460
+'Street name', 'BECK STREET,', 803
+'Street name', 'NAGLE AVENUE,', 2534
+'Street name', 'PAULDING AVENUE,', 1038
+'Street name', 'WILKINSON AVENUE,', 481
+'Street name', 'BEACH  STREET,', 86
+'Street name', 'LORI DRIVE,', 1
+'Street name', 'VAN KLEECK STREET,', 219
+'Street name', 'CONGER STREET,', 2
+'Street name', 'MEAD STREET,', 58
+'Street name', 'GLEBE AVENUE,', 135
+'Street name', 'HART BOULEVARD,', 17
+'Street name', 'WRIGHT STREET,', 36
+'Street name', 'PIERPONT PLACE,', 7
+'Street name', 'DUTCH STREET,', 7
+'Street name', 'BUEL AVENUE,', 10
+'Street name', 'CITY BOULEVARD,', 1
+'Street name', 'BORMAN AVENUE,', 1
+'Street name', 'DEMOND COURT,', 1
+'Street name', '111 STREET,', 272
+'Street name', 'WEST 21 STREET,', 787
+'Street name', 'EAST 50 STREET,', 866
+'Street name', 'QUINCY STREET,', 1390
+'Street name', 'CARLTON AVENUE,', 411
+'Street name', 'LEFFERTS PLACE,', 491
+'Street name', 'STRAUSS STREET,', 577
+'Street name', 'FOSTER AVENUE,', 2891
+'Street name', 'EAST 237 STREET,', 551
+'Street name', 'LORILLARD PLACE,', 454
+'Street name', 'CEDARCROFT ROAD,', 116
+'Street name', '108 STREET,', 1216
+'Street name', 'STATE STREET,', 275
+'Street name', 'ECHO PLACE,', 316
+'Street name', 'ASTOR AVENUE,', 288
+'Street name', '47 ROAD,', 277
+'Street name', 'WEST HOUSTON STREET,', 179
+'Street name', 'SMITH STREET,', 110
+'Street name', 'PURROY PLACE,', 2
+'Street name', 'REYNOLDS AVENUE,', 5
+'Street name', '91 ROAD,', 7
+'Street name', 'BARKLEY AVENUE,', 38
+'Street name', 'HAWTREE STREET,', 20
+'Street name', 'BOULEVARD COURT,', 4
+'Street name', 'FANNING STREET,', 7
+'Street name', 'SWEETWATER AVENUE,', 1
+'Street name', 'OLD SOUTH ROAD,', 1
+'Street name', 'CHAPIN AVENUE,', 1
+'Street name', 'WIMAN PLACE,', 1
+'Street name', 'EAST LOOP ROAD,', 4
+'Street name', 'ARROWOOD COURT,', 1
+'Street name', '76 STREET,', 1151
+'Street name', 'WEST 101 STREET,', 366
+'Street name', 'BAINBRIDGE AVENUE,', 2233
+'Street name', 'HOMECREST AVENUE,', 2143
+'Street name', 'ROSEDALE AVENUE,', 738
+'Street name', 'MAC DONOUGH STREET,', 1708
+'Street name', 'CROCHERON AVENUE,', 192
+'Street name', 'PARK DRIVE EAST,', 22
+'Street name', 'EMMONS AVENUE,', 513
+'Street name', 'GERANIUM AVENUE,', 76
+'Street name', 'WEST 120 STREET,', 476
+'Street name', 'FR CAPODANNO BOULEVARD,', 228
+'Street name', 'STICKNEY PLACE,', 8
+'Street name', 'WALTHAM STREET,', 67
+'Street name', 'GRENFELL STREET,', 6
+'Street name', 'DELMAR LOOP,', 56
+'Street name', 'GOETHALS ROAD NORTH,', 9
+'Street name', 'KEARNEY STREET,', 18
+'Street name', 'SPRITZ ROAD,', 3
+'Street name', '55 ROAD,', 8
+'Street name', 'BELFAST AVENUE,', 1
+'Street name', 'PALADINO AVENUE,', 4
+'Street name', 'PERSHING STREET,', 2
+'Street name', 'EAST RIVER,', 1
+'Street name', '57 AVENUE,', 3006
+'Street name', 'EAST 175 STREET,', 1274
+'Street name', 'FT WASHINGTON AVENUE,', 5366
+'Street name', 'EAST 93 STREET,', 1412
+'Street name', 'HUNT AVENUE,', 186
+'Street name', '71 CRESCENT,', 46
+'Street name', 'WEST 188 STREET,', 727
+'Street name', 'RUTLAND ROAD,', 1623
+'Street name', '53 AVENUE,', 138
+'Street name', 'NELLIS STREET,', 44
+'Street name', 'LAWRENCE STREET,', 147
+'Street name', 'LANGDALE STREET,', 27
+'Street name', '89 STREET,', 684
+'Street name', 'BEACH 92 STREET,', 58
+'Street name', 'BENHAM STREET,', 236
+'Street name', '3 STREET,', 332
+'Street name', 'WEST 100 STREET,', 118
+'Street name', 'BEDELL LANE,', 15
+'Street name', '229 STREET,', 70
+'Street name', 'SCHROEDERS AVENUE,', 133
+'Street name', 'EAST 210 STREET,', 51
+'Street name', 'MORNING STAR ROAD,', 35
+'Street name', 'SHERLOCK PLACE,', 15
+'Street name', 'BAYSIDE AVENUE,', 12
+'Street name', 'PELHAM PARKWAY,', 25
+'Street name', 'CHESTNUT AVENUE,', 14
+'Street name', 'ELMWOOD PARK DRIVE,', 18
+'Street name', 'ASCH LOOP,', 42
+'Street name', 'EMERALD STREET,', 45
+'Street name', 'FIRWOOD PLACE,', 2
+'Street name', '0 DRIVE,', 4
+'Street name', 'BRINSMADE AVENUE,', 17
+'Street name', 'EAST 27 STREET,', 1931
+'Street name', '4 AVENUE,', 4131
+'Street name', 'IRVING AVENUE,', 966
+'Street name', 'EAST MOSHOLU PARKWAY SOUTH,', 855
+'Street name', 'STANHOPE STREET,', 729
+'Street name', 'VOORHIES AVENUE,', 170
+'Street name', 'EAST 184 STREET,', 781
+'Street name', 'WEST 143 STREET,', 1061
+'Street name', 'WEST 126 STREET,', 497
+'Street name', 'FLATLANDS 2 STREET,', 28
+'Street name', 'BEACH 113 STREET,', 69
+'Street name', 'VREELAND AVENUE,', 9
+'Street name', 'RUBY STREET,', 76
+'Street name', 'POND WAY,', 34
+'Street name', 'PLAINVIEW AVENUE,', 14
+'Street name', 'PORTER AVENUE,', 10
+'Street name', 'GRANADA PLACE,', 13
+'Street name', '9 DRIVE NORTH,', 2
+'Street name', 'LOUISIANNA AVENUE,', 1
+'Street name', 'PENELOPE AVENUE,', 4
+'Street name', 'HOXIE STREET,', 8
+'Street name', 'BUFFALO STREET,', 1
+'Street name', 'ARION ROAD,', 1
+'Street name', 'EAST 182 STREET,', 1915
+'Street name', 'HAWTHORNE STREET,', 3343
+'Street name', 'DANIEL LOW TERRACE,', 375
+'Street name', '176 STREET,', 84
+'Street name', 'MADISON AVENUE,', 1488
+'Street name', 'ELTON AVENUE,', 143
+'Street name', 'JANE STREET,', 137
+'Street name', 'MC GUINNESS BOULEVARD,', 107
+'Street name', 'PILLING STREET,', 59
+'Street name', '65 CRESCENT,', 41
+'Street name', 'HEYSON ROAD,', 22
+'Street name', 'STUYVESANT STREET,', 64
+'Street name', 'ELDERTS LANE,', 51
+'Street name', 'HOLLIS CT BOULEVARD,', 11
+'Street name', 'PULASKI AVENUE,', 64
+'Street name', 'ROCKAWAY STREET,', 2
+'Street name', 'LIBERTY STREET,', 13
+'Street name', 'DRAPER PLACE,', 2
+'Street name', 'MERIDIAN BOULEVARD,', 2
+'Street name', 'STARBUCK STREET,', 8
+'Street name', 'FILLMORE AVENUE,', 11
+'Street name', 'CORNISH AVENUE,', 2
+'Street name', 'MICIELI PLACE,', 2
+'Street name', 'FLAGG COURT,', 1
+'Street name', '258 STREET,', 4
+'Street name', 'MC CORMICK PLACE,', 3
+'Street name', 'SCRIBNER LANE,', 5
+'Street name', '9 AVENUE,', 3900
+'Street name', 'FAILE STREET,', 1096
+'Street name', 'HUDSON STREET,', 578
+'Street name', '114 STREET,', 628
+'Street name', 'BRIGHTWATER AVENUE,', 147
+'Street name', 'HYGEIA PLACE,', 28
+'Street name', 'JAY STREET,', 77
+'Street name', 'PENN STREET,', 60
+'Street name', 'FRISBY AVENUE,', 276
+'Street name', '242 STREET,', 41
+'Street name', 'VELTMAN AVENUE,', 4
+'Street name', 'BAY 41 STREET,', 8
+'Street name', 'GOUVERNEUR PLACE,', 36
+'Street name', 'BRIGHTON 4 PLACE,', 5
+'Street name', 'GOTHAM AVENUE,', 2
+'Street name', 'WEST 239 STREET,', 66
+'Street name', 'THURSTON STREET,', 17
+'Street name', 'MANHATTAN COURT,', 18
+'Street name', 'NEWHALL AVENUE,', 8
+'Street name', 'JOHANNA LANE,', 4
+'Street name', 'BUTLER TERRACE,', 13
+'Street name', 'DONGAN STREET,', 24
+'Street name', 'BROOKFIELD AVENUE,', 2
+'Street name', 'LEEDS STREET,', 1
+'Street name', 'VERONA PLACE,', 19
+'Street name', 'KINGSLEY PLACE,', 10
+'Street name', 'BARWELL TERRACE,', 1
+'Street name', 'GRAND CENTRAL PARKWAY SR SOUTH,', 15
+'Street name', 'ASPINWALL STREET,', 1
+'Street name', 'KEESEVILLE AVENUE,', 3
+'Street name', '253 PLACE,', 1
+'Street name', 'DALEHAM STREET,', 1
+'Street name', 'BUCHANAN PLACE,', 1769
+'Street name', 'AMSTERDAM AVENUE,', 10935
+'Street name', 'ROEBLING STREET,', 90
+'Street name', 'EAST 79 STREET,', 499
+'Street name', 'EAST 129 STREET,', 307
+'Street name', 'CROES AVENUE,', 600
+'Street name', 'EAST 23 STREET,', 1206
+'Street name', 'GLASSBORO AVENUE,', 76
+'Street name', 'GATEWAY BOULEVARD,', 209
+'Street name', 'WEST 30 STREET,', 968
+'Street name', 'ERSKINE PLACE,', 27
+'Street name', 'EAST 208 STREET,', 738
+'Street name', '214 PLACE,', 51
+'Street name', 'HARDING AVENUE,', 93
+'Street name', 'ST RAYMOND AVENUE,', 117
+'Street name', '66 DRIVE,', 35
+'Street name', 'COOPER AVENUE,', 57
+'Street name', 'EVERDELL AVENUE,', 73
+'Street name', '90 AVE,', 56
+'Street name', '14 PLACE,', 13
+'Street name', 'SCHENCK STREET,', 15
+'Street name', 'WINCHESTER AVENUE,', 2
+'Street name', 'PIKE STREET,', 16
+'Street name', 'GADSEN PLACE,', 43
+'Street name', 'ROST PLACE,', 7
+'Street name', 'FORD PLACE,', 1
+'Street name', 'WAINWRIGHT AVENUE,', 5
+'Street name', '72 COURT,', 1
+'Street name', 'ERASTINA PLACE,', 1
+'Street name', 'KINGSTON AVENUE,', 1339
+'Street name', '117 ROAD,', 21
+'Street name', 'STEPHEN STREET,', 122
+'Street name', 'BRADFORD STREET,', 861
+'Street name', '31 AVENUE,', 996
+'Street name', 'COLLEGE AVENUE,', 2464
+'Street name', 'EAST GUN HILL ROAD,', 1399
+'Street name', 'OLD KINGSBRIDGE ROAD,', 26
+'Street name', 'CONCOURSE VILLAGE EAST,', 384
+'Street name', 'EAST 90 STREET,', 396
+'Street name', 'LORIMER STREET,', 1443
+'Street name', 'HOBART AVENUE,', 702
+'Street name', 'PAERDEGAT 15 STREET,', 57
+'Street name', '129 STREET,', 202
+'Street name', 'HEMLOCK STREET,', 330
+'Street name', 'PARK HILL COURT,', 36
+'Street name', 'ANN STREET,', 95
+'Street name', 'TRUXTON STREET,', 49
+'Street name', 'FAIRWAY AVENUE,', 9
+'Street name', 'CLOSE AVENUE,', 71
+'Street name', 'APPLEBY AVENUE,', 18
+'Street name', 'RAWLINS AVENUE,', 3
+'Street name', 'SURF DRIVE,', 2
+'Street name', 'WHITE PLAINS AVENUE,', 1
+'Street name', 'TYLER AVENUE,', 1
+'Street name', 'LAMPORT BOULEVARD,', 1
+'Street name', 'BEAUMONT AVENUE,', 1252
+'Street name', 'WEST 37 STREET,', 174
+'Street name', 'MORNINGSTAR ROAD,', 90
+'Street name', 'BEDFORD PARK BOULEVARD,', 2701
+'Street name', 'EAST 64 STREET,', 282
+'Street name', 'WEST 115 STREET,', 405
+'Street name', '80 STREET,', 1139
+'Street name', '66 PLACE,', 37
+'Street name', '71 AVENUE,', 449
+'Street name', 'WEST 5 STREET,', 691
+'Street name', 'PIERREPONT STREET,', 241
+'Street name', 'EVELYN PLACE,', 146
+'Street name', 'SEA GATE AVENUE,', 38
+'Street name', 'WILLOW STREET,', 83
+'Street name', 'WATERLOO PLACE,', 64
+'Street name', 'MONROE PLACE,', 51
+'Street name', 'BLISS TERRACE,', 1
+'Street name', 'CHARLES COURT,', 6
+'Street name', 'EDWARDS AVENUE,', 113
+'Street name', 'EAST 160 STREET,', 320
+'Street name', 'GUYON AVENUE,', 15
+'Street name', 'STELL PLACE,', 2
+'Street name', 'SHERIDAN COURT,', 1
+'Street name', 'WILBUR STREET,', 1
+'Street name', 'SANDFORD STREET,', 1
+'Street name', 'DICKIE AVENUE,', 1
+'Street name', 'MARTIN LUTHER KING JR PLACE,', 1
+'Street name', 'DUMFRIES PLACE,', 1
+'Street name', 'NEWPORT AVENUE,', 3
+'Street name', 'WATERBURY STREET,', 1
+'Street name', 'TUSKEGEE AIRMAN WAY,', 1
+'Street name', 'HANK PLACE,', 1
+'Street name', 'CORNELL PLACE,', 1
+'Street name', '82 ROAD,', 1
+'Street name', 'CROSS BX SERVICE ROAD SOUTH,', 1
+'Street name', 'EAST 29 STREET,', 1216
+'Street name', '6 AVENUE,', 1743
+'Street name', 'WEST 68 STREET,', 216
+'Street name', 'EAST 3 STREET,', 1721
+'Street name', 'DEVONSHIRE ROAD,', 10
+'Street name', 'HUTCHINSON RIVER PARKWAY,', 17
+'Street name', 'GLENWOOD ROAD,', 890
+'Street name', 'LOCKWOOD COURT,', 2
+'Street name', 'BILLINGSLEY TERRACE,', 213
+'Street name', 'WEST 251 STREET,', 113
+'Street name', '219 STREET,', 89
+'Street name', 'BAY STREET,', 305
+'Street name', 'OSMAN PLACE,', 53
+'Street name', 'CLIFTON AVENUE,', 27
+'Street name', 'NEILL AVENUE,', 191
+'Street name', 'CARMINE STREET,', 232
+'Street name', '76 ROAD,', 92
+'Street name', 'BUTLER PLACE,', 76
+'Street name', 'CRANSTON STREET,', 4
+'Street name', 'PELTON AVENUE,', 20
+'Street name', 'WEST 60 STREET,', 20
+'Street name', 'SEGUINE AVENUE,', 2
+'Street name', 'MICKARDAN COURT,', 1
+'Street name', '54 PLACE,', 19
+'Street name', 'NEW MONTROSE AVENUE,', 5
+'Street name', 'WILLET AVENUE,', 9
+'Street name', 'MANHATTAN COLLEGE PARKWAY,', 2
+'Street name', '45 PLACE,', 1
+'Street name', 'BEACH 16 STREET,', 2
+'Street name', 'AUSTIN STREET,', 1433
+'Street name', 'EAST 138 STREET,', 2259
+'Street name', 'ROCHESTER AVENUE,', 1179
+'Street name', 'TELLER AVENUE,', 1038
+'Street name', 'LEGGETT AVENUE,', 426
+'Street name', 'WEST 78 STREET,', 113
+'Street name', 'BEACH 22 STREET,', 167
+'Street name', 'MARTENSE AVENUE,', 69
+'Street name', 'DUNKIRK STREET,', 18
+'Street name', 'NORTH END AVENUE,', 13
+'Street name', 'LINDEN AVENUE,', 4
+'Street name', 'ELLSWORTH AVENUE,', 11
+'Street name', 'PALMER AVENUE,', 211
+'Street name', 'NADAL PLACE,', 15
+'Street name', 'SCHLEY AVENUE,', 34
+'Street name', 'BATTERY PLACE,', 6
+'Street name', 'BOSWORTH STREET,', 1
+'Street name', 'ILION AVENUE,', 6
+'Street name', 'KATAN AVENUE,', 19
+'Street name', 'LESTER STREET,', 3
+'Street name', 'TURNEUR AVENUE,', 9
+'Street name', 'SAGE STREET,', 1
+'Street name', 'FLATLANDS 5 STREET,', 3
+'Street name', '196 PLACE,', 2
+'Street name', '62 AVENUE,', 1
+'Street name', 'WALLACE AVENUE,', 4953
+'Street name', 'VALENTINE AVENUE,', 5521
+'Street name', 'JAMAICA AVENUE,', 2832
+'Street name', 'BATHGATE AVENUE,', 835
+'Street name', 'COLONIAL ROAD,', 591
+'Street name', 'WEST 48 STREET,', 965
+'Street name', '166 STREET,', 220
+'Street name', 'BEACH 117 STREET,', 319
+'Street name', 'DINSMORE AVENUE,', 142
+'Street name', 'EDENWALD AVENUE,', 99
+'Street name', 'HILL AVENUE,', 265
+'Street name', 'THWAITES PLACE,', 163
+'Street name', 'ALDEN PARK,', 5
+'Street name', 'OAK AVENUE,', 14
+'Street name', 'BRIGHTON 10 STREET,', 16
+'Street name', 'BRUNSWICK AVENUE,', 17
+'Street name', 'VOORHEES AVENUE,', 1
+'Street name', 'BIRCH ROAD,', 8
+'Street name', 'LYNBROOK AVENUE,', 1
+'Street name', 'RAYFIELD COURT,', 4
+'Street name', 'DAVID STREET,', 3
+'Street name', 'TAXTER PLACE,', 10
+'Street name', 'SULLIVAN ROAD,', 3
+'Street name', 'WETHEROLE STREET,', 446
+'Street name', 'WEST 10 STREET,', 774
+'Street name', 'EAST 98 STREET,', 1655
+'Street name', '67 DRIVE,', 343
+'Street name', 'VERMILYEA AVENUE,', 2488
+'Street name', 'MURRAY STREET,', 60
+'Street name', '3 AVENUE,', 6145
+'Street name', 'CORNELIA STREET,', 673
+'Street name', 'WEST 139 STREET,', 2909
+'Street name', 'UNION HALL STREET,', 107
+'Street name', 'GRANDVIEW AVENUE,', 244
+'Street name', '143 AVENUE,', 61
+'Street name', '227 STREET,', 85
+'Street name', '71 ROAD,', 122
+'Street name', 'RICHMOND HILL ROAD,', 136
+'Street name', 'LAFAYETTE STREET,', 132
+'Street name', 'BEACH 122 STREET,', 5
+'Street name', 'OLD BEACH 88 STREET,', 5
+'Street name', 'ALTER AVENUE,', 8
+'Street name', 'MATHIAS AVENUE,', 14
+'Street name', 'HAUGHWOUT AVENUE,', 5
+'Street name', 'LODOVICK AVENUE,', 2
+'Street name', 'ELVERTON AVENUE,', 4
+'Street name', 'BANNER 3 TERRACE,', 6
+'Street name', 'LIGHTHOUSE COURT,', 2
+'Street name', 'BARUCH PLACE,', 1
+'Street name', 'ROACKAWAY PARKWAY,', 1
+'Street name', 'RICARD STREET,', 2
+'Street name', 'HARPER STREET,', 1
+'Street name', 'UNIVERSITY AVENUE,', 4035
+'Street name', 'KISSENA BOULEVARD,', 1100
+'Street name', 'SHORE FRONT PARKWAY,', 2750
+'Street name', '183 STREET,', 100
+'Street name', 'WEST 125 STREET,', 922
+'Street name', 'WEST 85 STREET,', 326
+'Street name', 'VERMONT STREET,', 1038
+'Street name', 'HASSOCK STREET,', 21
+'Street name', 'ELKMONT AVENUE,', 1
+'Street name', 'AMBOY STREET,', 437
+'Street name', 'HAWTHORNE AVENUE,', 17
+'Street name', 'STRATFORD ROAD,', 214
+'Street name', 'POPLAR STREET,', 24
+'Street name', 'COLLIER AVENUE,', 566
+'Street name', 'JUNIUS STREET,', 98
+'Street name', 'GRAFF AVENUE,', 7
+'Street name', 'HASPEL STREET,', 4
+'Street name', 'WEST 231 STREET,', 84
+'Street name', 'BARRETT AVENUE,', 30
+'Street name', 'GOTHAM ROAD,', 5
+'Street name', 'JASPER STREET,', 2
+'Street name', 'STRYKER COURT,', 1
+'Street name', 'CASS PLACE,', 2
+'Street name', 'ADAM CLAYTON POWELL JR BOULEVARD,', 4
+'Street name', 'QUEENS PLAZA SOUTH,', 1
+'Street name', 'UNIVERSITY PLAZA,', 3
+'Street name', 'DRYSDALE STREET,', 4
+'Street name', 'WEST 133 STREET,', 1267
+'Street name', 'OLIVER PLACE,', 93
+'Street name', 'EAST 22 STREET,', 2029
+'Street name', 'MOTT AVENUE,', 603
+'Street name', 'BRONX PARK EAST,', 2567
+'Street name', 'STARLING AVENUE,', 429
+'Street name', 'EAST 242 STREET,', 1083
+'Street name', 'BOUCK AVENUE,', 73
+'Street name', 'WOOD ROAD,', 278
+'Street name', 'MC FARLAND AVENUE,', 20
+'Street name', 'WEST GUN HILL ROAD,', 187
+'Street name', 'MARYLAND AVENUE,', 32
+'Street name', 'ARIELLE LANE,', 1
+'Street name', 'DE WITT AVENUE,', 183
+'Street name', 'RUMPLER COURT,', 16
+'Street name', 'FITCHETT STREET,', 3
+'Street name', 'MC OWEN AVENUE,', 47
+'Street name', 'CAROLL STREET,', 8
+'Street name', '236 STREET,', 9
+'Street name', 'TROUTVILLE ROAD,', 9
+'Street name', 'CHELSEA STREET,', 26
+'Street name', 'EMERIC COURT,', 3
+'Street name', 'FLEET PLACE,', 2
+'Street name', 'SCHUYLER PLACE,', 2
+'Street name', 'BAYWATER COURT,', 1
+'Street name', 'MARTHA AVENUE,', 24
+'Street name', '180 STREET,', 86
+'Street name', 'EAST 84 STREET,', 955
+'Street name', 'BEACH 31 STREET,', 219
+'Street name', 'HENRY STREET,', 1209
+'Street name', 'EAST 88 STREET,', 1383
+'Street name', '220 STREET,', 103
+'Street name', 'CROSS BAY BOULEVARD,', 82
+'Street name', 'LOWERRE PLACE,', 113
+'Street name', 'WOODRUFF AVENUE,', 745
+'Street name', 'CHAPIN PARKWAY,', 20
+'Street name', 'CRAIG AVENUE,', 4
+'Street name', '95 LANE,', 1
+'Street name', 'PURCELL STREET,', 4
+'Street name', 'EFFINGHAM AVENUE,', 2
+'Street name', 'FT HILL CIRCLE,', 2
+'Street name', 'BEACH 93 STREET,', 1
+'Street name', 'TWIN OAK DRIVE,', 1
+'Street name', 'KENMARE STREET,', 1
+'Street name', 'GENESEE AVENUE,', 1
+'Street name', 'BEVERLY ROAD,', 2576
+'Street name', 'MORRISON AVENUE,', 1996
+'Street name', 'BROWN STREET,', 20
+'Street name', 'NEWTON STREET,', 51
+'Street name', 'WARREN STREET,', 267
+'Street name', 'SOUTH 1 STREET,', 458
+'Street name', 'GORDON STREET,', 227
+'Street name', 'STILLWELL AVENUE,', 303
+'Street name', 'WASHINGTON TERRACE,', 4
+'Street name', 'ANDROS AVENUE,', 27
+'Street name', 'DOE PLACE,', 10
+'Street name', 'RUSCOE STREET,', 79
+'Street name', 'FABER STREET,', 9
+'Street name', 'DOVER GREEN,', 4
+'Street name', 'UXBRIDGE STREET,', 1
+'Street name', 'PLEASANT VALLEY AVENUE,', 1
+'Street name', 'EVERETT PLACE,', 1
+'Street name', '42 ROAD,', 67
+'Street name', 'LITTLE WEST 2 STREET,', 1
+'Street name', 'PORTAGE AVENUE,', 1
+'Street name', 'ROCKEFELLER PLAZA,', 1
+'Street name', 'LOMBARDY STREET,', 2
+'Street name', 'POLAND PLACE,', 2
+'Street name', 'EAST 2 STREET,', 1773
+'Street name', 'SOMERS STREET,', 317
+'Street name', 'EAST 38 STREET,', 309
+'Street name', 'BEACH AVENUE,', 1351
+'Street name', 'DECATUR STREET,', 1774
+'Street name', '141 STREET,', 154
+'Street name', '86 ROAD,', 110
+'Street name', 'PINEAPPLE STREET,', 95
+'Street name', 'VERNON BOULEVARD,', 203
+'Street name', '105 STREET,', 147
+'Street name', 'NEILSON STREET,', 399
+'Street name', 'OSBORNE PLACE,', 572
+'Street name', 'BELLAMY LOOP SOUTH,', 3
+'Street name', 'FALMOUTH STREET,', 220
+'Street name', 'BAY 50 STREET,', 19
+'Street name', '78 ROAD,', 26
+'Street name', 'SKIDMORE AVENUE,', 24
+'Street name', 'ASTORIA BOULEVARD SOUTH,', 18
+'Street name', 'PLEASANT PLACE,', 32
+'Street name', '1 DRIVE,', 15
+'Street name', 'MAITLAND AVENUE,', 11
+'Street name', 'MIDDLE LOOP ROAD,', 2
+'Street name', 'WEINER STREET,', 1
+'Street name', 'BEACH 35 STREET,', 1
+'Street name', 'LONGVIEW ROAD,', 1
+'Street name', 'LEWISTON STREET,', 2
+'Street name', 'WIMAN AVENUE,', 10
+'Street name', 'BEACON PLACE,', 1
+'Street name', 'REID AVENUE,', 4
+'Street name', 'CATAMARAN WAY,', 25
+'Street name', 'WOODHAVEN COURT,', 3
+'Street name', 'WEST 137TH ST,', 12
+'Street name', 'KENILWORTH AVENUE,', 2
+'Street name', 'MARIE STREET,', 6
+'Street name', 'TROUTMAN STREET,', 755
+'Street name', 'GRANITE STREET,', 243
+'Street name', '81 STREET,', 1664
+'Street name', 'NEWPORT STREET,', 284
+'Street name', '189 STREET,', 50
+'Street name', '15 AVENUE,', 888
+'Street name', 'PINE STREET,', 461
+'Street name', 'WEST 174 STREET,', 777
+'Street name', 'BUHRE AVENUE,', 272
+'Street name', 'BENZIGER AVENUE,', 145
+'Street name', '76 AVENUE,', 342
+'Street name', '114 PLACE,', 82
+'Street name', '17 PLACE,', 8
+'Street name', 'GERRITSEN AVENUE,', 138
+'Street name', 'CHANDLER STREET,', 42
+'Street name', '69 ROAD,', 18
+'Street name', 'LA GRANGE PLACE,', 1
+'Street name', 'RANSOM STREET,', 10
+'Street name', 'VAN WYCK AVENUE,', 1
+'Street name', 'PERONA LANE,', 1
+'Street name', 'WEST 52 STREET,', 494
+'Street name', 'WYCKOFF STREET,', 132
+'Street name', '68 ROAD,', 255
+'Street name', 'EAST 4 STREET,', 915
+'Street name', 'EAST 97 STREET,', 151
+'Street name', '25 AVENUE,', 297
+'Street name', 'EAST 207 STREET,', 231
+'Street name', 'AVON PLACE,', 78
+'Street name', 'VAN SICKLEN STREET,', 58
+'Street name', 'SPARTAN AVENUE,', 35
+'Street name', 'ELMIRA LOOP,', 71
+'Street name', 'MARGINAL ST EAST,', 11
+'Street name', 'BOUNDARY AVENUE,', 13
+'Street name', 'KNOLLS CRESCENT,', 12
+'Street name', 'LYNN STREET,', 2
+'Street name', 'DAVENPORT AVENUE,', 6
+'Street name', 'KISSEL AVENUE,', 11
+'Street name', 'MARINE STREET,', 2
+'Street name', 'ALDERBROOK ROAD,', 1
+'Street name', 'BEACH 37 STREET,', 4
+'Street name', 'BAYVIEW PLACE,', 3
+'Street name', 'GOODRIDGE AVENUE,', 2
+'Street name', 'MCCLELLAN STREET,', 1
+'Street name', 'WEST 27 STREET,', 1
+'Street name', 'PARSONS BOULEVARD,', 1702
+'Street name', 'LOGAN STREET,', 552
+'Street name', 'SEAGIRT BOULEVARD,', 727
+'Street name', '63 STREET,', 560
+'Street name', '69 PLACE,', 93
+'Street name', 'MOTT STREET,', 1095
+'Street name', '69 STREET,', 324
+'Street name', 'BRISTOL STREET,', 1035
+'Street name', 'BEACH 109 STREET,', 5
+'Street name', 'GLEN AVENUE,', 19
+'Street name', 'BRIGHTON 14 STREET,', 155
+'Street name', 'STEWART STREET,', 45
+'Street name', 'VERONA STREET,', 20
+'Street name', 'HAVEMEYER AVENUE,', 96
+'Street name', '217 PLACE,', 8
+'Street name', 'DE HART AVENUE,', 22
+'Street name', 'PILOT STREET,', 39
+'Street name', 'CARVER LOOP,', 45
+'Street name', 'CARSON STREET,', 8
+'Street name', 'PATCHIN PLACE,', 5
+'Street name', 'MORRISON AVE,', 12
+'Street name', 'FARADAY AVENUE,', 21
+'Street name', 'PRESCOTT PLACE,', 1
+'Street name', 'DAVIDSON COURT,', 1
+'Street name', 'KNOX STREET,', 1
+'Street name', '88 STREET,', 623
+'Street name', '103 AVENUE,', 282
+'Street name', 'EAST 124 STREET,', 292
+'Street name', 'BOWERY,', 263
+'Street name', '100 AVENUE,', 81
+'Street name', 'VICTOR STREET,', 194
+'Street name', 'BLACKSTONE AVENUE,', 156
+'Street name', 'WEST 155 STREET,', 200
+'Street name', 'AVENUE Z,', 602
+'Street name', 'HOR HARDING EXPRESSWAY SR SOUTH,', 76
+'Street name', '70 STREET,', 510
+'Street name', 'ELM STREET,', 90
+'Street name', 'AVENUE F,', 267
+'Street name', '15 STREET,', 462
+'Street name', 'KEW GARDENS ROAD,', 274
+'Street name', 'ST JAMES AVENUE,', 210
+'Street name', 'DUNLOP AVENUE,', 15
+'Street name', 'MAROLLA PLACE,', 11
+'Street name', '96 PLACE,', 11
+'Street name', 'PENROD STREET,', 18
+'Street name', 'SOUTH WILLIAM STREET,', 8
+'Street name', 'MIDDAGH STREET,', 6
+'Street name', 'NICHOLAS STREET,', 3
+'Street name', 'BEACH 116 STREET,', 23
+'Street name', 'PIERCE STREET,', 4
+'Street name', 'WILSON TERRACE,', 10
+'Street name', 'ABINGDON SQUARE,', 2
+'Street name', 'LAMONT COURT,', 2
+'Street name', 'LOUBET STREET,', 2
+'Street name', 'GURLEY AVENUE,', 1
+'Street name', 'BEACH 138 STREET,', 2
+'Street name', 'LINWOOD AVENUE,', 23
+'Street name', 'GERARD AVENUE,', 5347
+'Street name', 'TROY AVENUE,', 1040
+'Street name', 'HARMAN STREET,', 1800
+'Street name', 'GRAHAM AVENUE,', 734
+'Street name', 'STEBBINS AVENUE,', 52
+'Street name', '167 STREET,', 324
+'Street name', '171 PLACE,', 93
+'Street name', 'EDSON AVENUE,', 207
+'Street name', 'RESERVOIR OVAL EAST,', 43
+'Street name', 'CROFT PLACE,', 31
+'Street name', 'BAY 25 STREET,', 60
+'Street name', 'BUCK STREET,', 16
+'Street name', 'ST CHARLES PLACE,', 16
+'Street name', 'POLAR STREET,', 2
+'Street name', 'COLUMBUS CIRCLE,', 2
+'Street name', 'HUSSON AVENUE,', 19
+'Street name', 'BATHGATE STREET,', 1
+'Street name', 'ALYSIA COURT,', 3
+'Street name', 'BARTLETT AVENUE,', 1
+'Street name', 'MURDOCK AVENUE,', 211
+'Street name', 'EAST 81 STREET,', 1034
+'Street name', 'STERLING STREET,', 659
+'Street name', 'DITMARS BOULEVARD,', 212
+'Street name', 'LAYTON AVENUE,', 79
+'Street name', 'BAY RIDGE AVENUE,', 473
+'Street name', 'ODELL STREET,', 177
+'Street name', 'HOWE AVENUE,', 62
+'Street name', 'EAST 121 STREET,', 142
+'Street name', 'BRIGHTON 8 STREET,', 152
+'Street name', 'ARCADE AVENUE,', 6
+'Street name', 'CORSON AVENUE,', 68
+'Street name', 'VERMONT AVENUE,', 42
+'Street name', 'BREVOORT STREET,', 2
+'Street name', 'JAMES STREET,', 23
+'Street name', 'AVENUE OF THE AMERICAS,', 23
+'Street name', 'TYSEN STREET,', 12
+'Street name', 'LAMBERT STREET,', 1
+'Street name', 'FRIEL PLACE,', 3
+'Street name', 'BRANDT PLACE,', 13
+'Street name', 'CORNELL LANE,', 3
+'Street name', 'BAILEY AVENUE,', 3130
+'Street name', 'EAST 197 STREET,', 579
+'Street name', '44 STREET,', 2021
+'Street name', 'EAST 96 STREET,', 2517
+'Street name', 'MARCY AVENUE,', 760
+'Street name', '86 STREET,', 579
+'Street name', 'ROCKAWAY BEACH BOULEVARD,', 367
+'Street name', 'ISHAM STREET,', 724
+'Street name', 'HERMANY AVENUE,', 31
+'Street name', 'SAYRES AVENUE,', 35
+'Street name', 'AMBOY ROAD,', 84
+'Street name', 'BELAIR ROAD,', 11
+'Street name', 'RODNEY STREET,', 52
+'Street name', '14 PLACE,', 8
+'Street name', '247 STREET,', 30
+'Street name', 'DEBBIE STREET,', 2
+'Street name', 'BELLAMY LOOP,', 34
+'Street name', 'PHROANE AVENUE,', 19
+'Street name', 'MARTENCE STREET,', 1
+'Street name', 'COLDSPRING ROAD,', 1
+'Street name', 'WATJEAN COURT,', 8
+'Street name', 'ENGLAND THRUWAY SR,', 6
+'Street name', 'CEDARVIEW AVENUE,', 5
+'Street name', 'ELBE AVENUE,', 1
+'Street name', 'BLEEKER STREET,', 1
+'Street name', 'MALBA DRIVE,', 1
+'Street name', 'ST JOSEPHS AVENUE,', 1
+'Street name', 'UNIONPORT ROAD,', 1016
+'Street name', 'CHRYSTIE STREET,', 285
+'Street name', '51 STREET,', 966
+'Street name', 'EAST 11 STREET,', 1102
+'Street name', '30 ROAD,', 183
+'Street name', 'EAST 95 STREET,', 1346
+'Street name', 'BURCHELL AVENUE,', 55
+'Street name', 'WEST KINGSBRIDGE ROAD,', 908
+'Street name', 'BOWEN STREET,', 103
+'Street name', 'AZTEC PLACE,', 15
+'Street name', 'THERIOT AVENUE,', 209
+'Street name', 'COLEMAN STREET,', 20
+'Street name', 'CAMBRIDGE PLACE,', 60
+'Street name', 'WEST 227 STREET,', 23
+'Street name', 'LOCUST STREET,', 148
+'Street name', '130 PLACE,', 10
+'Street name', 'WILLIAM STREET,', 131
+'Street name', 'HUNTER AVENUE,', 44
+'Street name', 'CHESTER AVENUE,', 85
+'Street name', 'BRIGHTON 4 TERRACE,', 25
+'Street name', 'FRANCESCA LANE,', 1
+'Street name', '245 STREET,', 20
+'Street name', 'LAWTON STREET,', 8
+'Street name', 'HOWARD STREET,', 5
+'Street name', 'CHESTER PLACE,', 3
+'Street name', 'GREAT JONES STREET,', 3
+'Street name', 'PRENTISS AVENUE,', 1
+'Street name', 'WEST 1RD STREET,', 3
+'Street name', 'HOWARD AVENUE,', 1714
+'Street name', 'WESTCHESTER AVENUE,', 1451
+'Street name', 'CRUGER AVENUE,', 4140
+'Street name', '1 AVENUE,', 5374
+'Street name', 'RESERVOIR OVAL WEST,', 310
+'Street name', '74 PLACE,', 23
+'Street name', 'DITMAS AVENUE,', 425
+'Street name', 'SOUTH 5 STREET,', 436
+'Street name', '159 STREET,', 230
+'Street name', '186 LANE,', 62
+'Street name', 'EAST 177 STREET,', 660
+'Street name', 'PRESTON COURT,', 6
+'Street name', 'UNDERHILL AVENUE,', 599
+'Street name', '173 STREET,', 134
+'Street name', 'RESERVOIR PLACE,', 135
+'Street name', '232 STREET,', 91
+'Street name', 'HIGHLAWN AVENUE,', 39
+'Street name', '168 PLACE,', 43
+'Street name', '54 AVENUE,', 62
+'Street name', 'BEACH 47 STREET,', 89
+'Street name', 'SEAVER AVENUE,', 7
+'Street name', 'TURNBULL AVENUE,', 53
+'Street name', '59 ROAD,', 20
+'Street name', 'FUTURITY PLACE,', 1
+'Street name', 'XENIA STREET,', 33
+'Street name', 'MONTGOMERY PLACE,', 15
+'Street name', '209 STREET,', 47
+'Street name', 'DANFORTH STREET,', 17
+'Street name', '139 AVENUE,', 47
+'Street name', 'COVE COURT,', 3
+'Street name', 'MC GUINESS BOULEVARD,', 2
+'Street name', 'STEELE AVENUE,', 6
+'Street name', 'HOWTON AVENUE,', 1
+'Street name', 'CHESBROUGH AVENUE,', 2
+'Street name', 'COUNTRY POINT CIRCLE,', 1
+'Street name', 'WEST 202 STREET,', 1
+'Street name', 'ANON,', 1
+'Street name', 'CRESCENT STREET,', 1977
+'Street name', 'HARRISON AVENUE,', 996
+'Street name', 'EAST 69 STREET,', 454
+'Street name', '163 STREET,', 353
+'Street name', '130 AVENUE,', 274
+'Street name', 'HOPKINSON AVENUE,', 391
+'Street name', 'HUBBARD PLACE,', 38
+'Street name', 'SANDS STREET,', 21
+'Street name', 'BRADY AVENUE,', 70
+'Street name', 'HARDY STREET,', 5
+'Street name', 'REEDS MILL LANE,', 40
+'Street name', '58 ROAD,', 28
+'Street name', 'WYTHE AVENUE,', 78
+'Street name', 'LURTING AVENUE,', 606
+'Street name', '16 AVENUE,', 162
+'Street name', 'MONTEREY STREET,', 38
+'Street name', '200 STREET,', 84
+'Street name', '74 AVENUE,', 25
+'Street name', 'CHURCH STREET,', 16
+'Street name', 'NORTH RAILROAD AVENUE,', 12
+'Street name', 'EVERDELL STREET,', 5
+'Street name', 'POWERS AVENUE,', 29
+'Street name', 'ANDREA PLACE,', 9
+'Street name', '115 TERRACE,', 2
+'Street name', 'COOMBS STREET,', 17
+'Street name', 'ORMSBY AVENUE,', 2
+'Street name', 'KEUNE COURT,', 1
+'Street name', 'DE RUYTER PLACE,', 4
+'Street name', 'MAIN STREET,', 615
+'Street name', '162 STREET,', 183
+'Street name', 'WEST 122 STREET,', 971
+'Street name', 'HANNIBAL STREET,', 7
+'Street name', 'GRASSMERE TERRACE,', 170
+'Street name', 'EAST 53 PLACE,', 24
+'Street name', 'LOCUST AVENUE,', 34
+'Street name', '72 AVENUE,', 207
+'Street name', 'HERBERT STREET,', 27
+'Street name', 'ARDMORE AVENUE,', 36
+'Street name', 'BERGEN COURT,', 46
+'Street name', 'SWAN STREET,', 16
+'Street name', 'HOUSTON STREET,', 4
+'Street name', 'COOPER PLACE,', 11
+'Street name', 'HORACE HARDING EXPRESSWAY SR N,', 1
+'Street name', 'WOLKOFF LANE,', 2
+'Street name', 'SHEPARD AVENUE,', 3
+'Street name', 'MICHELLE COURT,', 4
+'Street name', 'NEPTUNE STREET,', 4
+'Street name', '96 AVENUE,', 2
+'Street name', 'NEWBERRY AVENUE,', 6
+'Street name', 'GLADWIN STREET,', 1
+'Street name', 'VILLA NOVA STREET,', 1
+'Street name', 'TANGLEWOOD DRIVE,', 1
+'Street name', 'NOAH COURT,', 2
+'Street name', 'SYLVA LANE,', 4
+'Street name', 'EDGEWATER PARK,', 1
+'Street name', 'MADISON STREET,', 4135
+'Street name', '90 AVENUE,', 614
+'Street name', 'WILLIAMS AVENUE,', 774
+'Street name', 'AVENUE C,', 1120
+'Street name', 'EAST 198 STREET,', 704
+'Street name', 'ASH AVENUE,', 536
+'Street name', 'EAST 227 STREET,', 355
+'Street name', 'EAST 104 STREET,', 829
+'Street name', 'BRONXDALE AVENUE,', 2241
+'Street name', 'GREENWICH AVENUE,', 121
+'Street name', 'FRANCIS LEWIS BOULEVARD,', 266
+'Street name', 'WEST 76 STREET,', 531
+'Street name', '31 STREET,', 592
+'Street name', 'CROSS BRONX EXPRESSWAY,', 486
+'Street name', 'AQUEDUCT AVENUE,', 35
+'Street name', 'HOOK CREEK BOULEVARD,', 166
+'Street name', 'OWLS HEAD COURT,', 45
+'Street name', 'MEXICO STREET,', 22
+'Street name', '216 STREET,', 53
+'Street name', 'BENTON COURT,', 13
+'Street name', 'JUNO STREET,', 8
+'Street name', 'CEDRIC ROAD,', 6
+'Street name', 'RICHARD LANE,', 99
+'Street name', 'FOLSOM PLACE,', 1
+'Street name', 'BEACH 94 STREET,', 1
+'Street name', '25 STREET,', 4
+'Street name', 'SCHOFIELD STREET,', 8
+'Street name', 'WINTHROP PLACE,', 6
+'Street name', 'WOODVALE AVENUE,', 1
+'Street name', 'JOSEPHINE STREET,', 1
+'Street name', 'TARRYTOWN AVENUE,', 1
+'Street name', 'GIRARD STREET,', 1
+'Street name', 'BOARDWALK WEST,', 1
+'Street name', 'SUPERIOR RD OV BELT CROSS IS PY,', 1
+'Street name', 'POMPEII ROAD,', 1
+'Street name', 'CASLER PLACE,', 2
+'Street name', 'WASHINGTON AVENUE,', 6239
+'Street name', 'BEACH 25 STREET,', 160
+'Street name', 'AQUEDUCT AVENUE WEST,', 492
+'Street name', 'WEST 69 STREET,', 235
+'Street name', 'WEST 189 STREET,', 948
+'Street name', 'MARBLE HILL AVENUE,', 1198
+'Street name', 'BAYCHESTER AVENUE,', 679
+'Street name', 'BOLTON STREET,', 762
+'Street name', 'COURT STREET,', 319
+'Street name', '67 ROAD,', 328
+'Street name', 'PLYMOUTH STREET,', 5
+'Street name', 'AQUEDUCT AVENUE EAST,', 226
+'Street name', 'SOUTH CONDUIT AVENUE,', 58
+'Street name', 'COOPER SQUARE,', 100
+'Street name', 'FREEPORT LOOP,', 62
+'Street name', 'WEST 92 STREET,', 323
+'Street name', 'JENNIFER PLACE,', 5
+'Street name', 'HANOVER AVENUE,', 5
+'Street name', 'REVERE STREET,', 6
+'Street name', 'OCEANIA STREET,', 3
+'Street name', 'REDWOOD LOOP,', 3
+'Street name', 'FLATLANDS 3 STREET,', 6
+'Street name', 'ELTINGVILLE BOULEVARD,', 8
+'Street name', '52 ROAD,', 3
+'Street name', 'ST ADALBERT PLACE,', 1
+'Street name', 'ZION STREET,', 1
+'Street name', 'MORRIS STREET,', 3
+'Street name', '99 ROAD,', 1
+'Street name', 'BERGEN COVE,', 1
+'Street name', 'HARBOR VIEW TERRACE,', 1
+'Street name', 'OCEAN AVENUE,', 15648
+'Street name', 'CAULDWELL AVENUE,', 1250
+'Street name', 'BEACH 100 STREET,', 281
+'Street name', 'THORNTON PLACE,', 29
+'Street name', 'LESLIE ROAD,', 12
+'Street name', 'CLEVELAND STREET,', 421
+'Street name', 'WEST 98 STREET,', 112
+'Street name', 'GIFFORD AVENUE,', 45
+'Street name', '179 STREET,', 127
+'Street name', '113 ROAD,', 20
+'Street name', 'EAST 63 STREET,', 305
+'Street name', '261 STREET,', 90
+'Street name', 'NEGUNDO AVENUE,', 2
+'Street name', 'PERCIVAL PLACE,', 3
+'Street name', 'ARDEN AVENUE,', 7
+'Street name', 'KERMIT PLACE,', 1
+'Street name', 'CAPUCHIN WAY,', 6
+'Street name', 'DAVIS STREET,', 1
+'Street name', 'MARCONI STREET,', 2
+'Street name', 'DWIGHT PLACE,', 1
+'Street name', 'OCEAN PARKWAY,', 8325
+'Street name', 'EASTCHESTER ROAD,', 425
+'Street name', 'WEST 164 STREET,', 1002
+'Street name', 'NASHVILLE BOULEVARD,', 79
+'Street name', 'WEST 17 STREET,', 531
+'Street name', 'EAST 80 STREET,', 508
+'Street name', 'HEBERTON AVENUE,', 180
+'Street name', 'EGGERT PLACE,', 116
+'Street name', 'WILLOWBROOK ROAD,', 27
+'Street name', '68 AVENUE,', 115
+'Street name', 'CHARLES AVENUE,', 43
+'Street name', '113 AVENUE,', 89
+'Street name', 'ALBERT COURT,', 3
+'Street name', 'SHORE FRONY PARKWAY,', 20
+'Street name', 'DOUGLAS AVENUE,', 23
+'Street name', 'FEARN PLACE,', 1
+'Street name', 'GRAMERCY PARK SOUTH,', 3
+'Street name', 'BEACH 87 STREET,', 55
+'Street name', '1 PLACE,', 29
+'Street name', 'ORANGE STREET,', 8
+'Street name', 'BRIGHTON 5 WALK,', 1
+'Street name', 'LITTLEFIELD AVENUE,', 1
+'Street name', '80 DRIVE,', 1
+'Street name', 'UNION STREET,', 4081
+'Street name', 'FULTON AVENUE,', 1513
+'Street name', 'PATCHEN AVENUE,', 890
+'Street name', 'HOLLAND AVENUE,', 3589
+'Street name', 'WEST 114 STREET,', 317
+'Street name', 'BOOTH STREET,', 290
+'Street name', 'MITCHELL PLACE,', 52
+'Street name', 'SICKLES STREET,', 618
+'Street name', '109 AVENUE,', 737
+'Street name', 'EAST 39 STREET,', 522
+'Street name', 'DREW STREET,', 628
+'Street name', '60 LANE,', 46
+'Street name', 'HIGHLAND AVENUE,', 371
+'Street name', 'PECK AVENUE,', 22
+'Street name', 'WEIHER COURT,', 11
+'Street name', '239 STREET,', 6
+'Street name', 'MONSEY PLACE,', 1
+'Street name', 'EDGEGROVE AVENUE,', 12
+'Street name', 'CLEARVIEW EXPRESSWAY SR WEST,', 6
+'Street name', 'MONTANA PLACE,', 1
+'Street name', 'MINNIEFORD AVENUE,', 4
+'Street name', 'FOX HILL TERRACE,', 1
+'Street name', 'CLARKE AVENUE,', 3
+'Street name', 'SIEGFRIED PLACE,', 1
+'Street name', 'LOUIS STREET,', 1
+'Street name', 'PENNSYLVANIA AVENUE,', 2226
+'Street name', 'EAST 241 STREET,', 141
+'Street name', '170 STREET,', 474
+'Street name', 'WEST 128 STREET,', 490
+'Street name', 'JOHN STREET,', 279
+'Street name', 'GRAFTON STREET,', 614
+'Street name', 'GOLD STREET,', 81
+'Street name', 'IBSEN AVENUE,', 2
+'Street name', '82 PLACE,', 1
+'Street name', 'FORT WASHINGTON AVENUE,', 4
+'Street name', 'BOARDWALK,', 27
+'Street name', 'BURLINGHAM COURT,', 2
+'Street name', 'MONTAUK COURT,', 8
+'Street name', 'LOCKMAN PLACE,', 8
+'Street name', 'QUAIL LANE,', 3
+'Street name', 'PAERDEGAT 3 STREET,', 39
+'Street name', 'CARLTON STREET,', 4
+'Street name', '266 STREET,', 1
+'Street name', 'DAWSON COURT,', 3
+'Street name', 'LUDLAM PLACE,', 2
+'Street name', 'BARTLETT PLACE,', 5
+'Street name', '77 STREET,', 745
+'Street name', 'AVENUE A,', 1189
+'Street name', '13 AVENUE,', 714
+'Street name', 'CHESTNUT STREET,', 420
+'Street name', 'STRATFORD AVENUE,', 2573
+'Street name', 'LAMONT AVENUE,', 421
+'Street name', 'LEXINGTON AVENUE,', 4342
+'Street name', 'WEST 131 STREET,', 637
+'Street name', '12 STREET,', 588
+'Street name', 'CARROLL PLACE,', 791
+'Street name', 'HOLLIS AVENUE,', 252
+'Street name', '73 ROAD,', 333
+'Street name', 'BOGARDUS PLACE,', 398
+'Street name', 'POWELLS COVE BOULEVARD,', 68
+'Street name', 'NORTH 8 STREET,', 200
+'Street name', 'HAWKSTONE STREET,', 37
+'Street name', 'HARRINGTON AVENUE,', 26
+'Street name', 'LOTT PLACE,', 10
+'Street name', 'BEACH 45 STREET,', 37
+'Street name', 'VANDERBILT STREET,', 7
+'Street name', 'COLFAX STREET,', 24
+'Street name', 'WASHINGTON SQUARE VILLAGE,', 30
+'Street name', '128 AVENUE,', 25
+'Street name', 'BROCHER ROAD,', 2
+'Street name', 'SOUTH GANNON AVENUE,', 2
+'Street name', '0 ROAD,', 1
+'Street name', 'COLES STREET,', 1
+'Street name', 'LANDING ROAD,', 6
+'Street name', 'STECHER STREET,', 1
+'Street name', 'CARLTON COURT,', 1
+'Street name', 'SCHENCK COURT,', 1
+'Street name', 'WEST 102 STREET,', 580
+'Street name', '96 STREET,', 769
+'Street name', 'ELDERT STREET,', 471
+'Street name', 'EAST 87 STREET,', 754
+'Street name', 'WEST 170 STREET,', 1345
+'Street name', 'LESTER COURT,', 1
+'Street name', 'EAST 46 STREET,', 1082
+'Street name', 'BRISTOW STREET,', 474
+'Street name', 'RUGBY ROAD,', 247
+'Street name', 'WEST 205 STREET,', 248
+'Street name', 'RADFORD STREET,', 11
+'Street name', 'SOUTH 4 STREET,', 903
+'Street name', 'BAY 47 STREET,', 21
+'Street name', '88 LANE,', 11
+'Street name', 'SOUTH ELLIOTT PLACE,', 163
+'Street name', 'SHOTWELL AVENUE,', 11
+'Street name', 'LAKE AVENUE,', 78
+'Street name', 'WALDO AVENUE,', 177
+'Street name', 'KNAPP STREET,', 44
+'Street name', 'CENTRE STREET,', 99
+'Street name', 'CARY AVENUE,', 99
+'Street name', 'MULBERRY AVENUE,', 9
+'Street name', 'HUGUENOT AVENUE,', 10
+'Street name', 'MARTIN COURT,', 18
+'Street name', 'DOYERS STREET,', 4
+'Street name', 'BAY VIEW PLACE,', 3
+'Street name', 'FERN AVENUE,', 6
+'Street name', 'SANFORD STREET,', 1
+'Street name', 'SKY LANE,', 3
+'Street name', 'CLAWSON STREET,', 4
+'Street name', '28TH STREET,', 1
+'Street name', '38 AVENUE,', 856
+'Street name', 'JESUP AVENUE,', 1387
+'Street name', 'ELLWOOD STREET,', 1436
+'Street name', 'EAST 18 STREET,', 4421
+'Street name', 'KINGS COLLEGE PLACE,', 59
+'Street name', '100 STREET,', 215
+'Street name', 'AUTUMN AVENUE,', 645
+'Street name', 'FORT GREENE PLACE,', 5
+'Street name', 'WINDING WOODS LOOP,', 8
+'Street name', 'EMERSON DRIVE,', 1
+'Street name', 'CARTER AVENUE,', 7
+'Street name', 'BARTLETT STREET,', 6
+'Street name', 'VICTORIA DRIVE,', 2
+'Street name', 'HUNTERS POINT AVENUE,', 6
+'Street name', 'ERICSSON STREET,', 8
+'Street name', 'GREENFIELD COURT,', 6
+'Street name', 'CHARLES LANE,', 27
+'Street name', 'WHITE OAK COURT,', 2
+'Street name', 'MARINE WAY,', 2
+'Street name', 'CONTINENTAL PLACE,', 4
+'Street name', 'MAZZA COURT,', 1
+'Street name', 'CHURCH ROAD,', 2
+'Street name', 'WINDING WOOD LOOP,', 1
+'Street name', 'ACORN STREET,', 1
+'Street name', 'FLETCHER STREET,', 1
+'Street name', 'JEROME AVENUE,', 2730
+'Street name', 'MARCY PLACE,', 745
+'Street name', 'HAVEN PLAZA,', 75
+'Street name', 'NEVINS STREET,', 69
+'Street name', 'ELM PLACE,', 87
+'Street name', 'DAWSON STREET,', 253
+'Street name', 'LIVONIA AVENUE,', 323
+'Street name', 'WEST 29 STREET,', 388
+'Street name', 'WEST 233 STREET,', 78
+'Street name', 'ALCOTT PLACE,', 45
+'Street name', 'SINCLAIR AVENUE,', 33
+'Street name', 'ELDRIDGE AVENUE,', 2
+'Street name', 'NATIONAL DRIVE,', 9
+'Street name', '59 PLACE,', 11
+'Street name', 'BEACH 81 STREET,', 11
+'Street name', 'CONNECTICUT STREET,', 15
+'Street name', 'ARNOW PLACE,', 4
+'Street name', 'MCKINLEY AVENUE,', 9
+'Street name', 'RENWICK STREET,', 3
+'Street name', 'STANWIX STREET,', 2
+'Street name', 'REVILLE STREET,', 2
+'Street name', 'GIACOMO LANE,', 1
+'Street name', 'GUNTON PLACE,', 3
+'Street name', 'CORTELYOU ROAD,', 1717
+'Street name', 'MONTAGUE STREET,', 229
+'Street name', 'BEEKMAN AVENUE,', 183
+'Street name', 'ERASMUS STREET,', 858
+'Street name', 'FOX STREET,', 1013
+'Street name', '75 AVENUE,', 615
+'Street name', 'BEACH 32 STREET,', 214
+'Street name', 'BEACH 59 STREET,', 389
+'Street name', 'OVINGTON AVENUE,', 749
+'Street name', 'MONACO PLACE,', 29
+'Street name', 'LAUREL HILL TERRACE,', 203
+'Street name', 'TRUMBULL PLACE,', 6
+'Street name', 'FIRST AVENUE,', 32
+'Street name', '143 ROAD,', 66
+'Street name', 'MATTHEWS PLACE,', 14
+'Street name', 'SOUTHGATE STREET,', 2
+'Street name', 'SOUTH OXFORD STREET,', 78
+'Street name', 'WARDWELL AVENUE,', 1
+'Street name', 'RAPELYE STREET,', 32
+'Street name', 'OTSEGO STREET,', 2
+'Street name', 'BRITTON LANE,', 1
+'Street name', 'HAWKINS STREET,', 3
+'Street name', 'WHEELING AVENUE,', 2
+'Street name', 'WILTON COURT,', 2
+'Street name', 'SEDGWICK AVENUE,', 7417
+'Street name', 'MARION AVENUE,', 3106
+'Street name', 'WEST 159 STREET,', 1336
+'Street name', 'SHEFFIELD AVENUE,', 648
+'Street name', 'BRIGHTON 15 STREET,', 223
+'Street name', 'FRAME PLACE,', 228
+'Street name', 'HALL STREET,', 132
+'Street name', 'CAMPUS PLACE,', 44
+'Street name', '120 AVENUE,', 113
+'Street name', 'MARKHAM LANE,', 38
+'Street name', 'CLINTON PLACE,', 132
+'Street name', 'WEST TERRACE,', 1
+'Street name', 'OCEAN TERRACE,', 4
+'Street name', 'ZOLLER ROAD,', 7
+'Street name', 'MC CLANCY PLACE,', 3
+'Street name', 'BUNNECKE COURT,', 2
+'Street name', 'OCEAN AVENUE NORTH,', 3
+'Street name', 'BATTERY ROAD,', 6
+'Street name', 'ROME AVENUE,', 3
+'Street name', 'EDGEVIEW LANE,', 1
+'Street name', 'CROTONA PARKWAY,', 877
+'Street name', 'WEST 107 STREET,', 1771
+'Street name', 'EAST 13 STREET,', 2163
+'Street name', 'GLENMORE AVENUE,', 857
+'Street name', 'ST MARKS PLACE,', 1394
+'Street name', 'WEST 136 STREET,', 1758
+'Street name', 'CICERO AVENUE,', 16
+'Street name', 'CROTONA PARK EAST,', 592
+'Street name', 'EAST 57 STREET,', 358
+'Street name', 'FOREST PARKWAY,', 213
+'Street name', 'BUSH STREET,', 92
+'Street name', 'EAST 68 STREET,', 128
+'Street name', 'SUMMERFIELD STREET,', 435
+'Street name', 'BAYFIELD AVENUE,', 24
+'Street name', '84 ROAD,', 64
+'Street name', 'LANE AVENUE,', 10
+'Street name', 'MAPLE PARKWAY,', 17
+'Street name', 'SHOREFRONT PARKWAY,', 2
+'Street name', '119 DRIVE,', 3
+'Street name', 'BAY STREET LANDING,', 2
+'Street name', 'MARY STREET,', 1
+'Street name', 'WHITE PLACE ROAD,', 1
+'Street name', 'CROSS ISLAND PARKWAY,', 1
+'Street name', 'DIETERLE CRESCENT,', 1
+'Street name', 'N D PERLMAN PLACE,', 3
+'Street name', 'DESARC ROAD,', 3
+'Street name', 'GUILFORD STREET,', 1
+'Street name', 'WEST 141 STREET,', 3495
+'Street name', 'DUMONT AVENUE,', 733
+'Street name', 'ELLIS AVENUE,', 480
+'Street name', '32 STREET,', 831
+'Street name', 'BRINKERHOFF AVENUE,', 77
+'Street name', '48 AVENUE,', 272
+'Street name', 'MANH COLLEGE PARKWAY,', 334
+'Street name', '57 STREET,', 698
+'Street name', 'HESSLER AVENUE,', 7
+'Street name', 'EAST 165 STREET,', 1266
+'Street name', 'SUFFOLK STREET,', 195
+'Street name', 'JUNCTION BOULEVARD,', 181
+'Street name', 'REMINGTON STREET,', 53
+'Street name', 'WHIPPLE STREET,', 61
+'Street name', 'CODWISE PLACE,', 16
+'Street name', '125 AVENUE,', 35
+'Street name', 'BEACH 56 STREET,', 3
+'Street name', 'MARTIN LUTHER KING PLACE,', 57
+'Street name', 'WHITNEY PLACE,', 6
+'Street name', '223 PLACE,', 51
+'Street name', 'SCHOOL ROAD,', 5
+'Street name', 'DEY STREET,', 2
+'Street name', 'SEA GRASS LANE,', 1
+'Street name', '181 PLACE,', 4
+'Street name', 'WEST 11 ROAD,', 3
+'Street name', 'SIXTH AVENUE,', 3
+'Street name', 'ELLIS AVEUE,', 43
+'Street name', 'STEARNS STREET,', 2
+'Street name', 'BEACH 9 STREET,', 280
+'Street name', 'GROVE STREET,', 1075
+'Street name', 'EMPIRE BOULEVARD,', 1853
+'Street name', '98 STREET,', 1145
+'Street name', 'BEACH 24 STREET,', 118
+'Street name', '157 STREET,', 260
+'Street name', 'TILLOTSON AVENUE,', 63
+'Street name', 'EAST 59 STREET,', 395
+'Street name', '11 STREET,', 181
+'Street name', 'NORMAN STREET,', 67
+'Street name', 'HANOVER SQUARE,', 11
+'Street name', 'VARET STREET,', 77
+'Street name', 'WOODCREST ROAD,', 1
+'Street name', 'CLYMER STREET,', 45
+'Street name', 'BEACH 123 STREET,', 5
+'Street name', 'PAERDEGAT 4 STREET,', 11
+'Street name', '61 ROAD,', 18
+'Street name', 'MEYER AVENUE,', 26
+'Street name', 'CHERRYWOOD COURT,', 4
+'Street name', 'BULWER PLACE,', 18
+'Street name', 'RENSSELAER AVENUE,', 1
+'Street name', 'ALVERSON LOOP,', 1
+'Street name', 'GEO COURT,', 1
+'Street name', 'BEACH 3 STREET,', 4
+'Street name', 'BURDETTE PLACE,', 1
+'Street name', 'FOX LANE,', 1
+'Street name', 'LEGION STREET,', 643
+'Street name', 'WEST 169 STREET,', 624
+'Street name', 'BROOKVILLE BOULEVARD,', 122
+'Street name', 'CURTIS PLACE,', 215
+'Street name', 'WEST 56 STREET,', 367
+'Street name', 'WEST 134 STREET,', 1157
+'Street name', 'EAST 101 STREET,', 340
+'Street name', 'LABURNUM AVENUE,', 18
+'Street name', 'JEWETT AVENUE,', 159
+'Street name', 'LORING AVENUE,', 247
+'Street name', 'PROSPECT PARK WEST,', 409
+'Street name', '255 STREET,', 47
+'Street name', 'SOUTH AVENUE,', 138
+'Street name', 'LA SALLE AVENUE,', 27
+'Street name', '151 STREET,', 19
+'Street name', 'SEIGEL COURT,', 2
+'Street name', '246 STREET,', 20
+'Street name', 'REEVE PLACE,', 1
+'Street name', 'ARLENE STREET,', 4
+'Street name', 'MCDONOUGH STREET,', 2
+'Street name', 'BADEN PLACE,', 5
+'Street name', 'ST. MARKS AVENUE,', 4
+'Street name', 'MACDONOUGH STREET,', 3
+'Street name', 'ENDOR AVENUE,', 2
+'Street name', 'WATKINS AVENUE,', 2
+'Street name', '58 LANE,', 4
+'Street name', 'OSGOOD STREET,', 1
+'Street name', 'TARLEE PLACE,', 1
+'Street name', 'HATTING PLACE,', 11
+'Street name', 'VILLAGE ROAD EAST,', 3
+'Street name', 'BARDWELL AVENUE,', 1
+'Street name', 'BEACH 67 STREET,', 116
+'Street name', 'EAST 5 STREET,', 1341
+'Street name', 'ELDRIDGE STREET,', 917
+'Street name', 'EAST 26 STREET,', 1245
+'Street name', '221 STREET,', 95
+'Street name', 'JUDGE STREET,', 192
+'Street name', 'INTERVALE AVENUE,', 1006
+'Street name', 'BAY 17 STREET,', 86
+'Street name', 'WEST 82 STREET,', 561
+'Street name', 'WEST 50 STREET,', 484
+'Street name', 'WEST BURNSIDE AVENUE,', 275
+'Street name', 'AVENUE M,', 339
+'Street name', 'GRANGER STREET,', 75
+'Street name', 'WALLABOUT STREET,', 218
+'Street name', '126 AVENUE,', 35
+'Street name', 'LA SALLE STREET,', 45
+'Street name', 'MARGINAL ST WEST,', 34
+'Street name', 'MILL AVENUE,', 21
+'Street name', 'NORWICH STREET,', 3
+'Street name', 'FOCH AVENUE,', 4
+'Street name', 'PIONEER STREET,', 4
+'Street name', 'MURRAY COURT,', 4
+'Street name', 'LINCOLN PLACE,', 4266
+'Street name', 'DALY AVENUE,', 1130
+'Street name', 'MERRIAM AVENUE,', 1517
+'Street name', '93 STREET,', 677
+'Street name', 'WEST 77 STREET,', 248
+'Street name', 'EAST 54 STREET,', 1096
+'Street name', 'FENIMORE STREET,', 669
+'Street name', '114 ROAD,', 44
+'Street name', 'CROSBY STREET,', 9
+'Street name', '140 AVENUE,', 264
+'Street name', 'NEPTUNE AVENUE,', 735
+'Street name', 'TRANTOR PLACE,', 212
+'Street name', 'BAXTER AVENUE,', 122
+'Street name', '256 STREET,', 62
+'Street name', '203 STREET,', 173
+'Street name', 'BARTOW STREET,', 4
+'Street name', 'QUINCE AVENUE,', 31
+'Street name', 'BEACH BREEZE PLACE,', 21
+'Street name', 'HOLBERNT COURT,', 8
+'Street name', 'HARTMAN LANE,', 38
+'Street name', 'LOCUST MANOR LANE,', 1
+'Street name', 'WANDEL AVENUE,', 3
+'Street name', 'SURFSIDE PLAZA,', 1
+'Street name', 'HAMILTON TERRACE,', 276
+'Street name', '106 AVENUE,', 193
+'Street name', 'EDWARD L GRANT HIGHWAY,', 572
+'Street name', 'SILVER LAKE ROAD,', 35
+'Street name', 'EAST 224 STREET,', 1303
+'Street name', 'EAST 142 STREET,', 410
+'Street name', 'PARK HILL AVENUE,', 919
+'Street name', 'BALCOM AVENUE,', 117
+'Street name', '36 AVENUE,', 134
+'Street name', '144 STREET,', 174
+'Street name', 'ALBERMARLE ROAD,', 20
+'Street name', '44 AVENUE,', 92
+'Street name', 'UNION TURNPIKE,', 441
+'Street name', '14 ROAD,', 164
+'Street name', 'BONNER PLACE,', 268
+'Street name', 'SPENCER STREET,', 99
+'Street name', 'FT GREENE PLACE,', 115
+'Street name', 'DEXTER COURT,', 6
+'Street name', '134 ROAD,', 10
+'Street name', 'CAMPBELL AVENUE,', 40
+'Street name', 'MACNISH STREET,', 95
+'Street name', 'BURNSIDE AVENUE,', 2
+'Street name', 'DEWHURST STREET,', 1
+'Street name', 'HIGHVIEW AVENUE,', 9
+'Street name', 'BARBADOES DRIVE,', 1
+'Street name', 'COMMODORE DRIVE,', 7
+'Street name', '269 STREET,', 1
+'Street name', '16 ROAD,', 3
+'Street name', 'BENEDICT ROAD,', 1
+'Street name', 'CROTONA AVENUE,', 3113
+'Street name', 'JEFFERSON AVENUE,', 1910
+'Street name', 'MAUJER STREET,', 526
+'Street name', 'PUGSLEY AVENUE,', 161
+'Street name', 'MONTICELLO AVENUE,', 183
+'Street name', 'NEW ENGLAND THRUWAY,', 22
+'Street name', 'CHERRY AVENUE,', 145
+'Street name', 'FATHER ZEISER PLACE,', 131
+'Street name', 'MARCUS GARVEY BOULEVARD,', 932
+'Street name', 'EBBITTS STREET,', 167
+'Street name', 'GREEN STREET,', 201
+'Street name', 'PEARL STREET,', 53
+'Street name', 'ST ANDREWS PLACE,', 6
+'Street name', 'BASCOM AVENUE,', 30
+'Street name', 'ALBEMARLE TERRACE,', 1
+'Street name', 'BRIAR PLACE,', 25
+'Street name', 'CORTELYOU AVENUE,', 29
+'Street name', 'FREAN STREET,', 5
+'Street name', 'ROE STREET,', 8
+'Street name', 'WORTH STREET,', 3
+'Street name', 'PLEASANTVIEW STREET,', 2
+'Street name', 'ERIKA LOOP,', 7
+'Street name', 'NEPTUNE LANE,', 12
+'Street name', 'DETROIT AVENUE,', 1
+'Street name', 'VAN SICLEN STREET,', 10
+'Street name', 'KILDARE ROAD,', 2
+'Street name', 'BEACH 3 STREET,', 1
+'Street name', 'BOYNTON AVENUE,', 10236
+'Street name', 'MANIDA STREET,', 545
+'Street name', '22 STREET,', 178
+'Street name', 'WEST 172 STREET,', 1844
+'Street name', 'PLEASANT AVENUE,', 571
+'Street name', '71 STREET,', 796
+'Street name', 'VAN CORTLANDT PARK SOUTH,', 47
+'Street name', 'FISH AVENUE,', 284
+'Street name', 'WALL STREET,', 110
+'Street name', 'BAY 8 STREET,', 56
+'Street name', '4 ROAD,', 9
+'Street name', '31 ROAD,', 83
+'Street name', 'BERGEN AVENUE,', 137
+'Street name', 'MADSEN AVENUE,', 7
+'Street name', 'PAERDEGAT 8 STREET,', 9
+'Street name', 'HALPERIN AVENUE,', 29
+'Street name', '29 AVENUE,', 120
+'Street name', 'DOTY AVENUE,', 4
+'Street name', 'JUNIPER AVENUE,', 7
+'Street name', 'VILLAGE LANE,', 3
+'Street name', 'KEPLER AVENUE,', 6
+'Street name', 'JACKSON PLACE,', 2
+'Street name', 'DARLINGTON AVENUE,', 6
+'Street name', 'BARNETT AVENUE,', 1
+'Street name', 'WASHINGTON SQUARE SOUTH,', 1
+'Street name', 'WEST 35 STREET,', 242
+'Street name', 'SOUTHERN BOULEVARD,', 4814
+'Street name', '21 STREET,', 438
+'Street name', 'STUYVESANT PLACE,', 130
+'Street name', '214 STREET,', 20
+'Street name', '116 DRIVE,', 46
+'Street name', 'UNION COURT,', 5
+'Street name', 'GREAT KILLS ROAD,', 6
+'Street name', 'POI COURT,', 4
+'Street name', 'MOSELY AVENUE,', 2
+'Street name', 'LATTING STREET,', 13
+'Street name', 'CLARENCE AVENUE,', 14
+'Street name', 'SUMMIT PLACE,', 2
+'Street name', 'MARTENSE COURT,', 2
+'Street name', '148 STREET,', 569
+'Street name', 'PLAZA ST EAST,', 75
+'Street name', 'EAST 214TH STREET,', 49
+'Street name', 'AVENUE J,', 789
+'Street name', 'FEATHERBED LANE,', 874
+'Street name', 'WEST 175 STREET,', 648
+'Street name', 'FLAGG PLACE,', 1
+'Street name', 'EAST 110 STREET,', 625
+'Street name', '52 AVENUE,', 99
+'Street name', 'HARDING PARK,', 61
+'Street name', 'ST FELIX STREET,', 65
+'Street name', 'SENECA STREET,', 8
+'Street name', 'KIMBERLY PLACE,', 25
+'Street name', '223 STREET,', 90
+'Street name', 'DREISER LOOP,', 43
+'Street name', 'BAYRIDGE PARKWAY,', 1
+'Street name', 'HANSON PLACE,', 52
+'Street name', 'CORTLANDT STREET,', 8
+'Street name', 'WEBSTER PLACE,', 1
+'Street name', 'FURMAN STREET,', 2
+'Street name', '177 PLACE,', 8
+'Street name', 'SPIRIT LANE,', 2
+'Street name', 'LEGGETT PLACE,', 2
+'Street name', 'CHITTENDEN AVENUE,', 2
+'Street name', 'CROFT COURT,', 1
+'Street name', 'LYME AVENUE,', 47
+'Street name', '60 STREET,', 2050
+'Street name', 'WEST 118 STREET,', 692
+'Street name', 'WESTERVELT AVENUE,', 231
+'Street name', 'DARTMOUTH LOOP,', 14
+'Street name', 'CLAREMONT PARKWAY,', 247
+'Street name', 'WEST 53 STREET,', 196
+'Street name', 'HARROD AVENUE,', 147
+'Street name', 'DITMARS STREET,', 45
+'Street name', 'OUTLOOK AVENUE,', 25
+'Street name', 'EAST MT EDEN AVENUE,', 103
+'Street name', '147 ROAD,', 18
+'Street name', 'CLAUDE AVENUE,', 48
+'Street name', 'GRANT SQUARE,', 53
+'Street name', 'WEXFORD TERRACE,', 64
+'Street name', 'GRAND CENTRL PARKWAY,', 68
+'Street name', '194 STREET,', 118
+'Street name', 'BANK STREET,', 320
+'Street name', 'FLORIDA AVENUE,', 2
+'Street name', 'WOODBINE AVENUE,', 1
+'Street name', '144 DRIVE,', 31
+'Street name', 'WATERSIDE STREET,', 1
+'Street name', 'STRONG AVENUE,', 7
+'Street name', 'DINSMORE STREET,', 1
+'Street name', 'MATTHEW PLACE,', 1
+'Street name', 'BOURTON STREET,', 2
+'Street name', 'FATHER CAPODANNO BOULEVARD,', 1
+'Street name', 'TRATMAN AVENUE,', 540
+'Street name', 'EASTERN PARKWAY,', 9211
+'Street name', 'EAST 174 STREET,', 758
+'Street name', 'COLUMBIA STREET,', 461
+'Street name', 'ALBANY CRESCENT,', 513
+'Street name', '193 STREET,', 246
+'Street name', 'SAGAMORE STREET,', 91
+'Street name', 'WEST 232 STREET,', 211
+'Street name', 'EAST 195 STREET,', 64
+'Street name', 'OLD BROADWAY,', 125
+'Street name', 'MORGAN LANE,', 2
+'Street name', 'CYPRESS HILLS STREET,', 3
+'Street name', 'HOLLAND AVE,', 2
+'Street name', 'LAMPED LOOP,', 10
+'Street name', 'ADAM C POWELL JR BOULEVARD,', 89
+'Street name', '99 PLACE,', 4
+'Street name', 'GUION PLACE,', 1
+'Street name', 'GREENPOINT AV BR OVR NEWTOWN CRK,', 1
+'Street name', 'ROCHAMBEAU AVENUE,', 2705
+'Street name', 'BURNS STREET,', 529
+'Street name', 'VAN WYCK EXPRESSWAY SR WEST,', 102
+'Street name', 'MANGIN AVENUE,', 35
+'Street name', 'EAST 154 STREET,', 166
+'Street name', 'PRATT AVENUE,', 83
+'Street name', 'ST PAULS PLACE,', 616
+'Street name', 'STEWART AVENUE,', 3
+'Street name', 'BROWNELL STREET,', 18
+'Street name', 'RUTGERS STREET,', 33
+'Street name', 'HUTCHINSON RIV PARKWAY,', 69
+'Street name', 'CATHERINE STREET,', 165
+'Street name', 'TROTTING COURSE LANE,', 12
+'Street name', 'THROGS NECK EXPRESSWAY,', 24
+'Street name', '51 DRIVE,', 8
+'Street name', 'NOLL STREET,', 40
+'Street name', 'HAIGHT STREET,', 4
+'Street name', 'USS IOWA CIRCLE,', 1
+'Street name', 'SIGNAL HILL ROAD,', 1
+'Street name', 'JOURNEAY STREET,', 3
+'Street name', 'VENUS PLACE,', 1
+'Street name', 'HESTER STREET,', 635
+'Street name', 'WEST 93 STREET,', 532
+'Street name', 'BRIGGS AVENUE,', 1778
+'Street name', 'DEKALB AVENUE,', 2413
+'Street name', 'ELLISON AVENUE,', 21
+'Street name', 'WEST 176 STREET,', 454
+'Street name', 'THAYER STREET,', 876
+'Street name', 'VERNON AVENUE,', 2158
+'Street name', 'BEACH 88 STREET,', 54
+'Street name', '207 STREET,', 142
+'Street name', 'PLYMOUTH AVENUE,', 63
+'Street name', 'BRAGG STREET,', 245
+'Street name', 'GARY PLACE,', 3
+'Street name', 'BRIGHTON 1 STREET,', 36
+'Street name', 'FRANKFORT STREET,', 2
+'Street name', '86 DRIVE,', 69
+'Street name', 'PLAZA ST WEST,', 4
+'Street name', 'RIVIERA COURT,', 1
+'Street name', 'DANIELLA COURT,', 12
+'Street name', 'LERER LANE,', 1
+'Street name', 'SIDWAY PLACE,', 9
+'Street name', 'BEACH 73 STREET,', 25
+'Street name', 'PACIFIC AVENUE,', 13
+'Street name', 'GUY BREWER BOULEVARD,', 1
+'Street name', 'ARLINGTON COURT,', 2
+'Street name', 'PETRUS AVENUE,', 2
+'Street name', 'EAST 201 STREET,', 1220
+'Street name', 'SHORE ROAD,', 4697
+'Street name', 'GATES PLACE,', 725
+'Street name', 'EAST 162 STREET,', 1210
+'Street name', 'DOWNING STREET,', 235
+'Street name', 'LACOMBE AVENUE,', 167
+'Street name', 'STOCKTON STREET,', 64
+'Street name', 'MULFORD AVENUE,', 49
+'Street name', 'WEST 240 STREET,', 45
+'Street name', '4 STREET,', 56
+'Street name', 'WEST 27 STREET,', 633
+'Street name', 'GUERNSEY STREET,', 124
+'Street name', 'BEEKMAN STREET,', 41
+'Street name', 'VAN TUYL STREET,', 45
+'Street name', 'BEACH 44 STREET,', 84
+'Street name', '263 STREET,', 22
+'Street name', 'LIBBY PLACE,', 4
+'Street name', 'GRAYSON STREET,', 1
+'Street name', '152 AVENUE,', 7
+'Street name', 'HENDRICKSON PLACE,', 8
+'Street name', '161 PLACE,', 14
+'Street name', 'THROGMORTON AVENUE,', 1
+'Street name', 'BRIGHTON 8 COURT,', 1
+'Street name', 'BRIGHTON 2 PLACE,', 4
+'Street name', 'MIAMI COURT,', 1
+'Street name', 'PROSPECT AVENUE,', 4957
+'Street name', 'MACKAY PLACE,', 243
+'Street name', 'GRAND STREET,', 1869
+'Street name', 'TUDOR PLACE,', 27
+'Street name', 'DONGAN AVENUE,', 51
+'Street name', 'POWERS STREET,', 107
+'Street name', 'EAST 44 STREET,', 190
+'Street name', 'MACLAY AVENUE,', 51
+'Street name', 'EAST 150 STREET,', 190
+'Street name', '254 STREET,', 57
+'Street name', 'BAY 38 STREET,', 76
+'Street name', 'CUMMING STREET,', 158
+'Street name', 'NORTH OXFORD STREET,', 28
+'Street name', 'JAYDEE COURT,', 16
+'Street name', 'CHARTER ROAD,', 20
+'Street name', 'HETT AVENUE,', 31
+'Street name', 'LAFONTAINE AVENUE,', 30
+'Street name', 'KENNELWORTH PLACE,', 26
+'Street name', 'ROYCE STREET,', 13
+'Street name', 'CURRIE AVENUE,', 1
+'Street name', 'MEDINA STREET,', 2
+'Street name', 'OXFORD STREET,', 2
+'Street name', '965 43 STREET,', 1
+'Street name', '133 AVENUE,', 222
+'Street name', '116 STREET,', 454
+'Street name', 'BAINBRIDGE STREET,', 1297
+'Street name', 'NOSTRAND AVENUE,', 7553
+'Street name', 'SUTTER AVENUE,', 1167
+'Street name', '58 STREET,', 1236
+'Street name', 'VARICK STREET,', 32
+'Street name', 'HAMPTON STREET,', 614
+'Street name', '17 AVENUE,', 292
+'Street name', 'LINWOOD STREET,', 449
+'Street name', 'LINDEN PLACE,', 22
+'Street name', 'FOREST AVENUE,', 739
+'Street name', 'OCEANA DRIVE WEST,', 32
+'Street name', 'BEDFORD STREET,', 125
+'Street name', '115 STREET,', 361
+'Street name', 'BUSH AVENUE,', 49
+'Street name', 'LYNCH STREET,', 10
+'Street name', 'BAY 40 STREET,', 29
+'Street name', 'FIELD PLACE,', 41
+'Street name', 'AMERSFORT PLACE,', 78
+'Street name', 'F D R DRIVE,', 17
+'Street name', 'FILLMORE PLACE,', 2
+'Street name', 'BORDEN AVENUE,', 29
+'Street name', '151 AVENUE,', 50
+'Street name', 'COLLFIELD AVENUE,', 4
+'Street name', 'ILYSSA WAY,', 4
+'Street name', 'WILD AVENUE,', 4
+'Street name', 'SLOAN PLACE,', 8
+'Street name', 'JOHNSON AVE,', 1
+'Street name', 'GUY R BREWER BOULEVARD,', 575
+'Street name', '116 AVENUE,', 192
+'Street name', '42 AVENUE,', 421
+'Street name', 'TEN EYCK STREET,', 198
+'Street name', 'ANDREWS AVENUE SOUTH,', 1656
+'Street name', 'WEST 20 STREET,', 375
+'Street name', '53 STREET,', 913
+'Street name', 'OAKLAND PLACE,', 154
+'Street name', '122 AVENUE,', 67
+'Street name', 'WYATT STREET,', 273
+'Street name', '108 AVENUE,', 150
+'Street name', 'BEACH 115 STREET,', 186
+'Street name', 'SCOTT A GADELL PLACE,', 64
+'Street name', '142 STREET,', 133
+'Street name', 'SEA BREEZE AVENUE,', 103
+'Street name', 'GILLMORE STREET,', 16
+'Street name', 'HUDSON AVENUE,', 3
+'Street name', 'MANTON STREET,', 8
+'Street name', '09-55 VAN WYCK EXPRESSWAY,', 1
+'Street name', 'HARPER COURT,', 23
+'Street name', 'BRIGHTON 8 PLACE,', 1
+'Street name', 'ANDERSON STREET,', 2
+'Street name', 'ROCKAWAY BEACH BLVD.,', 1
+'Street name', 'AARON LANE,', 1
+'Street name', '149 ROAD,', 47
+'Street name', 'LIVERPOOL STREET,', 193
+'Street name', 'WEST 46 STREET,', 1095
+'Street name', 'LINDEN BOULEVARD,', 9125
+'Street name', '94 STREET,', 1538
+'Street name', 'SUMMIT STREET,', 22
+'Street name', 'HOR HARDING EXPRESSWAY SR NORTH,', 289
+'Street name', 'WESTBURY COURT,', 447
+'Street name', 'WEST 154 STREET,', 520
+'Street name', 'WEST 11 STREET,', 537
+'Street name', 'EAST 112 STREET,', 403
+'Street name', 'POND PLACE,', 51
+'Street name', 'NORTH CONDUIT AVENUE,', 122
+'Street name', 'EAST 157 STREET,', 151
+'Street name', '21 ROAD,', 38
+'Street name', 'FOCH BOULEVARD,', 141
+'Street name', 'DUNTON STREET,', 32
+'Street name', 'BUTLER STREET,', 65
+'Street name', 'HAMPTON GREEN,', 3
+'Street name', 'BRIGHTON 1 WALK,', 14
+'Street name', 'NORTH DRIVE,', 1
+'Street name', 'BOND STREET,', 103
+'Street name', 'GETTYSBURG STREET,', 4
+'Street name', 'HOUSTON LANE,', 1
+'Street name', '25 DRIVE,', 20
+'Street name', 'CHANNEL ROAD,', 4
+'Street name', 'BELFIELD AVENUE,', 1
+'Street name', 'COLTON STREET,', 3
+'Street name', 'STRATTON STREET,', 1
+'Street name', 'WOODDALE AVENUE,', 1
+'Street name', 'DAVIDSON AVENUE,', 6912
+'Street name', 'OGDEN AVENUE,', 2483
+'Street name', 'INDIA STREET,', 354
+'Street name', '175 STREET,', 298
+'Street name', 'SARATOGA AVENUE,', 932
+'Street name', '7 AVENUE,', 2701
+'Street name', 'DIVISION AVENUE,', 158
+'Street name', 'WEST 236 STREET,', 72
+'Street name', 'TIEMANN PLACE,', 638
+'Street name', 'AVENUE L,', 554
+'Street name', 'NORTH BURGHER AVENUE,', 217
+'Street name', 'EAST 70 STREET,', 289
+'Street name', 'EAST 144 STREET,', 548
+'Street name', 'PORT RICHMOND AVENUE,', 63
+'Street name', '122 PLACE,', 30
+'Street name', 'FT CHARLES PLACE,', 57
+'Street name', 'CHESTER COURT,', 32
+'Street name', 'MARGARET PLACE,', 6
+'Street name', 'UNION SQUARE,', 4
+'Street name', 'ABERDEEN ROAD,', 1
+'Street name', 'ELY STREET,', 9
+'Street name', '19 DRIVE,', 4
+'Street name', 'DEPEW AVENUE,', 1
+'Street name', 'ARMOUR PLACE,', 1
+'Street name', 'EAST 142ND STREET,', 7
+'Street name', 'CENTERVILLE AVENUE,', 4
+'Street name', 'WEST 147 STREET,', 2222
+'Street name', 'ELMHURST AVENUE,', 10175
+'Street name', 'BERGEN STREET,', 3082
+'Street name', '46 AVENUE,', 170
+'Street name', '161 STREET,', 673
+'Street name', 'EAST 56 STREET,', 560
+'Street name', 'STRONG STREET,', 305
+'Street name', 'CRANFORD AVENUE,', 311
+'Street name', '72 DRIVE,', 162
+'Street name', 'WEST 150 STREET,', 1629
+'Street name', '132 STREET,', 232
+'Street name', 'EAST 135 STREET,', 245
+'Street name', '121 AVENUE,', 18
+'Street name', 'SUTTON STREET,', 76
+'Street name', 'ZEREGA AVE,', 3
+'Street name', 'BAY 20 STREET,', 25
+'Street name', '233 STREET,', 39
+'Street name', 'HINCKLEY PLACE,', 135
+'Street name', 'PILGRIM AVENUE,', 54
+'Street name', 'BORINQUEN PLACE,', 38
+'Street name', 'DARROW PLACE,', 26
+'Street name', 'LYNDALE LANE,', 4
+'Street name', 'HILLVIEW PLACE,', 1
+'Street name', 'BANKER STREET,', 5
+'Street name', 'LANGSTON AVENUE,', 9
+'Street name', '138 ROAD,', 41
+'Street name', 'MARINERS LANE,', 3
+'Street name', 'FURMANVILLE AVENUE,', 2
+'Street name', 'FAIRBURY AVENUE,', 6
+'Street name', 'SPARKILL AVENUE,', 1
+'Street name', 'SERRELL AVENUE,', 6
+'Street name', 'MONTREAL AVENUE,', 7
+'Street name', 'WILLARD AVENUE,', 1
+'Street name', 'WEST 181 STREET,', 1329
+'Street name', 'UTICA AVENUE,', 861
+'Street name', '17 STREET,', 132
+'Street name', 'LONGWOOD AVENUE,', 439
+'Street name', '197 STREET,', 162
+'Street name', 'EAST 158 STREET,', 410
+'Street name', 'WICKHAM AVENUE,', 214
+'Street name', 'GLEN STREET,', 241
+'Street name', 'GARFIELD STREET,', 137
+'Street name', '83 AVENUE,', 433
+'Street name', 'DILLON STREET,', 81
+'Street name', 'PHLOX PLACE,', 112
+'Street name', 'BUSSING AVENUE,', 31
+'Street name', 'JUMEL TERRACE,', 91
+'Street name', 'BEACH 61 STREET,', 26
+'Street name', 'BARD AVENUE,', 34
+'Street name', 'FROST STREET,', 46
+'Street name', 'CUNARD PLACE,', 1
+'Street name', 'ROBINSON AVENUE,', 26
+'Street name', 'PETTIT AVENUE,', 28
+'Street name', 'CHESTNUT DRIVE NORTH,', 9
+'Street name', 'WESTBOURNE AVENUE,', 1
+'Street name', 'ST JOHNS AVENUE,', 5
+'Street name', 'EMERSON AVENUE,', 9
+'Street name', 'COOKE STREET,', 1
+'Street name', 'GREAVES LANE,', 2
+'Street name', '43 AVENUE,', 1044
+'Street name', 'EAST 231 STREET,', 680
+'Street name', 'CHATTERTON AVENUE,', 359
+'Street name', 'EAST 6 STREET,', 1264
+'Street name', 'HART STREET,', 1295
+'Street name', '74 STREET,', 511
+'Street name', '213 STREET,', 57
+'Street name', 'BRITTON STREET,', 40
+'Street name', 'HIGHLAND BOULEVARD,', 339
+'Street name', 'WATCHOGUE ROAD,', 17
+'Street name', 'EAST 230 STREET,', 867
+'Street name', 'CRAFT AVENUE,', 29
+'Street name', 'SPENCER COURT,', 53
+'Street name', '156 STREET,', 310
+'Street name', 'REV JAMES A POLITE AVENUE,', 87
+'Street name', 'LITTLE NECK PARKWAY,', 81
+'Street name', 'WAVERLY PLACE,', 174
+'Street name', 'MINFORD PLACE,', 131
+'Street name', 'BRAISTED AVENUE,', 18
+'Street name', 'PEARSON STREET,', 15
+'Street name', 'REVERE PLACE,', 8
+'Street name', 'MAPLETON AVENUE,', 4
+'Street name', 'SOUTH RAILROAD AVENUE,', 6
+'Street name', '2 LANE,', 17
+'Street name', 'MELISSA COURT,', 1
+'Street name', 'WEST 32 STREET,', 6
+'Street name', 'SOUTH RAILROAD STREET,', 4
+'Street name', '175 PLACE,', 4
+'Street name', 'EVANS STREET,', 3
+'Street name', 'MANNING STREET,', 1
+'Street name', 'WINANT AVENUE,', 1
+'Street name', 'WAVE STREET,', 1
+'Street name', 'BALSAM PLACE,', 1
+'Street name', 'MELROSE PLACE,', 1
+'Street name', 'GRAND CENTRAL PARKWAY SOUTH,', 6
+'Street name', 'WEST 15 PLACE,', 2
+'Street name', 'TALBOT STREET,', 132
+'Street name', '8 AVENUE,', 2784
+'Street name', 'EDISON AVENUE,', 314
+'Street name', '165 STREET,', 764
+'Street name', 'WAVERLY AVENUE,', 101
+'Street name', 'ANDREWS AVENUE NORTH,', 866
+'Street name', 'BAY 52 STREET,', 1
+'Street name', 'BEACH 63 STREET,', 75
+'Street name', 'FORSYTH STREET,', 407
+'Street name', '138 AVENUE,', 33
+'Street name', 'BATH AVENUE,', 194
+'Street name', 'RYDER STREET,', 31
+'Street name', 'SOUTH PORTLAND AVENUE,', 111
+'Street name', 'BEACH 91 STREET,', 69
+'Street name', 'SKILLMAN STREET,', 76
+'Street name', 'HOPKINS STREET,', 18
+'Street name', 'GAIN COURT,', 7
+'Street name', '164 ROAD,', 8
+'Street name', '132 ROAD,', 16
+'Street name', 'MC KIBBIN COURT,', 3
+'Street name', 'WEST 54 STREET,', 2
+'Street name', 'KENO AVENUE,', 1
+'Street name', 'ELSON STREET,', 4
+'Street name', '159 AVENUE,', 3
+'Street name', 'WEST 252 STREET,', 11
+'Street name', 'MONTIETH STREET,', 1
+'Street name', 'WENTWORTH AVENUE,', 1
+'Street name', 'BELMONT AVENUE,', 2689
+'Street name', 'BOTANICAL SQUARE,', 1187
+'Street name', 'FT HAMILTON PARKWAY,', 997
+'Street name', 'WEST 19 STREET,', 418
+'Street name', '106 STREET,', 170
+'Street name', 'WEST MOSHOLU PARKWAY NORTH,', 540
+'Street name', 'BRIGHTON STREET,', 5
+'Street name', 'DIXON AVENUE,', 6
+'Street name', 'MITCHEL LANE,', 8
+'Street name', '60 AVENUE,', 211
+'Street name', 'HUDSON MANOR TERRACE,', 58
+'Street name', 'SOUTH PINEHURST AVENUE,', 172
+'Street name', 'CURTIS STREET,', 15
+'Street name', 'BAY 26 STREET,', 77
+'Street name', 'COMMONWEALTH BOULEVARD,', 11
+'Street name', 'JASMINE AVENUE,', 6
+'Street name', 'ANDROVETTE STREET,', 3
+'Street name', 'MAXIE COURT,', 3
+'Street name', 'LENEVAR AVENUE,', 4
+'Street name', 'MEAGHER AVENUE,', 17
+'Street name', 'PENDLETON PLACE,', 4
+'Street name', 'GRANDCONCOURSE,', 3
+'Street name', 'OAKDALE STREET,', 11
+'Street name', 'BAY 24 STREET,', 3
+'Street name', 'ST STEPHENS PLACE,', 1
+'Street name', 'ST MARKS AVENUE,', 4699
+'Street name', 'ADAMS STREET,', 91
+'Street name', 'HERSCHELL STREET,', 24
+'Street name', 'MARINE AVENUE,', 294
+'Street name', 'BRONX PARK SOUTH,', 1319
+'Street name', 'CROSBY AVENUE,', 100
+'Street name', 'UTOPIA PARKWAY,', 74
+'Street name', '56 ROAD,', 40
+'Street name', 'NORWOOD AVENUE,', 78
+'Street name', 'CONKLIN AVENUE,', 72
+'Street name', 'CORBIN PLACE,', 136
+'Street name', '196 STREET,', 128
+'Street name', '80 AVENUE,', 16
+'Street name', '97 PLACE,', 29
+'Street name', 'SUTTON PLACE SOUTH,', 9
+'Street name', 'ISLINGTON STREET,', 3
+'Street name', 'ELMIRA AVENUE,', 1
+'Street name', 'ALAN PLACE,', 1
+'Street name', 'BEHAN COURT,', 11
+'Street name', 'LUDLUM AVENUE,', 8
+'Street name', 'NORTON DRIVE,', 7
+'Street name', 'EAST 19TH STREET,', 4
+'Street name', 'WHITMAN DRIVE,', 3
+'Street name', 'CRAFTON AVENUE,', 3
+'Street name', 'EAST 60 ST,', 1
+'Street name', 'WARWICK STREET,', 345
+'Street name', 'EAST 183 STREET,', 973
+'Street name', 'DRIGGS AVENUE,', 547
+'Street name', 'EAST 203 STREET,', 901
+'Street name', 'MEEKER AVENUE,', 250
+'Street name', 'MAGAW PLACE,', 277
+'Street name', '201 STREET,', 75
+'Street name', 'GENEVA LOOP,', 179
+'Street name', 'CHRISTOPHER AVENUE,', 136
+'Street name', 'TRAFALGAR PLACE,', 10
+'Street name', 'LATHAM LANE,', 12
+'Street name', 'DOBBIN STREET,', 2
+'Street name', 'STRANG AVENUE,', 45
+'Street name', 'GARNET STREET,', 12
+'Street name', 'BARTOW AVENUE,', 22
+'Street name', 'NUGENT STREET,', 7
+'Street name', 'ONEIDA AVENUE,', 8
+'Street name', 'DEAN AVENUE,', 18
+'Street name', 'TROSSACH ROAD,', 7
+'Street name', 'GORSLINE STREET,', 12
+'Street name', 'BOLIVAR STREET,', 1
+'Street name', 'BRUSH AVENUE,', 2
+'Street name', 'FREDERICK DOUGLASS BOULEVARDUMMY,', 1
+'Street name', 'TOPPING AVENUE,', 883
+'Street name', 'MONTGOMERY STREET,', 3856
+'Street name', 'WEST 58 STREET,', 763
+'Street name', 'WEST 43 STREET,', 282
+'Street name', 'GRAND AVENUE,', 5342
+'Street name', 'MONROE AVENUE,', 1344
+'Street name', 'EAST 239 STREET,', 45
+'Street name', 'KATHLEEN COURT,', 8
+'Street name', '11 AVENUE,', 297
+'Street name', 'SILVER STREET,', 40
+'Street name', 'CLAVER PLACE,', 144
+'Street name', 'EAST 62 STREET,', 229
+'Street name', 'HENDRICKS AVENUE,', 189
+'Street name', '72 ROAD,', 348
+'Street name', 'ADA DRIVE,', 52
+'Street name', 'SEIGEL STREET,', 56
+'Street name', 'GROVE AVENUE,', 17
+'Street name', 'ODER AVENUE,', 19
+'Street name', 'BRIGHTON 1 PLACE,', 40
+'Street name', 'RAVENHURST AVENUE,', 4
+'Street name', 'FERN PLACE,', 19
+'Street name', 'DIGBY PLACE,', 1
+'Street name', 'GROTON STREET,', 2
+'Street name', 'WAKEFIELD AVENUE,', 2
+'Street name', 'BRIGHTON 1 LANE,', 2
+'Street name', 'MALONE AVENUE,', 6
+'Street name', 'COUCH PLACE,', 3
+'Street name', 'FREEDOM PLACE,', 1
+'Street name', 'PERSHING CRESCENT,', 117
+'Street name', 'WEST BROADWAY,', 63
+'Street name', 'EAST 92 STREET,', 1902
+'Street name', 'CATHEDRAL PARKWAY,', 931
+'Street name', 'HINSDALE STREET,', 743
+'Street name', 'HORTON STREET,', 1
+'Street name', 'EAST 171 STREET,', 421
+'Street name', '177 STREET,', 101
+'Street name', 'DR MARTIN L KING BOULEVARD,', 211
+'Street name', 'SANDALWOOD DRIVE,', 17
+'Street name', 'SHORE PARKWAY SR SOUTH,', 138
+'Street name', 'CORLEAR AVENUE,', 86
+'Street name', '192 STREET,', 106
+'Street name', 'PRIMROSE PLACE,', 65
+'Street name', 'MICKLE AVENUE,', 127
+'Street name', '64 PLACE,', 52
+'Street name', 'CLARK LANE,', 24
+'Street name', '116 ROAD,', 45
+'Street name', 'BRUCKNER AVENUE,', 3
+'Street name', 'TERRACE COURT,', 4
+'Street name', 'CENTER DRIVE,', 1
+'Street name', 'POLHEMAS AVENUE,', 1
+'Street name', 'MAGNOLIA COURT,', 4
+'Street name', 'KINGDOM AVENUE,', 1
+'Street name', 'SHERIDAN SQUARE,', 3
+'Street name', 'CHURCHILL AVENUE,', 1
+'Street name', 'EAST 17 STREET,', 2973
+'Street name', 'MOTHER GASTON BOULEVARD,', 614
+'Street name', 'AVENUE P,', 1171
+'Street name', 'MERRICK BOULEVARD,', 886
+'Street name', '19 AVENUE,', 502
+'Street name', 'WEST 94 STREET,', 821
+'Street name', 'SPRINGFIELD LANE,', 21
+'Street name', 'WEST 148 STREET,', 1077
+'Street name', 'EAST 136 STREET,', 263
+'Street name', 'RATHBUN AVENUE,', 19
+'Street name', 'BOYD AVENUE,', 24
+'Street name', 'HILLCREST AVENUE,', 14
+'Street name', 'RIDGEWOOD PLACE,', 13
+'Street name', '147 DRIVE,', 33
+'Street name', 'OAK POINT AVENUE,', 3
+'Street name', 'WEST 61 STREET,', 7
+'Street name', 'ARMSTRONG AVENUE,', 32
+'Street name', 'LAWN COURT,', 1
+'Street name', '71 PLACE,', 10
+'Street name', 'COUNTRY POINTE CIRCLE,', 4
+'Street name', 'WILLIAMSON AVENUE,', 7
+'Street name', 'BAY 32 PLACE,', 7
+'Street name', 'LONGDALE STREET,', 9
+'Street name', 'BRIDGE PARK DRIVE,', 1
+'Street name', 'WEST 160 STREET,', 1294
+'Street name', 'KINGSBRIDGE AVENUE,', 1461
+'Street name', 'WHITE PLAINS ROAD,', 4548
+'Street name', 'WEST 80 STREET,', 490
+'Street name', 'KENILWORTH PLACE,', 504
+'Street name', 'WEST 171 STREET,', 811
+'Street name', 'AVENUE B,', 623
+'Street name', 'CORSA AVENUE,', 213
+'Street name', '62 STREET,', 340
+'Street name', 'EAST 225 STREET,', 751
+'Street name', 'WEST 31 STREET,', 229
+'Street name', 'DUNHAM PLACE,', 21
+'Street name', 'ROLLING HILL GREEN,', 2
+'Street name', 'TESSA COURT,', 17
+'Street name', 'KIMBERLY LANE,', 69
+'Street name', 'NARROWS ROAD SOUTH,', 24
+'Street name', '3 TERRACE,', 2
+'Street name', 'LAKE STREET,', 71
+'Street name', 'SEELEY STREET,', 27
+'Street name', 'SAMPSON AVENUE,', 18
+'Street name', '146 PLACE,', 8
+'Street name', 'QUENCER ROAD,', 5
+'Street name', 'SUMNER AVENUE,', 3
+'Street name', 'WHITE PLACE,', 7
+'Street name', 'BARLOW AVENUE,', 16
+'Street name', 'PINEVILLE LANE,', 4
+'Street name', 'SACKETT AVENUE,', 4
+'Street name', 'FARRINGTON ST,', 3
+'Street name', 'THISTLE COURT,', 1
+'Street name', 'BEACH 112 STREET,', 4
+'Street name', 'BEACH 19 STREET,', 760
+'Street name', 'WEST 84 STREET,', 369
+'Street name', 'RICHMOND STREET,', 81
+'Street name', 'HAMILTON PLACE,', 1146
+'Street name', 'WEST 157 STREET,', 681
+'Street name', 'NIXON COURT,', 74
+'Street name', 'CLIFTON PLACE,', 844
+'Street name', 'VAN SICLEN AVE,', 7
+'Street name', 'PAERDEGAT 11 STREET,', 16
+'Street name', 'VASWANI AVENUE,', 28
+'Street name', 'HOLLIS COURT BOULEVARD,', 25
+'Street name', 'DUNTON AVENUE,', 6
+'Street name', '12 ROAD,', 7
+'Street name', '250 STREET,', 74
+'Street name', 'WEST 259 STREET,', 17
+'Street name', '108 DRIVE,', 20
+'Street name', 'HARBOR DRIVE,', 1
+'Street name', 'DUNCOMB AVENUE,', 12
+'Street name', 'SCHIEFFELIN PLACE,', 9
+'Street name', '32 ROAD,', 1
+'Street name', 'PLOUGHMANS BUSH,', 2
+'Street name', 'COWEN PLACE,', 2
+'Street name', 'MERRY AVENUE,', 2
+'Street name', 'VISTA AVENUE,', 1
+'Street name', 'MOSEL LOOP,', 1
+'Street name', 'RUSSEK DRIVE,', 1
+'Street name', '101 STREET,', 288
+'Street name', 'TAYLOR AVENUE,', 2066
+'Street name', 'ATLANTIC AVENUE,', 2293
+'Street name', 'WEST 212 STREET,', 692
+'Street name', '65 AVENUE,', 102
+'Street name', '155 STREET,', 258
+'Street name', '95 STREET,', 1159
+'Street name', '127 STREET,', 172
+'Street name', 'EAST END AVENUE,', 104
+'Street name', 'VAN DUZER STREET,', 285
+'Street name', 'EAST 27TH STREET,', 13
+'Street name', 'THATFORD AVENUE,', 214
+'Street name', 'ODONNELL ROAD,', 1
+'Street name', 'NEWEL STREET,', 106
+'Street name', 'COTTAGE PLACE,', 12
+'Street name', 'NATIONAL STREET,', 18
+'Street name', 'HEATHER COURT,', 1
+'Street name', 'HUTCH RIVER PARKWAY EAST,', 205
+'Street name', 'DEFOE PLACE,', 19
+'Street name', 'REVEREND JARVIS DRIVE,', 6
+'Street name', 'SHEPHARD AVENUE,', 2
+'Street name', 'AUGUSTA AVENUE,', 1
+'Street name', 'MANILLA STREET,', 8
+'Street name', 'AMITY STREET,', 35
+'Street name', 'DELMAR AVENUE,', 2
+'Street name', 'BROWVALE LANE,', 4
+'Street name', 'SWAIM AVENUE,', 1

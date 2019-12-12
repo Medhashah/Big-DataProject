@@ -1,0 +1,7 @@
+'Subjects in school', 'Social Studies', 68
+'Subjects in school', 'Science', 68
+'Subjects in school', 'None', 0
+'Subjects in school', 'NUMBER OF CLASSES,', 1
+'Subjects in school', 'Math,', 68
+'Subjects in school', 'English,', 68
+'Subjects in school', '-,', 230

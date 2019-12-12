@@ -1,0 +1,32 @@
+type 3:
+dataset we used:
+
+sqcr-6mww	311 Service Requests for 2004
+sxmw-f24h	311 Service Requests for 2005
+hy4q-igkk	311 Service Requests for 2006
+aiww-p3af	311 Service Requests for 2007
+uzcy-9puk	311 Service Requests for 2008
+3rfa-3xsf	311 Service Requests for 2009
+erm2-nwe9	311 Service Requests from 2010 to Present
+vwpc-kje2	311 Web Content - Services
+
+
+
+question one:Identify the three most frequent 311 complaint types by borough. Are the same
+complaint types frequent in all five boroughs of the City? 
+
+for dataset in 2004 to 2009: get column Complaint Type and Borough, reduce by key, get the frequency
+for dataset 2010, read into rdd, and seprate by different year.
+result will be in list [[year: ['borough':[three high freq complaint]],[year: ['borough':[three high freq complaint]]...]
+
+
+question two:How might you explain the differences? 
+
+the difference between five boroughs, see the function of the borough, like manhattan will be high noise, queens will be in high construction balbalbala
+
+
+
+question three:How does the distribution of complaints change over time for certain
+neighborhoods and how could this be explained?
+
+get the high frequency, see the difference between years, get data from ds and know anything happened.

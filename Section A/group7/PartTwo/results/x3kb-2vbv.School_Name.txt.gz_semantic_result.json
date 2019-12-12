@@ -1,0 +1,1 @@
+{"column name": "School_Name", "semantic_types": [{"semantic_type": "school_name", "count": 755}, {"semantic_type": "other", "label": "school_name", "count": 737}, {"semantic_type": "college_name", "count": 50}, {"semantic_type": "park_playground", "count": 27}, {"semantic_type": "street_name", "count": 2}], "true_type": "school_name", "prediction_type": "school_name"}

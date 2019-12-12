@@ -1,0 +1,148 @@
+{
+  "dataset_name": "2enn-s52j",
+  "columns": [
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 5,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 3.0,
+          "stddev": 1.4142135623730951
+        },
+        {
+          "type": "TEXT",
+          "count": 4,
+          "average_length": 25.75,
+          "shortest_values": [
+            "living alone \"",
+            "Couples with No Childrens",
+            "For each additional person add",
+            "Single Adult and 19 - 20 Years Old"
+          ],
+          "longest_values": [
+            "Single Adult and 19 - 20 Years Old",
+            "For each additional person add",
+            "Couples with No Childrens",
+            "living alone \""
+          ]
+        }
+      ],
+      "column_name": "Family Size",
+      "number_non_empty_cells": 9,
+      "number_empty_cells": 0,
+      "number_distinct_values": 9,
+      "frequent_values": [
+        "Single Adult and 19 - 20 Years Old",
+        "living alone \"",
+        "Couples with No Childrens",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 8,
+          "min_value": 5940,
+          "max_value": 5940,
+          "mean": 21933.0,
+          "stddev": 11157.12987286605
+        },
+        {
+          "type": "TEXT",
+          "count": 1,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "Yearly Income ($)",
+      "number_non_empty_cells": 9,
+      "number_empty_cells": 0,
+      "number_distinct_values": 9,
+      "frequent_values": [
+        "None",
+        "11172",
+        "15132",
+        "16764",
+        "22704"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 8,
+          "min_value": 495,
+          "max_value": 495,
+          "mean": 1827.75,
+          "stddev": 929.7608227388375
+        },
+        {
+          "type": "TEXT",
+          "count": 1,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "Monthly Income ($)",
+      "number_non_empty_cells": 9,
+      "number_empty_cells": 0,
+      "number_distinct_values": 9,
+      "frequent_values": [
+        "None",
+        "931",
+        "1261",
+        "1397",
+        "1892"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 8,
+          "min_value": 114,
+          "max_value": 114,
+          "mean": 421.75,
+          "stddev": 214.54530407352198
+        },
+        {
+          "type": "TEXT",
+          "count": 1,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "Weekly Income ($)",
+      "number_non_empty_cells": 9,
+      "number_empty_cells": 0,
+      "number_distinct_values": 9,
+      "frequent_values": [
+        "None",
+        "215",
+        "291",
+        "322",
+        "437"
+      ]
+    }
+  ],
+  "key_column_candidates": []
+}

@@ -1,0 +1,192 @@
+'Neighborhood', 'MORNINGSIDE HEIGHTS', 207
+'Neighborhood', 'FLATBUSH-NORTH', 23
+'Neighborhood', 'KIPS BAY', 111
+'Neighborhood', 'CYPRESS HILLS', 5
+'Neighborhood', 'WASHINGTON HEIGHTS LOWER', 189
+'Neighborhood', 'CASTLE HILL/UNIONPORT', 9
+'Neighborhood', 'ALPHABET CITY', 268
+'Neighborhood', 'BENSONHURST', 92
+'Neighborhood', 'BOROUGH PARK', 148
+'Neighborhood', 'WINDSOR TERRACE', 26
+'Neighborhood', 'CORONA', 97
+'Neighborhood', 'PELHAM PARKWAY NORTH', 8
+'Neighborhood', 'OCEAN PARKWAY-NORTH', 239
+'Neighborhood', 'GRYMES HILL', 3
+'Neighborhood', 'MIDTOWN EAST', 551
+'Neighborhood', 'NAVY YARD', 1
+'Neighborhood', 'FLUSHING-SOUTH', 206
+'Neighborhood', 'SOHO', 157
+'Neighborhood', 'FORDHAM', 82
+'Neighborhood', 'DONGAN HILLS-OLD TOWN', 2
+'Neighborhood', 'BAYSIDE', 215
+'Neighborhood', 'DOUGLASTON', 13
+'Neighborhood', 'MIDTOWN WEST', 243
+'Neighborhood', 'CLINTON HILL', 107
+'Neighborhood', 'INWOOD', 162
+'Neighborhood', 'PROSPECT HEIGHTS', 196
+'Neighborhood', 'NEW BRIGHTON', 9
+'Neighborhood', 'GREAT KILLS', 4
+'Neighborhood', 'FAR ROCKAWAY', 29
+'Neighborhood', 'CROTONA PARK', 45
+'Neighborhood', 'KEW GARDENS', 205
+'Neighborhood', 'DOWNTOWN-METROTECH', 7
+'Neighborhood', 'FLORAL PARK', 27
+'Neighborhood', 'FLATBUSH-EAST', 87
+'Neighborhood', 'BAYCHESTER', 6
+'Neighborhood', 'None', 0
+'Neighborhood', 'WEST NEW BRIGHTON', 25
+'Neighborhood', 'MIDLAND BEACH', 1
+'Neighborhood', 'MORRIS PARK/VAN NEST', 12
+'Neighborhood', 'COBBLE HILL', 16
+'Neighborhood', 'UPPER WEST SIDE (79-96)', 1207
+'Neighborhood', 'WILLIAMSBURG-SOUTH', 128
+'Neighborhood', 'EAST NEW YORK', 21
+'Neighborhood', 'CONEY ISLAND', 39
+'Neighborhood', 'MADISON', 200
+'Neighborhood', 'BATHGATE', 35
+'Neighborhood', 'BUSHWICK', 12
+'Neighborhood', 'HILLCREST', 1
+'Neighborhood', 'FORT GREENE', 50
+'Neighborhood', 'CAMBRIA HEIGHTS', 5
+'Neighborhood', 'REGO PARK', 470
+'Neighborhood', 'PELHAM PARKWAY SOUTH', 79
+'Neighborhood', 'WYCKOFF HEIGHTS', 1
+'Neighborhood', 'SOUNDVIEW', 28
+'Neighborhood', 'EAST VILLAGE', 257
+'Neighborhood', 'ROSEBANK', 12
+'Neighborhood', 'LITTLE ITALY', 39
+'Neighborhood', 'SO. JAMAICA-BAISLEY PARK', 4
+'Neighborhood', 'SOUTH OZONE PARK', 5
+'Neighborhood', 'OCEAN PARKWAY-SOUTH', 117
+'Neighborhood', 'WILLIAMSBURG-CENTRAL', 10
+'Neighborhood', 'OAKLAND GARDENS', 97
+'Neighborhood', 'CIVIC CENTER', 109
+'Neighborhood', 'ST. ALBANS', 3
+'Neighborhood', 'MOUNT HOPE/MOUNT EDEN', 78
+'Neighborhood', 'ARROCHAR', 1
+'Neighborhood', 'HARLEM-WEST', 115
+'Neighborhood', 'LAURELTON', 1
+'Neighborhood', 'BOERUM HILL', 22
+'Neighborhood', 'DOWNTOWN-FULTON FERRY', 5
+'Neighborhood', 'SOUTHBRIDGE', 5
+'Neighborhood', 'GREENWICH VILLAGE-WEST', 651
+'Neighborhood', 'PARK SLOPE', 239
+'Neighborhood', 'COBBLE HILL-WEST', 1
+'Neighborhood', 'TRIBECA', 39
+'Neighborhood', 'KENSINGTON', 63
+'Neighborhood', 'BROOKLYN HEIGHTS', 273
+'Neighborhood', 'ROCKAWAY PARK', 18
+'Neighborhood', 'KINGSBRIDGE HTS/UNIV HTS', 50
+'Neighborhood', 'UPPER EAST SIDE (96-110)', 60
+'Neighborhood', 'ELMHURST', 332
+'Neighborhood', 'EAST ELMHURST', 2
+'Neighborhood', 'MARINE PARK', 1
+'Neighborhood', 'WILLIAMSBURG-NORTH', 8
+'Neighborhood', 'OCEAN HILL', 36
+'Neighborhood', 'WESTCHESTER', 18
+'Neighborhood', 'BRONXDALE', 34
+'Neighborhood', 'JACKSON HEIGHTS', 751
+'Neighborhood', 'UPPER WEST SIDE (59-79)', 637
+'Neighborhood', 'BATH BEACH', 43
+'Neighborhood', 'WOODHAVEN', 9
+'Neighborhood', 'DONGAN HILLS', 3
+'Neighborhood', 'GRAVESEND', 56
+'Neighborhood', 'MIDDLE VILLAGE', 25
+'Neighborhood', 'GREAT KILLS-BAY TERRACE', 2
+'Neighborhood', 'WILLIAMSBRIDGE,', 37
+'Neighborhood', 'LONG ISLAND CITY,', 6
+'Neighborhood', 'CANARSIE,', 1
+'Neighborhood', 'GLENDALE,', 1
+'Neighborhood', 'CROWN HEIGHTS,', 272
+'Neighborhood', 'LIVINGSTON,', 2
+'Neighborhood', 'BRIARWOOD,', 167
+'Neighborhood', 'OZONE PARK,', 23
+'Neighborhood', 'FLATLANDS,', 1
+'Neighborhood', 'GRANT CITY,', 6
+'Neighborhood', 'GREENWICH VILLAGE-CENTRAL,', 381
+'Neighborhood', 'HAMMELS,', 5
+'Neighborhood', 'JAMAICA ESTATES,', 27
+'Neighborhood', 'SUNSET PARK,', 132
+'Neighborhood', 'DYKER HEIGHTS,', 1
+'Neighborhood', 'PARK SLOPE SOUTH,', 32
+'Neighborhood', 'KINGSBRIDGE/JEROME PARK,', 170
+'Neighborhood', 'WASHINGTON HEIGHTS UPPER,', 286
+'Neighborhood', 'FIELDSTON,', 40
+'Neighborhood', 'SCHUYLERVILLE/PELHAM BAY,', 19
+'Neighborhood', 'CHELSEA,', 571
+'Neighborhood', 'GOWANUS,', 12
+'Neighborhood', 'GREENPOINT,', 6
+'Neighborhood', 'OAKWOOD-BEACH,', 6
+'Neighborhood', 'BERGEN BEACH,', 17
+'Neighborhood', 'CHINATOWN,', 33
+'Neighborhood', 'HARLEM-EAST,', 135
+'Neighborhood', 'NEW BRIGHTON-ST. GEORGE,', 21
+'Neighborhood', 'HOLLISWOOD,', 38
+'Neighborhood', 'NEW DORP,', 1
+'Neighborhood', 'FRESH MEADOWS,', 54
+'Neighborhood', 'MORRISANIA/LONGWOOD,', 223
+'Neighborhood', 'HUNTS POINT,', 41
+'Neighborhood', 'ASTORIA,', 94
+'Neighborhood', 'UPPER WEST SIDE (96-116),', 504
+'Neighborhood', 'CONCORD,', 1
+'Neighborhood', 'LOWER EAST SIDE,', 324
+'Neighborhood', 'CARROLL GARDENS,', 10
+'Neighborhood', 'MANHATTAN VALLEY,', 138
+'Neighborhood', 'SPRINGFIELD GARDENS,', 7
+'Neighborhood', 'FLATBUSH-CENTRAL,', 393
+'Neighborhood', 'FLATBUSH-LEFFERTS GARDEN,', 43
+'Neighborhood', 'STAPLETON-CLIFTON,', 12
+'Neighborhood', 'MURRAY HILL,', 456
+'Neighborhood', 'TOMPKINSVILLE,', 6
+'Neighborhood', 'MIDWOOD,', 223
+'Neighborhood', 'BULLS HEAD,', 1
+'Neighborhood', 'BRONX PARK,', 2
+'Neighborhood', 'CLINTON,', 292
+'Neighborhood', 'MIDTOWN CBD,', 62
+'Neighborhood', 'BRIGHTON BEACH,', 113
+'Neighborhood', 'SUNNYSIDE,', 183
+'Neighborhood', 'BEDFORD PARK/NORWOOD,', 197
+'Neighborhood', 'CLOVE LAKES,', 4
+'Neighborhood', 'CONCORD-FOX HILLS,', 2
+'Neighborhood', 'MOTT HAVEN/PORT MORRIS,', 19
+'Neighborhood', 'BEDFORD STUYVESANT,', 164
+'Neighborhood', 'OLD MILL BASIN,', 3
+'Neighborhood', 'RIVERDALE,', 352
+'Neighborhood', 'GRAMERCY,', 405
+'Neighborhood', 'WOODLAWN,', 21
+'Neighborhood', 'JAMAICA,', 140
+'Neighborhood', 'UPPER EAST SIDE (59-79),', 1401
+'Neighborhood', 'FOREST HILLS,', 506
+'Neighborhood', 'ROSEDALE,', 3
+'Neighborhood', 'STAPLETON,', 7
+'Neighborhood', 'RICHMOND HILL,', 21
+'Neighborhood', 'GRASMERE,', 1
+'Neighborhood', 'SHEEPSHEAD BAY,', 184
+'Neighborhood', 'MANHATTAN BEACH,', 1
+'Neighborhood', 'BELMONT,', 48
+'Neighborhood', 'JAVITS CENTER,', 18
+'Neighborhood', 'HARLEM-UPPER,', 229
+'Neighborhood', 'UPPER EAST SIDE (79-96),', 2016
+'Neighborhood', 'VAN CORTLANDT PARK,', 7
+'Neighborhood', 'BAY RIDGE,', 416
+'Neighborhood', 'QUEENS VILLAGE,', 132
+'Neighborhood', 'JAMAICA HILLS,', 17
+'Neighborhood', 'WAKEFIELD,', 12
+'Neighborhood', 'CO-OP CITY,', 1
+'Neighborhood', 'FASHION,', 44
+'Neighborhood', 'HOLLIS,', 35
+'Neighborhood', 'ELTINGVILLE,', 3
+'Neighborhood', 'FLATIRON,', 124
+'Neighborhood', 'WOODSIDE,', 62
+'Neighborhood', 'GLEN OAKS,', 4
+'Neighborhood', 'HARLEM-CENTRAL,', 719
+'Neighborhood', 'BROWNSVILLE,', 25
+'Neighborhood', 'DOWNTOWN-FULTON MALL,', 10
+'Neighborhood', 'SPRING CREEK,', 3
+'Neighborhood', 'FLUSHING-NORTH,', 658
+'Neighborhood', 'PARKCHESTER,', 6
+'Neighborhood', 'HIGHBRIDGE/MORRIS HEIGHTS,', 136
+'Neighborhood', 'EAST TREMONT,', 126
+'Neighborhood', 'WILLIAMSBURG-EAST,', 31
+'Neighborhood', 'MELROSE/CONCOURSE,', 144
+'Neighborhood', 'FINANCIAL,', 46

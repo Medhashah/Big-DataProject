@@ -1,0 +1,55 @@
+{"person_name": 23, "business_name": 7, "phone_number": 10, "address": 10, "street_name": 21, "city": 10, "neighborhood": 14, "lat_lon_cord": 10, "zip_code": 11, "borough": 13, "school_name": 14, "color": 8, "car_make": 15, "city_agency": 10, "area_of_study": 10, "subject_in_school": 15, "school_level": 14, "college_name": 0, "website": 8, "building_classification": 10, "vehicle_type": 12, "location_type": 2, "park_playground": 4, "other": 0}
+{"person_name": 41, "business_name": 8, "phone_number": 10, "address": 12, "street_name": 24, "city": 12, "neighborhood": 14, "lat_lon_cord": 10, "zip_code": 11, "borough": 13, "school_name": 14, "color": 10, "car_make": 15, "city_agency": 10, "area_of_study": 10, "subject_in_school": 15, "school_level": 14, "college_name": 0, "website": 9, "building_classification": 10, "vehicle_type": 12, "location_type": 2, "park_playground": 5, "other": 20}
+{"person_name": 30, "business_name": 8, "phone_number": 11, "address": 12, "street_name": 24, "city": 12, "neighborhood": 15, "lat_lon_cord": 10, "zip_code": 11, "borough": 13, "school_name": 19, "color": 8, "car_make": 15, "city_agency": 12, "area_of_study": 10, "subject_in_school": 15, "school_level": 14, "college_name": 0, "website": 8, "building_classification": 10, "vehicle_type": 12, "location_type": 2, "park_playground": 7, "other": 0}
+
+precision:
+address: 0.8333333333333334
+area_of_study: 1
+borough: 1
+building_classification: 1
+business_name: 0.875
+car_make: 1
+city: 0.8333333333333334
+city_agency: 1
+college_name: NaN
+color: 0.8
+lat_lon_cord: 1
+location_type: 1
+neighborhood: 1
+other: 0
+park_playground: 0.8
+person_name: 0.5609756097560976
+phone_number: 1
+school_level: 1
+school_name: 1
+street_name: 0.875
+subject_in_school: 1
+vehicle_type: 1
+website: 0.8888888888888888
+zip_code: 1
+
+recall:
+address: 0.8333333333333334
+area_of_study: 1
+borough: 1
+building_classification: 1
+business_name: 0.875
+car_make: 1
+city: 0.8333333333333334
+city_agency: 0.8333333333333334
+college_name: NaN
+color: 1
+lat_lon_cord: 1
+location_type: 1
+neighborhood: 0.9333333333333333
+other: NaN
+park_playground: 0.5714285714285714
+person_name: 0.7666666666666667
+phone_number: 0.9090909090909091
+school_level: 1
+school_name: 0.7368421052631579
+street_name: 0.875
+subject_in_school: 1
+vehicle_type: 1
+website: 1
+zip_code: 1

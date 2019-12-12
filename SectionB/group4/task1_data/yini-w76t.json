@@ -1,0 +1,97 @@
+{
+  "dataset_name": "yini-w76t",
+  "columns": [
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 133477,
+          "average_length": 6.000269709388134,
+          "shortest_values": [
+            "B00001",
+            "B00008",
+            "B00009",
+            "B00013",
+            "B00014"
+          ],
+          "longest_values": [
+            "B02627                  ",
+            "B00151 ",
+            "B00559 ",
+            "B02833 ",
+            "B00001"
+          ]
+        }
+      ],
+      "column_name": "Dispatching_base_num",
+      "number_non_empty_cells": 133477,
+      "number_empty_cells": 0,
+      "number_distinct_values": 726,
+      "frequent_values": [
+        "B02764",
+        "B02682",
+        "B02510",
+        "B02800",
+        "B02835"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "DATE/TIME",
+          "count": [
+            133477
+          ],
+          "min_value": "[datetime.datetime(2016, 1, 1, 0, 1, 35)]",
+          "max_value": "[datetime.datetime(2016, 8, 16, 11, 47, 41)]"
+        }
+      ],
+      "column_name": "Pickup_date",
+      "number_non_empty_cells": 133477,
+      "number_empty_cells": 0,
+      "number_distinct_values": 130372,
+      "frequent_values": [
+        "09/30/2016 05:05:00 PM",
+        "11/16/2016 10:00:00 PM",
+        "12/29/2016 04:30:00 PM",
+        "07/12/2016 11:30:00 AM",
+        "12/15/2016 01:00:00 PM"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 92306,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 145.4136459168418,
+          "stddev": 74.48142564230184
+        },
+        {
+          "type": "TEXT",
+          "count": 41171,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "locationID",
+      "number_non_empty_cells": 133477,
+      "number_empty_cells": 0,
+      "number_distinct_values": 258,
+      "frequent_values": [
+        "None",
+        "79",
+        "161",
+        "234",
+        "231"
+      ]
+    }
+  ],
+  "key_column_candidates": []
+}

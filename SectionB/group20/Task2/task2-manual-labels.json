@@ -1,0 +1,2232 @@
+﻿[
+  {
+    "actual_types": [
+      "person_name",
+      "business_name",
+      "phone_number",
+      "address",
+      "street_name",
+      "city",
+      "neighborhood",
+      "lat_lon_cord",
+      "zip_code",
+      "borough",
+      "school_name",
+      "color",
+      "car_make",
+      "city_agency",
+      "area_of_study",
+      "subject_in_school",
+      "school_level",
+      "college_name",
+      "website",
+      "building_classification",
+      "vehicle_type",
+      "location_type",
+      "park_playground"
+    ]
+  },
+  [
+    {
+      "column_name": "4nft-bihw.Property_Address.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "9jgj-bmct.Incident_Address_Street_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "m3fi-rt3k.Street_Address_1_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "nfkx-wd79.Address_1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "pqg4-dm6b.Address1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "q2ni-ztsb.Street_Address_1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "rbx6-tga4.Owner_Street_Address.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "w9ak-ipjd.Owner_s_Street_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "3aka-ggej.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "area_of_study"
+        }
+      ]
+    },
+    {
+      "column_name": "7yds-6i8e.CORE_SUBJECT__MS_CORE_and_9_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "area_of_study"
+        }
+      ]
+    },
+    {
+      "column_name": "ge8j-uqbf.interest.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "area_of_study"
+        }
+      ]
+    },
+    {
+      "column_name": "s3k6-pzi2.interest5.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "area_of_study"
+        }
+      ]
+    },
+    {
+      "column_name": "uq7m-95z8.interest1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "area_of_study"
+        }
+      ]
+    },
+    {
+      "column_name": "vw9i-7mzq.interest1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "area_of_study"
+        }
+      ]
+    },
+    {
+      "column_name": "vw9i-7mzq.interest3.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "area_of_study"
+        }
+      ]
+    },
+    {
+      "column_name": "vw9i-7mzq.interest4.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "area_of_study"
+        }
+      ]
+    },
+    {
+      "column_name": "5tdj-xqd5.Borough.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "72ss-25qh.Borough.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "9z9b-6hvk.Borough.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "cqc8-am9x.Borough.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "mrxb-9w9v.BOROUGH___COMMUNITY.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "vhah-kvpj.Borough.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "dvzp-h4k9.COMPARABLE_RENTAL_____1_____Building_Classification.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "building_classification"
+        }
+      ]
+    },
+    {
+      "column_name": "irhv-jqz7.BROOKLYN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "building_classification"
+        }
+      ]
+    },
+    {
+      "column_name": "jxyc-rxiv.MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "building_classification"
+        }
+      ]
+    },
+    {
+      "column_name": "m56g-jpua.COMPARABLE_RENTAL___1___Building_Classification.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "building_classification"
+        }
+      ]
+    },
+    {
+      "column_name": "m56g-jpua.MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "building_classification"
+        }
+      ]
+    },
+    {
+      "column_name": "n2s5-fumm.BRONX_CONDOMINIUM_PROPERTY_Building_Classification.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "building_classification"
+        }
+      ]
+    },
+    {
+      "column_name": "tyfh-9h2y.BROOKLYN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "building_classification"
+        }
+      ]
+    },
+    {
+      "column_name": "2v9c-2k7f.DBA.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "business_name"
+        }
+      ]
+    },
+    {
+      "column_name": "43nn-pn8j.DBA.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "business_name"
+        }
+      ]
+    },
+    {
+      "column_name": "ci93-uc8s.Vendor_DBA.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "business_name"
+        }
+      ]
+    },
+    {
+      "column_name": "tg3t-nh4h.BusinessName.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "business_name"
+        }
+      ]
+    },
+    {
+      "column_name": "w9ak-ipjd.Owner_s_Business_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "business_name"
+        }
+      ]
+    },
+    {
+      "column_name": "2bnn-yakx.Vehicle_Make.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "2bnn-yakx.Vehicle_Make.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "as69-ew8f.TruckMake.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "bjuu-44hx.DVV_MAKE.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "c284-tqph.Vehicle_Make.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "jt7v-77mi.Vehicle_Make.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "n84m-kx4j.VEHICLE_MAKE.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "pvqr-7yc4.Vehicle_Make.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "pvqr-7yc4.Vehicle_Make.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "vr8p-8shw.DVT_MAKE.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "c284-tqph.Vehicle_Make.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "him9-7gri.Agency.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city_agency"
+        }
+      ]
+    },
+    {
+      "column_name": "i5ef-jxv3.Agency.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city_agency"
+        }
+      ]
+    },
+    {
+      "column_name": "jhjm-vsp8.Agency.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city_agency"
+        }
+      ]
+    },
+    {
+      "column_name": "jzdn-258f.Agency.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city_agency"
+        }
+      ]
+    },
+    {
+      "column_name": "qe6k-pu9t.Agency.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city_agency"
+        }
+      ]
+    },
+    {
+      "column_name": "us4j-b5zt.Agency.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city_agency"
+        }
+      ]
+    },
+    {
+      "column_name": "vuae-w6cg.Agency.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city_agency"
+        }
+      ]
+    },
+    {
+      "column_name": "fbaw-uq4e.CITY.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city"
+        }
+      ]
+    },
+    {
+      "column_name": "w7w3-xahh.Address_City.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city"
+        }
+      ]
+    },
+    {
+      "column_name": "2bnn-yakx.Vehicle_Color.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "color"
+        }
+      ]
+    },
+    {
+      "column_name": "c284-tqph.Vehicle_Color.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "color"
+        }
+      ]
+    },
+    {
+      "column_name": "jt7v-77mi.Vehicle_Color.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "color"
+        }
+      ]
+    },
+    {
+      "column_name": "kiv2-tbus.Vehicle_Color.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "color"
+        }
+      ]
+    },
+    {
+      "column_name": "29bw-z7pj.Location_1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "lat_lon_cord"
+        }
+      ]
+    },
+    {
+      "column_name": "4pt5-3vv4.Location.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "lat_lon_cord"
+        }
+      ]
+    },
+    {
+      "column_name": "bdjm-n7q4.Location.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "lat_lon_cord"
+        }
+      ]
+    },
+    {
+      "column_name": "fbaw-uq4e.Location_1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "lat_lon_cord"
+        }
+      ]
+    },
+    {
+      "column_name": "hy4q-igkk.Location.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "lat_lon_cord"
+        }
+      ]
+    },
+    {
+      "column_name": "n5mv-nfpy.Location1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "lat_lon_cord"
+        }
+      ]
+    },
+    {
+      "column_name": "qgea-i56i.Lat_Lon.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "lat_lon_cord"
+        }
+      ]
+    },
+    {
+      "column_name": "uzcy-9puk.Location.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "lat_lon_cord"
+        }
+      ]
+    },
+    {
+      "column_name": "3qfc-4tta.BRONX_____CONDOMINIUMS_COMPARABLE_PROPERTIES_____Neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "a5qt-5jpu.STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "ajxm-kzmj.NeighborhoodName.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "as69-ew8f.StartCity.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "bawj-6bgn.BRONX_CONDOMINIUM_PROPERTY_Neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "cyfw-hfqk.STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "m59i-mqex.QUEENS_CONDOMINIUM_PROPERTY_Neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "myei-c3fa.Neighborhood_1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "p2d7-vcsb.ACCOUNT_CITY.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "qpm9-j523.org_neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "rmv8-86p4.BROOKLYN_CONDOMINIUM_PROPERTY_Neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "uqxv-h2se.neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "wv4q-e75v.STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "6ypq-ih9a.BOROUGH.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "kwmq-dbub.CANDMI.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name/gn"
+        }
+      ]
+    },
+    {
+      "column_name": "pdpg-nn8i.BORO.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "qusa-igsv.BORO.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "faiq-9dfq.Vehicle_Body_Type.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "pvqr-7yc4.Vehicle_Body_Type.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "6rrm-vxj9.parkname.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "park_playground"
+        }
+      ]
+    },
+    {
+      "column_name": "uzcy-9puk.Park_Facility_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "park_playground"
+        }
+      ]
+    },
+    {
+      "column_name": "dm9a-ab7w.AUTH_REP_FIRST_NAME.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "2sps-j9st.PERSON_FIRST_NAME.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "6anw-twe4.FirstName.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "6anw-twe4.LastName.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "7btz-mnc8.Provider_First_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "8k4x-9mp5.Last_Name__only_2014_15_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "bty7-2jhb.Site_Safety_Mgr_s_Last_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "dm9a-ab7w.APPLICANT_FIRST_NAME.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "dm9a-ab7w.AUTH_REP_LAST_NAME.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "ic3t-wcy2.Applicant_s_First_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "mdcw-n682.First_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "mdcw-n682.Last_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "nhms-9u6g.Name__Last__First_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "t8hj-ruu2.First_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "w9ak-ipjd.Filing_Representative_First_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "aiww-p3af.School_Phone_Number.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "phone_number"
+        }
+      ]
+    },
+    {
+      "column_name": "ci93-uc8s.fax.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "phone_number"
+        }
+      ]
+    },
+    {
+      "column_name": "eccv-9dzr.Telephone_Number.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "phone_number"
+        }
+      ]
+    },
+    {
+      "column_name": "i4ni-6qin.PRINCIPAL_PHONE_NUMBER.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "phone_number"
+        }
+      ]
+    },
+    {
+      "column_name": "kiyv-ks3f.phone.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "phone_number"
+        }
+      ]
+    },
+    {
+      "column_name": "t8hj-ruu2.Business_Phone_Number.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "phone_number"
+        }
+      ]
+    },
+    {
+      "column_name": "urzf-q2g5.Phone_Number.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "phone_number"
+        }
+      ]
+    },
+    {
+      "column_name": "uzcy-9puk.School_Phone_Number.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "phone_number"
+        }
+      ]
+    },
+    {
+      "column_name": "wg9x-4ke6.Principal_phone_number.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "phone_number"
+        }
+      ]
+    },
+    {
+      "column_name": "4n2j-ut8i.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "6je4-4x7e.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "cgz5-877h.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "cvh6-nmyi.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "ffnc-f3aa.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "upwt-zvh3.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "weg5-33pj.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "yahh-6yjc.School_Type.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "sxmw-f24h.Park_Facility_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        },
+        {
+          "semantic_type": "park_playground"
+        }
+      ]
+    },
+    {
+      "column_name": "3rfa-3xsf.School_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "5e7x-8jy6.School_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "gk83-aa6y.SCHOOL_NAME.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "imfa-v5pv.School_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "jzt2-2f7h.School_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "wks3-66bn.School_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "x3kb-2vbv.School_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "xne4-4v8f.SCHOOL.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "dm9a-ab7w.STREET_NAME.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "3rfa-3xsf.Cross_Street_2.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "3rfa-3xsf.Cross_Street_2.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "3rfa-3xsf.Intersection_Street_2.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "3rfa-3xsf.Street_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "3rfa-3xsf.Street_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "4twk-9yq2.CrossStreet2.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "bdjm-n7q4.CrossStreet2.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "erm2-nwe9.Landmark.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "i6b5-j7bu.TOSTREETNAME.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "ji82-xba5.street.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "kj4p-ruqc.StreetName.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "sqcr-6mww.Cross_Street_1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "sxmw-f24h.Cross_Street_2.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "uzcy-9puk.Street_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "6wcu-cfa3.CORE_COURSE__MS_CORE_and_9_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "8i43-kna8.CORE_SUBJECT.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "ajgi-hpq9.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "d3ge-anaz.CORE_COURSE__MS_CORE_and_9_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "f7qh-bcr5.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "i8ys-e4pm.CORE_COURSE_9_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "ytjm-yias.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "72ss-25qh.Agency_ID.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "location_type"
+        }
+      ]
+    },
+    {
+      "column_name": "qgea-i56i.PREM_TYP_DESC.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "location_type"
+        }
+      ]
+    },
+    {
+      "column_name": "2bnn-yakx.Vehicle_Body_Type.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "ipu4-2q9a.Owner_s_House_City.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        },
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "kiv2-tbus.Vehicle_Make.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        },
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "pvqr-7yc4.Vehicle_Body_Type.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "tsak-vtv3.Upcoming_Project_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "2bnn-yakx.Vehicle_Body_Type.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "faiq-9dfq.Vehicle_Body_Type.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "h9gi-nx95.VEHICLE_TYPE_CODE_1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "h9gi-nx95.VEHICLE_TYPE_CODE_4.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "5694-9szk.Business_Website_or_Other_URL.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "website"
+        }
+      ]
+    },
+    {
+      "column_name": "7crd-d9xh.website.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "website"
+        }
+      ]
+    },
+    {
+      "column_name": "ci93-uc8s.Website.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "website"
+        }
+      ]
+    },
+    {
+      "column_name": "jvce-szsb.Website.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "website"
+        }
+      ]
+    },
+    {
+      "column_name": "qpm9-j523.org_website.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "website"
+        }
+      ]
+    },
+    {
+      "column_name": "rb2h-bgai.Website.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "website"
+        }
+      ]
+    },
+    {
+      "column_name": "3rfa-3xsf.Incident_Zip.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "6bgk-3dad.RESPONDENT_ZIP.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "bty7-2jhb.Owner_s_House_Zip_Code.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "dpm2-m9mq.owner_zip.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "jz4z-kudi.Violation_Location__Zip_Code_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "mu46-p9is.CallerZipCode.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "tg4x-b46p.ZipCode_s_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "5694-9szk.Business_Website_or_Other_URL.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "website"
+        }
+      ]
+    },
+    {
+      "column_name": "uwyv-629c.StreetName.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "faiq-9dfq.Vehicle_Color.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "color"
+        }
+      ]
+    },
+    {
+      "column_name": "qcdj-rwhu.BUSINESS_NAME2.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "business_name"
+        }
+      ]
+    },
+    {
+      "column_name": "6ypq-ih9a.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "pvqr-7yc4.Vehicle_Color.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "color"
+        }
+      ]
+    },
+    {
+      "column_name": "en2c-j6tw.BRONX_CONDOMINIUM_PROPERTY_Building_Classification.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "building_classification"
+        }
+      ]
+    },
+    {
+      "column_name": "uq7m-95z8.interest6.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "area_of_study"
+        }
+      ]
+    },
+    {
+      "column_name": "5ziv-wcy4.WEBSITE.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "website"
+        }
+      ]
+    },
+    {
+      "column_name": "ydkf-mpxb.CrossStreetName.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "w9ak-ipjd.Applicant_Last_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "jz4z-kudi.Respondent_Address__City_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city"
+        }
+      ]
+    },
+    {
+      "column_name": "rbx6-tga4.Owner_Street_Address.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "sqmu-2ixd.Agency_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city_agency"
+        }
+      ]
+    },
+    {
+      "column_name": "aiww-p3af.Incident_Zip.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "mmvm-mvi3.Org_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "business_name"
+        }
+      ]
+    },
+    {
+      "column_name": "h9gi-nx95.VEHICLE_TYPE_CODE_5.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "uh2w-zjsn.Borough.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "tqtj-sjs8.FromStreetName.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "mqdy-gu73.Color.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "color"
+        }
+      ]
+    },
+    {
+      "column_name": "7jkp-5w5g.Agency.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city_agency"
+        }
+      ]
+    },
+    {
+      "column_name": "s3zn-tf7c.QUEENS_CONDOMINIUM_PROPERTY_Building_Classification.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "building_classification"
+        }
+      ]
+    },
+    {
+      "column_name": "sqcr-6mww.School_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "vrn4-2abs.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "2sps-j9st.PERSON_LAST_NAME.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "2bmr-jdsv.DBA.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "business_name"
+        }
+      ]
+    },
+    {
+      "column_name": "4d7f-74pe.Address.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "ji82-xba5.address.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "hy4q-igkk.School_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "s9d3-x4fz.EMPCITY.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city"
+        }
+      ]
+    },
+    {
+      "column_name": "5uac-w243.PREM_TYP_DESC.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "location_type"
+        }
+      ]
+    },
+    {
+      "column_name": "64gx-bycn.EMPCITY.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city"
+        }
+      ]
+    },
+    {
+      "column_name": "e9xc-u3ds.CANDMI.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "h9gi-nx95.VEHICLE_TYPE_CODE_3.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "p937-wjvj.HOUSE_NUMBER.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "dj4e-3xrn.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "qu8g-sxqf.MI.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "mdcw-n682.Middle_Initial.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "pq5i-thsu.DVC_MAKE.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "ub9e-s7ai.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "52dp-yji6.Owner_First_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "jz4z-kudi.Respondent_Address__Zip_Code_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "vx8i-nprf.MI.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "k3cd-yu9d.Location_1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "lat_lon_cord"
+        }
+      ]
+    },
+    {
+      "column_name": "p6h4-mpyy.PRINCIPAL_PHONE_NUMBER.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "phone_number"
+        }
+      ]
+    },
+    {
+      "column_name": "sybh-s59s.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "kz72-dump.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "7btz-mnc8.Provider_Last_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "ph7v-u5f3.TOP_VEHICLE_MODELS___5.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "mjux-q9d4.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "hjvj-jfc9.Borough.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "h9gi-nx95.VEHICLE_TYPE_CODE_2.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "easq-ubfe.CITY.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city"
+        }
+      ]
+    },
+    {
+      "column_name": "sv2w-rv3k.BORO.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "qu8g-sxqf.First_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "ipu4-2q9a.Site_Safety_Mgr_s_First_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "ipu4-2q9a.Site_Safety_Mgr_s_Last_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "pgtq-ht5f.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "52dp-yji6.Owner_Last_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "s3k6-pzi2.interest4.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "area_of_study"
+        }
+      ]
+    },
+    {
+      "column_name": "4y63-yw9e.SCHOOL_NAME.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "gez6-674h.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "a9md-ynri.MI.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "u553-m549.Independent_Website.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "website"
+        }
+      ]
+    },
+    {
+      "column_name": "uzcy-9puk.Street_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "dg92-zbpx.VendorAddress.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "jcih-dj9q.QUEENS_____CONDOMINIUMS_COMPARABLE_PROPERTIES_____Neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "735p-zed8.CANDMI.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "vg63-xw6u.CITY.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city"
+        }
+      ]
+    },
+    {
+      "column_name": "aiww-p3af.Cross_Street_1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "street_name"
+        }
+      ]
+    },
+    {
+      "column_name": "sa5w-dn2t.Agency.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city_agency"
+        }
+      ]
+    },
+    {
+      "column_name": "cspg-yi7g.ADDRESS.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "crbs-vur7.QUEENS_CONDOMINIUM_PROPERTY_Neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "erm2-nwe9.City.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city"
+        }
+      ]
+    },
+    {
+      "column_name": "nyis-y4yr.Owner_s__Phone__.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "phone_number"
+        }
+      ]
+    },
+    {
+      "column_name": "tukx-dsca.Address_1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "address"
+        }
+      ]
+    },
+    {
+      "column_name": "9b9u-8989.DBA.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "business_name"
+        }
+      ]
+    },
+    {
+      "column_name": "e4p3-6ecr.Agency_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "city_agency"
+        }
+      ]
+    },
+    {
+      "column_name": "5mw2-hzqx.BROOKLYN_CONDOMINIUM_PROPERTY_Neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "kiv2-tbus.Vehicle_Make.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "car_make"
+        }
+      ]
+    },
+    {
+      "column_name": "w6yt-hctp.COMPARABLE_RENTAL_1__Building_Classification.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "building_classification"
+        }
+      ]
+    },
+    {
+      "column_name": "k3cd-yu9d.CANDMI.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "person_name"
+        }
+      ]
+    },
+    {
+      "column_name": "ii2w-6fne.Borough.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "borough"
+        }
+      ]
+    },
+    {
+      "column_name": "w7w3-xahh.Location.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "lat_lon_cord"
+        }
+      ]
+    },
+    {
+      "column_name": "erm2-nwe9.Park_Facility_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "park_playground"
+        }
+      ]
+    },
+    {
+      "column_name": "5nz7-hh6t.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "subject_in_school"
+        }
+      ]
+    },
+    {
+      "column_name": "8wbx-tsch.Website.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "website"
+        }
+      ]
+    },
+    {
+      "column_name": "xne4-4v8f.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "vw9i-7mzq.neighborhood.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "yayv-apxh.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "aiww-p3af.Park_Facility_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "park_playground"
+        }
+      ]
+    },
+    {
+      "column_name": "jz4z-kudi.Violation_Location__City_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "neighborhood"
+        }
+      ]
+    },
+    {
+      "column_name": "kiv2-tbus.Vehicle_Body_Type.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "vehicle_type"
+        }
+      ]
+    },
+    {
+      "column_name": "fzv4-jan3.SCHOOL_LEVEL_.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_level"
+        }
+      ]
+    },
+    {
+      "column_name": "w7w3-xahh.Address_ZIP.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "i9pf-sj7c.INTEREST.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "area_of_study"
+        }
+      ]
+    },
+    {
+      "column_name": "ci93-uc8s.ZIP.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "zip_code"
+        }
+      ]
+    },
+    {
+      "column_name": "jtus-srrj.School_Name.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "school_name"
+        }
+      ]
+    },
+    {
+      "column_name": "a5td-mswe.Vehicle_Color.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "color"
+        }
+      ]
+    },
+    {
+      "column_name": "29bw-z7pj.Location_1.txt.gz",
+      "manual_labels": [
+        {
+          "semantic_type": "lat_lon_cord"
+        }
+      ]
+    }
+  ]
+]

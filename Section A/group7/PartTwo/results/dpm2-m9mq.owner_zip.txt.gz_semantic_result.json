@@ -1,0 +1,1 @@
+{"column name": "owner_zip", "semantic_types": [{"semantic_type": "zip_code", "count": 224558}, {"semantic_type": "other", "label": "zip_code", "count": 2827}, {"semantic_type": "building_classification", "count": 1}], "true_type": "zip_code", "prediction_type": "zip_code"}

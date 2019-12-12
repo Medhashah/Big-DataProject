@@ -1,0 +1,534 @@
+Adams
+Addison
+Afton
+Airmont
+Akron
+Albion
+Alden
+Alexander
+Alexandria Bay
+Alfred
+Allegany
+Almond
+Altamont
+Ames
+Amityville
+Andover
+Angelica
+Angola
+Antwerp
+Arcade
+Ardsley
+Argyle
+Arkport
+Asharoken
+Athens
+Atlantic Beach
+Attica
+Aurora
+Avoca
+Avon
+Babylon
+Bainbridge
+Baldwinsville
+Ballston Spa
+Barker
+Bath
+Baxter Estates
+Bayville
+Belle Terre
+Bellerose
+Bellport
+Belmont
+Bemus Point
+Bergen
+Black River
+Blasdell
+Bloomfield
+Bloomingburg
+Bolivar
+Boonville
+Brewster
+Briarcliff Manor
+Brightwaters
+Broadalbin
+Brockport
+Brocton
+Bronxville
+Brookville
+Brownville
+Brushton
+Buchanan
+Burdett
+Burke
+Caledonia
+Cambridge
+Camden
+Camillus
+Canajoharie
+Canaseraga
+Canastota
+Candor
+Canisteo
+Canton
+Cape Vincent
+Carthage
+Cassadaga
+Castile
+Castleton-on-Hudson
+Castorland
+Cato
+Catskill
+Cattaraugus
+Cayuga
+Cayuga Heights
+Cazenovia
+Cedarhurst
+Celoron
+Central Square
+Centre Island
+Champlain
+Chateaugay
+Chatham
+Chaumont
+Cherry Valley
+Chester
+Chestnut Ridge
+Chittenango
+Churchville
+Clayton
+Clayville
+Cleveland
+Clifton Springs
+Clinton
+Clyde
+Cobleskill
+Cohocton
+Cold Brook
+Cold Spring
+Colonie
+Constableville
+Cooperstown
+Copenhagen
+Corfu
+Corinth
+Cornwall-on-Hudson
+Cove Neck
+Coxsackie
+Croghan
+Croton-on-Hudson
+Cuba
+Dannemora
+Dansville
+Deferiet
+Delanson
+Delevan
+Delhi
+Depew
+Deposit
+Dering Harbor
+DeRuyter
+Dexter
+Dobbs Ferry
+Dolgeville
+Dresden
+Dryden
+Dundee
+Earlville
+East Aurora
+East Hampton
+East Hills
+East Nassau
+East Rochester
+East Rockaway
+East Syracuse
+East Williston
+Elba
+Elbridge
+Ellenville
+Ellicottville
+Ellisburg
+Elmira Heights
+Elmsford
+Endicott
+Esperance
+Evans Mills
+Fabius
+Fair Haven
+Fairport
+Falconer
+Farmingdale
+Farnham
+Fayetteville
+Fishkill
+Fleischmanns
+Floral Park
+Florida
+Flower Hill
+Fonda
+Fort Ann
+Fort Edward
+Fort Johnson
+Fort Plain
+Frankfort
+Franklin
+Franklinville
+Fredonia
+Freeport
+Freeville
+Fultonville
+Gainesville
+Galway
+Garden City
+Geneseo
+Gilbertsville
+Glen Park
+Goshen
+Gouverneur
+Gowanda
+Grand View-on-Hudson
+Granville
+Great Neck
+Great Neck Estates
+Great Neck Plaza
+Green Island
+Greene
+Greenport
+Greenwich
+Greenwood Lake
+Groton
+Hagaman
+Hamburg
+Hamilton
+Hammond
+Hammondsport
+Hancock
+Hannibal
+Harriman
+Harrison
+Hastings-on-Hudson
+Haverstraw
+Head of the Harbor
+Hempstead
+Herkimer
+Heuvelton
+Hewlett Bay Park
+Hewlett Harbor
+Hewlett Neck
+Highland Falls
+Hillburn
+Hilton
+Hobart
+Holland Patent
+Holley
+Homer
+Honeoye Falls
+Hoosick Falls
+Horseheads
+Hudson Falls
+Hunter
+Huntington Bay
+Ilion
+Interlaken
+Irvington
+Island Park
+Islandia
+Jeffersonville
+Johnson City
+Jordan
+Kaser
+Kenmore
+Kensington
+Kinderhook
+Kings Point
+Kiryas Joel
+Lacona
+Lake George
+Lake Grove
+Lake Placid
+Lake Success
+Lakewood
+Lancaster
+Lansing
+Larchmont
+Lattingtown
+Laurel Hollow
+Laurens
+Lawrence
+Le Roy
+Leicester
+Lewiston
+Liberty
+Lima
+Lindenhurst
+Lisle
+Little Valley
+Liverpool
+Livonia
+Lloyd Harbor
+Lodi
+Lowville
+Lynbrook
+Lyndonville
+Lyons Falls
+Madison
+Malone
+Malverne
+Mamaroneck
+Manchester
+Manlius
+Mannsville
+Manorhaven
+Marathon
+Marcellus
+Margaretville
+Massapequa Park
+Massena
+Matinecock
+Maybrook
+Mayfield
+Mayville
+McGraw
+Medina
+Menands
+Meridian
+Mexico
+Middleburgh
+Middleport
+Middleville
+Milford
+Mill Neck
+Millbrook
+Millerton
+Millport
+Mineola
+Minoa
+Mohawk
+Monroe
+Montebello
+Montgomery
+Monticello
+Montour Falls
+Moravia
+Morris
+Morristown
+Morrisville
+Mount Kisco
+Mount Morris
+Munnsville
+Munsey Park
+Muttontown
+Naples
+Nassau
+Nelliston
+Nelsonville
+New Berlin
+New Hartford
+New Hempstead
+New Hyde Park
+New Paltz
+New Square
+New York Mills
+Newark
+Newark Valley
+Newport
+Nichols
+Nissequogue
+North Collins
+North Haven
+North Hills
+North Hornell
+North Syracuse
+Northport
+Northville
+Norwood
+Nunda
+Nyack
+Oakfield
+Ocean Beach
+Odessa
+Old Brookville
+Old Field
+Old Westbury
+Oneida Castle
+Orchard Park
+Oriskany
+Oriskany Falls
+Ossining
+Otego
+Otisville
+Ovid
+Owego
+Oxford
+Oyster Bay Cove
+Painted Post
+Palatine Bridge
+Palmyra
+Panama
+Parish
+Patchogue
+Pawling
+Pelham
+Pelham Manor
+Penn Yan
+Perry
+Phelps
+Philadelphia
+Philmont
+Phoenix
+Piermont
+Pittsford
+Plandome
+Plandome Heights
+Plandome Manor
+Pleasantville
+Poland
+Pomona
+Poquott
+Port Byron
+Port Chester
+Port Dickinson
+Port Jefferson
+Port Leyden
+Port Washington North
+Portville
+Potsdam
+Pulaski
+Quogue
+Ravena
+Red Creek
+Red Hook
+Remsen
+Rensselaer Falls
+Rhinebeck
+Richburg
+Richfield Springs
+Richmondville
+Richville
+Riverside
+Rockville Centre
+Roslyn
+Roslyn Estates
+Roslyn Harbor
+Round Lake
+Rouses Point
+Rushville
+Russell Gardens
+Rye Brook
+Sackets Harbor
+Saddle Rock
+Sag Harbor
+Sagaponack
+Saltaire
+Sands Point
+Sandy Creek
+Saranac Lake
+Saugerties
+Savona
+Scarsdale
+Schaghticoke
+Schoharie
+Schuylerville
+Scotia
+Scottsville
+Sea Cliff
+Sharon Springs
+Sherburne
+Sherman
+Shoreham
+Shortsville
+Sidney
+Silver Creek
+Silver Springs
+Sinclairville
+Skaneateles
+Sleepy Hollow
+Sloan
+Sloatsburg
+Smyrna
+Sodus
+Sodus Point
+Solvay
+South Blooming Grove
+South Corning
+South Dayton
+South Floral Park
+South Glens Falls
+South Nyack
+Southampton
+Speculator
+Spencer
+Spencerport
+Spring Valley
+Springville
+St. Johnsville
+Stamford
+Stewart Manor
+Stillwater
+Suffern
+Sylvan Beach
+Tannersville
+Tarrytown
+Theresa
+Thomaston
+Tivoli
+Trumansburg
+Tuckahoe
+Tully
+Tupper Lake
+Turin
+Tuxedo Park
+Unadilla
+Union Springs
+Unionville
+Upper Brookville
+Upper Nyack
+Valatie
+Valley Falls
+Valley Stream
+Vernon
+Victor
+Victory
+Village of the Branch
+Voorheesville
+Waddington
+Walden
+Walton
+Wampsville
+Wappingers Falls
+Warsaw
+Warwick
+Washingtonville
+Waterford
+Waterloo
+Waterville
+Watkins Glen
+Waverly
+Wayland
+Webster
+Weedsport
+Wellsburg
+Wellsville
+Wesley Hills
+West Carthage
+West Hampton Dunes
+West Haverstraw
+West Winfield
+Westbury
+Westfield
+Westhampton Beach
+Whitehall
+Whitesboro
+Whitney Point
+Williamsville
+Williston Park
+Wilson
+Windsor
+Wolcott
+Woodbury
+Woodridge
+Woodsburgh
+Wurtsboro
+Wyoming
+Yorkville
+Youngstown

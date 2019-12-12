@@ -1,0 +1,7 @@
+'Subjects in school', 'SOCIAL STUDIES', 3744
+'Subjects in school', 'None', 0
+'Other', '-', 11260
+'Subjects in school', 'SIZE OF LARGEST CLASS,', 1
+'Subjects in school', 'MATH,', 3637
+'Subjects in school', 'ENGLISH,', 4512
+'Subjects in school', 'SCIENCE,', 4080

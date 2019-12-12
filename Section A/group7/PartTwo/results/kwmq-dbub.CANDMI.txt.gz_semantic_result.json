@@ -1,0 +1,1 @@
+{"column name": "CANDMI", "semantic_types": [{"semantic_type": "person_name", "count": 42850}, {"semantic_type": "borough", "count": 7943}], "true_type": "person_name", "prediction_type": "person_name"}

@@ -1,0 +1,2519 @@
+{
+  "predicted_types": [
+    {
+      "column_name": "SCHOOL",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 1546
+        }
+      ]
+    },
+    {
+      "column_name": "ZIP",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "count": 138671
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "count": 9018311
+        }
+      ]
+    },
+    {
+      "column_name": "Location",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "count": 1050168
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1503
+        }
+      ]
+    },
+    {
+      "column_name": "School_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 1548
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Make",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 1312719
+        },
+        {
+          "semantic_type": "car_make",
+          "count": 1051661
+        }
+      ]
+    },
+    {
+      "column_name": "CANDMI",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 92997
+        }
+      ]
+    },
+    {
+      "column_name": "Provider_First_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 822
+        }
+      ]
+    },
+    {
+      "column_name": "MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "count": 2646
+        }
+      ]
+    },
+    {
+      "column_name": "interest4",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "column_name": "PERSON_LAST_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 13095
+        }
+      ]
+    },
+    {
+      "column_name": "Incident_Zip",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "count": 1746426
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "count": 1525
+        }
+      ]
+    },
+    {
+      "column_name": "First_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 3302
+        }
+      ]
+    },
+    {
+      "column_name": "FirstName",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 6861
+        }
+      ]
+    },
+    {
+      "column_name": "BOROUGH",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 12438
+        }
+      ]
+    },
+    {
+      "column_name": "DBA",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 14672
+        }
+      ]
+    },
+    {
+      "column_name": "CrossStreet2",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 20380
+        }
+      ]
+    },
+    {
+      "column_name": "Address1",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 347
+        }
+      ]
+    },
+    {
+      "column_name": "Cross_Street_1",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 651188
+        }
+      ]
+    },
+    {
+      "column_name": "Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 6216
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1239
+        }
+      ]
+    },
+    {
+      "column_name": "BORO",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 3433
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE_TYPE_CODE_1",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "count": 116232
+        }
+      ]
+    },
+    {
+      "column_name": "Site_Safety_Mgr_s_First_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 18875
+        }
+      ]
+    },
+    {
+      "column_name": "ZIP",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "count": 117207
+        }
+      ]
+    },
+    {
+      "column_name": "BusinessName",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 9784
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE_RENTAL___2___Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 105
+        },
+        {
+          "semantic_type": "park_playground",
+          "count": 74
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 2295
+        }
+      ]
+    },
+    {
+      "column_name": "PREM_TYP_DESC",
+      "semantic_types": [
+        {
+          "semantic_type": "location_type",
+          "count": 3358323
+        }
+      ]
+    },
+    {
+      "column_name": "StreetName",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 204208
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Body_Type",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "count": 10797252
+        }
+      ]
+    },
+    {
+      "column_name": "Location_1",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "count": 10423
+        }
+      ]
+    },
+    {
+      "column_name": "AGENCY_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 144
+        }
+      ]
+    },
+    {
+      "column_name": "DBA",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 2642
+        }
+      ]
+    },
+    {
+      "column_name": "BOROUGH",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 47
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "column_name": "Site_Safety_Mgr_s_Last_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 1635
+        }
+      ]
+    },
+    {
+      "column_name": "company_phone",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "count": 537
+        }
+      ]
+    },
+    {
+      "column_name": "Street_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 831749
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "count": 1438
+        }
+      ]
+    },
+    {
+      "column_name": "Last_Name__only_2014_15_",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 1350
+        }
+      ]
+    },
+    {
+      "column_name": "Violation_Location__City_",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 6806702
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 5594688
+        },
+        {
+          "semantic_type": "city",
+          "count": 5520264
+        }
+      ]
+    },
+    {
+      "column_name": "Park_Facility_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 2818
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 520
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 350
+        }
+      ]
+    },
+    {
+      "column_name": "First_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 52210
+        }
+      ]
+    },
+    {
+      "column_name": "INPUT_1_Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 1293
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 1052
+        }
+      ]
+    },
+    {
+      "column_name": "Park_Facility_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "count": 108946
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE_RENTAL___1__Building_Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "count": 2631
+        }
+      ]
+    },
+    {
+      "column_name": "BORO",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 4604868
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 3450822
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 1325
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_COURSE_9_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 9692
+        }
+      ]
+    },
+    {
+      "column_name": "STREET_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 71865
+        }
+      ]
+    },
+    {
+      "column_name": "CITY",
+      "semantic_types": [
+        {
+          "semantic_type": "city",
+          "count": 26378
+        },
+        {
+          "semantic_type": "borough",
+          "count": 21346
+        }
+      ]
+    },
+    {
+      "column_name": "DBA",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 1448
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 331
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 226
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1806
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1664
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 1327
+        }
+      ]
+    },
+    {
+      "column_name": "QUEENS_CONDOMINIUM_PROPERTY_Building_Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "count": 251
+        }
+      ]
+    },
+    {
+      "column_name": "BROOKLYN_CONDOMINIUM_PROPERTY_Building_Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "count": 387
+        }
+      ]
+    },
+    {
+      "column_name": "Middle_Initial",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 483
+        }
+      ]
+    },
+    {
+      "column_name": "Agency_Website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "count": 1999
+        }
+      ]
+    },
+    {
+      "column_name": "Neighborhood_2",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 5641
+        },
+        {
+          "semantic_type": "park_playground",
+          "count": 3163
+        }
+      ]
+    },
+    {
+      "column_name": "Agency_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "count": 21325
+        }
+      ]
+    },
+    {
+      "column_name": "ZIP",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "count": 43340
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT__MS_CORE_and_9_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 509
+        }
+      ]
+    },
+    {
+      "column_name": "PREM_TYP_DESC",
+      "semantic_types": [
+        {
+          "semantic_type": "location_type",
+          "count": 105033
+        }
+      ]
+    },
+    {
+      "column_name": "Vendor_DBA",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 210
+        }
+      ]
+    },
+    {
+      "column_name": "LOCATION",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "count": 106818
+        }
+      ]
+    },
+    {
+      "column_name": "website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "count": 412
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 84
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 79
+        }
+      ]
+    },
+    {
+      "column_name": "City",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 149282
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 135142
+        },
+        {
+          "semantic_type": "city",
+          "count": 128821
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1459
+        }
+      ]
+    },
+    {
+      "column_name": "Location__Lat__Long_",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "count": 3319
+        }
+      ]
+    },
+    {
+      "column_name": "Applicant_s_First_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 1119730
+        }
+      ]
+    },
+    {
+      "column_name": "Location",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "count": 1735384
+        }
+      ]
+    },
+    {
+      "column_name": "School_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 614
+        }
+      ]
+    },
+    {
+      "column_name": "Street_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 793027
+        }
+      ]
+    },
+    {
+      "column_name": "Address_1__self_reported_",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 22703
+        }
+      ]
+    },
+    {
+      "column_name": "PERSON_FIRST_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 36583
+        }
+      ]
+    },
+    {
+      "column_name": "PHONE",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "count": 720405
+        }
+      ]
+    },
+    {
+      "column_name": "Location",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "count": 405100
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT___MS_CORE_and__9_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 17206
+        }
+      ]
+    },
+    {
+      "column_name": "School_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "count": 7275
+        },
+        {
+          "semantic_type": "school_name",
+          "count": 7191
+        }
+      ]
+    },
+    {
+      "column_name": "Phone",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "count": 1093
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_COURSE__MS_CORE_and_9_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 14113
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX_CONDOMINIUM_PROPERTY_Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 30
+        },
+        {
+          "semantic_type": "park_playground",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "column_name": "MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "count": 2631
+        }
+      ]
+    },
+    {
+      "column_name": "BORO",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 3081
+        }
+      ]
+    },
+    {
+      "column_name": "Incident_Zip",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "count": 1745830
+        }
+      ]
+    },
+    {
+      "column_name": "PRINCIPAL_PHONE_NUMBER",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "count": 1809
+        }
+      ]
+    },
+    {
+      "column_name": "_Phone",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "count": 22686
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 7035
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT_9_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 6736
+        }
+      ]
+    },
+    {
+      "column_name": "BUSINESS_NAME2",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 211
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "count": 1126
+        }
+      ]
+    },
+    {
+      "column_name": "interest5",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "column_name": "Landmark",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 176567
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE_RENTAL___2__Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 153
+        },
+        {
+          "semantic_type": "park_playground",
+          "count": 104
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 650
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 390
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Make",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 1391777
+        },
+        {
+          "semantic_type": "car_make",
+          "count": 1311385
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "count": 264
+        }
+      ]
+    },
+    {
+      "column_name": "org_neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "column_name": "School_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 671
+        }
+      ]
+    },
+    {
+      "column_name": "interest1",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "count": 396
+        }
+      ]
+    },
+    {
+      "column_name": "Cross_Street_1",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 688441
+        }
+      ]
+    },
+    {
+      "column_name": "TOSTREETNAME",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 29499
+        }
+      ]
+    },
+    {
+      "column_name": "interest1",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "count": 411
+        }
+      ]
+    },
+    {
+      "column_name": "owner_city",
+      "semantic_types": [
+        {
+          "semantic_type": "city",
+          "count": 175372
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 1264
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 11090
+        }
+      ]
+    },
+    {
+      "column_name": "Last_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 1438
+        }
+      ]
+    },
+    {
+      "column_name": "Location",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "count": 767156
+        }
+      ]
+    },
+    {
+      "column_name": "School_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 2560
+        }
+      ]
+    },
+    {
+      "column_name": "Owner_s__Phone__",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "count": 5956
+        }
+      ]
+    },
+    {
+      "column_name": "DVV_MAKE",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 70063
+        },
+        {
+          "semantic_type": "car_make",
+          "count": 54857
+        }
+      ]
+    },
+    {
+      "column_name": "WEBSITE",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "column_name": "Park_Facility_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 7476
+        }
+      ]
+    },
+    {
+      "column_name": "CITY",
+      "semantic_types": [
+        {
+          "semantic_type": "city",
+          "count": 97788
+        },
+        {
+          "semantic_type": "borough",
+          "count": 87303
+        }
+      ]
+    },
+    {
+      "column_name": "Applicant_Last_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 10117
+        }
+      ]
+    },
+    {
+      "column_name": "address_1",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 2251
+        }
+      ]
+    },
+    {
+      "column_name": "TOP_VEHICLE_MODELS___5",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 572
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 1482
+        }
+      ]
+    },
+    {
+      "column_name": "Street_Address",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 3250
+        }
+      ]
+    },
+    {
+      "column_name": "DVT_MAKE",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 10515
+        },
+        {
+          "semantic_type": "car_make",
+          "count": 9358
+        }
+      ]
+    },
+    {
+      "column_name": "telephone",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "count": 9323
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "count": 9973356
+        }
+      ]
+    },
+    {
+      "column_name": "BOROUGH",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 2375
+        }
+      ]
+    },
+    {
+      "column_name": "School_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 1798
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE_RENTAL_2__Building_Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "count": 1002
+        }
+      ]
+    },
+    {
+      "column_name": "School_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 1351
+        }
+      ]
+    },
+    {
+      "column_name": "AUTH_REP_LAST_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 7184
+        }
+      ]
+    },
+    {
+      "column_name": "Address",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 4209
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent_Address__Zip_Code_",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "count": 12429371
+        }
+      ]
+    },
+    {
+      "column_name": "QUEENS_CONDOMINIUM_PROPERTY_Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 125
+        }
+      ]
+    },
+    {
+      "column_name": "PRINCIPAL_PHONE_NUMBER",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "count": 1894
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "count": 7626726
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE_RENTAL___2__Building_Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "count": 2498
+        }
+      ]
+    },
+    {
+      "column_name": "BROOKLYN_CONDOMINIUM_PROPERTY_Building_Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "count": 595
+        }
+      ]
+    },
+    {
+      "column_name": "parkname",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "count": 1015
+        }
+      ]
+    },
+    {
+      "column_name": "School_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 1398
+        }
+      ]
+    },
+    {
+      "column_name": "Phone_Number",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "count": 959
+        }
+      ]
+    },
+    {
+      "column_name": "Website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "count": 6505
+        }
+      ]
+    },
+    {
+      "column_name": "interest1",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "count": 414
+        }
+      ]
+    },
+    {
+      "column_name": "MI",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 248193
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1503
+        }
+      ]
+    },
+    {
+      "column_name": "Street_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 850033
+        }
+      ]
+    },
+    {
+      "column_name": "BROOKLYN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "count": 962
+        }
+      ]
+    },
+    {
+      "column_name": "Cross_Street_2",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 669923
+        }
+      ]
+    },
+    {
+      "column_name": "independentwebsite",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "count": 58
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "count": 206
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1655
+        }
+      ]
+    },
+    {
+      "column_name": "Address_1__self_reported_",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 7219
+        }
+      ]
+    },
+    {
+      "column_name": "PRINCIPAL_PHONE_NUMBER",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "count": 1750
+        }
+      ]
+    },
+    {
+      "column_name": "Business_Phone_Number",
+      "semantic_types": [
+        {
+          "semantic_type": "phone_number",
+          "count": 65007
+        }
+      ]
+    },
+    {
+      "column_name": "interest3",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "count": 64
+        }
+      ]
+    },
+    {
+      "column_name": "LastName",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 2090
+        }
+      ]
+    },
+    {
+      "column_name": "School_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 1351
+        }
+      ]
+    },
+    {
+      "column_name": "neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 120
+        }
+      ]
+    },
+    {
+      "column_name": "Owner_First_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 120325
+        }
+      ]
+    },
+    {
+      "column_name": "City",
+      "semantic_types": [
+        {
+          "semantic_type": "city",
+          "count": 20491
+        },
+        {
+          "semantic_type": "borough",
+          "count": 20174
+        }
+      ]
+    },
+    {
+      "column_name": "CrossStreetName",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 51372
+        },
+        {
+          "semantic_type": "vehicle_type",
+          "count": 37827
+        }
+      ]
+    },
+    {
+      "column_name": "City",
+      "semantic_types": [
+        {
+          "semantic_type": "city",
+          "count": 15529
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 15416
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Make",
+      "semantic_types": [
+        {
+          "semantic_type": "car_make",
+          "count": 301811
+        },
+        {
+          "semantic_type": "person_name",
+          "count": 270583
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 426
+        }
+      ]
+    },
+    {
+      "column_name": "STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "column_name": "LOCATION",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "count": 1772352
+        }
+      ]
+    },
+    {
+      "column_name": "Website",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "column_name": "Zip",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "count": 1686905
+        }
+      ]
+    },
+    {
+      "column_name": "School_Type",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1722
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX_CONDOMINIUM_PROPERTY_Building_Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "building_classification",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "column_name": "Provider_Last_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 349
+        }
+      ]
+    },
+    {
+      "column_name": "First_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 141429
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "count": 69267
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 5
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent_Address__City_",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 5243138
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 4246018
+        }
+      ]
+    },
+    {
+      "column_name": "TruckMake",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 19065
+        }
+      ]
+    },
+    {
+      "column_name": "Park_Site_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "count": 253
+        }
+      ]
+    },
+    {
+      "column_name": "RESPONDENT_CITY",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 325550
+        }
+      ]
+    },
+    {
+      "column_name": "AUTH_REP_FIRST_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 22503
+        }
+      ]
+    },
+    {
+      "column_name": "Site_Safety_Mgr_s_Last_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 5063
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Body_Type",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "count": 9950601
+        }
+      ]
+    },
+    {
+      "column_name": "STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Make",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 1340199
+        },
+        {
+          "semantic_type": "car_make",
+          "count": 1336453
+        }
+      ]
+    },
+    {
+      "column_name": "MI",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 633247
+        }
+      ]
+    },
+    {
+      "column_name": "Owner_s_Business_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 17613
+        }
+      ]
+    },
+    {
+      "column_name": "Agency_ID",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "column_name": "FromStreetName",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 4438554
+        }
+      ]
+    },
+    {
+      "column_name": "CANDMI",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 34166
+        }
+      ]
+    },
+    {
+      "column_name": "website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "count": 150
+        }
+      ]
+    },
+    {
+      "column_name": "OWNER_BUS_STREET_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 10447
+        }
+      ]
+    },
+    {
+      "column_name": "Intersection_Street_2",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 221704
+        }
+      ]
+    },
+    {
+      "column_name": "website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "count": 331
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1806
+        }
+      ]
+    },
+    {
+      "column_name": "APPLICANT_FIRST_NAME",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 74382
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE_TYPE_CODE_5",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "count": 350
+        }
+      ]
+    },
+    {
+      "column_name": "interest6",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "column_name": "Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "count": 190
+        },
+        {
+          "semantic_type": "person_name",
+          "count": 102
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "count": 1426
+        }
+      ]
+    },
+    {
+      "column_name": "Street_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 848129
+        }
+      ]
+    },
+    {
+      "column_name": "Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "city_agency",
+          "count": 254
+        }
+      ]
+    },
+    {
+      "column_name": "Address_1",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 1067
+        }
+      ]
+    },
+    {
+      "column_name": "DVC_MAKE",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 37028
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 269
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE_RENTAL___1__Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 379
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE_TYPE_CODE_3",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "count": 5949
+        }
+      ]
+    },
+    {
+      "column_name": "Incident_Zip",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "count": 1659818
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 270
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Body_Type",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "count": 9802117
+        }
+      ]
+    },
+    {
+      "column_name": "INTEREST",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "count": 666
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1664
+        }
+      ]
+    },
+    {
+      "column_name": "StreetName",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 988340
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "count": 9253662
+        }
+      ]
+    },
+    {
+      "column_name": "Owner_s_House_Zip_Code",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "count": 3564178
+        }
+      ]
+    },
+    {
+      "column_name": "School_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 5707
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1459
+        }
+      ]
+    },
+    {
+      "column_name": "Location_1",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "count": 8492
+        }
+      ]
+    },
+    {
+      "column_name": "Name__Last__First_",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 124
+        }
+      ]
+    },
+    {
+      "column_name": "interest",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "count": 711
+        }
+      ]
+    },
+    {
+      "column_name": "MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 405
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Make",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 1599302
+        },
+        {
+          "semantic_type": "car_make",
+          "count": 1403942
+        }
+      ]
+    },
+    {
+      "column_name": "Filing_Representative_First_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 15618
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE_TYPE_CODE_4",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "count": 2210
+        }
+      ]
+    },
+    {
+      "column_name": "Owner_Last_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 46376
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_COURSE__MS_CORE_and_9_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 12474
+        }
+      ]
+    },
+    {
+      "column_name": "NeighborhoodName",
+      "semantic_types": [
+        {
+          "semantic_type": "neighborhood",
+          "count": 67
+        }
+      ]
+    },
+    {
+      "column_name": "DBA",
+      "semantic_types": [
+        {
+          "semantic_type": "business_name",
+          "count": 123345
+        }
+      ]
+    },
+    {
+      "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+      "semantic_types": [
+        {
+          "semantic_type": "subject_in_school",
+          "count": 96
+        }
+      ]
+    },
+    {
+      "column_name": "address",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 19446
+        }
+      ]
+    },
+    {
+      "column_name": "ADDRESS",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 413784
+        }
+      ]
+    },
+    {
+      "column_name": "Violation_Location__Zip_Code_",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "count": 15144120
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "count": 10262777
+        }
+      ]
+    },
+    {
+      "column_name": "CANDMI",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 42850
+        }
+      ]
+    },
+    {
+      "column_name": "MI",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 129078
+        }
+      ]
+    },
+    {
+      "column_name": "License_Business_City",
+      "semantic_types": [
+        {
+          "semantic_type": "city",
+          "count": 23231
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 23172
+        }
+      ]
+    },
+    {
+      "column_name": "CANDMI",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 22813
+        }
+      ]
+    },
+    {
+      "column_name": "Website",
+      "semantic_types": [
+        {
+          "semantic_type": "website",
+          "count": 76
+        }
+      ]
+    },
+    {
+      "column_name": "CrossStreet2",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 218953
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1239
+        }
+      ]
+    },
+    {
+      "column_name": "Park_Facility_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "count": 7294
+        },
+        {
+          "semantic_type": "school_name",
+          "count": 4888
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "count": 10021668
+        }
+      ]
+    },
+    {
+      "column_name": "StartCity",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 61246
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 59222
+        }
+      ]
+    },
+    {
+      "column_name": "Incident_Zip",
+      "semantic_types": [
+        {
+          "semantic_type": "zip_code",
+          "count": 20283284
+        }
+      ]
+    },
+    {
+      "column_name": "interest4",
+      "semantic_types": [
+        {
+          "semantic_type": "area_of_study",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "column_name": "Location",
+      "semantic_types": [
+        {
+          "semantic_type": "lat_lon_cord",
+          "count": 584062
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Color",
+      "semantic_types": [
+        {
+          "semantic_type": "color",
+          "count": 2044488
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1732
+        }
+      ]
+    },
+    {
+      "column_name": "Prequalified_Vendor_Address",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 2831
+        }
+      ]
+    },
+    {
+      "column_name": "School_Name",
+      "semantic_types": [
+        {
+          "semantic_type": "school_name",
+          "count": 6972
+        },
+        {
+          "semantic_type": "park_playground",
+          "count": 6895
+        }
+      ]
+    },
+    {
+      "column_name": "Establishment_Street",
+      "semantic_types": [
+        {
+          "semantic_type": "address",
+          "count": 2244
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE_TYPE_CODE_2",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "count": 98229
+        }
+      ]
+    },
+    {
+      "column_name": "SCHOOL_LEVEL_",
+      "semantic_types": [
+        {
+          "semantic_type": "school_level",
+          "count": 1732
+        }
+      ]
+    },
+    {
+      "column_name": "Street",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 59536
+        }
+      ]
+    },
+    {
+      "column_name": "Vehicle_Body_Type",
+      "semantic_types": [
+        {
+          "semantic_type": "vehicle_type",
+          "count": 2176207
+        }
+      ]
+    },
+    {
+      "column_name": "BROOKLYN_CONDOMINIUM_PROPERTY_Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "park_playground",
+          "count": 82
+        }
+      ]
+    },
+    {
+      "column_name": "Address",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 17823
+        },
+        {
+          "semantic_type": "address",
+          "count": 12748
+        }
+      ]
+    },
+    {
+      "column_name": "VEHICLE_MAKE",
+      "semantic_types": [
+        {
+          "semantic_type": "person_name",
+          "count": 2817
+        }
+      ]
+    },
+    {
+      "column_name": "Cross_Street_2",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 432752
+        }
+      ]
+    },
+    {
+      "column_name": "HOUSE_NUMBER",
+      "semantic_types": [
+        {
+          "semantic_type": "other",
+          "count": 1741977
+        }
+      ]
+    },
+    {
+      "column_name": "Intersection_Street_2",
+      "semantic_types": [
+        {
+          "semantic_type": "street_name",
+          "count": 222694
+        }
+      ]
+    },
+    {
+      "column_name": "City",
+      "semantic_types": [
+        {
+          "semantic_type": "borough",
+          "count": 74334
+        },
+        {
+          "semantic_type": "neighborhood",
+          "count": 64788
+        }
+      ]
+    }
+  ]
+}

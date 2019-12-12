@@ -1,0 +1,61 @@
+For task2, 4 scripts were designed to fulfill the requirements and they are the following:
+t2.py
+label.py
+create_output.py
+get_column_type.py
+prediction.py
+
+For t2.py:
+this script is used to group all the given columns together according to values, and generate 
+a result like this:
+
+EDDYS,1
+EVLAMPIE,3
+ASLYN,1
+DART,1
+LA TONYA,2
+TIN,5
+FEDDIA,1
+ANNIE-ROSE,1
+SHANEA,4
+SHANIKQUA,3
+GM,1
+
+the environment to run this script is on the cluster, with spark/2.4.0 module loaded
+and the txt file given at the same location of the script.
+the command to run this script is :
+spark-submit t2.py
+
+After running t2.py, the output result is a list of files containing the grouped values of each column
+Which our team would then label them using the label.py script.
+
+For label.py:
+open label.py and change the name and label of each file, then run it using python label.py to generate
+the following result:
+
+'First name', 'ANNA', 187
+'First name', 'MARCIAL', 6
+'First name', 'HAMDI', 1
+'First name', 'SHAMAINE', 3
+'First name', 'JADE', 29
+'First name', 'JOHNSON', 15
+'First name', 'DARLENE', 89
+'First name', 'ABDELLATIF', 4
+'First name', 'TANBIR', 5
+'First name', 'STEFANY', 5
+
+then the team would manually look into each of the result file and label any semantic type that are incorrect
+compared to the rest of the file
+
+After labelling the columns, the final 3 scripts are used to get the output and results for the report,
+these scripts are executed in the same fashion: python <script name>
+
+For create_output.py:
+this script generates Task2.json for result output
+
+For get_column_type.py:
+this script generates for each column type, how many columns they are in(for the report)
+
+For prediction.py:
+by changing the prediction models and strategies, we can generate 3 different output results for the report
+on predicting a column's semantic type.

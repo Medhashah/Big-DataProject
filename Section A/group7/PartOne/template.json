@@ -1,0 +1,158 @@
+{
+    "dataset_name": "",
+    "columns": [
+        {
+            "columnName": "",
+            "number_of_none_emptys": "",
+            "number_of_empty": "",
+            "number_distinct_values": "",
+            "frequent_values": "",
+            "data_type": [
+                {
+                    "type": "INTEGER (LONG)",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": "",
+                    "mean": "",
+                    "stddev": ""
+                },
+                {
+                    "type": "REAL",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": "",
+                    "mean": "",
+                    "stddev": ""
+                },
+                {
+                    "type": "DATE/TIME",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": ""
+                },
+                {
+                    "type": "TEXT",
+                    "count": "",
+                    "shortest_value": "",
+                    "longest_value": "",
+                    "average_length": ""
+                }
+            ]
+        },
+        {
+            "columnName": "",
+            "number_of_none_emptys": "",
+            "number_of_empty": "",
+            "number_distinct_values": "",
+            "frequent_values": "",
+            "data_type": [
+                {
+                    "type": "INTEGER (LONG)",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": "",
+                    "mean": "",
+                    "stddev": ""
+                },
+                {
+                    "type": "REAL",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": "",
+                    "mean": "",
+                    "stddev": ""
+                },
+                {
+                    "type": "DATE/TIME",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": ""
+                },
+                {
+                    "type": "TEXT",
+                    "count": "",
+                    "shortest_value": "",
+                    "longest_value": "",
+                    "average_length": ""
+                }
+            ]
+        },
+        {
+            "columnName": "",
+            "number_of_none_emptys": "",
+            "number_of_empty": "",
+            "number_distinct_values": "",
+            "frequent_values": "",
+            "data_type": [
+                {
+                    "type": "INTEGER (LONG)",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": "",
+                    "mean": "",
+                    "stddev": ""
+                },
+                {
+                    "type": "REAL",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": "",
+                    "mean": "",
+                    "stddev": ""
+                },
+                {
+                    "type": "DATE/TIME",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": ""
+                },
+                {
+                    "type": "TEXT",
+                    "count": "",
+                    "shortest_value": "",
+                    "longest_value": "",
+                    "average_length": ""
+                }
+            ]
+        },
+        {
+            "columnName": "",
+            "number_of_none_emptys": "",
+            "number_of_empty": "",
+            "number_distinct_values": "",
+            "frequent_values": "",
+            "data_type": [
+                {
+                    "type": "INTEGER (LONG)",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": "",
+                    "mean": "",
+                    "stddev": ""
+                },
+                {
+                    "type": "REAL",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": "",
+                    "mean": "",
+                    "stddev": ""
+                },
+                {
+                    "type": "DATE/TIME",
+                    "count": "",
+                    "max_value": "",
+                    "min_value": ""
+                },
+                {
+                    "type": "TEXT",
+                    "count": "",
+                    "shortest_value": "",
+                    "longest_value": "",
+                    "average_length": ""
+                }
+            ]
+        }
+    ],
+    "key_column_candidates": ""
+}

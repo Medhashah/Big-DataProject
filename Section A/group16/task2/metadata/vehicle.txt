@@ -1,0 +1,46 @@
+Aerial tramway
+Airplane
+Aircraft
+Ambulance
+Baby carriage
+Hot-air balloon
+Bulldozer
+Bicycle
+Boat
+bike
+Bus
+Carriage
+Cement mixer
+Crane
+Camper van
+Caravan
+Dump truck
+Delivery van
+Fire engine
+Forklift
+Helicopter
+Motorcycle
+Mountain bike
+Moped
+Police car
+Rowboat
+Scooter
+Skateboard
+Subway
+Taxi
+cab
+Tractor
+Train
+Truck
+Streetcar
+Van
+sdn
+sedan
+PASSENGER VEHICLE
+subn
+4dsd
+pick
+2dsd
+refg
+trac
+util

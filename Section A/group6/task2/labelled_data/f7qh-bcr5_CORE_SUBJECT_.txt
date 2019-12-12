@@ -1,0 +1,7 @@
+'Subjects in school', 'SOCIAL STUDIES', 28
+'Subjects in school', 'None', 0
+'Subjects in school', 'NUMBER OF SECTIONS', 1
+'Other', '-,', 34
+'Subjects in school', 'MATH,', 32
+'Subjects in school', 'ENGLISH,', 21
+'Subjects in school', 'SCIENCE,', 32

@@ -1,0 +1,1756 @@
+'Address', '575 Soundview Avenue', 1
+'Address', '1435 Prospect Place', 1
+'Address', '1102 East 92 Street', 1
+'Address', '1436 67 Street', 1
+'Address', '3703 94 Street', 1
+'Address', '133-40 79Th Street', 1
+'Address', '84 Schaefer Street', 1
+'Address', '1025 Eastern Parkway', 1
+'Address', '1599 East 22 Street', 1
+'Address', '410 West 40 Street', 1
+'Address', '1695 Seward Avenue', 1
+'Address', '1375 Mace Avenue', 1
+'Address', '1555 East 174 Street', 1
+'Address', '460 Atlantic Avenue', 1
+'Address', '721 Lincoln Place', 1
+'Address', '5916 20 Avenue', 1
+'Address', '815 54 Street', 1
+'Address', '51-07 69 Street', 1
+'Address', '154-24 26 Avenue', 1
+'Address', '3223 Queens Boulevard', 1
+'Address', '425 East 159 Street', 1
+'Address', '968 Cauldwell Avenue', 1
+'Address', '2336 Andrews Avenue', 1
+'Address', '1363 46 Street', 1
+'Address', '3017 Glenwood Road', 1
+'Address', '55-20 Metropolitan Avenue', 1
+'Address', '13527 38 Avenue', 1
+'Address', '20 West Street', 1
+'Address', '114 East 118 Street', 1
+'Address', '110 East 129 Street', 1
+'Address', '325 South 3 Street', 1
+'Address', '6420 Bay Parkway', 1
+'Address', '14119 224 Street', 1
+'Address', '134 West 122 Street', 1
+'Address', '300 West 61 Street', 1
+'Address', '333 East 135 Street', 1
+'Address', '1861 Anthony Avenue', 1
+'Address', '976 President Street', 1
+'Address', '125 Schroeders Avenue', 1
+'Address', '4211 14 Avenue', 1
+'Address', '850 50 Street', 1
+'Address', '346 Avenue P', 1
+'Address', '109-17 46 Avenue', 1
+'Address', '90-05 161 Street', 1
+'Address', '2967 Frederick Douglas Boulevard', 1
+'Address', '465 West 167 Street', 2
+'Address', '1560 Purdy Street', 1
+'Address', '2547 East Tremont Avenue', 1
+'Address', '2543 Morgan Avenue', 1
+'Address', '1001 Herkimer Street', 1
+'Address', '3300 Coney Island Avenue', 1
+'Address', '2121 Washington Avenue', 1
+'Address', '791 Empire Boulevard', 1
+'Address', '3867 Shore Parkway', 1
+'Address', '2121 Bragg Street', 1
+'Address', '70-24 47 Avenue', 1
+'Address', '33-15 154 Street', 1
+'Address', '34-57 Francis Lewis Boulevard', 1
+'Address', '200 Wardwell Avenue', 1
+'Address', '50 Osage Lane', 1
+'Address', '252 East 57 Street', 1
+'Address', '168 Morningside Avenue', 1
+'Address', '4321 Barnes Avenue', 1
+'Address', '51 Saint Edwards Street', 1
+'Address', '8620 114 Street', 1
+'Address', '1860 Forest Avenue', 1
+'Address', '280 Regis Drive', 1
+'Address', '328 West 48 Street', 1
+'Address', '1771 Popham Avenue', 1
+'Address', '141 Featherbed Lane', 1
+'Address', '3030 Godwin Terrace', 1
+'Address', '100 Clermont Avenue', 1
+'Address', '180 6 Avenue', 1
+'Address', '133 Kings First Walk', 1
+'Address', '490 Fenimore Street', 1
+'Address', '7103 Avenue T', 1
+'Address', '137-20 Franklin Avenue', 1
+'Address', '21212 26 Avenue', 1
+'Address', '86-50 109 Street', 1
+'Address', '111-11 118 Street', 1
+'Address', '158-20 101 Street', 1
+'Address', '191 Vermont Avenue', 1
+'Address', '651 Broadway', 1
+'Address', '302-306 East 111 Street', 1
+'Address', '2500 Creston Avenue', 1
+'Address', '300 Jay Street', 1
+'Address', '775 50 Street', 1
+'Address', '330 Alabama Avenue', 1
+'Address', '13616 31 Road', 1
+'Address', '71-02 113 Street', 1
+'Address', '31-05 51 Street', 1
+'Address', '100 Jerome Avenue', 1
+'Address', '125 West 109 Street', 2
+'Address', '937 Teller Avenue', 1
+'Address', '125 5 Avenue', 1
+'Address', '84-05 78 Avenue', 1
+'Address', '122-01 Guy R Brewer Boulevard', 1
+'Address', '1305 Hylan Boulevard', 1
+'Address', '311 West 120 Street', 1
+'Address', '4917 Fourth Avenue', 1
+'Address', '800 Poly Place', 1
+'Address', '2848 Brighton 7 Street', 1
+'Address', '104 Sutter Avenue', 1
+'Address', '232 Powell Street', 1
+'Address', '62-22 61 Street', 1
+'Address', '5337 72 Street', 1
+'Address', '220-24 Jamaica Avenue', 1
+'Address', '2125 21 Avenue', 1
+'Address', '15 Mount Morris Park West', 1
+'Address', '4011 Monticello Avenue', 1
+'Address', '920 East 167 Street', 1
+'Address', '161 South 3 Street', 1
+'Address', '219 25 Street', 1
+'Address', '757 Wortman Avenue', 1
+'Address', '104-04 Corona Avenue', 1
+'Address', '4105 Beach Channel Drive', 1
+'Address', '100 Noll Street', 1
+'Address', '311 East 82 Street', 1
+'Address', '419 East 86 Street', 1
+'Address', '2512 Marion Avenue', 1
+'Address', '204 15 Street', 1
+'Address', '214 Stuyvesant Avenue', 1
+'Address', '762 59 Street', 1
+'Address', '2951 West 3 Street', 1
+'Address', '2964 West 23 Street', 1
+'Address', '67-25 188 Street', 1
+'Address', '1500 Morris Avenue', 1
+'Address', '309 47 Street', 1
+'Address', '370 New Lots Avenue', 1
+'Address', '412 Kings Highway', 1
+'Address', '88 Leonard Street', 1
+'Address', '10 Reade Street', 1
+'Address', '1750 Amsterdam Avenue', 1
+'Address', '1638 Anthony Avenue', 1
+'Address', '2703 Webster Avenue', 1
+'Address', '775 Rogers Avenue', 1
+'Address', '2310 Glenwood Road', 1
+'Address', '990 Hylan Boulevard', 1
+'Address', '77 Market Street', 1
+'Address', '147-27 15 Drive', 1
+'Address', '133-14 41 Avenue', 1
+'Address', '104-06 101 Avenue', 1
+'Address', '955 Hutchinson River Parkway', 1
+'Address', '4102 White Plains Road', 1
+'Address', '1515 Southern Boulevard', 1
+'Address', '923 Jerome Street', 1
+'Address', '140 58 Street', 2
+'Address', '104-21 39 Avenue', 1
+'Address', '65-11 155 Street', 1
+'Address', '93-02 69 Avenue', 1
+'Address', '72-55 Austin Street', 1
+'Address', '43-42 47 Street', 1
+'Address', '455 Wilson Avenue', 1
+'Address', '144-176 East 128 Street', 1
+'Address', '25 West 132 Street', 1
+'Address', '1500 Arnow Avenue', 1
+'Address', '195 Sandford Street', 1
+'Address', '109-10 47 Avenue', 2
+'Address', '90-15 Sutter Avenue', 1
+'Address', '565 Morris Avenue', 1
+'Address', '1621 Pilgrim Avenue', 1
+'Address', '730 Park Avenue', 1
+'Address', '11 Catherine Street', 1
+'Address', '34-47 88 Street', 2
+'Address', '345 East 101 Street', 1
+'Address', '1113 Church Avenue', 1
+'Address', '684 Linden Boulevard', 1
+'Address', '200 Linwood Street', 1
+'Address', '1215 Avenue X', 1
+'Address', '6363 Avenue U', 1
+'Address', '163-15 21 Road', 1
+'Address', '40-20 235 Street', 1
+'Address', '25220 Northern Boulevard', 1
+'Address', '101-60 92 Street', 1
+'Address', '115 East 98 Street', 1
+'Address', '214 West 142 Street', 1
+'Address', '423 East 138 Street', 1
+'Address', '5521 Mosholu Avenue', 1
+'Address', '76 Lorraine Street', 2
+'Address', '101-24 Seaview Avenue', 1
+'Address', '407 East 53 Street', 1
+'Address', '6802 Metropolitan Avenue', 1
+'Address', '57-27 Penrod Street', 1
+'Address', '13320 Avery Avenue', 1
+'Address', '24115 North Conduit Avenue', 1
+'Address', '3252 37 Street', 1
+'Address', '4108 Victory Boulevard', 1
+'Address', '200 Central Avenue', 1
+'Address', '500 West 160 Street', 1
+'Address', '335 East 152 Street', 1
+'Address', '2075 Webster Avenue', 1
+'Address', '5401 Post Road', 1
+'Address', '305-307 Third Avenue', 1
+'Address', '1270 Bay Ridge Parkway', 1
+'Address', '31-36 88 Street', 1
+'Address', '43-12 46 Street', 2
+'Address', '2322 Third Avenue', 1
+'Address', '1075 Pugsley Avenue', 1
+'Address', '830 Fox Street', 1
+'Address', '1250 Ward Avenue', 2
+'Address', '1550 Vyse Avenue', 2
+'Address', '330 Crown Street', 1
+'Address', '1825 Bath Avenue', 1
+'Address', '600 Mcdonald Avenue', 1
+'Address', '273 Newport Street', 1
+'Address', '80 South Goff Avenue', 1
+'Address', '160 East 120 Street', 1
+'Address', '2346 Amsterdam Avenue', 1
+'Address', '1240 Webster Avenue', 1
+'Address', '650 Baychester Avenue', 1
+'Address', '7806-08 New Utrecht Avenue', 1
+'Address', '33-09 35 Avenue', 1
+'Address', '35-32 21 Street', 1
+'Address', '840 Delafield Avenue', 1
+'Address', '8 Henry Street', 1
+'Address', '5480 Broadway', 1
+'Address', '211 Throop Avenue', 1
+'Address', '921 Hegeman Avenue', 1
+'Address', '4206-10 15 Avenue', 1
+'Address', '105 Kings Highway', 1
+'Address', '2901 Campus Road', 1
+'Address', '1650 Utopia Parkway', 1
+'Address', '159-15 88 Street', 1
+'Address', '153-36 89 Avenue', 1
+'Address', '100 West 84 Street', 1
+'Address', '2230 5 Avenue', 1
+'Address', '3441 Steenwick Avenue', 1
+'Address', '320 Manhattan Avenue', 1
+'Address', '60 East 93 Street', 1
+'Address', '811 54 Street', 1
+'Address', '100-09 39 Avenue', 1
+'Address', '77-40 164 Street', 1
+'Address', '75-21 Main Street', 1
+'Address', '6158 Springfield Boulevard', 1
+'Address', '6433 Woodhaven Boulevard', 1
+'Address', '132-15 218 Street', 1
+'Address', '10945 207 Street', 1
+'Address', '216 Clawson Street', 1
+'Address', '450 Saint Pauls Place', 1
+'Address', '2929 West 31 Street', 1
+'Address', '2743 Ocean Avenue', 1
+'Address', '1915 Oriental Boulevard', 1
+'Address', '7201 43 Avenue', 1
+'Address', '117-16 Sutphin Boulevard', 1
+'Address', '257 Beach 17 Street', 1
+'Address', '2195 Valentine Avenue', 1
+'Address', '25 Dock Street', 1
+'Address', '124 Monitor Street', 1
+'Address', '451 7 Avenue', 1
+'Address', '3610 Glenwood Road', 1
+'Address', '179-37 137 Avenue', 1
+'Address', '175 West 134 Street', 1
+'Address', '586 West 177 Street', 1
+'Address', '383 East 139 Street', 1
+'Address', '720 Washington Avenue', 1
+'Address', '386 Marlborough Road', 1
+'Address', '167-02 45 Avenue', 1
+'Address', '104-18 134 Street', 1
+'Address', '1458 York Avenue', 1
+'Address', '529 West 155 Street', 1
+'Address', '3980 Orloff Avenue', 1
+'Address', '1166 Neill Avenue', 1
+'Address', '50 Monroe Place', 1
+'Address', '470 Lefferts Avenue', 1
+'Address', '1075 Ocean View Avenue', 1
+'Address', '11102 86 Avenue', 1
+'Address', '170-30 130 Avenue', 1
+'Address', '202 Sherman Avenue', 1
+'Address', '4419 7 Avenue', 1
+'Address', '8501 5 Avenue', 1
+'Address', '1001 East 45 Street', 1
+'Address', '211-45 46 Road', 1
+'Address', '101-33 124 Street', 1
+'Address', '61-02 98 Street', 1
+'Address', '83-30 Kew Gardens Road', 1
+'Address', '178-37 146 Terrace', 1
+'Address', '88 Woodbine Street', 1
+'Address', '315 East 113 Street', 1
+'Address', '121 West 128 Street', 1
+'Address', '758 Courtlandt Avenue', 1
+'Address', '201 Saint Anns Avenue', 1
+'Address', '3314 Neptune Avenue', 1
+'Address', '3110 Thomson Avenue', 1
+'Address', '200 Penn Avenue', 1
+'Address', '40 Division Street', 1
+'Address', '1565 Madison Avenue', 1
+'Address', '306 Fort Washington Avenue', 1
+'Address', '474 West 159 Street', 1
+'Address', '44-60 Rockwell Place', 1
+'Address', '1037 East 54 Street', 1
+'Address', '1957 Nostrand Avenue', 1
+'Address', '2805 Newkirk Avenue', 1
+'Address', '152-20 11 Avenue', 1
+'Address', '70-10 164 Street', 1
+'Address', '50 Ascan Avenue', 1
+'Address', '137-37 Farmers Boulevard', 1
+'Address', '45 East 81 Street', 1
+'Address', '150 West 105 Street', 1
+'Address', '414 Morris Avenue', 1
+'Address', '1537 Washington Avenue', 1
+'Address', '1400 Needham Avenue', 1
+'Address', '921 East 180 Street', 1
+'Address', '141-11 Holly Avenue', 1
+'Address', '126-28 150 Street', 1
+'Address', '130-02 115 Avenue', 1
+'Address', '4 New York Plaza', 1
+'Address', '564 Jackson Avenue', 1
+'Address', '990 Pelham Parkway South', 1
+'Address', '1827 Archer Street', 3
+'Address', '272 Macdonough Street', 1
+'Address', '2700 Linden Boulevard', 1
+'Address', '347 74 Street', 1
+'Address', '1379 West 7 Street', 1
+'Address', '56-01 61 Street', 1
+'Address', '18-25 212 Street', 1
+'Address', '501-503 West 152 Street', 1
+'Address', '1181 Boston Road', 1
+'Address', '719 East 216 Street', 1
+'Address', '700 Park Avenue', 1
+'Address', '4718 Farragut Road', 1
+'Address', '1520 East 13 Street', 1
+'Address', '2150 Ocean Avenue', 1
+'Address', '10003 39 Avenue', 1
+'Address', '109-60 202 Street', 1
+'Address', '19 East 103 Street', 1
+'Address', '101 Fleet Place', 1
+'Address', '880 60 Street', 1
+'Address', '611 Beach 19 Street', 1
+'Address', '1909 Daly Avenue', 1
+'Address', '51 Christopher Avenue', 1
+'Address', '193-25 Jamaica Avenue', 1
+'Address', '112 Lindenwood Road', 1
+'Address', '490 Hudson Street', 1
+'Address', '115 Chrystie Street', 1
+'Address', '811 East 149 Street', 1
+'Address', '677 East 141 Street', 1
+'Address', '1020 Summit Avenue', 1
+'Address', '70 Ocean Parkway', 1
+'Address', '763 President Street', 1
+'Address', '431 Avenue P', 1
+'Address', '559 Cypress Avenue', 1
+'Address', '14627 Beech Avenue', 1
+'Address', '13254 Pople Avenue', 1
+'Address', '171-05 137 Avenue', 1
+'Address', '2270 Bronx Park East', 1
+'Address', '75 Meserole Avenue', 1
+'Address', '281 Stuyvesant Avenue', 1
+'Address', '7106 13 Avenue', 1
+'Address', '1815 85 Street', 1
+'Address', '2929 West 30 Street', 1
+'Address', '3096 Brighton 6 Street', 1
+'Address', '1018 Avenue Y', 1
+'Address', '166-26 89 Avenue', 1
+'Address', '90-04 175 Street', 1
+'Address', '2987 Frederick Douglas Boulevard', 1
+'Address', '750 Prospect Avenue', 1
+'Address', '2570 Pitkin Avenue', 1
+'Address', '1633 East 8 Street', 1
+'Address', '1724 Avenue P', 1
+'Address', '108-18 Roosevelt Avenue', 1
+'Address', '3311 77 Street', 1
+'Address', '464 East 10 Street', 1
+'Address', '231-249 East 56 Street', 1
+'Address', '109 Highland Place', 1
+'Address', '2960 West 27 Street', 1
+'Address', '2770 East 16 Street', 1
+'Address', '83-09 157 Avenue', 1
+'Address', '85-27 91St Street', 1
+'Address', '331 Central Avenue', 1
+'Address', '71 Arden Street', 1
+'Address', '105 Willis Avenue', 1
+'Address', '2050 Benedict Avenue', 1
+'Address', '1729 Rockaway Parkway', 1
+'Address', '1968 Ocean Avenue', 1
+'Address', '136-58 41 Avenue', 1
+'Address', '115-50 221 Street', 1
+'Address', '644 Bloomingdale Road', 1
+'Address', '820 Columbus Avenue', 1
+'Address', '3240 Broadway', 1
+'Address', '39-20 48 Avenue', 1
+'Address', '34-51 Leavitt Street', 1
+'Address', '108-42 Sutphin Boulevard', 1
+'Address', '84-35 152 Street', 1
+'Address', '1594 Townsend Avenue', 1
+'Address', '3880 Sedgwick Avenue', 1
+'Address', '3415 Olinville Avenue', 1
+'Address', '1019 46 Street', 1
+'Address', '900 Saint Marks Avenue', 1
+'Address', '345 91 Street', 1
+'Address', '142-30 Barclay Avenue', 1
+'Address', '233-10 Linden Boulevard', 1
+'Address', '48-09 Center Boulevard', 2
+'Address', '181 Suydam Street', 1
+'Address', '1700 Third Avenue', 1
+'Address', '266 East 163 Street', 1
+'Address', '4035 White Plains Road', 1
+'Address', '1400 Benson Avenue', 1
+'Address', '130 Brighton 11 Street', 1
+'Address', '25-05 37 Avenue', 1
+'Address', '301 West 140 Street', 1
+'Address', '475 West 155 Street', 1
+'Address', '390 Jackson Avenue', 1
+'Address', '711 Manida Street', 1
+'Address', '2514 Wilson Avenue', 1
+'Address', '1211 Croes Avenue', 1
+'Address', '243 South 2 Street', 2
+'Address', '425 Henry Street', 1
+'Address', '1612 Quentin Road', 1
+'Address', '41-15 104 Street', 1
+'Address', '203-02 109 Avenue', 1
+'Address', '100-05 Springfield Boulevard', 1
+'Address', '334 Greenwich Street', 1
+'Address', '314 East 110 Street', 1
+'Address', '800 Taylor Avenue', 1
+'Address', '601 Stickball Boulevard', 1
+'Address', '101 Maujer Street', 1
+'Address', '148-15 230 Street', 1
+'Address', '112-18 Springfield Boulevard', 1
+'Address', '3061 87 Street', 1
+'Address', '202 Riverside Drive', 1
+'Address', '80 West End Avenue', 1
+'Address', '940 East 156 Street', 1
+'Address', '3961 Hillman Avenue', 1
+'Address', '4520 Matilda Avenue', 1
+'Address', '574 Dumont Avenue', 1
+'Address', '8655 Broadway', 1
+'Address', '250-21 Northern Boulevard', 1
+'Address', '180 Beach 35 Street', 1
+'Address', '18708 Hillside Avenue', 1
+'Address', '763 Knickerbocker Avenue', 1
+'Address', '850 Kent Avenue', 1
+'Address', '1169 43 Street', 1
+'Address', '671 Louisiana Avenue', 1
+'Address', '280 Livonia Avenue', 1
+'Address', '216 Beach 87 Street', 1
+'Address', '2-26 Washington Street', 1
+'Address', '500 West 138 Street', 1
+'Address', '230 East 183 Street', 1
+'Address', '2050 Prospect Avenue', 1
+'Address', '1120 East 10 Street', 1
+'Address', '714 Banner Avenue', 1
+'Address', '3829 Avenue K', 1
+'Address', '111 Bristol Street', 1
+'Address', '94-43 159 Street', 1
+'Address', '100 Tompkins Avenue', 1
+'Address', '323 Grand Street', 1
+'Address', '489 Saint Pauls Place', 1
+'Address', '265 Marcus Garvey Boulevard', 1
+'Address', '4715 18 Avenue', 1
+'Address', '257 Bay Ridge Avenue', 1
+'Address', '44-07 Little Neck Parkway', 1
+'Address', '218-19 105 Avenue', 1
+'Address', '54 Osborne Street', 1
+'Address', '2800 Victory Boulevard', 1
+'Address', '16 Osgood Avenue', 1
+'Address', '730 Kelly Street', 1
+'Address', '681 Kelly Street', 1
+'Address', '173-177 25 Street', 1
+'Address', '231-02 67 Avenue', 1
+'Address', '7312 197 Street', 1
+'Address', '47-28 11 Street', 1
+'Address', '590 West 235 Street', 1
+'Address', '4202 8 Avenue', 1
+'Address', '17 Hinsdale Street', 1
+'Address', '1402 40 Street', 1
+'Address', '2515 Avenue L', 1
+'Address', '2739 Bedford Avenue', 1
+'Address', '7-05 152 Street', 1
+'Address', '126-22 150 Street', 1
+'Address', '98-02 62 Drive', 1
+'Address', '35-59 81 Street', 1
+'Address', '319 East 117 Street', 1
+'Address', '475 Grand Concourse', 1
+'Address', '2023 Pacific Street', 1
+'Address', '601 Parkside Avenue', 1
+'Address', '29-97 Ocean Parkway', 1
+'Address', '249 East 17 Street', 1
+'Address', '252-12 72 Avenue', 1
+'Address', '109-59 Inwood Street', 1
+'Address', '39-07 57 Street', 1
+'Address', '5037 Broadway', 1
+'Address', '355 Morningstar Road', 1
+'Address', '1299 Amsterdam Avenue', 1
+'Address', '2125 Watson Avenue', 1
+'Address', '2111 Crotona Avenue', 1
+'Address', '31 New York Avenue', 1
+'Address', '4011 Fillmore Avenue', 1
+'Address', '132-25 Pople Avenue', 1
+'Address', '185 East 7 Street', 1
+'Address', '34 Avenue D', 1
+'Address', '320 East 20 Street', 1
+'Address', '114 West 91 Street', 1
+'Address', '650 Hollywood Avenue', 1
+'Address', '1925 Schieffelin Avenue', 1
+'Address', '100 Aldrich Street', 1
+'Address', '1688 President Street', 1
+'Address', '1340 East 29 Street', 1
+'Address', '88-08 164 Street', 1
+'Address', '141-20 Grand Central Parkway', 1
+'Address', '300 Richmond Terrace', 1
+'Address', '145 Ross Avenue', 1
+'Address', '100 Irving Avenue', 1
+'Address', '419 East 66 Street', 1
+'Address', '131 East 104 Street', 1
+'Address', '608 East 139 Street', 1
+'Address', '3930 Bailey Avenue', 1
+'Address', '2169 Grand Concourse', 1
+'Address', '1144 Hoe Avenue', 1
+'Address', '3316-18 Church Avenue', 1
+'Address', '1325 Pennsylvania Avenue', 1
+'Address', '927 Mcdonald Avenue', 1
+'Address', '6926 Cooper Avenue', 1
+'Address', '200-01 42 Avenue', 1
+'Address', '251-11 Weller Avenue', 1
+'Address', '233-15 Merrick Boulevard', 1
+'Address', '501 Richmond Hill Road', 1
+'Address', '250 West 127 Street', 1
+'Address', '1027 Walton Avenue', 1
+'Address', '2007 Linden Boulevard', 1
+'Address', '85-41 Forest Parkway', 1
+'Address', '77 Marsh Avenue', 1
+'Address', '1 West 112 Street', 1
+'Address', '1880 Watson Avenue', 1
+'Address', '580 Crotona Park South', 1
+'Address', '175 West 166 Street', 1
+'Address', '420 95 Street', 1
+'Address', '82-04 Lefferts Boulevard', 1
+'Address', '118-46 Riverton Street', 1
+'Address', '285 Clove Road', 2
+'Address', '600 Hart Street', 1
+'Address', '440 West 53 Street', 1
+'Address', '739 East New York Avenue', 1
+'Address', '55-11 Queens Boulevard', 1
+'Address', '333 East 4 Street', 1
+'Address', '121 East 3 Street', 2
+'Address', '80 East 181 Street', 1
+'Address', '2501 East 29 Street', 1
+'Address', '132-18 41 Avenue', 1
+'Address', '800 Bushwick Avenue', 1
+'Address', '125 Walker Street', 1
+'Address', '1028 White Plains Road', 1
+'Address', '1116 Sheridan Avenue', 2
+'Address', '81-15 Queens Boulevard', 1
+'Address', '70-35 150 Street', 1
+'Address', '84-37 118 Street', 1
+'Address', '117-21 Sutphin Boulevard', 1
+'Address', '195 Gordon Street', 1
+'Address', '408 Grove Street', 1
+'Address', '4360-78 Broadway', 1
+'Address', '50 East 168 Street', 1
+'Address', '700 Rosewood Street', 1
+'Address', '27 Huntington Street', 1
+'Address', '1060 Clarkson Avenue', 1
+'Address', '565 Livonia Avenue', 1
+'Address', '1200 Ocean Parkway', 1
+'Address', '1608 First Avenue', 1
+'Address', '519 Saint Anns Avenue', 1
+'Address', '71 Sullivan Street', 1
+'Address', '515 Blake Avenue', 1
+'Address', '452 East 9 Street', 1
+'Address', '174-10 67 Avenue', 1
+'Address', '20428 Rockaway Point Boulevard', 1
+'Address', '67-09 108 Street', 1
+'Address', '189-26 Linden Boulevard', 1
+'Address', '228-23 Merrick Boulevard', 1
+'Address', '1151 Bushwick Avenue', 1
+'Address', '669 Lenox Avenue', 1
+'Address', '628 Tinton Avenue', 1
+'Address', '1165 University Avenue', 1
+'Address', '108 Montrose Avenue', 1
+'Address', '1258 65 Street', 1
+'Address', '1901 Ocean Parkway', 1
+'Address', '45-45 42 Street', 1
+'Address', '9904 57 Avenue', 1
+'Address', '38-11 27 Street', 1
+'Address', '1893 2 Avenue', 1
+'Address', '570 West 175 Street', 1
+'Address', '18 Marlborough Road', 1
+'Address', '1462 62 Street', 1
+'Address', '52-17 83 Street', 1
+'Address', '99-39 66 Avenue', 1
+'Address', '187-10 Hillside Avenue', 1
+'Address', '166 Essex Street', 1
+'Address', '345 East 94 Street', 1
+'Address', '52 Chambers Street', 1
+'Address', '169 West 87 Street', 1
+'Address', '559 East Tremont Avenue', 1
+'Address', '2901 Brighton 6 Street', 1
+'Address', '147-36 26 Avenue', 1
+'Address', '166-01 116 Avenue', 1
+'Address', '232 East 103 Street', 1
+'Address', '425 West 130 Street', 1
+'Address', '3177 Webster Avenue', 1
+'Address', '125 East 181 Street', 1
+'Address', '60-02 60 Lane', 1
+'Address', '100-05 39 Avenue', 1
+'Address', '535 Briar Place', 1
+'Address', '222-14 Jamaica Avenue', 1
+'Address', '137-25 Brookville Boulevard', 2
+'Address', '14-14 29 Avenue', 1
+'Address', '612 West 187 Street', 1
+'Address', '1290 Spofford Avenue', 1
+'Address', '2348 Webster Avenue', 1
+'Address', '5500 Broadway', 1
+'Address', '419 Waverly Avenue', 1
+'Address', '188 Rochester Avenue', 1
+'Address', '1904 Avenue N', 1
+'Address', '4550 195 Street', 1
+'Address', '715 Ocean Terrace', 1
+'Address', '485 Victory Boulevard', 1
+'Address', '77 Wilson Avenue', 1
+'Address', '253 South Street', 1
+'Address', '197 East Broadway', 1
+'Address', '5 Quincy Street', 1
+'Address', '107-25 Wren Place', 1
+'Address', '193-04 Jamaica Avenue', 1
+'Address', '38 West 32 Street', 1
+'Address', '300 West 145 Street', 1
+'Address', '459 East 176 Street', 1
+'Address', '2863 Webster Avenue', 1
+'Address', '157 Wilson Street', 1
+'Address', '1723 8 Avenue', 1
+'Address', '668 Logan Street', 1
+'Address', '919 East 10 Street', 1
+'Address', '78-23 87 Street', 1
+'Address', '77-14 Roosevelt Avenue', 1
+'Address', '15003 Bayside Avenue', 1
+'Address', '54-25 Little Neck Parkway', 1
+'Address', '33-06 88 Street', 1
+'Address', '438 Grove Street', 1
+'Address', '433 East 100 Street', 2
+'Address', '440 East 116 Street', 1
+'Address', '3740 Baychester Avenue', 2
+'Address', '1911 Hone Avenue', 1
+'Address', '475 East 57 Street', 1
+'Address', '550 59 Street', 1
+'Address', '8401 23 Avenue', 1
+'Address', '59-09 Saint Felix Avenue', 1
+'Address', '84-40 101 Street', 1
+'Address', '3651 Richmond Road', 1
+'Address', '508 East 120 Street', 1
+'Address', '781 Castle Hill Avenue', 1
+'Address', '1946 Bathgate Avenue', 1
+'Address', '55 East 175 Street', 1
+'Address', '3893 Dyre Avenue', 1
+'Address', '972 Fulton Street', 1
+'Address', '717 East 105 Street', 1
+'Address', '1401 Avenue I', 1
+'Address', '85-25 61 Road', 1
+'Address', '137-11 90 Avenue', 1
+'Address', '535 East 119 Street', 1
+'Address', '616 Quincy Street', 1
+'Address', '420 Lefferts Avenue', 1
+'Address', '9718 Flatlands Avenue', 1
+'Address', '875 Williams Avenue', 1
+'Address', '1002 65 Street', 1
+'Address', '5101 Avenue M', 1
+'Address', '79-33 258 Street', 1
+'Address', '3335 Country Club Road', 1
+'Address', '1360 Fulton Street', 1
+'Address', '820 Hancock Street', 1
+'Address', '87 Bay 49 Street', 1
+'Address', '65-10 Dieterle Crescent', 1
+'Address', '510-16 West 145 Street', 1
+'Address', '200 West Tremont Avenue', 1
+'Address', '580 Minnieford Avenue', 1
+'Address', '14 Hope Street', 1
+'Address', '148 Beach 59 Street', 1
+'Address', '118-17 Guy R Brewer Boulevard', 1
+'Address', '3501 24 Street', 1
+'Address', '28-46 44 Street', 1
+'Address', '236 West 129 Street', 1
+'Address', '1650 Undercliff Avenue', 1
+'Address', '1620 Saint Johns Place', 1
+'Address', '7106 3 Avenue', 1
+'Address', '8022 Parsons Boulevard', 1
+'Address', '164-04 Goethals Avenue', 1
+'Address', '5814 Fort Hamilton Parkway', 1
+'Address', '1801 55 Street', 1
+'Address', '2529 Gerritsen Avenue', 1
+'Address', '201-02 53 Avenue', 1
+'Address', '83-10 188 Street', 1
+'Address', '84-60 Parsons Boulevard', 1
+'Address', '218-01 116 Avenue', 1
+'Address', '89-15 Francis Lewis Boulevard', 1
+'Address', '218 West 147 Street', 1
+'Address', '4140 Hutchinson River Parkway East', 1
+'Address', '225 Adelphi Street', 1
+'Address', '138-01 77 Avenue', 1
+'Address', '109-20 Union Hall Street', 1
+'Address', '125-19 101 Avenue', 1
+'Address', '780 Post Avenue', 1
+'Address', '125 Cromwell Avenue', 1
+'Address', '215 East 106 Street', 1
+'Address', '343 Warren Street', 1
+'Address', '1080 Utica Avenue', 1
+'Address', '414 80 Street', 1
+'Address', '1371 46 Street', 1
+'Address', '78-31 Parsons Boulevard', 1
+'Address', '26-01 Mott Avenue', 1
+'Address', '130-20 Rockaway Boulevard', 1
+'Address', '425 East 35 Street', 2
+'Address', '241 Emerson Place', 2
+'Address', '563 Bedford Avenue', 1
+'Address', '939 83 Street', 1
+'Address', '21 Bay 11 Street', 1
+'Address', '3321 Avenue N', 1
+'Address', '213 Osborn Street', 1
+'Address', '85 Watkins Street', 1
+'Address', '130-01 Rockaway Boulevard', 1
+'Address', '8749 87 Street', 1
+'Address', '12310 143 Street', 1
+'Address', '143-04 101 Avenue', 1
+'Address', '30-15 29 Street', 1
+'Address', '250 East 156 Street', 1
+'Address', '800 Concourse Village East', 1
+'Address', '963 Park Place', 1
+'Address', '1019 Church Avenue', 1
+'Address', '667 Eastern Parkway', 1
+'Address', '8413 Avenue K', 1
+'Address', '1139 Coney Island Avenue', 1
+'Address', '13-21 College Point Boulevard', 1
+'Address', '685 Tinton Avenue', 1
+'Address', '190 Exeter Street', 1
+'Address', '110-04 Atlantic Avenue', 1
+'Address', '2520 Church Avenue', 1
+'Address', '6006 23 Avenue', 1
+'Address', '6902 64 Street', 1
+'Address', '47-49 162 Street', 1
+'Address', '22 Steele Avenue', 1
+'Address', '30 Wellbrook Avenue', 1
+'Address', '300 Delancey Street', 1
+'Address', '2589 7 Avenue', 1
+'Address', '413 East 241 Street', 1
+'Address', '2401 Beverley Road', 1
+'Address', '6015 18 Avenue', 1
+'Address', '3601 Bell Boulevard', 1
+'Address', '16205 90 Street', 1
+'Address', '114 East 122 Street', 1
+'Address', '2672 Frederick Douglass Boulevard', 1
+'Address', '3440 White Plains Road', 1
+'Address', '64 Division Avenue', 1
+'Address', '448 Neptune Avenue', 1
+'Address', '2484 East 18 Street', 1
+'Address', '159-01 59 Avenue', 1
+'Address', '33-57 58 Street', 1
+'Address', '41 West 117 Street', 2
+'Address', '20 West 112 Street', 2
+'Address', '3703 10 Avenue', 1
+'Address', '1113 Colgate Avenue', 1
+'Address', '830 Mace Avenue', 1
+'Address', '80 Underhill Avenue', 1
+'Address', '1083 Coney Island Avenue', 1
+'Address', '76 Lott Avenue', 1
+'Address', '11666 Park Lane South', 1
+'Address', '21-63 29 Street', 1
+'Address', '1466 Manor Road', 1
+'Address', '5394 Amboy Road', 1
+'Address', '319 Stanhope Street', 1
+'Address', '610 Baltic Street', 1
+'Address', '45-11 245 Street', 1
+'Address', '10701 Crossbay Boulevard', 1
+'Address', '165-15 Archer Avenue', 1
+'Address', '590 Sixth Avenue', 2
+'Address', '2424 Jerome Avenue', 1
+'Address', '298 Sixth Avenue', 1
+'Address', '180 Chauncey Street', 1
+'Address', '4315 16Th Avenue', 1
+'Address', '1571 55 Street', 1
+'Address', '50-51 98 Street', 2
+'Address', '29-66 137 Street', 1
+'Address', '75-25 Bell Boulevard', 1
+'Address', '610 East 12 Street', 2
+'Address', '1950 Sedgwick Avenue', 1
+'Address', '1970 West Farms Road', 1
+'Address', '321 Roebling Street', 1
+'Address', '1950 Bedford Avenue', 1
+'Address', '1615 Madison Avenue', 1
+'Address', '400 West 155 Street', 1
+'Address', '360 East 168 Street', 1
+'Address', '3560 Webster Avenue', 1
+'Address', '1054 Intervale Avenue', 1
+'Address', '661 Linden Boulevard', 1
+'Address', '4511 14 Avenue', 1
+'Address', '2597 Bedford Avenue', 1
+'Address', '1102 Clintonville Street', 1
+'Address', '91-02 88 Avenue', 1
+'Address', '4402 Beach Channel Drive', 1
+'Address', '64-11 Fleet Street', 1
+'Address', '250 Kramer Avenue', 1
+'Address', '317 East 67 Street', 1
+'Address', '250 Berry Street', 1
+'Address', '1070 East 104 Street', 1
+'Address', '2170 Mcdonald Avenue', 1
+'Address', '216-01 38 Avenue', 1
+'Address', '85-15 143 Street', 1
+'Address', '108-55 69 Avenue', 1
+'Address', '224 East 47 Street', 1
+'Address', '2440 Wallace Avenue', 1
+'Address', '71 Lincoln Place', 1
+'Address', '77 Stagg Street', 1
+'Address', '117-02 Guy R Brewer Boulevard', 1
+'Address', '112-18 76 Road', 1
+'Address', '144-51 Arthur Street', 1
+'Address', '220 West 108 Street', 1
+'Address', '126 West 83 Street', 1
+'Address', '54 Nagle Avenue', 1
+'Address', '3816 Waldo Avenue', 1
+'Address', '1180 Tinton Avenue', 2
+'Address', '114 Kosciuszko Street', 1
+'Address', '178 Leonard Street', 1
+'Address', '825 4 Avenue', 1
+'Address', '8411 Fort Hamilton Parkway', 1
+'Address', '8885 26 Avenue', 1
+'Address', '55-24 Van Horn Street', 1
+'Address', '125-20 Sutphin Boulevard', 1
+'Address', '116-55 Guy R Brewer Boulevard', 1
+'Address', '1050 Targee Street', 1
+'Address', '129 Clinton Avenue', 1
+'Address', '44 Dongan Hills Avenue', 1
+'Address', '1375 Bushwick Avenue', 1
+'Address', '1020 Anderson Avenue', 1
+'Address', '1449 Shakespeare Avenue', 1
+'Address', '1717 Fulton Avenue', 1
+'Address', '2380 East Tremont Avenue', 1
+'Address', '50 Jefferson Avenue', 1
+'Address', '1152 Elton Street', 1
+'Address', '2166 Coney Island Avenue', 2
+'Address', '2813 Farragut Road', 1
+'Address', '20 Sutter Avenue', 1
+'Address', '16315 Oak Avenue', 1
+'Address', '17544 Mayfield Road', 1
+'Address', '55 Merrill Avenue', 1
+'Address', '122 Henry Street', 1
+'Address', '331 East 70 Street', 1
+'Address', '711 Amsterdam Avenue', 1
+'Address', '141 East 111 Street', 1
+'Address', '421 East 161 Street', 1
+'Address', '713 43 Street', 1
+'Address', '10 Bouck Court', 1
+'Address', '90-20 55 Avenue', 1
+'Address', '153-33 Sanford Avenue', 1
+'Address', '85-52 85 Street', 1
+'Address', '87-41 Parsons Boulevard', 1
+'Address', '3960 54 Street', 1
+'Address', '23 Summit Street', 1
+'Address', '281 Ninth Avenue', 1
+'Address', '1794 First Avenue', 1
+'Address', '234 West 109 Street', 1
+'Address', '2121 5 Avenue', 1
+'Address', '511 West 182 Street', 1
+'Address', '1345 Grand Concourse', 1
+'Address', '2151 Washington Avenue', 1
+'Address', '280 Hart Street', 1
+'Address', '46 Mckeever Place', 1
+'Address', '715 East 105 Street', 1
+'Address', '720 Euclid Avenue', 1
+'Address', '8101 15 Avenue', 1
+'Address', '243 88 Street', 1
+'Address', '2675 East 29 Street', 1
+'Address', '22-45 41 Street', 1
+'Address', '1399 Ogden Avenue', 1
+'Address', '545 Willoughby Avenue', 1
+'Address', '6085 Strickland Avenue', 1
+'Address', '62-02 Myrtle Avenue', 1
+'Address', '190 Beach 110 Street', 1
+'Address', '100-02 Rockaway Blvd', 1
+'Address', '50 Jefferson Street', 1
+'Address', '1859 Richmond Avenue', 1
+'Address', '370 West 120 Street', 1
+'Address', '1846 Randall Avenue', 1
+'Address', '1205 44 Street', 1
+'Address', '1018 Banner Avenue', 1
+'Address', '167-01 Union Turnpike', 1
+'Address', '2221 Richmond Avenue', 1
+'Address', '220 West 121 Street', 1
+'Address', '1841 Park Avenue', 1
+'Address', '285 East 7 Street,', 1
+'Address', '274 Keap Street,', 1
+'Address', '227 Caton Avenue,', 1
+'Address', '6302 Avenue U,', 1
+'Address', '64-45 28 Street,', 1
+'Address', '248-05 86 Avenue,', 1
+'Address', '34-45 202 Street,', 1
+'Address', '420 Beach 5 Street,', 1
+'Address', '27-35 Jackson Avenue,', 1
+'Address', '59 Broadway,', 1
+'Address', '2346 Hylan Boulevard,', 1
+'Address', '330 Campbell Drive,', 1
+'Address', '2380 Marion Avenue,', 1
+'Address', '564 Saint Peters Avenue,', 1
+'Address', '065 Beach Avenue,', 1
+'Address', '8502 Ridge Boulevard,', 1
+'Address', '928 55 Street,', 1
+'Address', '325 Avenue Y,', 1
+'Address', '80-55 Cornish Avenue,', 2
+'Address', '40-22 Beech Avenue,', 1
+'Address', '7025 Kessel Street,', 1
+'Address', '32-0 Jamaica Avenue,', 1
+'Address', '207- 89 Avenue,', 1
+'Address', '30-44 43 Street,', 1
+'Address', '200 Adelaide Avenue,', 1
+'Address', '19 East 109 Street,', 2
+'Address', '083 Allerton Avenue,', 1
+'Address', '55 Hanson Place,', 1
+'Address', '369 93 Street,', 1
+'Address', '4-02 Guy R Brewer Boulevard,', 1
+'Address', '90-20 09 Road,', 1
+'Address', '00 East Mount Eden Avenue,', 1
+'Address', '69 Macdonough Street,', 1
+'Address', '60 Henry Street,', 1
+'Address', '930 Avenue B,', 1
+'Address', '2804 Glenwood Road,', 1
+'Address', '3846 Northern Boulevard,', 1
+'Address', '33-3 Rockaway Boulevard,', 1
+'Address', '275 Harlem River Park Bridge,', 1
+'Address', '75 East Tremont Avenue,', 1
+'Address', '480 Stratford Road,', 1
+'Address', '745 Juniper Boulevard North,', 1
+'Address', '6805 Fresh Meadow Lane,', 1
+'Address', '0 Gregg Place,', 1
+'Address', '83 Hancock Street,', 1
+'Address', '443 Saint Marks Avenue,', 1
+'Address', '75 5 Avenue,', 1
+'Address', '2720 86 Street,', 1
+'Address', '88-07 02 Street,', 1
+'Address', '28-37 29 Street,', 1
+'Address', '255 Ionia Avenue,', 1
+'Address', '442 East Houston Street,', 1
+'Address', '34 Kosciuszko Street,', 1
+'Address', '0 Kosciusko Street,', 1
+'Address', '860 Park Avenue,', 1
+'Address', '969 43 Street,', 1
+'Address', '222 Ocean Parkway,', 1
+'Address', '7320 Bell Boulevard,', 1
+'Address', '90-07 0 Avenue,', 1
+'Address', '208 Second Avenue,', 1
+'Address', '95 Park Avenue,', 1
+'Address', '50 Navy Street,', 1
+'Address', '5-44 47 Avenue,', 1
+'Address', '6 West  Street,', 1
+'Address', '750 Concourse Village West,', 1
+'Address', '04-9 39 Avenue,', 1
+'Address', '920 27 Street,', 1
+'Address', '2 Gridley Avenue,', 1
+'Address', '307 Greene Avenue,', 1
+'Address', '295 Woodbine Street,', 1
+'Address', '50 East 4 Street,', 1
+'Address', '240 Bronxwood Avenue,', 1
+'Address', '552 5 Avenue,', 1
+'Address', '400 Pennsylvania Avenue,', 1
+'Address', '02 Avenue L,', 1
+'Address', '725 East 23 Street,', 1
+'Address', '03-22 99 Street,', 1
+'Address', '38 Seaver Avenue,', 1
+'Address', '1 Peck Slip,', 2
+'Address', '4 River Road,', 1
+'Address', '560 West 169 Street,', 2
+'Address', '269 Blackrock Avenue,', 1
+'Address', '4022 East Tremont Avenue,', 1
+'Address', '4550 Carpenter Avenue,', 1
+'Address', '333 Classon Avenue,', 1
+'Address', '30 Rochester Avenue,', 1
+'Address', '67 Prospect Place,', 1
+'Address', '46-6 76 Street,', 1
+'Address', '42-35 Main Street,', 1
+'Address', '84-5 Beverly Road,', 1
+'Address', '25-44 Crescent Street,', 1
+'Address', '535 West 2 Street,', 1
+'Address', '249 West 44 Street,', 1
+'Address', '2750 Lafayette Avenue,', 1
+'Address', '675 4 Avenue,', 1
+'Address', '83 Marlborough Road,', 1
+'Address', '779 East 49 Street,', 1
+'Address', '580 Hegeman Avenue,', 1
+'Address', '520 86 Street,', 1
+'Address', '97-25 08 Street,', 1
+'Address', '04-40 34 Street,', 1
+'Address', '20 02-04 Linden Boulevard,', 1
+'Address', '683 3 Avenue,', 1
+'Address', '46 Swinton Avenue,', 1
+'Address', '426 Case Street,', 1
+'Address', '55 85 Drive,', 1
+'Address', '087 59 Street,', 1
+'Address', '40-0 43 Avenue,', 1
+'Address', '78-02 Northern Boulevard,', 1
+'Address', '200 Woodbine Street,', 1
+'Address', '538 West 55 Street,', 1
+'Address', '3703 Tenth Avenue,', 1
+'Address', '33 East 83 Street,', 1
+'Address', '222 Graham Avenue,', 1
+'Address', '68 49 Street,', 1
+'Address', '2950 West 25 Street,', 1
+'Address', '800 Utica Avenue,', 1
+'Address', '36-06 Prince Street,', 1
+'Address', '38-00 Ditmars Boulevard,', 1
+'Address', '925 Hone Avenue,', 1
+'Address', '60 Cook Street,', 1
+'Address', '466 4 Avenue,', 1
+'Address', '700 Sutter Avenue,', 1
+'Address', '85 Liberty Avenue,', 1
+'Address', '2962 Brighton  Street,', 1
+'Address', '85-5 258 Street,', 1
+'Address', '33-27 97 Street,', 1
+'Address', '30- 30 Drive,', 1
+'Address', '329 Norway Avenue,', 1
+'Address', '525 West 44 Street,', 1
+'Address', '55 Battery Place,', 1
+'Address', '2826 Westchester Avenue,', 1
+'Address', '3500 Edson Avenue,', 1
+'Address', '80 Bartholdi Street,', 1
+'Address', '55 4 Avenue,', 1
+'Address', '580 Dean Street,', 1
+'Address', '532 Albany Avenue,', 1
+'Address', '82 54 Street,', 1
+'Address', '2757 West 33 Street,', 1
+'Address', '90-02 Queens Boulevard,', 1
+'Address', '77-02 37 Avenue,', 1
+'Address', '459 West 26 Street,', 1
+'Address', '525 Saint Nicholas Avenue,', 1
+'Address', '984 Faile Street,', 1
+'Address', '700 East 79 Street,', 1
+'Address', '334 Milford Street,', 1
+'Address', '3-5 Liberty Avenue,', 1
+'Address', '560 Thieriot Avenue,', 1
+'Address', '70 Fulton Avenue,', 1
+'Address', '260 East 207 Street,', 1
+'Address', '304 Kingsbridge Avenue,', 1
+'Address', '3605 Sedgwick Avenue,', 1
+'Address', '33 East 53 Street,', 1
+'Address', '23-0 Hillside Avenue,', 1
+'Address', '35 Sand Lane,', 1
+'Address', '42 East 88 Street,', 1
+'Address', '250 East 64 Street,', 1
+'Address', '600 Crotona Park East,', 1
+'Address', '208 North 5 Street,', 1
+'Address', '33 Union Street,', 1
+'Address', '4330 Cherry Avenue,', 1
+'Address', '535 Union Avenue,', 1
+'Address', '85 Park Place,', 1
+'Address', '53 Nostrand Avenue,', 1
+'Address', '668 46 Street,', 1
+'Address', '2 Riverdale Avenue,', 1
+'Address', '60-85 Catalpa Avenue,', 1
+'Address', '60-0A 47 Avenue,', 1
+'Address', '75 Gates Avenue,', 1
+'Address', '76 East 5 Street,', 1
+'Address', '209 York Street,', 1
+'Address', '405 8 Street,', 1
+'Address', '267 Coney Island Avenue,', 1
+'Address', '555 Ocean Parkway,', 1
+'Address', '8503 Britton Avenue,', 1
+'Address', '46-28 Jasmine Avenue,', 1
+'Address', '03-02 0 Avenue,', 1
+'Address', '4-32 Merrick Boulevard,', 1
+'Address', '49 East 3 Street,', 1
+'Address', '08 Avenue D,', 1
+'Address', '639 Edgecombe Avenue,', 1
+'Address', '450 Webster Avenue,', 1
+'Address', '458 Webster Avenue,', 1
+'Address', '887 Bathgate Avenue,', 1
+'Address', '570 Crown Street,', 1
+'Address', '4026 Cherry Avenue,', 1
+'Address', '583 72 Avenue,', 1
+'Address', '80 0 Avenue,', 1
+'Address', '96-0 23 Avenue,', 1
+'Address', '406 Grove Street,', 1
+'Address', '468 East 140 Street,', 2
+'Address', '295 Dewey Avenue,', 1
+'Address', '6002 Farragut Road,', 1
+'Address', '700 Ridge Boulevard,', 1
+'Address', '207 Beverley Road,', 1
+'Address', '86-29 Commonwealth Boulevard,', 1
+'Address', '253-50 49 Avenue,', 1
+'Address', '987 Columbus Avenue,', 1
+'Address', '304 East 02 Street,', 1
+'Address', '99 4 Street,', 1
+'Address', '794 Monroe Street,', 1
+'Address', '720 57 Street,', 1
+'Address', '265 7 Street,', 1
+'Address', '970 Homecrest Avenue,', 1
+'Address', '00 Elm Avenue,', 1
+'Address', '810 Nostrand Avenue,', 2
+'Address', '3 Saint Nicholas Avenue,', 1
+'Address', '2962 Harding Avenue,', 1
+'Address', '8 Nelson Avenue,', 1
+'Address', '30 Grand Concourse,', 1
+'Address', '434 Ogden Avenue,', 1
+'Address', '774 58 Street,', 1
+'Address', '4-66 Beach Channel Drive,', 1
+'Address', '43-26 0 Avenue,', 1
+'Address', '20 West 6 Street,', 1
+'Address', '30 West 30 Street,', 1
+'Address', '595 Clinton Street,', 1
+'Address', '5000 4 Avenue,', 1
+'Address', '59-25 Kissena Boulevard,', 1
+'Address', '2-45 Beach 79 Street,', 1
+'Address', '63-49 Alderton Street,', 1
+'Address', '39-76 58 Street,', 1
+'Address', '29-49 Gillmore Street,', 1
+'Address', '4 Reid Avenue,', 1
+'Address', '30 East  Street,', 1
+'Address', '352 Dekalb Avenue,', 1
+'Address', '427 38 Street,', 1
+'Address', '02 45 Street,', 1
+'Address', '50 Quincy Street,', 1
+'Address', '670 Parkside Avenue,', 1
+'Address', '80-5 26 Street,', 1
+'Address', '45-0 9 Avenue,', 1
+'Address', '55 Layton Avenue,', 1
+'Address', '270 West 84 Street,', 1
+'Address', '888 Westchester Avenue,', 1
+'Address', '738 East 48 Street,', 1
+'Address', '2 Saratoga Avenue,', 1
+'Address', 'Jamaica Center Plaza,', 1
+'Address', '20-5 5 Avenue,', 1
+'Address', '36-36 0 Street,', 1
+'Address', '749 East 63 Street,', 1
+'Address', '250 Bedford Park Boulevard West,', 1
+'Address', '940 Benson Avenue,', 1
+'Address', '6-0 Utopia Parkway,', 1
+'Address', '3-5 40 Street,', 1
+'Address', '33-6 Roosevelt Avenue,', 1
+'Address', '86-35 235 Court,', 1
+'Address', '4-28 Francis Lewis Boulevard,', 1
+'Address', '86-5 37 Avenue,', 1
+'Address', '336 79 Street,', 1
+'Address', '60 West 86 Street,', 1
+'Address', '54 Olmstead Avenue,', 1
+'Address', '83 Sterling Place,', 1
+'Address', '23-03 Northern Boulevard,', 1
+'Address', '9825 Horace Harding Expressway,', 1
+'Address', '58 Lawrence Avenue,', 1
+'Address', '3333 Broadway,', 1
+'Address', '253 East 42 Street,', 1
+'Address', '2836 Webb Avenue,', 1
+'Address', '340 Andrews Avenue,', 2
+'Address', '7 Remsen Street,', 1
+'Address', '646 5 Avenue,', 1
+'Address', '337 Lenox Road,', 1
+'Address', '205 64 Street,', 1
+'Address', '53- Springfield Boulevard,', 1
+'Address', '97-30 Queens Boulevard,', 1
+'Address', '200 Nedra Lane,', 1
+'Address', '242 Cooper Street,', 1
+'Address', '4 Washington Square Village,', 1
+'Address', '829 Lexington Avenue,', 1
+'Address', '23 West 24 Street,', 1
+'Address', '505 6 Avenue,', 1
+'Address', '824 Astoria Boulevard,', 1
+'Address', '3560 Richmond Road,', 1
+'Address', '244 West 44 Street,', 1
+'Address', '25 West 95 Street,', 1
+'Address', '343 Kingsbridge Avenue,', 1
+'Address', '303 Grand Concourse,', 1
+'Address', '302 Vanderbilt Street,', 1
+'Address', '995 Carroll Street,', 1
+'Address', '250 Linden Boulevard,', 1
+'Address', '256 East 2 Street,', 1
+'Address', '75-02 62 Street,', 1
+'Address', '04-70 Queens Boulevard,', 1
+'Address', '45-08 Skillman Avenue,', 1
+'Address', '36 Stanhope Street,', 1
+'Address', '26 East 20 Street,', 1
+'Address', '2580 Amsterdam Avenue,', 1
+'Address', '659 Zerega Avenue,', 1
+'Address', '639 4 Avenue,', 1
+'Address', '400 Ashford Street,', 1
+'Address', '355 Herkimer Street,', 1
+'Address', '236 33 Road,', 1
+'Address', '28 West 83 Street,', 1
+'Address', '3573 Bruckner Boulevard,', 1
+'Address', '465 Bathgate Avenue,', 2
+'Address', '75 West 90 Street,', 1
+'Address', '000 East Tremont Avenue,', 1
+'Address', '08 Pine Street,', 1
+'Address', '263 Dean Street,', 1
+'Address', '7-5 Weirfield Street,', 1
+'Address', '54-25 0 Street,', 1
+'Address', '7- 35 Avenue,', 1
+'Address', '34-25 82 Street,', 1
+'Address', '790 34 Avenue,', 1
+'Address', '330 Durant Avenue,', 1
+'Address', '375 East 43 Street,', 1
+'Address', '1871 Walton Avenue,', 2
+'Address', '5470 Broadway,', 1
+'Address', '725 Brady Avenue,', 1
+'Address', '40 East 229 Street,', 1
+'Address', '550 Crotona Park East,', 1
+'Address', '63 Lenox Road,', 1
+'Address', '47-37 70 Road,', 1
+'Address', '96-25 42 Avenue,', 1
+'Address', '60 Beach 29 Street,', 1
+'Address', '85 Beach 99 Street,', 1
+'Address', '0235 63 Road,', 1
+'Address', '45-02 Farmers Boulevard,', 1
+'Address', '267 University Avenue,', 1
+'Address', '00 Erskine Place,', 1
+'Address', '845 East 96 Street,', 1
+'Address', '970 Vermont Street,', 1
+'Address', '555 Page Avenue,', 1
+'Address', '30 North Burgher Avenue,', 1
+'Address', '60 West 7 Street,', 1
+'Address', '52 West 22 Street,', 1
+'Address', '880 River Avenue,', 1
+'Address', '499 East 75 Street,', 1
+'Address', '420 Burke Avenue,', 1
+'Address', '74 Flushing Avenue,', 1
+'Address', '600 Park Place,', 1
+'Address', '704 Bath Avenue,', 1
+'Address', '6-7 Grand Avenue,', 1
+'Address', '34-0 Cronston Avenue,', 1
+'Address', '3-3 Liberty Avenue,', 1
+'Address', '42 East 06 Street,', 1
+'Address', '48-20 Reeves Avenue,', 1
+'Address', '34-02 Rockaway Boulevard,', 1
+'Address', '755 Rockaway Boulevard,', 1
+'Address', '60-02 Roosevelt Avenue,', 1
+'Address', '400 Caswell Avenue,', 1
+'Address', '925 Bathgate Avenue,', 1
+'Address', '2340 Cambreleng Avenue,', 1
+'Address', '3220 Arlington Avenue,', 1
+'Address', '384 South 4 Street,', 1
+'Address', '383 3 Avenue,', 1
+'Address', '3909 5 Avenue,', 1
+'Address', '385 Avenue W,', 1
+'Address', '29-49 37 Street,', 1
+'Address', '32 Elverton Avenue,', 1
+'Address', '39 West 74 Street,', 1
+'Address', '5 West 76 Street,', 1
+'Address', '3922 Church Avenue,', 1
+'Address', '275 East 22 Street,', 1
+'Address', '4205 Avenue P,', 1
+'Address', '62-0 08 Street,', 1
+'Address', '84-75 Daniels Street,', 1
+'Address', '259 27 Street,', 1
+'Address', '80 Monroe Avenue,', 1
+'Address', '80 Mott Street,', 1
+'Address', '425 West 23 Street,', 1
+'Address', '2222 Wallace Avenue,', 1
+'Address', '4222 4 Avenue,', 1
+'Address', '257 38 Street,', 1
+'Address', '90 Chauncey Street,', 1
+'Address', '330 Neptune Avenue,', 1
+'Address', '26 Avenue Z,', 1
+'Address', '33 Somers Street,', 1
+'Address', '69 Saratoga Avenue,', 1
+'Address', '3004 46 Street,', 1
+'Address', '27-8 Hoyt Avenue South,', 1
+'Address', '7 West 07 Street,', 1
+'Address', '266 Flatbush Avenue,', 1
+'Address', '880 Glenwood Road,', 1
+'Address', '2505 Pitkin Avenue,', 1
+'Address', '04 West End Avenue,', 1
+'Address', '225 Newport Street,', 1
+'Address', '58 Victory Boulevard,', 1
+'Address', '245 Simonson Avenue,', 1
+'Address', '3 Broome Street,', 1
+'Address', '2074 Strang Avenue,', 1
+'Address', '330 Smith Street,', 1
+'Address', '745 Fort Hamilton Parkway,', 1
+'Address', '378 Seneca Avenue,', 2
+'Address', '4502 82 Street,', 1
+'Address', '58-0 36 Street,', 1
+'Address', '69-07 Jewel Avenue,', 1
+'Address', '320 2 Avenue,', 1
+'Address', '58 Summit Street,', 1
+'Address', '433 E 00 Street,', 1
+'Address', '528 East 46 Street,', 1
+'Address', '646 Montgomery Avenue,', 1
+'Address', '285 Bathgate Avenue,', 1
+'Address', '800 Lydig Avenue,', 1
+'Address', '8 Beaver Street,', 1
+'Address', '990 Dekalb Avenue,', 1
+'Address', '4 East 40 Street,', 1
+'Address', '45 Avenue S,', 1
+'Address', '723 Avenue Z,', 1
+'Address', '330 Rugby Road,', 1
+'Address', '6325 Dry Harbor Road,', 1
+'Address', '4069 94 Street,', 1
+'Address', '27-7 27 Street,', 1
+'Address', '80 Maple Parkway,', 1
+'Address', '460 West 34 Street,', 1
+'Address', '462 First Avenue,', 1
+'Address', '888 Rev James A Polite Avenue,', 1
+'Address', '404 Bruner Avenue,', 1
+'Address', '322 Church Avenue,', 1
+'Address', '440 Avenue D,', 1
+'Address', '557 Pennsylvania Avenue,', 1
+'Address', '0-5 64 Place,', 1
+'Address', '99-06 67 Road,', 1
+'Address', '380 Genesee Avenue,', 1
+'Address', '327 Cherry Street,', 1
+'Address', '93 Nagle Avenue,', 2
+'Address', '757 Cauldwell Avenue,', 1
+'Address', '80 Davidson Avenue,', 1
+'Address', '675 Lincoln Avenue,', 1
+'Address', '253-0 Northern Boulevard,', 1
+'Address', '4-29 84 Drive,', 1
+'Address', '37-5 3 Street,', 1
+'Address', '44 Bloomingdale Road,', 1
+'Address', '23 Ridge Street,', 1
+'Address', '695 East 82 Street,', 1
+'Address', '82 Henry Street,', 1
+'Address', '50-5 Raleigh Street,', 1
+'Address', '228 Avenue U,', 1
+'Address', '98-0 59 Avenue,', 1
+'Address', '80 Suffolk Street,', 1
+'Address', '620 Isham Street,', 1
+'Address', '200 Alexander Avenue,', 1
+'Address', '507 East 65 Street,', 1
+'Address', '785 Crotona Park North,', 1
+'Address', 'Albemarle Road,', 1
+'Address', '2944 Pitkin Avenue,', 1
+'Address', '2809 Newkirk Avenue,', 1
+'Address', '82-02 Grand Avenue,', 1
+'Address', '87-45 7 Street,', 1
+'Address', '20 Warren Street,', 1
+'Address', '349/53 50 Street,', 1
+'Address', '293 Neptune Avenue,', 1
+'Address', '23 Avenue N,', 1
+'Address', '5903 Summerfield Street,', 1
+'Address', '38-03 Francis Lewis Boulevard,', 1
+'Address', '24-50 Metropolitan Avenue,', 1
+'Address', '690 East 83 Street,', 1
+'Address', '44-5 Judge Street,', 1
+'Address', '7-25 Main Street,', 1
+'Address', '53-23 83 Street,', 1
+'Address', '4406 Rockaway Boulevard,', 1
+'Address', '1573 Madison Avenue,', 2
+'Address', '500 Bergen Avenue,', 1
+'Address', '260 West Kingsbridge Road,', 1
+'Address', '997 Bathgate Avenue,', 1
+'Address', '4765 Henry Hudson Parkway West,', 1
+'Address', '320 Riverdale Avenue,', 1
+'Address', '670 20 Avenue,', 1
+'Address', '62-85 Forest Avenue,', 1
+'Address', '25-0 23 Avenue,', 1
+'Address', '89-0 Radnor Road,', 1
+'Address', '238-0 Hillside Avenue,', 1
+'Address', '967 53 Avenue,', 1
+'Address', '825 Hicksville Road,', 1
+'Address', '045 3 Street,', 1
+'Address', '84-5 9 Avenue,', 1
+'Address', '08-29 55 Street,', 1
+'Address', '04-2 Springfield Boulevard,', 1
+'Address', 'Sampson Avenue,', 1
+'Address', '657 Victory Boulevard,', 1
+'Address', '60-62 East 97 Street,', 1
+'Address', '535 Story Avenue,', 1
+'Address', '4545 Independence Avenue,', 1
+'Address', '250 Utica Avenue,', 1
+'Address', '9502 Seaview Avenue,', 1
+'Address', '855 Ridge Boulevard,', 1
+'Address', '273 57 Street,', 1
+'Address', 'Teleport Drive,', 1
+'Address', '280 Rivington Street,', 1
+'Address', '22 East 22 Street,', 1
+'Address', '50 Jerome Avenue,', 1
+'Address', '760 Prospect Place,', 1
+'Address', '2745 Atlantic Avenue,', 1
+'Address', '202 Avenue C,', 1
+'Address', '72-24 Grand Avenue,', 1
+'Address', '4-45 43 Street,', 1
+'Address', '33-52 62 Street,', 1
+'Address', '40 Palma Drive,', 1
+'Address', '328 Putnam Avenue,', 1
+'Address', '469B Broadway,', 1
+'Address', '730 East 2 Street,', 1
+'Address', '943 Brown Street,', 1
+'Address', '8602 57 Avenue,', 1
+'Address', '85- 02 Street,', 1
+'Address', '0-5 Guy R Brewer Boulevard,', 1
+'Address', '35 Schenck Avenue,', 1
+'Address', '7740 Vleigh Place,', 1
+'Address', '57-40 Marathon Parkway,', 1
+'Address', '600 East 6 Street,', 2
+'Address', '20 East 33 Street,', 1
+'Address', '96 Eagle Avenue,', 1
+'Address', '295 Grand Concourse,', 1
+'Address', '5404 Tilden Avenue,', 1
+'Address', '620 Bay Parkway,', 1
+'Address', '3524 Neptune Avenue,', 1
+'Address', '92 East 3 Street,', 1
+'Address', '66-20 Laurel Hill Boulevard,', 1
+'Address', '47-05 04 Street,', 1
+'Address', '89-02 32 Avenue,', 1
+'Address', '67-05 Roosevelt Avenue,', 1
+'Address', '658 Hylan Boulevard,', 1
+'Address', '779 Richmond Avenue,', 1
+'Address', '294 Delancey Street,', 1
+'Address', '223 East 23 Street,', 1
+'Address', '243 West 64 Street,', 1
+'Address', '57 West 64 Street,', 1
+'Address', '398 Bronxwood Avenue,', 1
+'Address', '49 Avenue W,', 1
+'Address', '5302 2 Avenue,', 1
+'Address', '-2 Northern Boulevard,', 1
+'Address', '30 Beach 20 Street,', 1
+'Address', '297 Arthur Kill Road,', 1
+'Address', '320 West 2 Street,', 1
+'Address', '90 Tinton Avenue,', 1
+'Address', '90 East 62 Street,', 1
+'Address', '2750 Throop Avenue,', 1
+'Address', '29 Elmwood Avenue,', 1
+'Address', '76 Riverdale Avenue,', 1
+'Address', '280 Riverdale Avenue ,', 1
+'Address', '44-39 Gravett Road,', 1
+'Address', '490 East 43 Street,', 1
+'Address', '700 Seward Avenue,', 1
+'Address', '604 West 227 Street,', 1
+'Address', '70 Nereid Avenue,', 1
+'Address', '2202 60 Street,', 1
+'Address', '776 Fairview Avenue,', 1
+'Address', '76-6 Parsons Boulevard,', 1
+'Address', '99 Prospect Avenue,', 1
+'Address', '405 Farragut Road,', 1
+'Address', '67-25 5 Road,', 1
+'Address', '95-5 Horace Harding Expressway,', 1
+'Address', '8-05 0 Avenue,', 1
+'Address', '94-2 60 Street,', 1
+'Address', '25-42 49 Street,', 1
+'Address', '00 Jennings Street,', 1
+'Address', '370 Marcy Avenue,', 1
+'Address', '750 Classon Avenue,', 1
+'Address', '23 Elm Avenue,', 1
+'Address', '95-02 69 Avenue,', 1
+'Address', '25-5 Northern Boulevard,', 1
+'Address', '26-0 09 Avenue,', 1
+'Address', '70 West 95 Street,', 1
+'Address', '2500 Jerome Avenue,', 1
+'Address', '725 Leonard Street,', 1
+'Address', 'Berriman Street,', 1
+'Address', '04-9 49 Avenue,', 1
+'Address', '50-5 4 Avenue,', 1
+'Address', '42 Lincoln Avenue,', 1
+'Address', '632 Victory Boulevard,', 1
+'Address', '293 East Broadway,', 1
+'Address', '84 Eldridge Street,', 1
+'Address', '26 West 84 Street,', 1
+'Address', '070 Castle Hill Avenue,', 1
+'Address', '8 Crotona Avenue,', 1
+'Address', '3520 Tilden Avenue,', 1
+'Address', '550 Ocean Parkway,', 1
+'Address', '7802 Bay Parkway,', 1
+'Address', '992 Nostrand Avenue,', 1
+'Address', '06-02 Northern Boulevard,', 1
+'Address', '3-0 97 Avenue,', 1
+'Address', '6005 Woodhaven Boulevard,', 1
+'Address', '663 Manor Road,', 1
+'Address', '25 South End Avenue,', 1
+'Address', '885 Columbus Avenue,', 1
+'Address', '70 Brown Place,', 1
+'Address', '3050 Webster Avenue,', 1
+'Address', '333 2 Street,', 1
+'Address', '34-322 44 Street,', 1
+'Address', '42 Throop Avenue,', 1
+'Address', '500 East 92 Street,', 1
+'Address', '70-44 Kissena Boulevard,', 1
+'Address', '229-02 37 Avenue,', 1
+'Address', '60 Essex Street,', 1
+'Address', '2872 Saint Theresa Avenue,', 1
+'Address', '500 9 Street,', 1
+'Address', '982 Hegeman Avenue,', 1
+'Address', '449 39 Street,', 1
+'Address', '80-07 Broadway,', 1
+'Address', '89-00 23 Avenue,', 1
+'Address', '59-30 Harlem River Drive,', 1
+'Address', '565 Baltic Street,', 1
+'Address', '900 Lenox Road,', 1
+'Address', '04-4 Roosevelt Avenue,', 1
+'Address', '8306 Abingdon Road,', 1
+'Address', '00-0 Astoria Boulevard,', 1
+'Address', '66 Lockman Avenue,', 1
+'Address', '980 Mace Avenue,', 1
+'Address', '670 East 29 Street,', 1
+'Address', '27 68 Street,', 1
+'Address', '364 Sackman Street,', 1
+'Address', '28-34 38 Street,', 1
+'Address', '65 Foster Road,', 1
+'Address', '502 Morris Avenue,', 1
+'Address', '300 East 75 Street,', 1
+'Address', '472 Montgomery Avenue,', 1
+'Address', '330 Bristow Street,', 1
+'Address', '32 North 5 Street,', 1
+'Address', '572 6 Avenue,', 1
+'Address', '7702 New Utrecht Avenue,', 1
+'Address', '90 Boulder Street,', 1
+'Address', '295 West 23 Street,', 1
+'Address', '325 Bushwick Avenue,', 1
+'Address', '590 Sheffield Avenue,', 1
+'Address', '345 Van Sicklen Street,', 1
+'Address', '37 East 5 Street,', 1
+'Address', '52 Quentin Road,', 1
+'Address', '3003 Glenwood Road,', 1
+'Address', '954 Ocean Avenue,', 1
+'Address', '47-32 Sanford Avenue,', 1
+'Address', '99-0 34 Avenue,', 1
+'Address', '43 58 Street,', 1
+'Address', '00 Attorney Street,', 1
+'Address', '423 East 23 Street,', 1
+'Address', '230 Grand Street,', 1
+'Address', '23 Morningside Drive,', 1
+'Address', '222 West 34 Street,', 1
+'Address', '480 Avenue D,', 1
+'Address', '374 Pine Street,', 1
+'Address', '60 6 Avenue,', 1
+'Address', '2 Hinckley Place,', 1
+'Address', '55-4 98 Place,', 1
+'Address', '3950 Douglaston Parkway,', 1
+'Address', '98-0 25 Avenue,', 1
+'Address', '43-3 39 Street,', 1
+'Address', '450 Buel Avenue,', 1
+'Address', '0 Kingsley Place,', 1
+'Address', '84 Vermilyea Avenue,', 1
+'Address', '37 Rogers Avenue,', 1
+'Address', '2609 East 7 Street,', 1
+'Address', '95-6 89 Avenue,', 1
+'Address', '26-0 Bedell Street,', 1
+'Address', '32 West 92 Street,', 1
+'Address', '237 East 04 Street,', 1
+'Address', '3732 0 Avenue,', 1
+'Address', '25 Grand Concourse,', 1
+'Address', '0 Taylor Street,', 1
+'Address', '4305 Fort Hamilton Parkway,', 1
+'Address', '430 Howard Avenue,', 1
+'Address', '60 Parkside Avenue,', 1
+'Address', '440 Lenox Road,', 1
+'Address', '3053 Avenue U,', 1
+'Address', '784 East 7 Street,', 1
+'Address', '27-2 Merrick Boulevard,', 1
+'Address', '298 Woodrow Road,', 1
+'Address', '289 Lewis Avenue,', 1
+'Address', '2 Winthrop Street,', 1
+'Address', '6409 20 Avenue,', 1
+'Address', '37 Avenue W,', 1
+'Address', '07-7 Northern Boulevard,', 1
+'Address', '055 Targee Street,', 1
+'Address', '645 Main Street,', 1
+'Address', '67 Parkview Avenue,', 1
+'Address', '452 West 260 Street,', 1
+'Address', '30 Kingsbridge Terrace,', 1
+'Address', '3 Norman Avenue,', 1
+'Address', '36 Ford Street,', 1
+'Address', '858 Jamaica Avenue,', 1
+'Address', '265 Warwick Street,', 1
+'Address', '265 Sumpter Street,', 1
+'Address', '4323 Colden Street,', 1
+'Address', '988 32 Road,', 1
+'Address', '99-0 2 Avenue,', 1
+'Address', '22 Broadway,', 1
+'Address', '30 Natick Street,', 1
+'Address', '93 0 Avenue,', 1
+'Address', '60 Catherine Street,', 1
+'Address', '38 Lenox Avenue,', 1
+'Address', '60-64 West 75 Street,', 1
+'Address', '65 Brown Place,', 1
+'Address', '207 Bushwick Avenue,', 1
+'Address', '265 Ralph Avenue,', 1
+'Address', '60 East 94 Street,', 2
+'Address', '63 New Lots Avenue,', 1
+'Address', '365 83 Street,', 1
+'Address', '06-06 Queens Boulevard,', 1
+'Address', '78-36 Wexford Terrace,', 1
+'Address', '30 Henry Street,', 1
+'Address', '349 Cabrini Boulevard,', 1
+'Address', '5625 Arlington Avenue,', 1
+'Address', '3450 Dekalb Avenue,', 1
+'Address', '933 Herkimer Street,', 1
+'Address', '09 Sutter Avenue,', 1
+'Address', '5805 7 Avenue,', 1
+'Address', '488 Beach 66 Street,', 1
+'Address', '2 Russell Place,', 1
+'Address', '39-76 85 Drive,', 1
+'Address', '98-02 Roosevelt Ave,', 1
+'Address', '133 Fulton Avenue,', 2
+'Address', '2024 Mohegan Avenue,', 1
+'Address', '70 Gates Avenue,', 1
+'Address', '450 Pacific Street,', 1
+'Address', '20 Park Hill Circle,', 1
+'Address', '20 Stuyvesant Place,', 1
+'Address', '344 Monroe Street,', 1
+'Address', '74-0 Commonwealth Boulevard,', 1
+'Address', '060 Willowbrook Road,', 1
+'Address', '98 Grant Street,', 1
+'Address', '5 Lisbon Place,', 1
+'Address', '60 West 78 Street,', 1
+'Address', '2060 Lafayette Avenue,', 1
+'Address', '34 Pacific Street,', 1
+'Address', '077 Remsen Avenue,', 1
+'Address', '350 Avenue X,', 1
+'Address', '24 Brown Street,', 1
+'Address', '455 34 Avenue,', 1
+'Address', '5820 Little Neck Parkway,', 1
+'Address', '165 Forest Avenue,', 2
+'Address', '838 Brook Avenue,', 1
+'Address', '326 Third Avenue,', 1
+'Address', '7 Haight Avenue,', 1
+'Address', '452 Pennsylvania Avenue,', 1
+'Address', '60 Ocean View Avenue,', 1
+'Address', '98 Homecrest Avenue,', 1
+'Address', '2-2 Ditmars Boulevard,', 1
+'Address', '2050 Second Avenue,', 1
+'Address', '2400 Marion Avenue,', 1
+'Address', '2880 Kingsbridge Terrace,', 1
+'Address', '770 Stillwell Avenue,', 1
+'Address', '70 Prospect Park West,', 1
+'Address', '8 East New York Avenue,', 1
+'Address', '3 Irwin Street,', 1
+'Address', '57-06 99 Street,', 1
+'Address', '205-0 33 Avenue,', 1
+'Address', '3-65 Beach 56 Street,', 1
+'Address', '64-35 02 Street,', 1
+'Address', '3-5 Springfield Boulevard,', 1
+'Address', '285 Delancy Street,', 1
+'Address', '330 Rochambeau Avenue,', 1
+'Address', '3950 Laconia Avenue,', 1
+'Address', '432 Monroe Street,', 1
+'Address', '04 Lafayette Avenue,', 1
+'Address', '7524 4 Avenue,', 1
+'Address', '67-54 80 Street,', 1
+'Address', '245 Clintonville Street,', 1
+'Address', '28-2 Hartland Avenue,', 1
+'Address', '307 Central Avenue,', 1
+'Address', '338 Beach 56 Street,', 1
+'Address', '85 First Avenue,', 1
+'Address', '2 Spruce Street,', 1
+'Address', '4300 Baychester Avenue,', 1
+'Address', '684 White Plains Road,', 1
+'Address', '070 East 83 Street,', 1
+'Address', '605 Shepherd Avenue,', 1
+'Address', '2840 West 2 Street,', 1
+'Address', '4702 Newport Avenue,', 1
+'Address', '7524 Grand Central Parkway,', 1
+'Address', '68-42 Jamaica Avenue,', 1
+'Address', '200 Boscombe Avenue,', 1
+'Address', '554 Fort Washington Avenue,', 1
+'Address', '660 Fox Street,', 1
+'Address', '5705 Mosholu Avenue,', 1
+'Address', '60 East 23 Street,', 1
+'Address', '423 62 Street,', 1
+'Address', '2602 East 9 Street,', 1
+'Address', '08-0 09 Avenue,', 1
+'Address', '92-4 63 Drive,', 1
+'Address', '20-45 235 Street,', 1
+'Address', '-55 Borden Avenue,', 1
+'Address', '272 Moffat Street,', 1
+'Address', '29 Fulton Street,', 1
+'Address', '724-26 Madison Avenue,', 1
+'Address', '22 Madison Avenue,', 1
+'Address', '774 Saratoga Avenue,', 1
+'Address', '68-20 Myrtle Avenue,', 1
+'Address', '9-03 80 Road,', 1
+'Address', '0-26 4 Avenue,', 1
+'Address', '2734 Victory Boulevard,', 1
+'Address', '3854 Hylan Boulevard,', 1
+'Address', '3939 Richmond Avenue,', 1
+'Address', '535 East 5 Street,', 1
+'Address', '780 Dr Martin L King Jr Boulevard,', 1
+'Address', '2756 Reservoir Avenue,', 1
+'Address', '382 Willoughby Avenue,', 1
+'Address', '2 Newell Street,', 1
+'Address', '500 Macon Street,', 1
+'Address', '8403 57 Avenue,', 1
+'Address', '7-39 Northern Boulevard,', 1
+'Address', '5005 70 Road,', 1
+'Address', '67-07 35 Avenue,', 1
+'Address', '7-25 3 Street,', 1
+'Address', '23-70 3 Street,', 1
+'Address', '32-04 3 Avenue,', 1
+'Address', '55 Wyona Avenue,', 1
+'Address', '35 Division Street,', 1
+'Address', '494 Marcy Avenue,', 1
+'Address', '49 Bedford Avenue,', 1
+'Address', '432 East 92 Street,', 1
+'Address', '683 8 Avenue,', 1
+'Address', '263 86 Street,', 1
+'Address', '2 Saint Johns Lane,', 1
+'Address', '262 Lexington Avenue,', 1
+'Address', '560 6 Avenue,', 1
+'Address', '72-05 Beach Channel Drive,', 1
+'Address', '97-25 Hillside Avenue,', 1
+'Address', '50-05 3 Avenue,', 1
+'Address', '44 Keating Place,', 1
+'Address', '95 Grove Street,', 1
+'Address', '7 Hester Street,', 1
+'Address', '600 Bathgate Avenue,', 1
+'Address', '200 Lafontaine Avenue,', 1
+'Address', '023 New York Avenue,', 1
+'Address', '25 Mcdougal Street,', 1
+'Address', '8045 Winchester Boulevard,', 1
+'Address', '8625 62 Street,', 1
+'Address', '32-63 93 Street,', 1
+'Address', '99 Chambers Street,', 1
+'Address', '63 West 97 Street,', 1
+'Address', '2490-2500 Webster Avenue,', 1
+'Address', '2 8 Street,', 1
+'Address', '52 Carroll Street,', 1
+'Address', '20 Chester Street,', 1
+'Address', '23-07 22 Avenue,', 1
+'Address', '20-07 48 Avenue,', 1
+'Address', '28 46 Street,', 1
+'Address', '00 Broadway,', 1
+'Address', '85 Adams Street,', 1
+'Address', '250 Ralph Avenue,', 1
+'Address', '400 Lincoln Road,', 1
+'Address', '975 5 Street,', 1
+'Address', '07-09 Newkirk Avenue,', 1
+'Address', '395 Ocean Avenue,', 1
+'Address', '592 East New York Avenue,', 1
+'Address', '8-49 Montauk Street,', 1
+'Address', '43 Baxter Street,', 1
+'Address', '2090 First Avenue,', 1
+'Address', '279 East Burnside Avenue,', 1
+'Address', '360 Keap Street,', 1
+'Address', '37 Hoyt Street,', 1
+'Address', '9 Power Road,', 1
+'Address', '60 Bloomingdale Road,', 1
+'Address', '45 Twombly Avenue,', 1
+'Address', '690 Westchester Avenue,', 1
+'Address', '245 Washington Avenue,', 1
+'Address', '330 8 Street,', 1
+'Address', '95 State Street,', 1
+'Address', '355 84 Street,', 1
+'Address', '68-0 Central Avenue,', 1
+'Address', '50-5 44 Street,', 1
+'Address', '40-27 72 Street,', 1
+'Address', '9-02 90 Avenue,', 1
+'Address', '8225 64 Street,', 1
+'Address', '502 3 Avenue,', 1
+'Address', '292 Palmetto Street,', 1
+'Address', '260 Franklin Avenue,', 1
+'Address', '930 Andrews Avenue,', 1
+'Address', '65 Zerega Avenue,', 1
+'Address', '340 08 Street,', 1
+'Address', '946 85 Street,', 1
+'Address', '0-30 Neilson Street,', 1
+'Address', '26-02 37 Avenue,', 1
+'Address', '49-23 Broadway,', 1
+'Address', '80 Catherine Street,', 1
+'Address', '435 Central Park West,', 1
+'Address', '383 East 62 Street,', 1
+'Address', '3001 West 37 Street,', 2
+'Address', '206 Sutphin Boulevard,', 1
+'Address', '2-5 Lucas Street,', 1
+'Address', '000 Richmond Terrace,', 1
+'Address', '200 Sedgwick Avenue,', 1
+'Address', '825 Prospect Avenue,', 1
+'Address', '292 Frost Street,', 1
+'Address', '50 Carroll Street,', 1
+'Address', '525 Lenox Road,', 1
+'Address', '457 West 5 Street,', 1
+'Address', '00 Newkirk Avenue,', 1
+'Address', '65-2A Roosevelt Avenue,', 1
+'Address', '34 Elvin Street,', 1
+'Address', '3080 Arthur Kill Road,', 1

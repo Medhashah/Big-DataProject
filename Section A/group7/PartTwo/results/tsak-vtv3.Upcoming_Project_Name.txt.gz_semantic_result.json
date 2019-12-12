@@ -1,0 +1,1 @@
+{"column name": "Upcoming_Project_Name", "semantic_types": [{"semantic_type": "business_name", "count": 434}, {"semantic_type": "school_name", "count": 40}, {"semantic_type": "building_classification", "count": 18}, {"semantic_type": "street_name", "count": 7}, {"semantic_type": "college_name", "count": 2}], "true_type": "business_name", "prediction_type": "business_name"}

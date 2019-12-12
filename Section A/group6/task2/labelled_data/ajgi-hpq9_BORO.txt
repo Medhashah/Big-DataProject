@@ -1,0 +1,9 @@
+'Borough', 'K', 1114
+'Borough', 'Q', 685
+'Borough', 'None', 0
+'Borough', 'M', 569
+'Borough', 'SERVICE CATEGORY,', 1
+'Borough', 'NUMBER OF STUDENTS / SEATS FILLED,', 1
+'Borough', 'X,', 587
+'Borough', 'CORE COURSE ,', 1
+'Borough', 'R,', 101

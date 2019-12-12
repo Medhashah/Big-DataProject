@@ -1,0 +1,17 @@
+table: d3ge-anaz column: CORE_COURSE_(MS_CORE_and_9-12_ONLY)labels: ['Subjects in school', 'Other']
+
+table: f7qh-bcr5 column: CORE_SUBJECT_labels: ['Subjects in school', 'Other']
+
+table: faiq-9dfq column: Vehicle_Colorlabels: ['Color', 'Other']
+
+table: feu5-w2e2 column: BusinessCitylabels: ['City', 'Street name', 'Parks/Playgrounds', 'Person name', 'Zip code', 'Address', 'Other', 'Phone Number']
+
+table: gez6-674h column: CORE_SUBJECT_labels: ['Subjects in school', 'Other']
+
+table: i8ys-e4pm column: CORE_COURSE(9-12_ONLY)labels: ['Subjects in school', 'Other']
+
+table: kz72-dump column: CORE_SUBJECT_labels: ['Subjects in school', 'Other']
+
+table: mrxb-9w9v column: BOROUGH_COMMUNITYlabels: ['LAT/LON coordinates', 'City']
+
+table: pgtq-ht5f column: CORE_SUBJECT_labels: ['Subjects in school', 'Other']

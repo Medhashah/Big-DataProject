@@ -1,0 +1,22 @@
+'Areas of study', 'Performing Arts/Visual Art & Design', 11
+'Areas of study', 'Engineering', 44
+'Areas of study', 'Environmental Science', 6
+'Areas of study', 'Teaching', 7
+'Areas of study', 'Zoned', 28
+'Areas of study', 'Communications', 22
+'Areas of study', 'Animal Science', 3
+'Areas of study', 'JROTC', 5
+'Areas of study', 'interest', 1
+'Areas of study', 'Science & Math', 68
+'Areas of study', 'Law & Government,', 38
+'Areas of study', 'Hospitality, Travel and Tourism,', 7
+'Areas of study', 'Architecture,', 8
+'Areas of study', 'Business,', 25
+'Areas of study', 'Culinary Arts,', 9
+'Areas of study', 'Performing Arts,', 77
+'Areas of study', 'Humanities & Interdisciplinary,', 247
+'Areas of study', 'Computer Science & Technology,', 45
+'Areas of study', 'Health Professions,', 48
+'Areas of study', 'Visual Art & Design,', 38
+'Areas of study', 'Film/Video,', 5
+'Areas of study', 'Cosmetology,', 2

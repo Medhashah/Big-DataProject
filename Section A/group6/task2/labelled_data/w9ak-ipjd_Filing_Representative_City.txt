@@ -1,0 +1,244 @@
+'City', 'MAHOPAC', 2
+'City', 'VALLEY STREAM', 31
+'City', 'STAMFORD', 6
+'City', 'ST VALBANS', 2
+'City', 'BROOKYLN', 78
+'City', 'DEER PARK', 8
+'City', 'FAIR LAWN', 1
+'City', 'RYE', 1
+'City', 'MOUNT VERNON', 1003
+'City', 'CORONA', 55
+'City', 'CENTEREACH', 3
+'City', 'OCEANSIDE', 1
+'City', 'HUNTINGTON STATION', 10
+'City', 'UNION', 2
+'City', 'HOLLIS HILLS', 1
+'City', 'BAY SHORE', 1
+'City', 'BROAD CHANNEL', 46
+'City', '# 1243, MELVILLE', 1
+'City', 'COPIAGUE', 17
+'City', 'BAYSIDE', 142
+'City', 'DOUGLASTON', 19
+'City', 'MANHATAN', 8
+'City', 'ROCKVILLE CENTRE', 679
+'City', 'EAST ISLIP', 296
+'City', 'OLD BETHPAGE', 151
+'City', 'INWOOD', 31
+'City', 'NORTHERN BLVD', 9
+'City', 'MT. VERNON', 65
+'City', 'FAR ROCKAWAY', 1
+'City', 'ARDSLEY', 6
+'City', 'ROSELLE', 4
+'City', 'KEW GARDENS', 213
+'City', 'JERICHO', 7
+'City', 'BAYONNE', 1
+'City', 'PHOENIX', 8
+'City', 'TAPPAN', 1
+'City', 'FLORAL PARK', 151
+'City', 'HAWORTH', 7
+'City', 'BANGOR', 1
+'City', 'WEST HEMSPTEAD', 3
+'City', 'LAKE GROVE', 1
+'City', 'S. HEMPSTEAD', 1
+'City', 'S RICHMOND', 4
+'City', 'None', 0
+'City', 'WHITESONE', 48
+'City', 'OCEANPORT', 28
+'City', 'HEWLETT', 1
+'City', 'BRONXVILLE', 2
+'City', 'PEEKSKILL', 4
+'City', 'SUFFERN', 3
+'City', 'NORTH BRUNSWICK', 3
+'City', 'NEWYORK', 5
+'City', 'LINDENHURST,', 7
+'City', 'WHITESTONE', 36
+'City', 'GREAT NECK', 147
+'City', 'Richmond Hill', 2
+'City', 'BELLMORE', 82
+'City', 'LONG BEACH', 3
+'City', 'JACKSON HEIGHT', 817
+'City', 'REGO PARK', 51
+'City', 'RICHMONDHILL', 2
+'City', 'W. ELMHURST', 2
+'City', 'BRUNSWICK', 13
+'City', 'MANHASSET', 5
+'City', 'FRANKLIN SQUARE', 46
+'City', 'GARRISON', 1
+'City', 'ALLENTOWN', 2
+'City', 'TUCKAHOE', 43
+'City', 'SOUTH OZONE PARK', 67
+'City', 'MALVERNE', 4
+'City', 'ROSLYN', 11
+'City', 'SOUTH HUNTINGTON', 2
+'City', 'LITTLE NECK', 17
+'City', 'WATER MILL', 1
+'City', 'OAKLAND GARDENS', 6
+'City', 'NEW ROCHELLE', 1
+'City', 'ST. ALBANS', 50
+'City', 'MT VERNON', 57
+'City', 'BROOOKLYN', 2
+'City', 'E BRUNSWICK', 1
+'City', 'RONKONKOMA', 55
+'City', 'LITTLE NECK HILLS', 1
+'City', 'ALBERTSON', 19
+'City', 'DOBBSFERRY', 4
+'City', 'QUEENS', 277
+'City', 'MERRICK', 3
+'City', 'HILLSDALE', 2
+'City', 'VALHALLA', 4
+'City', 'SOMERSET', 7
+'City', 'MANORVILLE', 1
+'City', 'BABYLON', 1
+'City', 'ROCKAWAY PARK', 2
+'City', 'PLAINFIELD', 10
+'City', 'BROOKLYN', 6407
+'City', 'ELMHURST', 115
+'City', 'EAST ELMHURST', 5
+'City', 'NEW  YORK', 4
+'City', 'SADDLE RIVER', 3
+'City', 'WOODRIDGE', 23
+'City', 'FRESH MEADOW', 5
+'City', 'FLUSHING', 1421
+'City', 'MONSEY', 21
+'City', 'BAYSHORE', 1
+'City', 'JACKSON HEIGHTS', 4
+'City', 'WANTAGH', 4
+'City', 'SCARSDALE', 7
+'City', 'WOODHAVEN', 5
+'City', 'NEW YORK,', 2
+'City', 'MIDDLE VILLAGE', 39
+'City', 'MASPETH', 88
+'City', 'LONG ISLAND CITY', 560
+'City', 'NEWARK', 74
+'City', '144 EAST 44TH STREET', 3
+'City', 'GLENDALE', 22
+'City', 'BELLEROSE', 9
+'City', 'ROSLYN HEIGHTS', 60
+'City', 'EAST ROCKAWAY', 17
+'City', 'BRIARWOOD', 156
+'City', 'OZONE PARK', 77
+'City', 'RIDGEWOID', 1
+'City', 'GLEN HEAD', 1
+'City', 'BALDWING,', 1
+'City', 'METUCHEN,', 512
+'City', 'ROCKAWAY BEACH,', 1
+'City', 'GARDEN CITY,', 2
+'City', 'JAMAICA ESTATES,', 9
+'City', 'BELL BOULEVARD # 2,', 1
+'City', 'BROOKKLYN,', 1
+'City', 'UNIONDALE,', 15
+'City', 'OAKHURST,', 5
+'City', 'PLAINVIEW,', 18
+'City', 'WEST ISLIP,', 1
+'City', 'JACKSON HTS,', 2
+'City', 'CEDAR GROVE,', 22
+'City', 'MERRIAM,', 1
+'City', 'ATLANTIC HIGHLANDS,', 1
+'City', 'BRONX,', 230
+'City', 'LEVITTOWN,', 4
+'City', 'WHEATLEY HEIGHTS,', 2
+'City', 'FARMINGDALE,', 1663
+'City', 'UNIT 1A, FLUSHING,', 8
+'City', 'LAWRENCE,', 2
+'City', 'ELM,', 2
+'City', 'ARMONK,', 1
+'City', 'MAHWAH,', 2
+'City', 'L.I.C.,', 2
+'City', 'DIX HILLS,', 1
+'City', 'FREEPORT,', 3
+'City', 'HOLLISWOOD,', 2
+'City', 'STATEN ISLAND,NY,', 20
+'City', 'FRESH MEADOWS,', 286
+'City', 'SOUTH RICHMOND HILL,', 383
+'City', 'SHRUB OAK,', 9
+'City', 'NY,', 181
+'City', 'NEW HYDE PARK,', 3
+'City', 'BETPAGE,', 1
+'City', 'BOGOTA,', 2
+'City', 'TUCKOHOE,', 1
+'City', 'WEST ORANGE,', 1
+'City', 'HUNTINGTON,', 83
+'City', 'SOUTH OZONE PARK,,', 1
+'City', 'PURCHASE,', 6
+'City', 'BELLE HARBOR,', 1
+'City', 'ASTORIA,', 307
+'City', 'HILLSBOROUGH,', 1
+'City', 'STATEN ISALND,', 1
+'City', 'HICKSVILLE,', 44
+'City', 'WHITESTONES,', 2
+'City', 'BOYNTON BEACH,', 5
+'City', 'CEDARHURST,', 1
+'City', 'NEW ROCEHELLE,', 2
+'City', 'MAMARONECK,', 1
+'City', 'SPRINGFIELD GARDENS,', 33
+'City', 'DOBBS FERRY,', 3
+'City', 'HAUPPAUGE,', 4
+'City', 'TRUMBULL,', 1
+'City', 'HEMPSTEAD,', 2
+'City', 'W HEMPSTEAD,', 69
+'City', 'BOHEMIA,', 1
+'City', 'LAKE SUCCESS,', 3
+'City', 'CHERRY HILL,', 1
+'City', 'EAST BRUNSWICK,', 33
+'City', 'GARFIELD,', 1
+'City', 'PELHAM,', 13
+'City', 'JERSEY CITY,', 10
+'City', 'MASSAPEQUA,', 12
+'City', 'ELMONT,', 7
+'City', 'MASSAPEQUA PARK,', 18
+'City', 'FRESHMEADOWS,', 6
+'City', 'PLEASANT VALLEY,', 39
+'City', 'BALDWIN,', 11
+'City', 'HASBROUCK HEIGHTS,', 2
+'City', 'ARVERNE,', 14
+'City', 'OCENASIDE,', 6
+'City', 'HILLSIDE,', 3
+'City', 'BEACON,', 3
+'City', 'NEW YORK,', 13987
+'City', 'HOWARD BEACH,', 65
+'City', 'NORTH BERGEN,', 2
+'City', 'LYNBROOK,', 158
+'City', 'SUNNYSIDE,', 2
+'City', 'VALLEY COTTAGE,', 570
+'City', 'CLIFTON,', 1
+'City', 'BKLYN.,', 1
+'City', 'SAINT ALBANS,', 1
+'City', 'LIC,', 78
+'City', 'RIVERDALE,', 1
+'City', 'NORTH BELLMORE,', 1
+'City', 'JAMAICA,', 1643
+'City', 'MINEOLA,', 70
+'City', 'FOREST HILLS,', 1313
+'City', 'PORT WASHINGTON,', 4
+'City', 'SEA CLIFF,', 17
+'City', 'RICHMOND HILL,', 2103
+'City', 'FT LEE,', 39
+'City', 'FARMINGVILLE,', 288
+'City', 'RIDGEWOOD,', 57
+'City', 'LARCHMONT,', 5
+'City', 'LYNNBROOK,', 1
+'City', 'MOUNT SINAI,', 8
+'City', 'siny,', 9
+'City', 'MANHATTAN,', 85
+'City', 'SEAFORD,', 2
+'City', 'HARTFORD,', 1
+'City', 'QUEENS VILLAGE,', 1
+'City', 'MIDDLETOWN,', 1
+'City', 'YONKERS,', 65
+'City', 'STATEN ISLAND,', 1346
+'City', 'RYE BROOK,', 5
+'City', '#30 BK,', 2
+'City', 'LAUREL,', 1
+'City', 'HOLLIS,', 2
+'City', 'WOODSIDE,', 2019
+'City', 'GLEN OAKS,', 2
+'City', 'LINDENHURST,', 10
+'City', 'CARLE PLACE,', 1
+'City', 'GLENOAKS,', 1
+'City', 'MELVILLE,', 70
+'City', 'BEECHHURST,', 3
+'City', 'JAMAICA ESTATE,', 2
+'City', 'COLLEGE POINT,', 278
+'City', 'HACKENSACK,', 30
+'City', 'NEW YORK CITY,', 22
+'City', 'NYC,', 24

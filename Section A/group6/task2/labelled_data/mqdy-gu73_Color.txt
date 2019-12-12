@@ -1,0 +1,28 @@
+'Color', '4 - color logo', 3
+'Color', 'Orange', 5
+'Color', 'Multicolor', 5
+'Color', 'Royal Blue', 1
+'Color', 'None', 0
+'Color', 'Black and Black', 1
+'Color', 'Clear', 3
+'Color', 'Turquoise', 1
+'Color', 'Gold Apple Pin', 2
+'Color', 'Navy with White Logo', 2
+'Color', 'Red Apple Pin', 2
+'Color', 'Silver', 11
+'Color', 'Green', 7
+'Color', 'Blue Periwinkle,', 2
+'Color', 'Navy with Orange Logo,', 2
+'Color', 'Black and Gold,', 1
+'Color', 'Gray,', 16
+'Color', 'Blue,', 20
+'Color', 'Hunter Green,', 18
+'Color', 'White,', 30
+'Color', 'Brown,', 2
+'Color', 'Gold,', 11
+'Color', 'Black,', 47
+'Color', 'Red,', 14
+'Color', 'Jade,', 2
+'Color', 'Pink,', 15
+'Color', 'Green Apple Pin,', 2
+'Color', 'Navy,', 12

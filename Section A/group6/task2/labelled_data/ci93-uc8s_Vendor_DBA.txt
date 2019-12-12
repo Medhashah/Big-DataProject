@@ -1,0 +1,1165 @@
+'Business Name', 'Ahad&Co', 1
+'Business Name', 'Armand of New York', 1
+'Business Name', 'Flowerworks Landscape Contractor', 1
+'Business Name', 'Bellweather Agency', 1
+'Business Name', 'Duploy Global Fleet', 1
+'Business Name', 'Blooni Designs & Contracting', 1
+'Business Name', 'Edu Trips', 1
+'Business Name', 'Ardeco Group', 1
+'Business Name', 'Ziaur Bhuiyan DBA Dynamic Construction Company', 1
+'Business Name', 'Computer Resources Of America, Inc.', 1
+'Business Name', 'CBS Technologies', 1
+'Business Name', 'Royal Expediting', 1
+'Business Name', 'The Harquin Group', 1
+'Business Name', 'jessie's Nutty Cups', 1
+'Business Name', 'New York Tech Elevator', 1
+'Business Name', 'Colin Williams Photography', 1
+'Business Name', 'Velez Organization', 1
+'Business Name', 'Popli Design Group', 1
+'Business Name', 'Verina Consulting Group, LLC', 1
+'Business Name', 'Keys Recruiting Agency', 1
+'Business Name', 'CMA Consulting Services', 1
+'Business Name', 'GM Printing', 1
+'Business Name', 'ABM Systems', 1
+'Business Name', 'EGM Builders', 1
+'Business Name', 'Sightful Security', 1
+'Business Name', 'NYGCI', 1
+'Business Name', 'Delehant and Associates', 1
+'Business Name', 'Market Analytics International', 1
+'Business Name', 'EWS', 1
+'Business Name', 'Valentinelaw', 1
+'Business Name', 'NY Black Car Driver Agency', 1
+'Business Name', '5 Star Home Care', 1
+'Business Name', 'Regal Financial Services', 1
+'Business Name', 'Math and Movement', 1
+'Business Name', 'Bott Mechanical', 1
+'Business Name', 'Food Trends', 1
+'Business Name', 'The Perfect Promo', 1
+'Business Name', 'Antarctic', 1
+'Business Name', 'D & C Contracting', 1
+'Business Name', 'M.A.P. DIA TOOLS', 1
+'Business Name', 'APR', 1
+'Business Name', '4 POINTS SECURITY GROUP, INC.', 1
+'Business Name', 'CarrotNewYork', 1
+'Business Name', 'Bayside Plumbing Supply', 1
+'Business Name', 'Phipps and Co', 1
+'Business Name', 'Hershels', 1
+'Business Name', 'K.H.Briger', 1
+'Business Name', 'Broken Bow Brewery', 1
+'Business Name', 'Missera Painting & Remodeling', 1
+'Business Name', 'MBI Group', 1
+'Business Name', 'Kool Nerd Club', 1
+'Business Name', 'TechExplorersBK', 1
+'Business Name', 'HN Media & Marketing', 1
+'Business Name', 'Tadree Coppedge', 1
+'Business Name', 'Poar', 1
+'Business Name', 'Staten Island Recycling', 1
+'Business Name', 'ANS Consultants, Inc.', 1
+'Business Name', 'Peterson Consultants', 1
+'Business Name', 'orglearn', 1
+'Business Name', 'New Millinneum Builders of NY, LLC', 1
+'Business Name', 'Muffetta Domestic Assistants', 1
+'Business Name', 'Liberation Health Strategies', 1
+'Business Name', 'TDW+Co', 1
+'Business Name', 'Go Green Technology, Inc.', 1
+'Business Name', 'ACTIVE FIRE CONTROL', 1
+'Business Name', 'Sign-A-Rama', 1
+'Business Name', 'MaidPro', 1
+'Business Name', 'Greene Grape Provisions', 1
+'Business Name', 'R247 Manpower', 1
+'Business Name', 'SBLD Studio', 1
+'Business Name', 'Nifty Concept, Inc.', 1
+'Business Name', 'View Signage', 1
+'Business Name', 'Team Avaloria', 1
+'Business Name', 'Digital Bodega', 1
+'Business Name', 'CheckMate Communications & Electric,LLC', 1
+'Business Name', 'Green Power Associates', 1
+'Business Name', 'Mrs. Paper', 1
+'Business Name', 'PR City Company', 1
+'Business Name', 'MANCHESTER COMMUNICATIONS', 1
+'Business Name', 'Pine Sash Distributors', 1
+'Business Name', 'North-Eastern Fencing, Inc.', 1
+'Business Name', 'City Island Mixed Martial Arts', 1
+'Business Name', 'The Saban Group', 1
+'Business Name', 'H. Lieblich & Co.', 1
+'Business Name', 'Lumenor Consulting Group', 1
+'Business Name', 'Concept Print', 1
+'Business Name', 'Pure+Applied', 1
+'Business Name', 'DJC Communications', 1
+'Business Name', 'Carthage Advisors', 1
+'Business Name', 'Sentient Shift', 1
+'Business Name', 'Eau De Vie Wellness Center', 1
+'Business Name', 'The Woman's Playbook', 1
+'Business Name', 'Allen & Associates', 1
+'Business Name', 'Order Out of Chaos', 1
+'Business Name', 'Turf Advisory', 1
+'Business Name', 'R.E.A.D. America of NYS, LLC', 1
+'Business Name', 'Willie A. Price Speaks', 1
+'Business Name', 'ePaul Dynamics', 1
+'Business Name', 'PCM,PCM Co., PCM, Inc.', 1
+'Business Name', 'Airosmith Development', 1
+'Business Name', 'Express Printing Copy', 1
+'Business Name', 'RoboFun', 1
+'Business Name', 'MoCaFi', 1
+'Business Name', 'L.P.S. Installers', 1
+'Business Name', 'Chenoa Information Services', 1
+'Business Name', 'CareerNation', 1
+'Business Name', 'Xtra Care Pharmacy', 1
+'Business Name', 'J&S Haulers Inc', 1
+'Business Name', 'TAM Training', 1
+'Business Name', 'CCS Presentation Systems', 1
+'Business Name', 'Diversified Energy Supply', 1
+'Business Name', 'Great Performances', 1
+'Business Name', 'Playful Discoveries, CDC', 1
+'Business Name', 'Doreen A. Stumpo', 1
+'Business Name', 'FYI Technology Solutions', 1
+'Business Name', 'C L Electric', 1
+'Business Name', 'HF Planners, LLC', 1
+'Business Name', 'Hibuild LLC', 1
+'Business Name', 'ZEYERIS', 1
+'Business Name', 'Paperspsohpics.com', 1
+'Business Name', 'Printing Supplies USA, LLC', 1
+'Business Name', 'Gs Banquet Hall', 1
+'Business Name', 'Subway', 1
+'Business Name', 'Centrix Engineering, Inc. PC', 1
+'Business Name', 'CLB Computer Services', 1
+'Business Name', 'Top & Bottom Wear', 1
+'Business Name', 'Police Bike Store', 1
+'Business Name', 'My Battery Recyclers', 1
+'Business Name', 'Creative Photo', 1
+'Business Name', 'Chickpea/Elite Caterer', 1
+'Business Name', 'RG AGENCY', 1
+'Business Name', 'WSL Strategic Retail', 1
+'Business Name', 'Interior Innovations', 1
+'Business Name', 'CLEAR LOOK CLEANING SERVICES', 1
+'Business Name', 'Robinson Surveys', 1
+'Business Name', 'Jois Construction Management System', 1
+'Business Name', 'Little Stars', 1
+'Business Name', 'Isis Consulting', 1
+'Business Name', 'Odgis + Company', 1
+'Business Name', 'GVG Contracting', 1
+'Business Name', 'Wood Designe Inc.', 1
+'Business Name', 'E M S', 1
+'Business Name', 'CARA Medical', 1
+'Business Name', 'K's Tapestry', 1
+'Business Name', 'Newtek Energy Solutions', 1
+'Business Name', 'Advanced Exterminating', 1
+'Business Name', 'Fratilli's Pizza & Cafe', 1
+'Business Name', 'The Computing Center', 1
+'Business Name', 'NYPS', 1
+'Business Name', 'Test Prep New York', 1
+'Business Name', 'RCGA Architects', 1
+'Business Name', 'Studio For', 1
+'Business Name', 'Connell Education', 1
+'Business Name', 'AYON Studio Architecture and Preservation', 1
+'Business Name', 'Queen Geniuses, Inc.', 1
+'Business Name', 'The Prime,  LLC', 1
+'Business Name', 'Sage Builders Corp.', 1
+'Business Name', 'Liberty Home Healthcare', 1
+'Business Name', 'Diamond & Sons Flooring', 1
+'Business Name', 'Professional Builders', 1
+'Business Name', 'Massage For Health And Fitness Products', 1
+'Business Name', 'mid city electrical corp.', 1
+'Business Name', 'Lustre', 1
+'Business Name', 'Harbour Roads', 1
+'Business Name', 'Katen Consulting', 1
+'Business Name', 'View-Finders Market Research', 1
+'Business Name', 'PBNJ Enterprises', 1
+'Business Name', 'LIGHTS UP', 1
+'Business Name', 'Atlantic T & S Marine Services', 1
+'Business Name', 'Liberty Industrial Gas', 1
+'Business Name', 'Amzco Surgical Devices', 1
+'Business Name', 'Lemire of NY LLC', 1
+'Business Name', 'Securit', 1
+'Business Name', 'Jersey Precast', 1
+'Business Name', 'Anthropology Arts', 1
+'Business Name', 'Pinchina Consulting', 1
+'Business Name', 'Trivium Consultants', 1
+'Business Name', 'Tea Drunk', 1
+'Business Name', 'Shining Street', 1
+'Business Name', 'Cambridge', 1
+'Business Name', 'Traders Express Deli', 1
+'Business Name', 'AO + Associates Inc.', 1
+'Business Name', 'Your Self Series', 1
+'Business Name', 'K&S Construction', 1
+'Business Name', 'GOGO Security', 1
+'Business Name', 'Artistic Quality Therapy Associates', 1
+'Business Name', 'Matiz Architecture and Design', 1
+'Business Name', 'Harpia Global Advisors', 1
+'Business Name', 'Bounce Marketing & Consulting', 1
+'Business Name', 'Loeb Leadership Development Group', 1
+'Business Name', 'Crystal Cove Consulting', 1
+'Business Name', 'City Scaffolding', 1
+'Business Name', 'Professional Edge Consultants', 1
+'Business Name', 'McKissack & McKissack', 1
+'Business Name', 'Handy Andy Home Improvement', 1
+'Business Name', 'Keep It Moving Consulting', 1
+'Business Name', 'Apache Environmental', 1
+'Business Name', 'Logic + Art', 1
+'Business Name', 'AccessMBS', 1
+'Business Name', 'Satur Farms LLC', 1
+'Business Name', 'Blue Mantis Pest Control', 1
+'Business Name', 'Renee Plummer', 1
+'Business Name', 'Tribeca Paint', 1
+'Business Name', 'Eyecycle', 1
+'Business Name', 'Intellisense', 1
+'Business Name', 'GoHardwood', 1
+'Business Name', 'Candela Systems Electrical', 1
+'Business Name', 'West African Import and Export', 1
+'Business Name', 'CJAM Consulting LLC', 1
+'Business Name', 'Solvay Electric Supply & Lighting', 1
+'Business Name', 'SFI HVAC', 1
+'Business Name', 'Fortelah', 1
+'Business Name', 'QNA Tech', 1
+'Business Name', 'Ivan Armstrong, CPA', 1
+'Business Name', 'Earthworks, LLC', 1
+'Business Name', 'Hyloh', 1
+'Business Name', 'LBE ENVIRONMENTAL', 1
+'Business Name', 'Karen Karp & Partners', 1
+'Business Name', 'Oluterry Protective Services', 1
+'Business Name', 'Jerri's Cleaners', 1
+'Business Name', 'Tekgno', 1
+'Business Name', 'Assenza Creative Group or ACG', 1
+'Business Name', 'Mickey Rose International Company', 1
+'Business Name', 'GMAC Media Technologies', 1
+'Business Name', 'B&V Contracting Enterprises, Inc', 1
+'Business Name', 'DC Efficiency Consulting', 1
+'Business Name', 'Infolink, Inc.', 1
+'Business Name', 'Xpress Transport Group', 1
+'Business Name', 'Three Furies', 1
+'Business Name', 'New York Business Institute', 1
+'Business Name', 'IS3 Solutions', 1
+'Business Name', 'LMD Architect P.C.', 1
+'Business Name', 'Patrick B. Jenkins & Associates', 1
+'Business Name', 'The Locker Lady', 1
+'Business Name', 'Sign A Rama', 1
+'Business Name', 'Interior Design Crafted', 1
+'Business Name', 'Fusia Advertising', 1
+'Business Name', 'TMG Consulting Engineers Inc', 1
+'Business Name', 'EG&R Environmental Services', 1
+'Business Name', 'Larga Vista Companies', 1
+'Business Name', 'The Taylor Group of NJ', 1
+'Business Name', 'True Images', 1
+'Business Name', 'The Law Studio of Nance L. Schick', 1
+'Business Name', 'Tandoor Palace', 1
+'Business Name', 'zStudio', 1
+'Business Name', 'InGroup, Inc.', 1
+'Business Name', 'JCT Development NY, Inc.', 1
+'Business Name', 'Bird Control Advisory', 1
+'Business Name', 'YOURCITY.SOLUTIONS', 1
+'Business Name', 'Sema Contracting', 1
+'Business Name', 'DISC Bodhi', 1
+'Business Name', 'J'Enessence', 1
+'Business Name', 'Admiral Reporting & Video Services', 1
+'Business Name', 'Garg Real Estate', 1
+'Business Name', 'None', 0
+'Business Name', 'Works In Progress Associates', 1
+'Business Name', 'Diane Gordon Catering', 1
+'Business Name', 'cSubs', 1
+'Business Name', 'Green Earth Enterprises, Earth Enterprise', 1
+'Business Name', 'iDEKO Strategies', 1
+'Business Name', 'SMJ Development', 1
+'Business Name', 'Multi Media Promotions', 1
+'Business Name', 'Foresight Financial Services for Good', 1
+'Business Name', 'GDG IoT', 1
+'Business Name', 'Wowity Systems', 1
+'Business Name', 'CYNERTEK SOLUTIONS', 1
+'Business Name', 'A New World Group', 1
+'Business Name', 'Diane Silano', 1
+'Business Name', 'RS/RE', 1
+'Business Name', 'Snyder New York', 1
+'Business Name', 'Super Rooter', 1
+'Business Name', 'The Coppola Firm', 1
+'Business Name', 'Eurila Cave', 1
+'Business Name', 'evolution sales and distribution llc', 1
+'Business Name', 'Math without Limits', 1
+'Business Name', 'Multiple Avenues to Success', 1
+'Business Name', 'Middle Ages & Johnny Rockets', 1
+'Business Name', 'Copia', 1
+'Business Name', 'Sleepy Hollow, Ink.', 1
+'Business Name', 'Ashlin Global', 1
+'Business Name', 'Batteries Plus Bulbs White Plains', 1
+'Business Name', 'SENTINEL SECURITY SERVICES', 1
+'Business Name', 'Jean-Pierre Construction', 1
+'Business Name', '24/7 Electrical Construction & Service', 1
+'Business Name', 'Cooper and Company', 1
+'Business Name', 'Greene Grape Annex', 1
+'Business Name', 'Pest Management Solutions', 1
+'Business Name', 'SSE Events Group', 1
+'Business Name', 'Just Right Air Conditioning Service', 1
+'Business Name', 'Mary B Dierickx Historic Preservation', 1
+'Business Name', 'US Premier Builders Corp', 1
+'Business Name', 'Royel Marketing', 1
+'Business Name', 'MPH Miles Per Hour', 1
+'Business Name', 'SynergisticIT', 1
+'Business Name', 'The Cavu Group', 1
+'Business Name', 'Driving Improved Results', 1
+'Business Name', 'Karen Pearse Global Direct', 1
+'Business Name', 'Custom Media Environments', 1
+'Business Name', 'Service Master Restoration by GBS', 1
+'Business Name', 'RPL Consulting, LLC', 1
+'Business Name', 'BA & B Development, LLC', 1
+'Business Name', 'AIA Engineers & Land Surveying', 1
+'Business Name', 'POPLIFE', 1
+'Business Name', 'Bunchful', 1
+'Business Name', 'Lovie's Nostalgia', 1
+'Business Name', 'Mary Kay Judy- Architectural & Cultural Heritage Conservation', 1
+'Business Name', 'J.A.N. Bags & Manufacturing', 1
+'Business Name', 'Gotham Lighting Supply', 1
+'Business Name', 'Alphabet Academy', 1
+'Business Name', 'Shake up Productions', 1
+'Business Name', 'Kinxtel', 1
+'Business Name', 'DY Consultants', 1
+'Business Name', 'Prestige Stone & Pavers Corp', 1
+'Business Name', 'MCCG', 1
+'Business Name', 'Mini Shavell', 1
+'Business Name', 'Wellness Center', 1
+'Business Name', 'Sacks Communications', 1
+'Business Name', 'Groovefit', 1
+'Business Name', 'Tanya Valle Coaching & Consulting', 1
+'Business Name', 'Lingineering Consulting', 1
+'Business Name', 'Mirmax Civil Engineering Services', 1
+'Business Name', 'Vela Advertising', 1
+'Business Name', 'EDD Electrical Distributors, Inc.', 1
+'Business Name', 'Treatment Implementation Collaborative, LLC', 1
+'Business Name', 'Riomar Group', 1
+'Business Name', 'Great Bear', 1
+'Business Name', 'QwikMeds', 1
+'Business Name', 'On Point Services', 1
+'Business Name', 'Julie Joa', 1
+'Business Name', 'IOE', 1
+'Business Name', 'RYD Telecom', 1
+'Business Name', 'CFO General Cleaning Services', 1
+'Business Name', 'Di Vision Creative Group', 1
+'Business Name', 'New Fronteras: Conseling, Psychotherapy & Behavioral Consulting Services', 1
+'Business Name', 'Verbal+Visual', 1
+'Business Name', 'East Egg Project Management', 1
+'Business Name', 'Le JIT Productions', 1
+'Business Name', 'GLOVE & SAFETY PEOPLE', 1
+'Business Name', 'JemCom Solutions', 1
+'Business Name', 'New Castle Communications', 1
+'Business Name', 'REMEDE CONSULTING GROUP, INC.', 1
+'Business Name', 'Ycats Craft Service', 1
+'Business Name', 'Fox Management Consulting', 1
+'Business Name', 'Princealajoh General Contracting', 1
+'Business Name', 'LCL Advisors, Inc.', 1
+'Business Name', 'Benchmark Signaats', 1
+'Business Name', 'American Safe & Vault', 1
+'Business Name', 'Melanie Freundlich Lighting Design', 1
+'Business Name', 'Relationship HQ Psychological and Consulting Services', 1
+'Business Name', 'Adaptation', 1
+'Business Name', 'FBY Security', 1
+'Business Name', 'CFI Stone', 1
+'Business Name', 'Chaotic Interactions', 1
+'Business Name', 'Axiom Actuarial Consulting', 1
+'Business Name', 'AE Design Group', 1
+'Business Name', 'Advance Sound Company', 1
+'Business Name', 'HB Steel', 1
+'Business Name', 'OSHA Solutions', 1
+'Business Name', 'Conrad's Famous Bakery', 1
+'Business Name', 'Andrews & Company', 1
+'Business Name', 'Relevance International', 1
+'Business Name', 'Rogers Enterprises', 1
+'Business Name', 'Star Fans', 1
+'Business Name', 'Denog Security', 1
+'Business Name', 'Aim High Leadership Center, Inc.', 1
+'Business Name', 'Coleman PAF Corp DBA Brio Clean', 1
+'Business Name', 'Minuteman Press', 1
+'Business Name', 'MorrisAllsop Public Affairs', 1
+'Business Name', 'La Vie Development, Inc.', 1
+'Business Name', 'C Drywall', 1
+'Business Name', 'The Greene Grape', 1
+'Business Name', 'AeroDefense', 1
+'Business Name', 'ATI Mechanical Group LLC', 1
+'Business Name', 'Kelly Williams, Photographer', 1
+'Business Name', 'Site Solutions Worldwide', 1
+'Business Name', 'HVAC Filtration specialists inc.', 1
+'Business Name', 'The Nicholson Corporation', 1
+'Business Name', 'Pooran Lakeram', 1
+'Business Name', 'Taxicab Products', 1
+'Business Name', 'Allan's Bakery', 1
+'Business Name', 'LRG International', 1
+'Business Name', 'LumenArch', 1
+'Business Name', 'StudioLabs LLC', 1
+'Business Name', 'CTMEDCHEM', 1
+'Business Name', 'Aries Signage', 1
+'Business Name', 'FORTUNE METAL RECYCLING', 1
+'Business Name', 'Fastsigns', 1
+'Business Name', 'Graboyes Commercial Window Company', 1
+'Business Name', 'Briteway Security Systems', 1
+'Business Name', 'Lakou Cafe', 1
+'Business Name', 'The Von Agency Inc', 1
+'Business Name', 'ENVIRODOCS', 1
+'Business Name', 'LicenseToDrift.com', 1
+'Business Name', 'R.J. Enterprises', 1
+'Business Name', 'Hope Construction Corp', 1
+'Business Name', 'Tyrone Z. McCants', 1
+'Business Name', 'Levin Silbert Company', 1
+'Business Name', 'Landstar Global Logistics', 1
+'Business Name', 'Mensah KLu & Associates', 1
+'Business Name', 'Moving Maven', 1
+'Business Name', 'WE GET IT SIGNED', 1
+'Business Name', 'IBS', 1
+'Business Name', 'Divinity Travel Group', 1
+'Business Name', 'Suffolk Capital Management', 1
+'Business Name', 'TPC Development', 1
+'Business Name', 'Atlantic LED Solutions of New York', 1
+'Business Name', 'Decker Design, Inc.', 1
+'Business Name', 'IKON Business Group, Inc', 1
+'Business Name', 'Charles Leonard Mitchell, Esquire', 1
+'Business Name', 'SLG Construction', 1
+'Business Name', 'Exploring Nature Educational Resource', 1
+'Business Name', 'NFBG', 1
+'Business Name', 'Sandler Business Services', 1
+'Business Name', 'Frontline Security Solutions Inc', 1
+'Business Name', 'ATS+PARTNERS', 1
+'Business Name', 'Command Line Systems', 1
+'Business Name', 'Sharpe Operations LLC', 1
+'Business Name', 'DI Group Architecture, LLC', 1
+'Business Name', 'Brave Films', 1
+'Business Name', 'The Grant Access, LLC', 1
+'Business Name', 'Curcio Printing/ Carr Printing', 1
+'Business Name', 'Fancy Pants Group', 1
+'Business Name', 'BLKBOX', 1
+'Business Name', 'Wayland Street Films', 1
+'Business Name', 'BPC Check Cashing & Financial Services', 1
+'Business Name', 'Popped.NYC', 1
+'Business Name', 'Fineline Printing Group', 1
+'Business Name', 'J.L.E. Inc.', 1
+'Business Name', 'Kopi Kopi', 1
+'Business Name', 'Brightline Electrical', 1
+'Business Name', 'Explorer Security Services', 1
+'Business Name', 'Performance Computing Doctors', 1
+'Business Name', 'Allcity Traffic Management', 1
+'Business Name', 'MFACTION', 1
+'Business Name', 'GG Engineering', 1
+'Business Name', 'Studio L'Image', 1
+'Business Name', 'Archi - Tectonics', 1
+'Business Name', 'Reliable Cleaning Systems', 1
+'Business Name', 'Saint Petersburg Trade House', 1
+'Business Name', 'Envirron', 1
+'Business Name', 'IES', 1
+'Business Name', 'GSSR Co.', 1
+'Business Name', 'Abraham Refrigeration Supply', 1
+'Business Name', 'City Window Fashions', 1
+'Business Name', '3/08/2018', 1
+'Business Name', 'Registered Architect, design and restoration professional, Local Law 11/98 QEWI', 1
+'Business Name', 'TOURNESOL WELLNESS', 1
+'Business Name', 'Atmosphere Building Solutions', 1
+'Business Name', 'QUICK RX', 1
+'Business Name', 'Skill Inventions Inc.', 1
+'Business Name', 'Employers Choice Screening', 1
+'Business Name', 'Advantages', 1
+'Business Name', 'Photo Synthesis Photography', 1
+'Business Name', 'Pristine Development Team', 1
+'Business Name', 'Installation Specialties Group', 1
+'Business Name', 'Grant Supplies', 1
+'Business Name', 'Gotham Catering & Events, Epic Catering', 1
+'Business Name', 'Edifice Energy', 1
+'Business Name', 'Potion', 1
+'Business Name', 'Harmonious Environmental for Everyone', 1
+'Business Name', 'Octavia Bradley', 1
+'Business Name', 'PMBA', 1
+'Business Name', 'Airlogix', 1
+'Business Name', 'Vista Architectural Products, Inc.', 1
+'Business Name', 'Absolute Staffing & Consulting Solutions, LLC', 1
+'Business Name', 'Experimac of West Hempstead', 1
+'Business Name', 'LIGHTBRELLA', 1
+'Business Name', 'Dreissig Company/Dreissig Athletic', 1
+'Business Name', 'Audubon Helical Piers', 1
+'Business Name', 'Wabi Clean', 1
+'Business Name', '3 Gal's Industrial', 1
+'Business Name', 'For Like Minds', 1
+'Business Name', 'Enovate Services, LLC', 1
+'Business Name', 'Flooring Central', 1
+'Business Name', 'Stacey Robertson Group', 1
+'Business Name', 'St. Petersburg Global Trade House', 1
+'Business Name', 'Women.Jobs', 1
+'Business Name', 'Generalsoft', 1
+'Business Name', 'Greenway Topsoil & Compost', 1
+'Business Name', 'Yuba Group Advisors LLC', 1
+'Business Name', 'BIRFT', 1
+'Business Name', 'College Confident', 1
+'Business Name', 'New York Beacon', 1
+'Business Name', 'Alcor Consulting Group', 1
+'Business Name', 'Excel Rain Man', 1
+'Business Name', 'SMLR, Inc', 1
+'Business Name', 'DesignLED USA', 1
+'Business Name', 'Aigner Chocolates', 1
+'Business Name', 'HLNCC', 1
+'Business Name', 'Tantaquidgeon Office Supply', 1
+'Business Name', 'Integrity Special Inspections', 1
+'Business Name', 'Studio 1 Production', 1
+'Business Name', 'Med Fleet', 1
+'Business Name', 'Marccx Media', 1
+'Business Name', 'The Jewel of Harlem Centers', 1
+'Business Name', 'Marena Studios', 1
+'Business Name', 'Destiny Designers University', 1
+'Business Name', 'SCEC, PLLC', 1
+'Business Name', 'Primus Business Management', 1
+'Business Name', 'Kiney Corbett', 1
+'Business Name', 'Win CM', 1
+'Business Name', 'Lydia Kutko Art Consulting', 1
+'Business Name', 'Her Agenda', 1
+'Business Name', 'Studentnest.com', 1
+'Business Name', 'Embody Vitality Consulting, Inc', 1
+'Business Name', 'Fruit Bliss', 1
+'Business Name', 'Tobin   Parnes Design', 1
+'Business Name', 'PISTOS CONSTRUCTION', 1
+'Business Name', 'PrintPalace.com', 1
+'Business Name', 'Juan R. Cuba', 1
+'Business Name', 'Navis Pack & Ship', 1
+'Business Name', 'Titanium Linx.', 1
+'Business Name', 'Tailwind Associates', 1
+'Business Name', 'AVS Signage & Visuals', 1
+'Business Name', 'The Villager,Gay City News,Chelsea Now,Manhattan Express,Downtown Express,East Villager', 1
+'Business Name', 'CPCS', 1
+'Business Name', 'Digital Xpress', 1
+'Business Name', 'One Dental Supplies', 1
+'Business Name', 'CW Solutions', 1
+'Business Name', 'JD Traditional Industries', 1
+'Business Name', 'The Brownstone-Harlem's Crown Jewel', 1
+'Business Name', 'Lion Guard Tax Service', 1
+'Business Name', 'Delta's Maintenance', 1
+'Business Name', 'Brown & Brown Development & Construction Group', 1
+'Business Name', 'Shelmar Universal Training', 1
+'Business Name', 'DTI', 1
+'Business Name', 'Best Deal Dominican Luxury Car Service', 1
+'Business Name', 'KAI Mobile Tax Service', 1
+'Business Name', 'tag management', 1
+'Business Name', 'Terminal Exchange Systems', 1
+'Business Name', 'Sentry Management Solutions', 1
+'Business Name', 'EventPrepNY', 1
+'Business Name', 'Deb Best Practices', 1
+'Business Name', 'Margaret Sullivan Studio', 1
+'Business Name', 'M & M Environmental', 1
+'Business Name', 'Awilda Velez Consulting Services', 1
+'Business Name', 'mamabite', 1
+'Business Name', 'CASE CALL BOX SYSTEMS', 1
+'Business Name', 'DH2 Chauffeured Transportation', 1
+'Business Name', 'Promatech, Inc.', 1
+'Business Name', 'Geddis Architects', 1
+'Business Name', 'Atlas Evaluation & Inspection Services', 1
+'Business Name', 'Henderson Ford MV-1 of Rochester', 1
+'Business Name', 'Blue Moon Construction', 1
+'Business Name', 'Interboro Partners', 1
+'Business Name', 'Government Content', 1
+'Business Name', 'Potty Pros', 1
+'Business Name', 'CASS', 1
+'Business Name', 'Environmental Agricultural Training', 1
+'Business Name', 'HVEA Engineers', 1
+'Business Name', 'Metropolitan Group', 1
+'Business Name', 'Vista Partners Design & Build, LLC', 1
+'Business Name', 'Edgewater Design Landscape Architecture', 1
+'Business Name', 'Tracy and Malik's Bus Company', 1
+'Business Name', 'Arbill', 1
+'Business Name', 'Cuttermill Mailroom', 1
+'Business Name', 'LMC Security', 1
+'Business Name', 'DEI', 1
+'Business Name', 'Gig Systems', 1
+'Business Name', 'UCC', 1
+'Business Name', 'Amramp', 1
+'Business Name', 'InterFaith Film & Music Festival', 1
+'Business Name', 'IRR, Inc.', 1
+'Business Name', 'Seven Seas Engineering & LS Services, PA', 1
+'Business Name', 'BrandLuxe Group', 1
+'Business Name', 'Skyline Consulting', 1
+'Business Name', 'A.S.H. Hot Yoga Babylon', 1
+'Business Name', 'Party Time', 1
+'Business Name', 'Sofola & Associates, Inc', 1
+'Business Name', 'The Studio', 1
+'Business Name', 'Beautiful Brains, LLC', 1
+'Business Name', 'JUDY RENACIA', 1
+'Business Name', 'Reva Digital', 1
+'Business Name', 'Dream Development', 1
+'Business Name', 'Kaieteur Express', 1
+'Business Name', 'Mew York Amsterdam News', 1
+'Business Name', 'Alkimist Beauty', 1
+'Business Name', 'Rialto Trading', 1
+'Business Name', 'SA Engineering LLC', 1
+'Business Name', 'Carapellucci Design LLC', 1
+'Business Name', 'Sears Maid Services', 1
+'Business Name', 'Spinnaker Custom Products', 1
+'Business Name', 'SSD Construction,', 1
+'Business Name', 'NCV Capital Partners,', 1
+'Business Name', 'The Solis Group,', 1
+'Business Name', 'WhyMaker,', 1
+'Business Name', 'Elite Builders and Management,', 1
+'Business Name', 'A & H Company,', 1
+'Business Name', 'AMCS Environmental,', 1
+'Business Name', 'Aqueous Solutions,', 1
+'Business Name', 'SMP Global Consultants,', 1
+'Business Name', 'Hetherington Group,', 1
+'Business Name', 'Nagi Construction & Supply Co.,', 1
+'Business Name', 'PRMS Electronics,', 1
+'Business Name', 'SM/CIG Services,', 1
+'Business Name', 'High Biometrics,', 1
+'Business Name', 'Studio Joseph,', 1
+'Business Name', 'Guy Brown,', 1
+'Business Name', 'BNC Corp.,', 1
+'Business Name', 'FD Construction,', 1
+'Business Name', 'The Bronx Design Group,', 1
+'Business Name', 'DP consulting,', 1
+'Business Name', 'SmartLink Telecom,', 1
+'Business Name', 'New York IT Service,', 1
+'Business Name', 'SRW Engineers,', 1
+'Business Name', 'LJI Projects,', 1
+'Business Name', '7th Bone Tailoring,', 1
+'Business Name', 'Pyramid Security Group,', 1
+'Business Name', 'EPSI,', 1
+'Business Name', 'Gyrus Systems,', 1
+'Business Name', 'Compton Eye Associates,', 1
+'Business Name', 'Cooley Monato Studio,', 1
+'Business Name', 'OnPointe Solutions,', 1
+'Business Name', 'Interior Metals,', 1
+'Business Name', 'Kenaad,', 1
+'Business Name', 'Orange Peach Communications,', 1
+'Business Name', 'Metal Fabrication,', 1
+'Business Name', 'Slate Hill Engineering,', 1
+'Business Name', 'Move This World,', 1
+'Business Name', 'Upstate Drug Testing,', 1
+'Business Name', 'LETRERO GRAPHICS LLC,', 1
+'Business Name', 'Innovation Printing and Promotions,', 1
+'Business Name', 'Robin Wilson Home,', 1
+'Business Name', 'Elite Construction of NY,', 1
+'Business Name', 'Dionne Durant,', 1
+'Business Name', 'Joyce McGee,', 1
+'Business Name', 'Fun Learning Childcare,', 1
+'Business Name', 'Method and Mode,', 1
+'Business Name', 'Lishawn's Consulting,', 1
+'Business Name', 'AldoRay Industries,', 1
+'Business Name', 'The Group,', 1
+'Business Name', 'Vanguarde Consulting Group,', 1
+'Business Name', '06 Group,', 1
+'Business Name', 'CTH Maintenance Service & Supplies,', 1
+'Business Name', 'Graelamb Studio & Shop,', 1
+'Business Name', 'GLOW GLOBAL EVENTS,', 1
+'Business Name', 'Precision HealthCare Consultants,', 1
+'Business Name', 'US Presort,', 1
+'Business Name', 'Light It Up Electric,', 1
+'Business Name', 'Redosa Energy Group Inc,', 1
+'Business Name', 'Conde Construction,', 1
+'Business Name', 'Bjorg Magnea Photography,', 1
+'Business Name', 'La Lumia,', 1
+'Business Name', 'Evaluation and Learning Consulting,', 1
+'Business Name', 'Reboot Computer Services,', 1
+'Business Name', 'Hi-Tech Environmental & Renovation,', 1
+'Business Name', 'Kinderdance,', 2
+'Business Name', 'FindSpark,', 1
+'Business Name', 'NFS,', 1
+'Business Name', 'Stark Standard, LLC,', 1
+'Business Name', 'ZH Architects,', 1
+'Business Name', 'Link Technologies,', 1
+'Business Name', 'A. Best Energy Power,', 1
+'Business Name', 'Gowasabi,', 1
+'Business Name', 'LPP Consulting,', 1
+'Business Name', 'Equities Construction Group,', 1
+'Business Name', 'C.B.A., Inc.,', 1
+'Business Name', 'Chase Real Estate,', 1
+'Business Name', 'Ideas and Action,', 1
+'Business Name', 'Gary J. Boston,', 1
+'Business Name', 'Communications Service Integrators,', 1
+'Business Name', 'Metron NYC,', 1
+'Business Name', 'New Ambitions,', 1
+'Business Name', 'Stronghold Cleaning & Maintenance Services,', 1
+'Business Name', 'Webnest Construction Company,', 1
+'Business Name', 'DC Geomatics,', 1
+'Business Name', 'Workforce Development,', 1
+'Business Name', 'Urban Office Products,', 1
+'Business Name', 'Greene Grape Scoops,', 1
+'Business Name', 'ANGARAI,', 1
+'Business Name', 'The Source,', 1
+'Business Name', 'FM Office Products/Merkel Donohue/Business Environments by Ras,', 1
+'Business Name', 'Y&M Urban Development Corporation,', 1
+'Business Name', 'CSI Group, LLC,', 1
+'Business Name', 'D.E.C. Green,', 1
+'Business Name', 'CCI Engineering Services,', 1
+'Business Name', 'SUPRA ATELIER,', 1
+'Business Name', 'AEI Electrical,', 1
+'Business Name', 'Empowering Success Career Coaching and Consulting,', 1
+'Business Name', 'AllState Cleaning, Svc.,', 1
+'Business Name', 'Amy's Bread,', 1
+'Business Name', 'Studio A/B,', 1
+'Business Name', 'Mr. Cory's Cookies,', 1
+'Business Name', 'Diafano,', 1
+'Business Name', 'Sinclair Social,', 1
+'Business Name', 'Crude Food,', 1
+'Business Name', 'CNG,', 1
+'Business Name', 'Global Integrated Supply,', 1
+'Business Name', 'Sooryen Technologies,', 1
+'Business Name', 'Cloud and Things,', 1
+'Business Name', 'ACDC Systems Engineering,', 1
+'Business Name', 'Massuridis Professional Services,', 1
+'Business Name', 'Anna Zar Inc.,', 1
+'Business Name', 'Cien +,', 1
+'Business Name', 'EFK Group,', 1
+'Business Name', 'Gedeon GRC Consulting,', 1
+'Business Name', 'XXL Auto Body Shop,', 1
+'Business Name', 'Printing Plus,', 1
+'Business Name', 'MakeAtlas,', 1
+'Business Name', 'Fontis Foods, LLC,', 1
+'Business Name', 'Stone, McElroy & Associates, LLC,', 1
+'Business Name', 'Donnelly & Moore Corp.,', 1
+'Business Name', 'Pointel Inc.,', 1
+'Business Name', 'KMK Restorations LLC,', 1
+'Business Name', 'Age Of The Creative,', 1
+'Business Name', 'Delice Cafe,', 1
+'Business Name', 'The Culture Tree,', 1
+'Business Name', 'Tridon Chemical,', 1
+'Business Name', 'Impacto Latino,', 1
+'Business Name', 'JG Advisory Services LLC,', 1
+'Business Name', 'SMI Court Reporting,', 1
+'Business Name', 'PhotoChe,', 1
+'Business Name', 'La Voz Hispana,', 1
+'Business Name', 'Integrative Partners,', 1
+'Business Name', 'TSMS,', 1
+'Business Name', 'Modern Suppliers,', 1
+'Business Name', 'J Martin Associates, Inc.,', 1
+'Business Name', 'Paradigm Trends,', 1
+'Business Name', 'Dreams Animation,', 1
+'Business Name', 'WSI Impact,', 1
+'Business Name', 'JS Architects,', 1
+'Business Name', 'Embroidery Place,', 1
+'Business Name', 'Long Island Nail Skin and Hair Institute,', 1
+'Business Name', 'B.Y.N. Iron Works,', 1
+'Business Name', 'Queen City Janitorial,', 1
+'Business Name', 'Atlas Environmental Lab,', 1
+'Business Name', 'Tessellate Studio,', 1
+'Business Name', 'Solemates,', 1
+'Business Name', 'D.R.E. Drywall Corp,', 1
+'Business Name', 'Perpetual,', 1
+'Business Name', 'DavisKelly, LLC,', 1
+'Business Name', 'Coqui the Chef,', 1
+'Business Name', 'TROINET,', 1
+'Business Name', 'Tamica M Potts,', 1
+'Business Name', 'Leroy and Clarkson,', 1
+'Business Name', 'New Solutions Staffing,', 1
+'Business Name', 'Bebop Books,', 1
+'Business Name', 'Graphical Print,', 1
+'Business Name', 'Rydl Contracting & Waste Removal,', 1
+'Business Name', 'LCM Safety Consulting,', 1
+'Business Name', '6Â¢ Design,', 1
+'Business Name', 'Sezekcol Electric Inc,', 1
+'Business Name', 'Zeus Associates Recruiting & Staffing,', 1
+'Business Name', 'Lynn McCary Events, LLC,', 1
+'Business Name', 'Symphony Industries,', 1
+'Business Name', 'Milo Plastering LLC,', 1
+'Business Name', 'JCT,', 1
+'Business Name', 'ISI,', 1
+'Business Name', 'Community Change,', 1
+'Business Name', 'J.V. Haring,', 1
+'Business Name', 'IL Forno Bakery,', 1
+'Business Name', 'BGR Radiator,', 1
+'Business Name', 'Altus Metal & Marble Maintenance,', 1
+'Business Name', 'Green Staff NY,', 2
+'Business Name', 'Kanner Connect,', 1
+'Business Name', 'Controlled Security Systems,', 1
+'Business Name', 'Vera Security & Training Academy,', 1
+'Business Name', 'SnD Partners,', 1
+'Business Name', 'Home Helpers and Direct Link 58832,', 1
+'Business Name', 'BLOOMING BEDS,', 1
+'Business Name', 'Inside Track PR,', 1
+'Business Name', 'BMG,', 1
+'Business Name', 'Easily Said & Done,', 1
+'Business Name', 'PROFESSIONAL SERVICE,', 1
+'Business Name', 'CFO on Speed Dial,', 1
+'Business Name', 'MGC Ink,', 1
+'Business Name', 'Emergency One,', 1
+'Business Name', 'WorkPro,', 1
+'Business Name', 'ASB Communications,', 1
+'Business Name', 'SDA,', 1
+'Business Name', 'Hudson Archival Services,', 1
+'Business Name', 'Techno Consult Engineering, PC,', 1
+'Business Name', 'VL Architects,', 1
+'Business Name', 'Slacke Test Boring,', 1
+'Business Name', 'Leona H. Chan, CPA Leona H. Chan, CPA,', 1
+'Business Name', 'Mel Sobel Microscopes,', 1
+'Business Name', 'Harnessing Light, Branding and Design Solutions,', 1
+'Business Name', 'Mountain Uniforms,', 1
+'Business Name', 'Access Institute,', 1
+'Business Name', 'MS3 (NY),', 1
+'Business Name', 'GLOBE ELECTRIC CO.,', 1
+'Business Name', 'Intelligent Design Engineers,', 1
+'Business Name', 'Move Forward Coaching and Consulting,', 1
+'Business Name', 'Roman & Associates,', 1
+'Business Name', 'One Glass Video,', 1
+'Business Name', 'Beacon Therapy, LLC,', 1
+'Business Name', 'Stagg Digital, LLC,', 1
+'Business Name', 'Creative Construction of Brooklyn,', 1
+'Business Name', 'Watch  Guard And Patrol Agency,', 1
+'Business Name', 'Thermal Insulation Industries,', 1
+'Business Name', 'Noviant,', 1
+'Business Name', 'Asya Restaurant,', 1
+'Business Name', 'Salsa Professional Apparel & Supplies,', 1
+'Business Name', 'Wamo Inc,', 1
+'Business Name', 'London in New York,', 1
+'Business Name', 'N/A,', 2
+'Business Name', 'Sportball,', 1
+'Business Name', 'Pat's Exotics,', 1
+'Business Name', 'Green Tech Sustainable Solutions,', 1
+'Business Name', 'Computer Systems and Methods,', 1
+'Business Name', 'Centro Dental Dominicano,', 1
+'Business Name', 'MIC Floor Coverings,', 1
+'Business Name', 'LRKD Industries,', 1
+'Business Name', 'Studio 5 Architects/Planners LLC,', 1
+'Business Name', 'Dehinde Omotesho,', 1
+'Business Name', 'SM Architectural Design Consulting,', 1
+'Business Name', 'ESC Cabling,', 1
+'Business Name', 'Imagecircle,', 1
+'Business Name', 'Intact Energy,', 1
+'Business Name', 'Insight Into Diversity,', 1
+'Business Name', 'F. J. Sandoval, CPA,', 1
+'Business Name', 'Basic Moving,', 1
+'Business Name', 'http://www.djwhoevents.com,', 1
+'Business Name', 'HP Electric Sales Co.,', 1
+'Business Name', 'Archit Construction,', 1
+'Business Name', 'Arrochar Fuel,', 1
+'Business Name', 'MBaez Consulting,', 1
+'Business Name', 'VTC,', 1
+'Business Name', '6 Handles,', 1
+'Business Name', 'Joseph Felix Realty,', 1
+'Business Name', 'E3 Consulting,', 1
+'Business Name', 'Elite Steel,', 1
+'Business Name', 'Unique Care Management Services,', 1
+'Business Name', 'C&C Projects,', 1
+'Business Name', 'Lucky Lou's Gourmet Rice Pudding,', 1
+'Business Name', 'Huascar & Company Bakeshop,', 1
+'Business Name', 'Marine Towing,', 1
+'Business Name', 'JEM Tech Group,', 1
+'Business Name', 'RSI Municipal Group,', 1
+'Business Name', 'C.B. Mills Electric,', 1
+'Business Name', 'Speak-At-Ease,', 1
+'Business Name', 'People Potential,', 1
+'Business Name', 'Exit Realty Direct,', 1
+'Business Name', 'Rajan Construction Company,', 1
+'Business Name', 'She Dreams of Freedom Consultant Group,', 1
+'Business Name', 'Complete Billing & Collections,', 1
+'Business Name', 'PuroClean Restoration Services,', 1
+'Business Name', 'Edelweiss Floral Atelier,', 1
+'Business Name', 'Burt Crane and Rigging,', 1
+'Business Name', 'Russell H. Lewis Company,', 1
+'Business Name', 'SILVER SPOON DINER,', 1
+'Business Name', 'Turnstile Studio,', 1
+'Business Name', 'NY Testing & Balancing,', 1
+'Business Name', 'MBC Support, LLC,', 1
+'Business Name', 'CareerVisions,', 1
+'Business Name', 'A & A Premium Paint Distributor,', 1
+'Business Name', 'Expertise NY Construction,', 1
+'Business Name', 'Island Guide,', 1
+'Business Name', 'ConsolTica LLC,', 1
+'Business Name', 'Daedong Construction,', 1
+'Business Name', 'EVI,', 1
+'Business Name', 'G C Iron Works,', 1
+'Business Name', 'Family Tile Company Inc.,', 1
+'Business Name', 'One Source-NY,', 1
+'Business Name', 'Talson Solutions, LLC,', 1
+'Business Name', 'Overhead Door Co.,', 1
+'Business Name', 'The Dean Law Firm,', 1
+'Business Name', 'CNS Environmental,', 1
+'Business Name', 'Filmsabotaj,', 1
+'Business Name', 'Vicki's Party Pro,', 1
+'Business Name', 'City Safe Partners,', 1
+'Business Name', 'Store Scan Shred,', 1
+'Business Name', 'Socaobiz Security,', 1
+'Business Name', 'Irene Liberman Design,', 1
+'Business Name', 'Big Apple Visual Group,', 1
+'Business Name', 'Marmara Construction,', 1
+'Business Name', 'Brenna Consulting,', 1
+'Business Name', 'See That Girl's Cleaning Service,', 1
+'Business Name', 'American Design Language,', 1
+'Business Name', 'High Point,', 1
+'Business Name', 'Construction Concepts,', 1
+'Business Name', 'A&A Apollo Transfer and Storage,', 1
+'Business Name', 'Pronto Cleaning & Maintenace,', 1
+'Business Name', 'Disaster Medical Technologies,', 1
+'Business Name', 'Tsion Cafe & Bakery,', 1
+'Business Name', 'Robert Parchment Plumbing & Heating, Inc.,', 1
+'Business Name', 'Munroe Creative Partners,', 1
+'Business Name', 'Brazen Marketer,', 1
+'Business Name', 'Doublespace,', 1
+'Business Name', 'Quick RX,', 1
+'Business Name', 'Partners in Company,', 1
+'Business Name', 'JACAN Plumbing & Heating, Inc.,', 1
+'Business Name', 'Weissco Power LLC,', 1
+'Business Name', 'Lotus Flame Restaurant,', 1
+'Business Name', 'P & V Enterprises,', 1
+'Business Name', 'North Shore Office Supplies,', 1
+'Business Name', 'The Kaleidoscope Diversity Inclusion Consulting, LLC,', 1
+'Business Name', 'JOHNSTONE SUPPLY,', 1
+'Business Name', 'Oak Square Resources, LLC,', 1
+'Business Name', 'Alphfinity,', 1
+'Business Name', 'Inquiring Minds,', 1
+'Business Name', 'IPCS,', 1
+'Business Name', 'Star Fire Protection Co.,', 1
+'Business Name', 'Partners For Nonprofits,', 1
+'Business Name', 'A Plus Installation,', 1
+'Business Name', 'CED Systems,', 1
+'Business Name', 'Statewide Fire Alarm Systems, Burglar Busters,', 1
+'Business Name', 'Two Twelve,', 1
+'Business Name', 'Martin Walter Company,', 1
+'Business Name', 'EdgeworthBox,', 1
+'Business Name', 'Ampersand Architecture,', 1
+'Business Name', 'Systematic,', 1
+'Business Name', 'MKB Construction USA,', 1
+'Business Name', 'The Full Circle Group,', 1
+'Business Name', 'Timeline Security,', 1
+'Business Name', 'CAS Group, LLC,', 1
+'Business Name', 'Languages Translation Services,', 1
+'Business Name', 'Masse Green,', 1
+'Business Name', 'Alcan Glass,', 1
+'Business Name', 'P. Max Engineering,', 1
+'Business Name', 'THE JAY CORPORATION,', 1
+'Business Name', 'Vision Flourish,', 1
+'Business Name', 'Fair Pattern,', 1
+'Business Name', 'Larsen Engineers,', 1
+'Business Name', 'NY Print Partners,', 1
+'Business Name', 'Long Island Science,', 1
+'Business Name', 'SG Chair Gallery,', 1
+'Business Name', 'Pineapple Graphics,', 1
+'Business Name', 'Eduporium,', 1
+'Business Name', 'Hazan + Company,', 1
+'Business Name', 'Crystal Manor,', 1
+'Business Name', 'We Made It,', 1
+'Business Name', 'Audiomaxx,', 1
+'Business Name', 'Amco Uniform Rental,', 1
+'Business Name', 'Above Call Security Training,', 1
+'Business Name', 'Farragut Builders II, Inc.,', 1
+'Business Name', 'Wealth Marketing Group,', 1
+'Business Name', 'YFD Cabinetry,', 1
+'Business Name', 'Renee Skuba Graphic Design,', 1
+'Business Name', 'Albion Sheet Metal,', 1
+'Business Name', 'TCC, Inc.,', 1
+'Business Name', 'G TECTS,', 1
+'Business Name', 'MDS,', 1
+'Business Name', 'Dell's Maraschino Cherries Co.,', 1
+'Business Name', 'Cardella Waste Services,', 1
+'Business Name', 'MEDIQUIP HOME CARE,', 1
+'Business Name', 'York Industrial,', 1
+'Business Name', 'Uniglobe Travel Designers,', 1
+'Business Name', 'Tomorrow Partners,', 1
+'Business Name', 'Art Solutions,', 1
+'Business Name', 'AlphaKey Club,', 1
+'Business Name', 'Definite Energy Group,', 1
+'Business Name', 'Cure The Executive Edge,', 1
+'Business Name', 'Western Reserve Technology,', 1
+'Business Name', 'Lu Engineers, P.C.,', 1
+'Business Name', 'FCI Management Consultants,', 1
+'Business Name', 'Copy Plus USA,', 1
+'Business Name', 'LIS Solutions,', 1
+'Business Name', 'Jadamec Associates LLC,', 1
+'Business Name', 'Seaview Pharmacy,', 1
+'Business Name', 'Alpha Care Supply,', 1
+'Business Name', 'South Street Sand & Gravel,', 1
+'Business Name', 'Alternate Resources,', 1
+'Business Name', 'The Flourishing Preschool,', 1
+'Business Name', 'Power Boats New Roc,', 1
+'Business Name', 'JANUS Associates,', 1
+'Business Name', 'Van West Media,', 1
+'Business Name', 'Law & Mediation, PLLC,', 1
+'Business Name', 'YOU ARE THE CITY,', 1
+'Business Name', 'Transom Builders Group,', 1
+'Business Name', 'NY Statewide Protection,', 1
+'Business Name', 'Atlas,', 1
+'Business Name', 'Impact Consulting Enterprises,', 1
+'Business Name', 'Maiarelli Studio,', 1
+'Business Name', 'Behan Planning and Design,', 1
+'Business Name', 'GAB Co. Safety Equipment & Supplies,', 1
+'Business Name', 'JP Signs,', 1
+'Business Name', 'Monica Sharp,', 1
+'Business Name', 'Wisdom Consulting,', 1
+'Business Name', 'Jersey Infrared Consultants,', 1
+'Business Name', 'priority first carting inc,', 1
+'Business Name', 'Urbane Development,', 1
+'Business Name', 'Condata Financial,', 1
+'Business Name', 'Desserts Homemade by ELena LLC,', 1
+'Business Name', 'Idea Kraft,', 1
+'Business Name', 'White Zinfandel,', 1
+'Business Name', 'Lewis Consulting Group,', 1
+'Business Name', 'NY Skyline Contracting,', 1
+'Business Name', 'Appetite4Life,', 1
+'Business Name', 'Harlem's Heaven,', 1
+'Business Name', 'USEReady,', 1
+'Business Name', 'HPC,', 1
+'Business Name', 'Munoz Engineering, P.C.,', 1
+'Business Name', 'Elite Technical,', 1
+'Business Name', 'Construction Firm,', 1
+'Business Name', 'Industrial Staffing Services Inc DBA ISSI,', 1
+'Business Name', 'PCS,', 1
+'Business Name', 'Noorcom,', 1
+'Business Name', 'Professional Tax Clinic,', 1
+'Business Name', 'Vinoleo,', 1
+'Business Name', 'CareOne Builders,', 1
+'Business Name', 'ELOD Studio LLC,', 1
+'Business Name', 'Resolution,', 1
+'Business Name', 'Verona Carpenter Architects,', 1
+'Business Name', 'Madison Approach Staffing Inc,', 1
+'Business Name', 'GTS Electrical,', 1
+'Business Name', 'Hudson Valley Press,', 1
+'Business Name', 'POMOLUX,', 1
+'Business Name', 'AGE Engineering,', 1
+'Business Name', 'The Table Group,', 1
+'Business Name', 'Living Above Disorder Consulting,', 1
+'Business Name', 'ProjectSpan Services,', 1
+'Business Name', 'BP Alliance,', 1
+'Business Name', 'Luken Electric,', 1
+'Business Name', 'KBD Strategic Consulting,', 1
+'Business Name', 'AQM Inc.,', 1
+'Business Name', 'Gay Lee, LCSW-R,', 1
+'Business Name', 'Betty's Total Events,', 1
+'Business Name', 'Frangeli Consulting and Design,', 1
+'Business Name', 'Urban ID Media,', 1
+'Business Name', 'IFS Securities, Inc.,', 1
+'Business Name', 'Heed Media,', 1
+'Business Name', 'Sanspot,', 1
+'Business Name', 'Prosper Digital,', 1
+'Business Name', 'Breakthrough ADR,', 1
+'Business Name', 'CASNY,', 1
+'Business Name', 'I Tech Solution,', 1
+'Business Name', 'Promarket Solution,', 1
+'Business Name', 'EDV Inc.,', 1
+'Business Name', 'True Destiny Leadership Group,', 1
+'Business Name', 'Urban Technology Group,', 1
+'Business Name', 'Campbell Communications, Inc.,', 1
+'Business Name', 'ASISS,', 1
+'Business Name', 'Latech Environmental,', 1
+'Business Name', 'New York Advanced Energy,', 1
+'Business Name', 'MNLA, Mathews Nielsen,', 1
+'Business Name', 'Dharam Consulting,', 1
+'Business Name', 'Branch Services,', 1
+'Business Name', 'Tayrona Construction,', 1
+'Business Name', 'BG Press,', 1
+'Business Name', 'ISSE,', 1
+'Business Name', 'Serene Spaces Living,', 1
+'Business Name', 'Diplomatic Security Service,', 1
+'Business Name', 'Glazer Promos,', 1
+'Business Name', 'DevJee Inc.,', 1
+'Business Name', 'LAXMAN AND COMPANY,', 1
+'Business Name', 'Jess Security & Investigation, Inc.,', 1
+'Business Name', 'SafeCircle5,', 1
+'Business Name', 'WATT + FLUX,', 1
+'Business Name', 'Yip Associates,', 1
+'Business Name', 'The Sign Works, Inc.,', 1
+'Business Name', 'Elle Enterprises,', 1
+'Business Name', 'The Music Room at Spoke the Hub,', 1
+'Business Name', 'Concrete Solutions,', 1
+'Business Name', 'Bluedge,', 1
+'Business Name', 'Galleros Robinson, Certified Public Accountants and Advisors,', 1
+'Business Name', 'The Lifestyle Agency,', 1
+'Business Name', 'Alco Lock and Safe,', 1
+'Business Name', 'Edgenet Services Inc,', 1
+'Business Name', 'futurenstruction,', 1
+'Business Name', 'TRA,', 1
+'Business Name', 'Weiss/Manfredi Architecture/Landscape/Urbanism,', 1
+'Business Name', 'Standard Medical Systems, LLC,', 1
+'Business Name', 'South Atlantic Services,', 1
+'Business Name', 'Bernstein Associates,', 1
+'Business Name', 'Ivory Solutions,', 1
+'Business Name', 'Sec - Curity,', 1
+'Business Name', 'Birch Event Design,', 1
+'Business Name', 'Global Cleaning Group,', 1
+'Business Name', 'High Touch IR,', 1
+'Business Name', 'Austin Williams,', 1
+'Business Name', 'Show the Good,', 1
+'Business Name', 'Touchtel Electric & Datacom,', 1
+'Business Name', 'QCM,', 1
+'Business Name', 'Gadget Express,', 1
+'Business Name', 'Viewshed Films,', 1
+'Business Name', 'Impact Effect,', 1
+'Business Name', 'Mobile City Services,', 1
+'Business Name', 'HRF Services Corp,', 1
+'Business Name', 'WorkshopRus,', 1
+'Business Name', 'Fuse Printing,', 1
+'Business Name', 'Service master commercial cleaning by A Better Choice,', 1
+'Business Name', 'Lori J Lehnen Engineering,', 1
+'Business Name', 'All Action Architectural Metal & Glass,', 1
+'Business Name', 'Victory Security Company,', 1
+'Business Name', 'Fountain Oil,', 1
+'Business Name', 'LEYDEN LEWIS DESIGN STUDIO,', 1
+'Business Name', 'Full Deck Design,', 1
+'Business Name', 'BAAO Architecture,', 1
+'Business Name', 'BP Architects,', 1
+'Business Name', 'Sanaia,', 1
+'Business Name', 'Pyramid Enterprise Supplies,', 1
+'Business Name', 'QG Floral,', 1
+'Business Name', 'NowPow,', 1
+'Business Name', 'M-E Consulting Group,', 1
+'Business Name', 'AC Video Solutions,', 1
+'Business Name', 'Government Office Furniture,', 1
+'Business Name', 'Go Go Curry,', 1
+'Business Name', 'Seefire Technologies,', 1
+'Business Name', 'Fashions Unique,', 1
+'Business Name', 'M.Patterson Services LLC,', 1
+'Business Name', 'QED National,', 1
+'Business Name', 'Purh20,', 1
+'Business Name', 'Imprintable Solutions Ink,', 1
+'Business Name', 'S & S Construction,', 1
+'Business Name', 'B. Thayer Associates,', 1
+'Business Name', 'The Telsa Group,', 1
+'Business Name', 'AJC General Contracting,', 1
+'Business Name', 'Churchgate Protective Services,', 1
+'Business Name', 'Document Managers,', 1
+'Business Name', 'Tableaux Multimedia,', 1
+'Business Name', 'Rockwood Air and Water Technology,', 1
+'Business Name', 'TRIBECCA SYSTEMS,', 1
+'Business Name', 'Milestales,', 1
+'Business Name', 'Interiors By Harriet J,', 1
+'Business Name', 'All Suppliez.com,', 1
+'Business Name', 'JSL Management of NY LLC,', 1
+'Business Name', 'New York,', 1
+'Business Name', 'GPS Sourcing,', 1
+'Business Name', 'ICARS,', 1
+'Business Name', 'The Monroe Group, llc,', 1
+'Business Name', 'JAG Heating,', 1
+'Business Name', 'SAN,', 1
+'Business Name', 'MC Electric,', 1
+'Business Name', 'Preferred Environmental Services,', 1
+'Business Name', 'Nootrak PC,', 1
+'Business Name', 'W&CO,', 1
+'Business Name', '4U Services,', 1
+'Business Name', 'David Yum Architects,', 1
+'Business Name', 'VIS Industries,', 1
+'Business Name', 'TEN Arquitectos, P C,', 1
+'Business Name', 'DRAP Social,', 1
+'Business Name', 'BulbSpecialists,', 1
+'Business Name', 'DAA Consulting, LLC,', 1
+'Business Name', 'Conemco Consultants,', 1
+'Business Name', 'Meliora Design,', 1
+'Business Name', 'Level P Coaching,', 1
+'Business Name', 'Silicon Harlem,', 1
+'Business Name', 'yainc@yahoo.com,', 1
+'Business Name', 'Comlab Media,', 1
+'Business Name', 'Cambridge Computer,', 1
+'Business Name', 'ORI Supplies,', 1
+'Business Name', 'O&S Engineers & Architects, PC,', 1
+'Business Name', 'Sula NYC,', 1
+'Business Name', 'PIER HEAD ASSOCIATES, LTD.,', 1
+'Business Name', 'ASI System Integration,', 1
+'Business Name', 'Ramirez Engineering,', 1
+'Business Name', 'Redmond Law Office,', 1
+'Business Name', 'Platform Media,', 1
+'Business Name', 'Hillside Gourmet,', 1
+'Business Name', 'Win Depot Restaurant Equipment Center,', 1
+'Business Name', 'Invision Publications,', 1
+'Business Name', 'SiteWorks Landscape Architecture,', 1
+'Business Name', 'Juliette Fairley's Get Published Seminar Series,', 1
+'Business Name', 'Integrity Senior Services,', 1
+'Business Name', 'RJB Tutoring,', 1
+'Business Name', 'Muscle and Bone NYC,', 1
+'Business Name', 'United Terrain Group,', 1
+'Business Name', 'Ciocchini Design,', 1
+'Business Name', 'American TriVenture, LLC,', 1
+'Business Name', 'VCM,', 1
+'Business Name', 'M.A.P.Technology Solutions,', 1
+'Business Name', 'Shelderado,', 1
+'Business Name', 'JPCL Engineering LLC,', 1
+'Business Name', 'Unipro Int'l,', 1
+'Business Name', 'Law Offices of Barry D. Lites,', 1
+'Business Name', 'Zaftig,', 1
+'Business Name', 'Newton Brown Urban Design,', 1
+'Business Name', 'Masto PR,', 1
+'Business Name', 'Empire Kitchen & Bath,', 1
+'Business Name', 'SonderBlu,', 1
+'Business Name', 'EM Arts,', 1
+'Business Name', 'Fine Fare,', 1
+'Business Name', 'Excelsior Business Development Associates, LLC.,', 1
+'Business Name', 'Wall to Wall Cleaning Supplies Co.,', 1

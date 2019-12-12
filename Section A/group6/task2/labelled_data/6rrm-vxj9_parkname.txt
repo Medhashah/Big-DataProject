@@ -1,0 +1,360 @@
+'Parks/Playgrounds', 'Bowling Green', 6
+'Parks/Playgrounds', 'Juniper Valley Park', 1
+'Parks/Playgrounds', 'Graham Square Park', 4
+'Parks/Playgrounds', 'Chelsea Park', 4
+'Parks/Playgrounds', 'Randolph Walker Park', 1
+'Parks/Playgrounds', 'Kissena Corridor Park', 1
+'Parks/Playgrounds', 'Colonel David Marcus Memorial Playground', 2
+'Parks/Playgrounds', 'Lady Moody Square', 1
+'Parks/Playgrounds', 'Clearview Expressway', 1
+'Parks/Playgrounds', 'Hero Park', 5
+'Parks/Playgrounds', 'McKinley Square', 1
+'Parks/Playgrounds', 'Pelham Parkway', 6
+'Parks/Playgrounds', 'Fidelity Memorial Park', 2
+'Parks/Playgrounds', 'Major John W. Mark Park', 4
+'Parks/Playgrounds', 'Commander Eugene S. Sarsfield Playground', 2
+'Parks/Playgrounds', 'Soho Square', 1
+'Parks/Playgrounds', 'Father Giorgio Square', 1
+'Parks/Playgrounds', 'Carl Schurz Park', 6
+'Parks/Playgrounds', 'Hancock Park', 1
+'Parks/Playgrounds', 'Tompkinsville Park', 4
+'Parks/Playgrounds', 'Pleasant Plains Memorial Park', 1
+'Parks/Playgrounds', 'P.S. 305 Playground', 1
+'Parks/Playgrounds', 'Ridgewood Veterans Triangle', 1
+'Parks/Playgrounds', 'Victorious America Triangle', 1
+'Parks/Playgrounds', 'Astoria Park War Memorial', 1
+'Parks/Playgrounds', 'Corporal Fufidio Square', 1
+'Parks/Playgrounds', 'Benjamin Gladstone Square', 1
+'Parks/Playgrounds', 'Jacob Joffe Park', 1
+'Parks/Playgrounds', 'John Jay Park', 2
+'Parks/Playgrounds', 'East River Park', 2
+'Parks/Playgrounds', 'New Abingdon Playground', 1
+'Parks/Playgrounds', 'Linden Park', 1
+'Parks/Playgrounds', 'Lillian D. Wald Playground', 1
+'Parks/Playgrounds', 'Memorial Grass Strip at East 138th Street, Grand Concourse, and Major Deegan Boulevard', 1
+'Parks/Playgrounds', 'John F. Murray Playground', 1
+'Parks/Playgrounds', 'City Hall Park', 21
+'Parks/Playgrounds', 'McCaffrey Playground', 1
+'Parks/Playgrounds', 'Memorial Park at Richmond Road and New Dorp Lane', 1
+'Parks/Playgrounds', 'Lost Battalion Hall', 3
+'Parks/Playgrounds', 'Randalls Island Park', 4
+'Parks/Playgrounds', 'Joseph Rodman Drake Park', 2
+'Parks/Playgrounds', 'Monsignor McGolrick Park', 5
+'Parks/Playgrounds', 'Richard Tucker Park', 1
+'Parks/Playgrounds', 'Baisley Pond Park', 1
+'Parks/Playgrounds', 'Hudson Triangle', 2
+'Parks/Playgrounds', 'Raymond M. O'Connor Field', 2
+'Parks/Playgrounds', 'Captain Roald Amundsen Plaza', 1
+'Parks/Playgrounds', 'Dr. Ronald McNair Park', 2
+'Parks/Playgrounds', 'Gowanus Parkway', 1
+'Parks/Playgrounds', 'Leo Ehrenreich-Austin Street Playground', 1
+'Parks/Playgrounds', 'Kimlau Square', 1
+'Parks/Playgrounds', 'Mosholu Parkway', 3
+'Parks/Playgrounds', 'Brower Park', 1
+'Parks/Playgrounds', 'Carroll Park', 2
+'Parks/Playgrounds', 'Freedom Triangle', 1
+'Parks/Playgrounds', 'Hammarskjold Plaza', 2
+'Parks/Playgrounds', 'Herald Square', 1
+'Parks/Playgrounds', 'David J. O'Connell Square', 1
+'Parks/Playgrounds', 'Abingdon Park', 2
+'Parks/Playgrounds', 'Marconi Memorial Field', 1
+'Parks/Playgrounds', 'East Harlem Art Park', 1
+'Parks/Playgrounds', 'Claremont Park', 2
+'Parks/Playgrounds', 'Dyckman House Museum', 4
+'Parks/Playgrounds', 'Gravesend Park', 1
+'Parks/Playgrounds', 'Silver Lake Park', 2
+'Parks/Playgrounds', 'Grass Strip along BQE Promenade between Remsen and Montague Streets', 2
+'Parks/Playgrounds', 'E.R. Squibb Park', 1
+'Parks/Playgrounds', 'Bennett Park', 5
+'Parks/Playgrounds', 'Prospect Park', 58
+'Parks/Playgrounds', 'St. Catherine's Park', 1
+'Parks/Playgrounds', 'Frank Frontera Park', 1
+'Parks/Playgrounds', 'Foley Square & T. Paine Park', 2
+'Parks/Playgrounds', 'Kosciusko Pool', 3
+'Parks/Playgrounds', 'Columbus Square', 2
+'Parks/Playgrounds', 'Denis P. Gorman Memorial Park', 1
+'Parks/Playgrounds', 'Isham Park', 3
+'Parks/Playgrounds', 'Jackie Robinson Park', 1
+'Parks/Playgrounds', 'Union Square Park', 13
+'Parks/Playgrounds', 'Father Kehoe Triangle', 1
+'Parks/Playgrounds', 'Milestone Park', 2
+'Parks/Playgrounds', 'Lawrence C. Thompson Memorial Park', 1
+'Parks/Playgrounds', 'Daniel Carter Beard Memorial Square', 1
+'Parks/Playgrounds', 'Mellett Playground', 1
+'Parks/Playgrounds', 'Leif Ericson Park and Square', 1
+'Parks/Playgrounds', 'Henry Hudson Parkway', 3
+'Parks/Playgrounds', 'None', 0
+'Parks/Playgrounds', 'Dreier-Offerman Park', 1
+'Parks/Playgrounds', 'Annadale Park', 1
+'Parks/Playgrounds', 'Keltch Memorial Park', 2
+'Parks/Playgrounds', 'Saratoga Square Park', 1
+'Parks/Playgrounds', 'Franklin D. Roosevelt Boardwalk and Beach', 4
+'Parks/Playgrounds', 'Gorman Memorial Park', 1
+'Parks/Playgrounds', 'Greenstreet', 1
+'Parks/Playgrounds', 'Corporal Leonard Square', 1
+'Parks/Playgrounds', 'Faber Park', 1
+'Parks/Playgrounds', 'Crack Is Wack Playground', 1
+'Parks/Playgrounds', 'Betsy Head Park', 1
+'Parks/Playgrounds', 'Broadway Center Plots', 1
+'Parks/Playgrounds', 'Asser Levy-Seaside Park', 1
+'Parks/Playgrounds', 'Luis R. Lopez Park', 1
+'Parks/Playgrounds', 'Juan Pablo Duarte Square', 1
+'Parks/Playgrounds', 'Grant Square Gore', 3
+'Parks/Playgrounds', 'Bronx River Parkway', 2
+'Parks/Playgrounds', 'Alfred E. Smith Park', 4
+'Parks/Playgrounds', 'Cunningham Park', 2
+'Parks/Playgrounds', 'Bushwick Playground', 1
+'Parks/Playgrounds', 'Sheridan Square Viewing Garden', 1
+'Parks/Playgrounds', 'Albert C. Benninger Playground', 1
+'Parks/Playgrounds', 'Lithuania Square', 1
+'Parks/Playgrounds', 'Bill Brown Memorial Playground', 1
+'Parks/Playgrounds', 'Marcus Garvey Park', 2
+'Parks/Playgrounds', 'Clove Lakes Park', 3
+'Parks/Playgrounds', 'Cobble Hill Park', 1
+'Parks/Playgrounds', 'Kissena Park', 1
+'Parks/Playgrounds', 'Park Avenue Center Plots (59th to 96th Streets)', 1
+'Parks/Playgrounds', 'Queensbridge Park', 1
+'Parks/Playgrounds', 'Corporal George J.A. Wellbrook Triangle', 1
+'Parks/Playgrounds', 'Park Avenue Center Plots', 2
+'Parks/Playgrounds', 'Fraser Square', 1
+'Parks/Playgrounds', 'Francis Lewis Park', 1
+'Parks/Playgrounds', 'Fort Stirling Sitting Area', 1
+'Parks/Playgrounds', 'Mitchel Square', 2
+'Parks/Playgrounds', 'Riverside Park', 51
+'Parks/Playgrounds', 'Admiral Park', 1
+'Parks/Playgrounds', 'Gerritsen Beach Park', 1
+'Parks/Playgrounds', 'Red Hook Park', 2
+'Parks/Playgrounds', 'Washington Square Park', 13
+'Parks/Playgrounds', 'Giuseppe Garibaldi Playground', 1
+'Parks/Playgrounds', 'Clement Clarke Moore Homestead', 1
+'Parks/Playgrounds', 'Roosevelt Square', 1
+'Parks/Playgrounds', 'Slattery Playground', 1
+'Parks/Playgrounds', 'Henry Hudson Park', 1
+'Parks/Playgrounds', 'Bowne Park', 1
+'Parks/Playgrounds', 'Greeley Square', 2
+'Parks/Playgrounds', 'Cherry Mall', 1
+'Parks/Playgrounds', 'Mt. Prospect Park', 1
+'Parks/Playgrounds', 'A. Philip Randolph Square', 1
+'Parks/Playgrounds', 'Stuyvesant Park', 5
+'Parks/Playgrounds', 'Hermon A. MacNeil Park', 1
+'Parks/Playgrounds', 'Thomas F. Smith Park', 1
+'Parks/Playgrounds', 'Louis Valentino, Jr. Park and Pier', 1
+'Parks/Playgrounds', 'Fort Greene Park', 4
+'Parks/Playgrounds', 'Jacob H. Schiff Playground', 1
+'Parks/Playgrounds', 'Sutton Place Park', 1
+'Parks/Playgrounds', 'Seth Low Playground', 1
+'Parks/Playgrounds', 'Memorial Gore', 1
+'Parks/Playgrounds', 'Sunset Park', 1
+'Parks/Playgrounds', 'Baruch Playground', 2
+'Parks/Playgrounds', 'Varian House Park', 1
+'Parks/Playgrounds', 'Eastern Parkway Extension', 1
+'Parks/Playgrounds', 'J.J. Byrne Memorial Park', 1
+'Parks/Playgrounds', 'Melrose Playground', 1
+'Parks/Playgrounds', 'Nicholas De Matti Playground', 1
+'Parks/Playgrounds', 'Greenwood Playground', 1
+'Parks/Playgrounds', 'Damrosch Park', 2
+'Parks/Playgrounds', 'Maurice A. Fitzgerald Park', 1
+'Parks/Playgrounds', 'Jacob Riis Park', 4
+'Parks/Playgrounds', 'City Island Park', 1
+'Parks/Playgrounds', 'Bellevue South Park', 1
+'Parks/Playgrounds', 'Brooklyn Institute of Arts and Sciences', 37
+'Parks/Playgrounds', 'Seton Falls Park', 1
+'Parks/Playgrounds', 'P.S. 11 Playground', 1
+'Parks/Playgrounds', 'Father Duffy Square', 3
+'Parks/Playgrounds', 'Lieutenant Frank McConnell Memorial Park', 1
+'Parks/Playgrounds', 'McCarren Park', 4
+'Parks/Playgrounds', 'Fox Playground', 1
+'Parks/Playgrounds', 'Captain Tilly Memorial Park', 2
+'Parks/Playgrounds', 'Park at St. James Place and Oliver Street', 1
+'Parks/Playgrounds', 'Norelli-Hargreaves Memorial Square', 1
+'Parks/Playgrounds', 'Theodore Roosevelt Park', 6
+'Parks/Playgrounds', 'Sitting Area on 1st Avenue between East 41st and 42nd Streets', 1
+'Parks/Playgrounds', 'George P. Ryan Square', 1
+'Parks/Playgrounds', 'James Weldon Johnson Playground', 1
+'Parks/Playgrounds', 'Fort Four Playground', 1
+'Parks/Playgrounds', 'Conference House Park', 7
+'Parks/Playgrounds', 'Fredrick Johnson Park', 1
+'Parks/Playgrounds', 'Brooklyn Botanical Garden', 12
+'Parks/Playgrounds', 'Frederick Johnson Park', 1
+'Parks/Playgrounds', 'McKenna Square', 3
+'Parks/Playgrounds', 'Glendale Veterans Triangle,', 1
+'Parks/Playgrounds', 'James J. Walker Park,', 2
+'Parks/Playgrounds', 'Lafayette Square,', 1
+'Parks/Playgrounds', 'Michael J. Mahoney Memorial Playground,', 1
+'Parks/Playgrounds', 'William F. Moore Park,', 3
+'Parks/Playgrounds', 'McLaughlin Park,', 1
+'Parks/Playgrounds', 'Peter Chappetto Memorial Square,', 1
+'Parks/Playgrounds', 'Tompkins Square Park,', 6
+'Parks/Playgrounds', 'St. James Park,', 1
+'Parks/Playgrounds', 'Vietnam Veterans Plaza,', 5
+'Parks/Playgrounds', 'Wards Island Park,', 1
+'Parks/Playgrounds', 'Rainey Park Playground,', 1
+'Parks/Playgrounds', 'Van Nest Memorial Park,', 1
+'Parks/Playgrounds', 'Fort Washington Park,', 3
+'Parks/Playgrounds', 'Grand Army Plaza,', 19
+'Parks/Playgrounds', 'High Rock Park,', 1
+'Parks/Playgrounds', 'John J. Carty Park,', 1
+'Parks/Playgrounds', 'Crotona Parkway Malls,', 1
+'Parks/Playgrounds', 'Fort Tryon Park,', 8
+'Parks/Playgrounds', 'Marcy Houses Playground,', 1
+'Parks/Playgrounds', 'Clarence T. Barrett Memorial,', 1
+'Parks/Playgrounds', 'Harold W. Cohn Memorial Square,', 3
+'Parks/Playgrounds', 'Father Demo Square,', 1
+'Parks/Playgrounds', 'Louis Armstrong Memorial Cultural Center,', 1
+'Parks/Playgrounds', 'Flushing Meadows / Corona Park,', 38
+'Parks/Playgrounds', 'Astoria Park,', 2
+'Parks/Playgrounds', 'Graham Square,', 1
+'Parks/Playgrounds', 'Carl R. Sohncke Square,', 1
+'Parks/Playgrounds', 'Shalom Square,', 1
+'Parks/Playgrounds', 'Christopher Park,', 3
+'Parks/Playgrounds', 'William E. Kelly Memorial Park,', 1
+'Parks/Playgrounds', 'Coney Island Beach,', 3
+'Parks/Playgrounds', 'Private Edward F. Gordon Square,', 1
+'Parks/Playgrounds', 'Dr. Gertrude B. Kelly Playground,', 1
+'Parks/Playgrounds', 'Fulton Park,', 2
+'Parks/Playgrounds', 'East River Esplanade,', 1
+'Parks/Playgrounds', 'De Witt Clinton Park,', 3
+'Parks/Playgrounds', 'Rockaway Beach,', 1
+'Parks/Playgrounds', 'Borough Hall Park,', 1
+'Parks/Playgrounds', 'Public Place,', 1
+'Parks/Playgrounds', 'Richard S. Newcombe Square,', 1
+'Parks/Playgrounds', 'Nicholas Lia Memorial Park,', 2
+'Parks/Playgrounds', 'Anthony R. Gaeta Park,', 1
+'Parks/Playgrounds', 'Sakura Park,', 1
+'Parks/Playgrounds', 'Captain Malcolm A. Rafferty Square,', 1
+'Parks/Playgrounds', 'Metropolitan Pool and Public Bath,', 2
+'Parks/Playgrounds', 'Church Square,', 1
+'Parks/Playgrounds', 'Bensonhurst Park,', 1
+'Parks/Playgrounds', 'Heisser Square Park,', 5
+'Parks/Playgrounds', 'J. Wesley Drumm Park,', 2
+'Parks/Playgrounds', 'Dante Park,', 2
+'Parks/Playgrounds', 'Crames Square,', 1
+'Parks/Playgrounds', 'Seward Park,', 1
+'Parks/Playgrounds', 'Athens Square Park,', 3
+'Parks/Playgrounds', 'Triangle at East 0th Street and Stuyvesant Place,', 1
+'Parks/Playgrounds', 'General Worth Square,', 1
+'Parks/Playgrounds', 'Sailors Snug Harbor,', 6
+'Parks/Playgrounds', 'Veterans Park,', 2
+'Parks/Playgrounds', 'Grass Strip along BQE Promenade at Pierrepont Street,', 1
+'Parks/Playgrounds', 'Sutton Parks,', 3
+'Parks/Playgrounds', 'Bell Boulevard Malls,', 1
+'Parks/Playgrounds', 'John Paul Jones Park,', 5
+'Parks/Playgrounds', 'Reinhard E. Kaltenmeier Playground,', 1
+'Parks/Playgrounds', 'Nicholas A. Brizzi Playground,', 1
+'Parks/Playgrounds', 'Memorial Circle on Rockaway Beach Boulevard between Beach 20th and Beach 2st Streets,', 1
+'Parks/Playgrounds', 'St. Vartan's Park,', 2
+'Parks/Playgrounds', 'Peter Detmold Park,', 2
+'Parks/Playgrounds', 'Central Park,', 198
+'Parks/Playgrounds', 'Broad Channel Park,', 1
+'Parks/Playgrounds', 'Park Strip along Bruckner Boulevard at Morrison Avenue,', 1
+'Parks/Playgrounds', 'Jackie Robinson Parkway,', 1
+'Parks/Playgrounds', 'Schmul Park,', 1
+'Parks/Playgrounds', 'Morningside Park,', 3
+'Parks/Playgrounds', 'Zion Park,', 1
+'Parks/Playgrounds', 'Middle Village Playground,', 1
+'Parks/Playgrounds', 'Mall on 8th Avenue between 26th and 27th Streets,', 1
+'Parks/Playgrounds', 'General George J. Lawrence Square,', 1
+'Parks/Playgrounds', 'Underhill Gore Park,', 1
+'Parks/Playgrounds', 'Joseph C. Sauer Playground,', 1
+'Parks/Playgrounds', 'Lincoln Center Plaza,', 1
+'Parks/Playgrounds', 'Cohn Square,', 1
+'Parks/Playgrounds', 'Flushing Fields,', 2
+'Parks/Playgrounds', 'Marine Park Bklyn,', 1
+'Parks/Playgrounds', 'Alexander Hamilton Square,', 1
+'Parks/Playgrounds', 'Pier A,', 1
+'Parks/Playgrounds', 'Verdi Square,', 1
+'Parks/Playgrounds', '"Bill ""Bojangles"" Robinson Playground",', 1
+'Parks/Playgrounds', 'Roger Morris Park,', 11
+'Parks/Playgrounds', 'Macri Triangle,', 1
+'Parks/Playgrounds', 'Flushing Park Center Plots,', 6
+'Parks/Playgrounds', 'Harlem River Driveway,', 1
+'Parks/Playgrounds', 'Cooper Park,', 2
+'Parks/Playgrounds', 'Marine Park,', 1
+'Parks/Playgrounds', 'Bryant Park,', 24
+'Parks/Playgrounds', 'Catholic War Veterans Square,', 1
+'Parks/Playgrounds', 'Highland Park,', 2
+'Parks/Playgrounds', 'Abe Stark Skating Rink,', 1
+'Parks/Playgrounds', 'P.S. 18 and Patterson Houses Playground,', 2
+'Parks/Playgrounds', 'Wayanda Park,', 1
+'Parks/Playgrounds', 'Frank S. Hackett Park,', 1
+'Parks/Playgrounds', 'St. Mary's Park,', 2
+'Parks/Playgrounds', 'Schiff Parkway Center Plots,', 1
+'Parks/Playgrounds', 'Highbridge Recreation Center and Park,', 1
+'Parks/Playgrounds', 'Hines Park,', 1
+'Parks/Playgrounds', 'Liberty Triangle,', 1
+'Parks/Playgrounds', 'Sitting Area along Grand Central Parkway at 78th Avenue,', 1
+'Parks/Playgrounds', 'Reverend Matthew J. Crosson Memorial Park,', 1
+'Parks/Playgrounds', 'Sergeant Colyer Square,', 1
+'Parks/Playgrounds', 'Hanover Square Park,', 1
+'Parks/Playgrounds', 'Macombs Dam Park,', 2
+'Parks/Playgrounds', 'Williamsburg Bridge Plaza and Playground,', 1
+'Parks/Playgrounds', 'Louis Zimmerman Playground,', 1
+'Parks/Playgrounds', 'Battery Park,', 27
+'Parks/Playgrounds', 'Hamilton Fish Park,', 2
+'Parks/Playgrounds', 'Berry Playground,', 1
+'Parks/Playgrounds', 'Thomas Jefferson Park,', 2
+'Parks/Playgrounds', 'Weeping Beech Park,', 3
+'Parks/Playgrounds', 'Leonard Circle,', 1
+'Parks/Playgrounds', 'Pulaski Park,', 1
+'Parks/Playgrounds', 'Todd Memorial Square,', 1
+'Parks/Playgrounds', 'Peter Minuit Park,', 2
+'Parks/Playgrounds', 'Queens Village Veterans Plaza,', 1
+'Parks/Playgrounds', 'Columbus Park,', 15
+'Parks/Playgrounds', 'Woodrow Wilson Square,', 1
+'Parks/Playgrounds', 'William McCray Playground,', 1
+'Parks/Playgrounds', 'Ralph J. Bunche Park,', 2
+'Parks/Playgrounds', 'Captain William C. Dermody Square,', 1
+'Parks/Playgrounds', 'Beattie Triangle,', 2
+'Parks/Playgrounds', 'McCarthy Square,', 1
+'Parks/Playgrounds', 'Sergeant William Dougherty Playground,', 1
+'Parks/Playgrounds', 'Madison Square Park,', 14
+'Parks/Playgrounds', 'Louis Cuvillier Park,', 1
+'Parks/Playgrounds', 'Bronx Park,', 36
+'Parks/Playgrounds', 'S. Parkes Cadman Plaza,', 4
+'Parks/Playgrounds', 'Poe Park,', 4
+'Parks/Playgrounds', 'Inwood Hill Park,', 1
+'Parks/Playgrounds', 'Asser Levy Playground,', 3
+'Parks/Playgrounds', 'D'Auria Murphy Triangle,', 1
+'Parks/Playgrounds', 'Cauldwell Playground,', 1
+'Parks/Playgrounds', 'Rufus King Park,', 5
+'Parks/Playgrounds', 'Captain Tilly Park,', 1
+'Parks/Playgrounds', 'Devoe Park,', 1
+'Parks/Playgrounds', 'Willowbrook Park,', 1
+'Parks/Playgrounds', 'Meucci Square,', 1
+'Parks/Playgrounds', 'Calvary Cemetery Veterans Park,', 1
+'Parks/Playgrounds', 'Pigeon Park,', 1
+'Parks/Playgrounds', 'Fort Independence Park,', 1
+'Parks/Playgrounds', 'Rose Hill Park,', 1
+'Parks/Playgrounds', 'Joyce Kilmer Park,', 5
+'Parks/Playgrounds', 'Captain Jacob Joseph Playground,', 1
+'Parks/Playgrounds', 'Brownsville Recreation Center and Playground,', 1
+'Parks/Playgrounds', 'Rockaway Park,', 1
+'Parks/Playgrounds', 'Dyckman Houses Playground,', 1
+'Parks/Playgrounds', 'Highbridge Park,', 9
+'Parks/Playgrounds', 'East River 60th Street Pavilion,', 1
+'Parks/Playgrounds', 'Crotona Park,', 18
+'Parks/Playgrounds', 'Paul W. Kolbert Playground,', 1
+'Parks/Playgrounds', 'Gerald MacDonald Memorial Park,', 1
+'Parks/Playgrounds', 'Forest Park,', 10
+'Parks/Playgrounds', 'Tappen Park,', 1
+'Parks/Playgrounds', 'Alben Memorial Square,', 1
+'Parks/Playgrounds', 'Joseph H. Lyons Playground,', 3
+'Parks/Playgrounds', 'Sergeant Charles J. Johnson Square,', 1
+'Parks/Playgrounds', 'Bicentennial Veterans Memorial Park,', 1
+'Parks/Playgrounds', 'La Guardia Houses Playground,', 1
+'Parks/Playgrounds', 'Pelham Bay Park,', 14
+'Parks/Playgrounds', 'Freedom Square,', 2
+'Parks/Playgrounds', 'Owen F. Dolen Golden Age Center,', 2
+'Parks/Playgrounds', 'Straus Park,', 1
+'Parks/Playgrounds', 'Woodside Memorial Park,', 1
+'Parks/Playgrounds', 'John Golden Park,', 1
+'Parks/Playgrounds', 'Jackson Square Park,', 1
+'Parks/Playgrounds', 'Hansborough Gymnasium and Public Bath,', 2
+'Parks/Playgrounds', 'Pelham Parkway Houses Playground,', 1
+'Parks/Playgrounds', 'McNally Park,', 1
+'Parks/Playgrounds', 'Webster Memorial Playground,', 1
+'Parks/Playgrounds', 'Alley Park,', 1
+'Parks/Playgrounds', 'Lieutenant Clinton L. Whiting Square,', 1
+'Parks/Playgrounds', 'Leon S. Kaiser Playground,', 1
+'Parks/Playgrounds', 'Van Cortlandt Park,', 25
+'Parks/Playgrounds', 'Vincent Daniels, Jr. Park,', 1

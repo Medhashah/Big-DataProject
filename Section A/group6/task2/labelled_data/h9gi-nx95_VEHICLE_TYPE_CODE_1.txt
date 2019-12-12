@@ -1,0 +1,675 @@
+'Vehicle Type', 'trail', 31
+'Vehicle Type', 'BOX', 2
+'Vehicle Type', 'CONVE', 1
+'Vehicle Type', 'GOVER', 3
+'Vehicle Type', 'TRK', 7
+'Vehicle Type', 'School Bus', 37
+'Vehicle Type', 'vespa', 1
+'Vehicle Type', 'BOAT', 1
+'Vehicle Type', 'Station Wagon/Sport Utility Vehicle', 112303
+'Vehicle Type', 'RF', 56
+'Vehicle Type', 'Mta', 1
+'Vehicle Type', 'COMMU', 1
+'Vehicle Type', 'FREIG', 10
+'Vehicle Type', 'NYC M', 1
+'Vehicle Type', 'yello', 1
+'Vehicle Type', 'Flat Bed', 694
+'Vehicle Type', 'PC', 3
+'Vehicle Type', 'subn', 6
+'Vehicle Type', 'Bike', 3631
+'Vehicle Type', 'van', 159
+'Vehicle Type', 'STAK', 5
+'Vehicle Type', 'Van T', 1
+'Vehicle Type', 'SKATE', 4
+'Vehicle Type', 'SUBUR', 2
+'Vehicle Type', 'SC', 1
+'Vehicle Type', 'PM', 7
+'Vehicle Type', 'Chassis Cab', 228
+'Vehicle Type', 'PU', 1
+'Vehicle Type', 'POLIC', 1
+'Vehicle Type', 'LMB', 1
+'Vehicle Type', 'fork', 1
+'Vehicle Type', 'rmb', 1
+'Vehicle Type', 'moped', 6
+'Vehicle Type', 'SPC', 4
+'Vehicle Type', 'CART', 1
+'Vehicle Type', 'omt', 1
+'Vehicle Type', 'KENWO', 1
+'Vehicle Type', 'REFG', 7
+'Vehicle Type', '12 Pa', 1
+'Vehicle Type', 'COMMM', 1
+'Vehicle Type', 'COM T', 1
+'Vehicle Type', 'Tractor Truck Diesel', 3296
+'Vehicle Type', 'GOLF', 5
+'Vehicle Type', 'g spc', 1
+'Vehicle Type', 'BS', 3
+'Vehicle Type', 'Ice c', 1
+'Vehicle Type', 'subur', 1
+'Vehicle Type', 'EPO', 1
+'Vehicle Type', 'WHITE', 5
+'Vehicle Type', 'PASSENGER VEHICLE', 715235
+'Vehicle Type', 'sgws', 1
+'Vehicle Type', 'COMER', 1
+'Vehicle Type', 'box t', 9
+'Vehicle Type', 'AM', 292
+'Vehicle Type', 'PL', 6
+'Vehicle Type', 'Minicycle', 11
+'Vehicle Type', 'CAMP', 1
+'Vehicle Type', 'Enclosed Body - Removable Enclosure', 2
+'Vehicle Type', 'Road', 1
+'Vehicle Type', 'BTM', 1
+'Vehicle Type', 'Track', 1
+'Vehicle Type', 'MK', 1
+'Vehicle Type', 'NYC a', 1
+'Vehicle Type', 'Tow T', 4
+'Vehicle Type', 'Golf', 3
+'Vehicle Type', 'Box T', 1
+'Vehicle Type', 'OLC', 1
+'Vehicle Type', 'del', 1
+'Vehicle Type', 'VAV', 1
+'Vehicle Type', 'Motor', 5
+'Vehicle Type', 'SMALL COM VEH(4 TIRES)', 14559
+'Vehicle Type', 'horse', 1
+'Vehicle Type', 'semi', 5
+'Vehicle Type', 'INTER', 1
+'Vehicle Type', 'deliv', 6
+'Vehicle Type', 'com', 4
+'Vehicle Type', 'gator', 1
+'Vehicle Type', 'P/SE', 1
+'Vehicle Type', 'rmp', 1
+'Vehicle Type', 'AMBUL', 218
+'Vehicle Type', 'Tract', 6
+'Vehicle Type', 'Subn', 3
+'Vehicle Type', 'mta b', 3
+'Vehicle Type', 'DIRTB', 1
+'Vehicle Type', 'BUS', 14057
+'Vehicle Type', 'SEMI', 4
+'Vehicle Type', 'fdny', 11
+'Vehicle Type', 'power', 4
+'Vehicle Type', 'Schoo', 4
+'Vehicle Type', 'USPS', 34
+'Vehicle Type', 'Posta', 2
+'Vehicle Type', 'NEW Y', 2
+'Vehicle Type', 'FD NY', 1
+'Vehicle Type', 'Box', 1
+'Vehicle Type', 'CARGO', 4
+'Vehicle Type', 'Tanker', 234
+'Vehicle Type', 'Pallet', 14
+'Vehicle Type', 'KUBOT', 1
+'Vehicle Type', 'E - B', 1
+'Vehicle Type', 'LIVER', 2
+'Vehicle Type', '4 RUN', 1
+'Vehicle Type', 'Pickup with mounted Camper', 13
+'Vehicle Type', 'Pick', 4
+'Vehicle Type', '315 e', 1
+'Vehicle Type', 'E-MOT', 1
+'Vehicle Type', 'back', 1
+'Vehicle Type', 'Grain', 2
+'Vehicle Type', 'comm', 1
+'Vehicle Type', 'none', 1
+'Vehicle Type', 'AMB', 11
+'Vehicle Type', 'st', 1
+'Vehicle Type', 'GEICO', 1
+'Vehicle Type', 'garba', 9
+'Vehicle Type', 'Spc', 1
+'Vehicle Type', 'APORT', 1
+'Vehicle Type', 'Motorcycle', 1769
+'Vehicle Type', 'COM', 19
+'Vehicle Type', 'SW', 2
+'Vehicle Type', 'Convertible', 1248
+'Vehicle Type', 'sanit', 3
+'Vehicle Type', '12 PA', 1
+'Vehicle Type', 'SYBN', 1
+'Vehicle Type', 'BU', 2229
+'Vehicle Type', 'Delv', 2
+'Vehicle Type', 'LF', 16
+'Vehicle Type', 'scoot', 10
+'Vehicle Type', 'GATOR', 2
+'Vehicle Type', 'DUMPT', 2
+'Vehicle Type', '4 dr sedan', 821
+'Vehicle Type', 'wagon', 1
+'Vehicle Type', 'cate', 1
+'Vehicle Type', 'FLATB', 4
+'Vehicle Type', 'E- Bi', 1
+'Vehicle Type', 'SEMI-', 1
+'Vehicle Type', 'ME/BE', 1
+'Vehicle Type', 'LIBER', 1
+'Vehicle Type', 'Livestock Rack', 4
+'Vehicle Type', 'Motor Home', 1
+'Vehicle Type', 'Mini', 1
+'Vehicle Type', '4DSD', 3
+'Vehicle Type', 'Log', 2
+'Vehicle Type', 'None', 0
+'Vehicle Type', 'FORK-', 1
+'Vehicle Type', 'NTTRL', 1
+'Vehicle Type', 'SUBN/', 1
+'Vehicle Type', 'pOSTA', 1
+'Vehicle Type', 'CITY', 1
+'Vehicle Type', 'VAN T', 5
+'Vehicle Type', 'range', 1
+'Vehicle Type', 'Work', 1
+'Vehicle Type', 'bulld', 1
+'Vehicle Type', 'LL', 169
+'Vehicle Type', 'e com', 1
+'Vehicle Type', 'comm.', 1
+'Vehicle Type', 'GG', 205
+'Vehicle Type', 'VAN/T', 2
+'Vehicle Type', '(ceme', 1
+'Vehicle Type', 'e sco', 1
+'Vehicle Type', 'bus', 14
+'Vehicle Type', 'VAN', 26540
+'Vehicle Type', 'SCHOO', 33
+'Vehicle Type', 'Van (', 1
+'Vehicle Type', 'Comm', 1
+'Vehicle Type', 'Deliv', 3
+'Vehicle Type', 'LTRL', 1
+'Vehicle Type', 'SCOOT', 22
+'Vehicle Type', 'MAIL', 8
+'Vehicle Type', 'Unkno', 1
+'Vehicle Type', 'BUs', 1
+'Vehicle Type', 'Tow-t', 1
+'Vehicle Type', 'RV/Tr', 1
+'Vehicle Type', 'Rescu', 1
+'Vehicle Type', 'mc', 1
+'Vehicle Type', 'Motorscooter', 195
+'Vehicle Type', 'F650', 1
+'Vehicle Type', 'food', 1
+'Vehicle Type', 'UKN', 1
+'Vehicle Type', 'GRAY', 1
+'Vehicle Type', 'C3', 1
+'Vehicle Type', 'Glass Rack', 3
+'Vehicle Type', 'USPS2', 1
+'Vehicle Type', 'CABIN', 1
+'Vehicle Type', 'E BIK', 5
+'Vehicle Type', 'BUCKE', 2
+'Vehicle Type', 'PASS', 1
+'Vehicle Type', '3 WHE', 1
+'Vehicle Type', 'Semi-', 1
+'Vehicle Type', 'limou', 1
+'Vehicle Type', 'ACCES', 4
+'Vehicle Type', 'YELLO', 6
+'Vehicle Type', 'RMP', 2
+'Vehicle Type', 'HINO', 2
+'Vehicle Type', 'TAXI', 50670
+'Vehicle Type', 'FORD', 10
+'Vehicle Type', 'mtr s', 1
+'Vehicle Type', 'FIRET', 22
+'Vehicle Type', 'light', 1
+'Vehicle Type', 'G1`', 1
+'Vehicle Type', 'US Po', 2
+'Vehicle Type', 'SUV', 6
+'Vehicle Type', 'PAYLO', 1
+'Vehicle Type', 'LTR', 1
+'Vehicle Type', 'tow', 6
+'Vehicle Type', 'St', 1
+'Vehicle Type', 'BED T', 1
+'Vehicle Type', 'PK', 799
+'Vehicle Type', 'MINI', 5
+'Vehicle Type', 'Van Camper', 11
+'Vehicle Type', 'CAT P', 1
+'Vehicle Type', 'Veriz', 1
+'Vehicle Type', 'Trl', 1
+'Vehicle Type', 'NYPD', 4
+'Vehicle Type', 'Sedan', 139929
+'Vehicle Type', 'BoxTr', 1
+'Vehicle Type', 'HI TA', 1
+'Vehicle Type', 'APPOR', 2
+'Vehicle Type', 'concr', 1
+'Vehicle Type', 'passa', 1
+'Vehicle Type', 'Util', 1
+'Vehicle Type', 'prks', 1
+'Vehicle Type', 'DELIV', 28
+'Vehicle Type', 'FIRE TRUCK', 850
+'Vehicle Type', 'Feder', 1
+'Vehicle Type', 'BR', 42
+'Vehicle Type', 'Stake or Rack', 45
+'Vehicle Type', 'LW', 2
+'Vehicle Type', 'HO', 1
+'Vehicle Type', 'SKID-', 1
+'Vehicle Type', 'SPRIN', 3
+'Vehicle Type', 'vol', 1
+'Vehicle Type', 'VT', 2
+'Vehicle Type', 'FORK', 4
+'Vehicle Type', 'Tow Truck', 10
+'Vehicle Type', 'LOADE', 1
+'Vehicle Type', 'rd/s', 1
+'Vehicle Type', 'DOLLY', 1
+'Vehicle Type', 'Well Driller', 6
+'Vehicle Type', 'MOPD', 2
+'Vehicle Type', 'ELECT', 28
+'Vehicle Type', 'other', 3
+'Vehicle Type', 'WINNE', 1
+'Vehicle Type', 'MD', 32
+'Vehicle Type', 'EN', 2
+'Vehicle Type', 'Cmix', 1
+'Vehicle Type', 'FRHT', 2
+'Vehicle Type', 'FB', 238
+'Vehicle Type', 'SP', 20
+'Vehicle Type', 'MARK', 1
+'Vehicle Type', 'DIESE', 1
+'Vehicle Type', 'freig', 2
+'Vehicle Type', 'white', 1
+'Vehicle Type', 'backh', 3
+'Vehicle Type', '3D', 32
+'Vehicle Type', 'FREE', 1
+'Vehicle Type', 'Humme', 1
+'Vehicle Type', 'REFRI', 3
+'Vehicle Type', 'PUMP', 1
+'Vehicle Type', 'OML', 2
+'Vehicle Type', 'CMS-T', 1
+'Vehicle Type', 'Fdny', 2
+'Vehicle Type', 'US PO', 4
+'Vehicle Type', 'Subur', 1
+'Vehicle Type', 'LIMOU', 1
+'Vehicle Type', 'Other', 1
+'Vehicle Type', 'TR', 160
+'Vehicle Type', 'TRUCK', 96
+'Vehicle Type', 'P/SH', 3
+'Vehicle Type', 'CONCR', 1
+'Vehicle Type', 'MB', 20
+'Vehicle Type', 'FD tr', 1
+'Vehicle Type', 'tk', 2
+'Vehicle Type', 'Taxi', 14400
+'Vehicle Type', 'NYC D', 1
+'Vehicle Type', 'flatb', 1
+'Vehicle Type', '35 FT', 1
+'Vehicle Type', 'SCOO', 1
+'Vehicle Type', 'Truck', 4
+'Vehicle Type', 'Garbage or Refuse', 695
+'Vehicle Type', 'Boom', 1
+'Vehicle Type', 'DEMA-', 1
+'Vehicle Type', 'jeep', 1
+'Vehicle Type', 'trl', 1
+'Vehicle Type', 'UNK', 3
+'Vehicle Type', 'SEDAN', 1
+'Vehicle Type', 'STATE', 1
+'Vehicle Type', 'LARGE COM VEH(6 OR MORE TIRES)', 14527
+'Vehicle Type', 'FRONT', 1
+'Vehicle Type', 'BOX T', 15
+'Vehicle Type', 'SEA', 1
+'Vehicle Type', 'Stree', 2
+'Vehicle Type', 'Comix', 1
+'Vehicle Type', 'OIL T', 2
+'Vehicle Type', 'front', 1
+'Vehicle Type', 'HORSE', 3
+'Vehicle Type', 'MS', 42
+'Vehicle Type', 'ABULA', 1
+'Vehicle Type', 'POWER', 11
+'Vehicle Type', 'WINEB', 1
+'Vehicle Type', 'Mail', 2
+'Vehicle Type', 'PKUP', 1
+'Vehicle Type', 'NISSA', 1
+'Vehicle Type', 'FRE', 1
+'Vehicle Type', 'WHBL', 1
+'Vehicle Type', 'self', 3
+'Vehicle Type', 'PAS', 17
+'Vehicle Type', 'Tow', 1
+'Vehicle Type', 'R/V', 1
+'Vehicle Type', 'semi-', 2
+'Vehicle Type', 'te', 1
+'Vehicle Type', 'Ambulance', 885
+'Vehicle Type', 'MTA T', 1
+'Vehicle Type', 'BOBCA', 3
+'Vehicle Type', 'Ice C', 1
+'Vehicle Type', 'MCY B', 1
+'Vehicle Type', 'POIS', 1
+'Vehicle Type', 'Box t', 5
+'Vehicle Type', 'Scoot', 8
+'Vehicle Type', 'usps', 7
+'Vehicle Type', 'Comme', 6
+'Vehicle Type', 'OMR', 10
+'Vehicle Type', 'mail', 2
+'Vehicle Type', 'AMABU', 1
+'Vehicle Type', 'R/V C', 1
+'Vehicle Type', 'UNKNOWN', 19929
+'Vehicle Type', 'forkl', 6
+'Vehicle Type', 'Snow Plow', 14
+'Vehicle Type', 'BK', 1
+'Vehicle Type', 'ROAD', 2
+'Vehicle Type', 'MILLI', 1
+'Vehicle Type', 'Light', 1
+'Vehicle Type', 'Limou', 1
+'Vehicle Type', 'Box Truck', 7427
+'Vehicle Type', 'PEDICAB', 35
+'Vehicle Type', 'Hand', 1
+'Vehicle Type', 'OMT', 3
+'Vehicle Type', '3-Door', 82
+'Vehicle Type', 'CONT', 1
+'Vehicle Type', 'TRAC,', 8
+'Vehicle Type', 'Fork,', 2
+'Vehicle Type', 'CM,', 41
+'Vehicle Type', 'ups t,', 1
+'Vehicle Type', 'Inter,', 1
+'Vehicle Type', 'John,', 1
+'Vehicle Type', 'ambul,', 52
+'Vehicle Type', 'moter,', 1
+'Vehicle Type', 'FRIEG,', 1
+'Vehicle Type', 'WHEEL,', 1
+'Vehicle Type', 'FR,', 34
+'Vehicle Type', 'ford,', 3
+'Vehicle Type', 'MTA C,', 1
+'Vehicle Type', 'miniv,', 1
+'Vehicle Type', 'AMBULANCE,', 2406
+'Vehicle Type', '985,', 1
+'Vehicle Type', 'Ambu,', 1
+'Vehicle Type', 'f550,', 1
+'Vehicle Type', 'A,', 1
+'Vehicle Type', 'AMbul,', 1
+'Vehicle Type', 'REPAI,', 1
+'Vehicle Type', 'BACKH,', 8
+'Vehicle Type', 'Elect,', 5
+'Vehicle Type', 'SWEEP,', 2
+'Vehicle Type', 'spc p,', 1
+'Vehicle Type', '4DS,', 2
+'Vehicle Type', 'FLAT,', 11
+'Vehicle Type', 'COMM,', 2
+'Vehicle Type', 'EXCAV,', 4
+'Vehicle Type', 'CONV,', 398
+'Vehicle Type', 'TN,', 77
+'Vehicle Type', 'Tram,', 1
+'Vehicle Type', 'Multi-Wheeled Vehicle,', 33
+'Vehicle Type', 'WORK,', 2
+'Vehicle Type', 'dsny,', 1
+'Vehicle Type', 'Ambul,', 50
+'Vehicle Type', 'BOOM,', 1
+'Vehicle Type', 'PSD,', 6
+'Vehicle Type', 'golf,', 3
+'Vehicle Type', 'SELF,', 9
+'Vehicle Type', 'movin,', 1
+'Vehicle Type', 'E ONE,', 1
+'Vehicle Type', '2 dr sedan,', 40
+'Vehicle Type', 'RENTA,', 2
+'Vehicle Type', 'Porta,', 1
+'Vehicle Type', 'DIRT,', 3
+'Vehicle Type', 'Wagon,', 1
+'Vehicle Type', 'Beverage Truck,', 89
+'Vehicle Type', 'MOTORCYCLE,', 6536
+'Vehicle Type', 'POSTO,', 1
+'Vehicle Type', 'NYS A,', 1
+'Vehicle Type', 'UPS t,', 1
+'Vehicle Type', 'E.M.S,', 1
+'Vehicle Type', 'LIMO,', 15
+'Vehicle Type', 'dumps,', 1
+'Vehicle Type', 'GR,', 2
+'Vehicle Type', 'E AMB,', 1
+'Vehicle Type', 'G COM,', 2
+'Vehicle Type', 'UPS T,', 2
+'Vehicle Type', 'Bucke,', 1
+'Vehicle Type', 'Wheel,', 1
+'Vehicle Type', 'tow t,', 6
+'Vehicle Type', 'COUPE,', 1
+'Vehicle Type', 'RYDER,', 1
+'Vehicle Type', 'amb,', 3
+'Vehicle Type', 'POSTA,', 9
+'Vehicle Type', 'Sprin,', 3
+'Vehicle Type', 'posta,', 4
+'Vehicle Type', 'VANG,', 1
+'Vehicle Type', 'PICKU,', 9
+'Vehicle Type', 'Motorized Home,', 13
+'Vehicle Type', 'e BIK,', 1
+'Vehicle Type', 'HELP,', 1
+'Vehicle Type', 'flat,', 1
+'Vehicle Type', 'TRAIL,', 101
+'Vehicle Type', 'Enclosed Body - Nonremovable Enclosure,', 2
+'Vehicle Type', 'MAC T,', 1
+'Vehicle Type', 'EBIKE,', 2
+'Vehicle Type', 'Budge,', 1
+'Vehicle Type', 'refg,', 1
+'Vehicle Type', 'PICK-UP TRUCK,', 23069
+'Vehicle Type', 'firet,', 4
+'Vehicle Type', 'santa,', 1
+'Vehicle Type', 'BA,', 6
+'Vehicle Type', 'LP,', 1
+'Vehicle Type', 'Smart,', 1
+'Vehicle Type', 'trlr,', 1
+'Vehicle Type', 'Refrigerated Van,', 149
+'Vehicle Type', 'Trail,', 16
+'Vehicle Type', 'BACK,', 3
+'Vehicle Type', 'Tractor Truck Gasoline,', 472
+'Vehicle Type', 'mcy,', 1
+'Vehicle Type', 'GE/SC,', 1
+'Vehicle Type', 'TOWTR,', 3
+'Vehicle Type', 'E SCO,', 2
+'Vehicle Type', 'passe,', 1
+'Vehicle Type', 'COMB,', 1
+'Vehicle Type', 'ELEC.,', 1
+'Vehicle Type', 'E-Sco,', 51
+'Vehicle Type', 'TRAC.,', 1
+'Vehicle Type', 'Minibike,', 10
+'Vehicle Type', 'SE,', 1
+'Vehicle Type', 'elect,', 9
+'Vehicle Type', 'SPORT UTILITY / STATION WAGON,', 313500
+'Vehicle Type', 'Forkl,', 5
+'Vehicle Type', 'CONST,', 4
+'Vehicle Type', 'delv,', 3
+'Vehicle Type', 'CHERR,', 1
+'Vehicle Type', 'Skate,', 1
+'Vehicle Type', '5 Pa,', 1
+'Vehicle Type', 'SNOW,', 1
+'Vehicle Type', 'LD,', 1
+'Vehicle Type', 'Van,', 2532
+'Vehicle Type', 'STREE,', 13
+'Vehicle Type', 'ARMY,', 1
+'Vehicle Type', 'sweep,', 1
+'Vehicle Type', 'icecr,', 1
+'Vehicle Type', 'U.S.,', 1
+'Vehicle Type', 'Open Body,', 24
+'Vehicle Type', 'schoo,', 14
+'Vehicle Type', 'DOT R,', 1
+'Vehicle Type', 'N/A,', 1
+'Vehicle Type', 'Concrete Mixer,', 156
+'Vehicle Type', 'Lunch Wagon,', 10
+'Vehicle Type', 'ARMOR,', 1
+'Vehicle Type', 'cargo,', 1
+'Vehicle Type', 'sedan,', 2
+'Vehicle Type', 'uhaul,', 1
+'Vehicle Type', 'unkow,', 1
+'Vehicle Type', 'PSR,', 1
+'Vehicle Type', 'unk,', 3
+'Vehicle Type', 'Barri,', 1
+'Vehicle Type', 'MH,', 3
+'Vehicle Type', 'CUSHM,', 1
+'Vehicle Type', 'WAGON,', 3
+'Vehicle Type', 'Garba,', 3
+'Vehicle Type', 'pas,', 2
+'Vehicle Type', 'Vanette,', 7
+'Vehicle Type', 'winne,', 1
+'Vehicle Type', '4whee,', 1
+'Vehicle Type', 'TRLPM,', 1
+'Vehicle Type', 'tract,', 18
+'Vehicle Type', 'E-Bik,', 41
+'Vehicle Type', 'TRACK,', 3
+'Vehicle Type', 'dp,', 1
+'Vehicle Type', 'acces,', 1
+'Vehicle Type', 'dump,', 9
+'Vehicle Type', 'SANIT,', 10
+'Vehicle Type', 'mopad,', 1
+'Vehicle Type', 'GARBA,', 6
+'Vehicle Type', 'omni,', 1
+'Vehicle Type', 'DELV,', 6
+'Vehicle Type', 'us po,', 1
+'Vehicle Type', 'Bus,', 6048
+'Vehicle Type', 'SMART,', 1
+'Vehicle Type', 'TANKE,', 5
+'Vehicle Type', 'e amb,', 1
+'Vehicle Type', 'Marke,', 1
+'Vehicle Type', 'Fire,', 30
+'Vehicle Type', 'OTHER,', 23982
+'Vehicle Type', 'limo,', 1
+'Vehicle Type', 'TRLR,', 4
+'Vehicle Type', 'Armored Truck,', 107
+'Vehicle Type', 'RESCU,', 2
+'Vehicle Type', '1,', 2
+'Vehicle Type', 'red t,', 1
+'Vehicle Type', 'e-bik,', 2
+'Vehicle Type', 'MOBIL,', 1
+'Vehicle Type', 'FED E,', 2
+'Vehicle Type', 'OMNIB,', 3
+'Vehicle Type', 'crane,', 1
+'Vehicle Type', 'COMME,', 30
+'Vehicle Type', 'AMBU,', 15
+'Vehicle Type', 'Tow t,', 3
+'Vehicle Type', 'excav,', 1
+'Vehicle Type', 'VC,', 2
+'Vehicle Type', 'motor,', 6
+'Vehicle Type', 'NAVIG,', 1
+'Vehicle Type', 'nypd,', 1
+'Vehicle Type', 'HEAVY,', 1
+'Vehicle Type', 'cemen,', 1
+'Vehicle Type', 'Pedicab,', 17
+'Vehicle Type', 'Acces,', 1
+'Vehicle Type', 'armor,', 1
+'Vehicle Type', 'PEDIC,', 1
+'Vehicle Type', 'MOVIN,', 1
+'Vehicle Type', 'FORKL,', 24
+'Vehicle Type', 'ambu,', 9
+'Vehicle Type', 'Mo pa,', 1
+'Vehicle Type', 'fIRET,', 1
+'Vehicle Type', 'Pick-up Truck,', 9372
+'Vehicle Type', 'C1,', 4
+'Vehicle Type', 'TRANS,', 4
+'Vehicle Type', 'CB,', 89
+'Vehicle Type', 'WD,', 1
+'Vehicle Type', 'Freig,', 1
+'Vehicle Type', 'COURI,', 3
+'Vehicle Type', 'BICYCLE,', 5568
+'Vehicle Type', 'Sanit,', 3
+'Vehicle Type', 'TRAFF,', 1
+'Vehicle Type', 'TCN,', 1
+'Vehicle Type', 'FR`,', 1
+'Vehicle Type', 'MTA B,', 8
+'Vehicle Type', 'ST50,', 1
+'Vehicle Type', 'EMS A,', 2
+'Vehicle Type', '2 TON,', 1
+'Vehicle Type', 'CAT.,', 1
+'Vehicle Type', 'fd tr,', 1
+'Vehicle Type', 'Tow Truck / Wrecker,', 379
+'Vehicle Type', 'TOW T,', 21
+'Vehicle Type', 'DS,', 1006
+'Vehicle Type', 'IP,', 1
+'Vehicle Type', 'CEMEN,', 1
+'Vehicle Type', 'UTIL,', 9
+'Vehicle Type', 'PICK-,', 6
+'Vehicle Type', '2 WHE,', 1
+'Vehicle Type', 'NS AM,', 1
+'Vehicle Type', 'truck,', 21
+'Vehicle Type', 'stree,', 6
+'Vehicle Type', 'Cat 9,', 1
+'Vehicle Type', 'Snow,', 1
+'Vehicle Type', 'H/WH,', 1
+'Vehicle Type', '4D,', 2
+'Vehicle Type', 'Utili,', 3
+'Vehicle Type', 'dirt,', 1
+'Vehicle Type', 'MOPED,', 21
+'Vehicle Type', 'Lift,', 1
+'Vehicle Type', 'DUNBA,', 1
+'Vehicle Type', 'TOW,', 3
+'Vehicle Type', 'Renta,', 1
+'Vehicle Type', 'van t,', 2
+'Vehicle Type', 'MACK,', 5
+'Vehicle Type', 'spec,', 1
+'Vehicle Type', 'mta,', 1
+'Vehicle Type', 'Bulk Agriculture,', 16
+'Vehicle Type', 'utili,', 8
+'Vehicle Type', 'unkno,', 6
+'Vehicle Type', 'CMIX,', 1
+'Vehicle Type', 'Backh,', 2
+'Vehicle Type', 'cater,', 1
+'Vehicle Type', 'PASSE,', 2
+'Vehicle Type', 'BICYC,', 1
+'Vehicle Type', 'VAB,', 1
+'Vehicle Type', 'ENGIN,', 1
+'Vehicle Type', 'RV,', 14
+'Vehicle Type', 'Attac,', 1
+'Vehicle Type', 'Semi,', 1
+'Vehicle Type', 'ladde,', 1
+'Vehicle Type', 'Lift Boom,', 67
+'Vehicle Type', 'UTILI,', 18
+'Vehicle Type', 'FEDEX,', 2
+'Vehicle Type', 'TIR,', 1
+'Vehicle Type', 'Sweep,', 1
+'Vehicle Type', 'gokar,', 1
+'Vehicle Type', 'UHUAL,', 1
+'Vehicle Type', 'pick,', 12
+'Vehicle Type', 'rv,', 3
+'Vehicle Type', 'van c,', 1
+'Vehicle Type', 'Unkow,', 1
+'Vehicle Type', 'TT,', 130
+'Vehicle Type', 'Motorbike,', 114
+'Vehicle Type', 'picku,', 4
+'Vehicle Type', 'Picku,', 2
+'Vehicle Type', 'SEGWA,', 1
+'Vehicle Type', 'EMRGN,', 1
+'Vehicle Type', 'HWY C,', 1
+'Vehicle Type', 'TRL,', 8
+'Vehicle Type', 'Fd fi,', 1
+'Vehicle Type', 'ulili,', 1
+'Vehicle Type', 'Hopper,', 10
+'Vehicle Type', 'CO,', 3
+'Vehicle Type', 'east,', 1
+'Vehicle Type', 'ems b,', 1
+'Vehicle Type', 'chevo,', 1
+'Vehicle Type', 'E/BIK,', 1
+'Vehicle Type', 'EMS H,', 1
+'Vehicle Type', 'Pick-,', 1
+'Vehicle Type', 'SS,', 1
+'Vehicle Type', 'UTV,', 1
+'Vehicle Type', 'Cargo,', 1
+'Vehicle Type', 'FIRE,', 60
+'Vehicle Type', 'CRANE,', 3
+'Vehicle Type', 'MOTOR,', 7
+'Vehicle Type', '99999,', 1
+'Vehicle Type', 'REP,', 2
+'Vehicle Type', 'UHAUL,', 6
+'Vehicle Type', 'trac,', 1
+'Vehicle Type', 'seagr,', 1
+'Vehicle Type', 'SUB,', 2
+'Vehicle Type', 'TF,', 1
+'Vehicle Type', 'COM.,', 1
+'Vehicle Type', 'Flat Rack,', 113
+'Vehicle Type', 'comme,', 5
+'Vehicle Type', 'MAXIM,', 1
+'Vehicle Type', 'NYC F,', 1
+'Vehicle Type', 'TRACT,', 44
+'Vehicle Type', 'AR,', 41
+'Vehicle Type', 'Dump,', 1109
+'Vehicle Type', 'Dumps,', 1
+'Vehicle Type', 'Hrse,', 1
+'Vehicle Type', 'Pas,', 1
+'Vehicle Type', 'CHEVY,', 1
+'Vehicle Type', 'DUMP,', 28
+'Vehicle Type', 'ESU T,', 2
+'Vehicle Type', 'TK,', 2485
+'Vehicle Type', 'fedx,', 1
+'Vehicle Type', 'ice c,', 1
+'Vehicle Type', 'Ford,', 2
+'Vehicle Type', 'Carry All,', 561
+'Vehicle Type', 'VN,', 712
+'Vehicle Type', 'USPOS,', 2
+'Vehicle Type', 'Moped,', 184
+'Vehicle Type', 'omm,', 1
+'Vehicle Type', 'trk,', 2
+'Vehicle Type', 'U-Hau,', 1
+'Vehicle Type', 'fire,', 20
+'Vehicle Type', 'Const,', 2
+'Vehicle Type', 'Parce,', 1
+'Vehicle Type', 'NYCHA,', 1
+'Vehicle Type', 'LIGHT,', 2
+'Vehicle Type', 'E-BIK,', 6
+'Vehicle Type', 'nyc a,', 1
+'Vehicle Type', 'FDNY,', 63
+'Vehicle Type', 'Bicyc,', 1
+'Vehicle Type', 'NYC B,', 1
+'Vehicle Type', 'UT,', 2
+'Vehicle Type', 'BULLD,', 3
+'Vehicle Type', 'Firet,', 3
+'Vehicle Type', 'ï¿½MBU,', 1
+'Vehicle Type', 'City,', 1
+'Vehicle Type', 'UNKNO,', 16
+'Vehicle Type', 'DP,', 367
+'Vehicle Type', 'LIVERY VEHICLE,', 10481
+'Vehicle Type', 'SCOOTER,', 256
+'Vehicle Type', 'TANK,', 7
+'Vehicle Type', 'ST,', 15
+'Vehicle Type', 'sciss,', 1
+'Vehicle Type', 'p/sh,', 1

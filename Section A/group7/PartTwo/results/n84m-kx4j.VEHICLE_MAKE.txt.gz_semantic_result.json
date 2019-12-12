@@ -1,0 +1,1 @@
+{"column name": "VEHICLE_MAKE", "semantic_types": [{"semantic_type": "other", "label": "car_make", "count": 4872}, {"semantic_type": "car_make", "count": 2612}, {"semantic_type": "location_type", "count": 2}, {"semantic_type": "city", "count": 1}], "true_type": "car_make", "prediction_type": "car_make"}

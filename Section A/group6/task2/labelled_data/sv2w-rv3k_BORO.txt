@@ -1,0 +1,7 @@
+'Borough', 'None', 0
+'Borough', 'QUEENS', 855788
+'Borough', 'BROOKLYN', 1373513
+'Borough', 'BRONX,', 1011711
+'Borough', 'NEW YORK,', 25299
+'Borough', 'MANHATTAN,', 1221521
+'Borough', 'STATEN ISLAND,', 142335

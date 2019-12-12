@@ -1,0 +1,1 @@
+{"column name": "VEHICLE_TYPE_CODE_5", "semantic_types": [{"semantic_type": "vehicel_type", "count": 10440}, {"semantic_type": "location_type", "count": 56}], "true_type": "vehicle_type", "prediction_type": "vehicel_type"}

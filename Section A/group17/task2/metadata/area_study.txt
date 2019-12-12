@@ -1,0 +1,426 @@
+Clinical Medicine
+General Medicine
+Allergy & Immune Disorders
+Critical Care & Emergency Medicine
+Dentistry
+Dermatology
+General Practice
+Hospital Medicine
+Medical Genetics
+Nutrition & Dietetics
+Obstetrics & Gynecology
+Ophthalmology
+Pediatrics
+Physical Medicine & Rehab
+Physiology
+Psychiatry
+Psychology
+Sports Medicine and Kinesiology
+Internal Medicine Specialties
+Anesthesiology & Pain Medicine
+Cardiac & Cardiovascular Systems
+Endocrinology & Metabolism
+Gastroenterology & Hepatology
+Geriatrics & Gerontology
+Hematology
+Infectious Diseases
+Maternal & Fetal Medicine
+Neurology
+Nuclear Medicine & Medical Imaging
+Oncology
+Orthopedics
+Otorhinolaryngology
+Pulmonology
+Rheumatology
+Sexual & Reproductive Medicine
+Urology & Nephrology
+Vascular Medicine
+Diagnostic Specialties
+Audiology & Speech-Language Pathology
+Laboratory Diagnostics
+Nuclear Medicine & Medical Imaging
+Pathology
+Physiology
+Interdisciplinary Medicine
+Anesthesiology & Pain Medicine
+Biomedical Engineering
+Clinical Pharmacology
+Forensic Medicine
+Integrative & Complementary Medicine
+Medical Ethics
+Medical Informatics
+Medical Physics
+Nuclear Medicine & Medical Imaging
+Nursing
+Nutrition & Dietetics
+Personalized Medicine
+Translational Medicine
+Public Health
+Epidemiology
+Tropical Medicine
+Occupational Medicine
+Health Economics & Outcomes Research
+Preventive Medicine
+Statistical Epidemiology
+Surgery
+Cardiothoracic Surgery
+Gastrointestinal Surgery
+General Surgery
+Head & Neck Surgery
+Hepatobiliary & Transplant Surgery
+Neurosurgery
+Orthopedic Surgery
+Plastic & Reconstructive Surgery
+Surgical Obstetrics & Gynecology
+Life Sciences
+Agricultural Sciences
+Agricultural Economics & Policy
+Agricultural Engineering
+Agroecology
+Agronomy
+Animal Science
+Aquaculture and Mariculture
+Food Science & Technology
+Forestry
+Horticulture
+Biochemistry
+Analytical Biochemistry
+Applied Biochemistry
+Biochemical Research Methods
+Biophysics
+General Biochemistry
+Structural Biology
+Cell Biology
+Cell & Tissue Engineering
+Cell Communication and Signaling
+Cell Cycle & Proliferation
+Cell Migration and Cell Adhesion
+Cell Survival and Cell Death
+Cellular Metabolism
+General Cell Biology & Physiology
+Immunology
+Matrix Biology
+Stem Cell & Developmental Cell Biology
+Environment & Ecology
+Agroecology
+Behavioral Ecology
+Biogeography
+Conservation Biology
+Ecological Modeling
+Environmental Engineering
+Environmental Policy
+Forestry
+Marine and Freshwater Ecology
+Population Biology
+Renewable Resources
+Terrestrial Ecology
+Wildlife Biology
+Evolutionary & Developmental Biology
+Developmental Biology
+Evolutionary Biology
+Evolutionary Developmental Biology
+Stem Cell & Developmental Cell Biology
+Interdisciplinary Biology
+Mathematical and Theoretical Biology
+Bioinformatics
+Biomedical Engineering
+Biophysics
+Biopolymers
+Biostatistics
+Biotechnology and Bioengineering
+Cancer Biology
+Chemical Biology
+Computational Biology
+Systems Biology
+Microbiology
+Applied & Industrial Microbiology
+Bacteriology
+General Microbiology
+Mycology
+Parasitology
+Virology
+Molecular Biology & Genetics
+Cell Communication and Signaling
+Epigenetics & Genomics
+Evolutionary Genetics
+Medical Genetics
+Molecular Biology
+Molecular Epidemiology
+Molecular Genetics
+Population Genetics
+Neuroscience
+Cellular & Molecular Neuroscience
+Cognitive Neuroscience
+Computational Neuroscience
+Developmental Neuroscience
+Neurobiology of Disease
+Pharmacology & Toxicology
+Clinical Pharmacology
+Drug Delivery
+Drug Discovery, Design, & Development
+Pharmacodynamics
+Pharmacokinetics
+Toxicology
+Vaccine Development
+Zoology & Plant Biology
+Animal Behavior
+Animal Physiology
+Botany
+Entomology
+Marine and Freshwater Biology
+Plant Molecular Biology and Genetics
+Plant Physiology and Morphology
+Taxonomy
+Wildlife Biology
+Veterinary Medicine
+Internal Medicine
+Large Animal Medicine
+Small Animal Medicine
+Surgery
+Veterinary Epidemiology
+Zoonoses
+Humanities and Social Sciences
+Communication
+Cultural Studies
+Journalism
+Media Studies
+Public Relations
+Publishing/Media
+Scientific Communication
+Technical Communication
+Education
+Educational Philosophy and Theory
+Educational Psychology
+School Counseling
+Special Education
+Arts & Humanities
+Architecture, Design and Planning
+Art History
+Behavioral Geography
+Classical Studies
+Cultural Studies
+Gender Studies
+History
+Linguistics
+Literature
+Music
+Philosophy
+Religious Studies
+Theatre Studies
+Women’s studies
+Public Policy
+Agricultural Economics and Policy
+City Management and Urban Policy
+Environmental Policy
+Health Policy
+International Relations
+Other Public Policy
+Public Administration
+Social Policy
+Economics
+Agricultural Economics and Policy
+Behavioral Economics
+Development Economics
+Econometrics
+Economic Theory
+Environmental Economics
+Health Economics and Outcomes Research
+International Economics
+Macroeconomics
+Microeconomics
+Other Economics
+Political Science
+American Political Science
+Comparative Political Science
+International Relations
+Other Political Science
+Political Theory
+Information Management
+Information Retrieval and Management
+Library Science
+Social & Behavioral Sciences
+Anthropology
+Archaeology
+Behavioral Geography
+Behavioral Economics
+Criminology
+Marketing
+Nursing
+Psychology
+Social Work
+Sociology
+Urban Studies
+Business and Law
+Business
+Accounting
+Entrepreneurship
+Finance
+Hospitality and Tourism
+International Business
+Leadership and Ethics
+Management
+Marketing
+Other Business
+Public Relations
+Law
+Administrative Law
+Banking Law
+Business Law
+Civil Rights Law
+Constitutional Law
+Criminal Law
+Environmental Law
+Family Law
+Health Law
+Immigration Law
+Intellectual Property Law
+International and Comparative Law
+Tax Law
+Physical Science
+Chemistry
+Agrochemicals
+Analytical Chemistry
+Bioinorganic chemistry
+Biological Chemistry
+Biopolymers
+Catalysis
+Cement Chemistry
+Computational Chemistry
+Crystallography
+Electrochemistry
+Environmental Chemistry
+Food Chemistry
+Inorganic Chemistry
+Mass Spectrometry
+Materials Chemistry
+Medicinal Chemistry
+Nanoscience
+Natural Product Chemistry
+Nuclear Chemistry
+Organic Chemistry
+Photonics/optics
+Physical Chemistry
+Polymer Science
+Spectroscopy
+Surface chemistry
+Physics
+Atomic and Molecular Physics
+Biophysics
+Computational Physics
+Electrophysics
+Hard Condensed-matter Physics
+High Energy and Particle Physics
+Magnetism
+Nanoscience
+Nuclear Physics
+Optics/Lasers
+Plasma and Fluids
+Scattering
+Soft Condensed-matter Physics
+Theoretical Physics
+Thermodynamics and statistical mechanics
+Mathematical Physics
+Space Science
+Astrobiology
+Astrochemistry
+Astronomy
+Astrophysics and Cosmology
+Comet Research
+Meteoritics
+Planetary Science
+Space Exploration
+Theoretical Astrophysics
+Earth Science
+Atmospheric Sciences
+Climate Analysis and Modeling
+Climatology
+Economic Geology
+Geochemistry
+Geographic Information Systems
+Geology
+Geomorphology
+Geophysics
+Glaciology
+Historical Geology and Stratigraphy
+Hydrology
+Meteorology
+Oceanography
+Petroleum Geology
+Petrology
+Physical Geography
+Planetary Geology
+Seismology
+Volcanology
+Paleontology
+Paleobotany
+Paleoecology
+Paleozoology
+Taphonomy
+Engineering and Materials Science
+Engineering
+Acoustics
+Aeronautics and Astronautics
+Agricultural Engineering
+Biomedical Engineering
+Biotechnology and Bioengineering
+Cell & Tissue Engineering
+Chemical Engineering
+Civil Engineering
+Computer Architecture and Engineering
+Electrical Engineering
+Energy Engineering
+Environmental Engineering
+Industrial Engineering
+Materials Engineering
+Mechanical Engineering
+Nuclear Engineering
+Ocean Engineering
+Petroleum Engineering
+Robotics
+Software Engineering
+Systems Engineering
+Materials Science
+Biomaterials
+Ceramics
+Electronic Materials and Devices
+Magnetics Materials and Devices
+Materials Chemistry
+Materials Engineering
+Materials Theory and Modeling
+Metallurgy
+Nanoscience
+Optical Materials and Devices
+Polymer Science
+Mathematics and Computer Science
+Computer Science
+Artificial Intelligence and Machine Learning
+Computer Architecture and Engineering
+GIS
+Graphical Systems
+Information Retrieval and Management
+Information Theory
+Numerical Analysis
+Robotics
+Software Engineering
+Systems and Networking
+Theoretical Computer Science
+Mathematics
+Algebra
+Analysis
+Applied Mathematics
+Computational Biology
+Computational Mathematics
+Discrete Mathematics
+Financial Mathematics
+Geometry
+Logic
+Mathematical Physics
+Numerical Analysis
+Pure Mathematics
+Topology
+Statistics
+Applied Statistics
+Biostatistics
+Decision Sciences
+Operations Research
+Statistical Epidemiology

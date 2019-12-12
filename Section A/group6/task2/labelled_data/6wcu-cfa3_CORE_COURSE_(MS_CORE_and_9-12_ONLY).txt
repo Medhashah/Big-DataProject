@@ -1,0 +1,22 @@
+'Subjects in school', 'PHYSICS', 216
+'Subjects in school', 'ENGLISH 9', 463
+'Subjects in school', 'ECONOMICS', 134
+'Subjects in school', 'US GOVERNMENT & ECONOMICS', 22
+'Subjects in school', 'EARTH SCIENCE', 357
+'Subjects in school', 'GLOBAL HISTORY 9', 450
+'Subjects in school', 'US HISTORY', 429
+'Subjects in school', 'CHEMISTRY', 308
+'Subjects in school', 'ENGLISH 11', 418
+'Subjects in school', 'ASSUMED TEAM TEACHING', 156
+'Subjects in school', 'US GOVERNMENT,', 350
+'Subjects in school', '-,', 11964
+'Subjects in school', 'ENGLISH 12,', 370
+'Subjects in school', 'ALGEBRA,', 483
+'Subjects in school', 'MATH A,', 145
+'Subjects in school', 'OTHER,', 418
+'Subjects in school', 'GEOMETRY,', 341
+'Subjects in school', 'MATCHED SECTIONS,', 354
+'Subjects in school', 'GLOBAL HISTORY 10,', 427
+'Subjects in school', 'LIVING ENVIRONMENT,', 428
+'Subjects in school', 'ENGLISH 10,', 440
+'Subjects in school', 'MATH B,', 271

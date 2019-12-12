@@ -1,0 +1,1 @@
+{"column name": "CallerZipCode", "semantic_types": [{"semantic_type": "zip_code", "count": 227993}, {"semantic_type": "other", "label": "zip_code", "count": 67917}, {"semantic_type": "vehicel_type", "count": 4}, {"semantic_type": "phone_number", "count": 2}, {"semantic_type": "borough", "count": 2}], "true_type": "zip_code", "prediction_type": "zip_code"}

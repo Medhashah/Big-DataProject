@@ -1,0 +1,6 @@
+'Subjects in school', 'SOCIAL STUDIES', 644
+'Other', 'None', 0
+'Other', '-,', 905
+'Subjects in school', 'MATH,', 586
+'Subjects in school', 'ENGLISH,', 631
+'Subjects in school', 'SCIENCE,', 667

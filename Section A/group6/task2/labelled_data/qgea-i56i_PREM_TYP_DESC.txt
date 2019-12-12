@@ -1,0 +1,73 @@
+'Building Classification', 'BUS STOP', 5508
+'Building Classification', 'RESIDENCE - APT. HOUSE', 1363609
+'Building Classification', 'MOSQUE', 930
+'Building Classification', 'CHAIN STORE', 136005
+'Building Classification', 'FACTORY/WAREHOUSE', 6850
+'Building Classification', 'FOOD SUPERMARKET', 35176
+'Building Classification', 'HOSPITAL', 30974
+'Building Classification', 'TAXI (LIVERY LICENSED)', 5968
+'Building Classification', 'SMALL MERCHANT', 26927
+'Building Classification', 'LOAN COMPANY', 454
+'Building Classification', 'RESIDENCE - PUBLIC HOUSING', 489776
+'Building Classification', 'FAST FOOD', 31088
+'Building Classification', 'TELECOMM. STORE', 9259
+'Building Classification', 'DRY CLEANER/LAUNDRY', 13652
+'Building Classification', 'VIDEO STORE', 2160
+'Building Classification', 'ATM', 5527
+'Building Classification', 'BUS (NYC TRANSIT)', 13949
+'Building Classification', 'VARIETY STORE', 9035
+'Building Classification', 'BOOK/CARD', 2175
+'Building Classification', 'PARKING LOT/GARAGE (PUBLIC)', 36243
+'Building Classification', 'TRANSIT - NYC SUBWAY', 141306
+'Building Classification', 'None', 0
+'Building Classification', 'JEWELRY', 4705
+'Building Classification', 'BANK', 27716
+'Building Classification', 'CANDY STORE', 8332
+'Building Classification', 'BRIDGE', 7017
+'Building Classification', 'PARK/PLAYGROUND', 76661
+'Building Classification', 'BEAUTY & NAIL SALON', 17215
+'Building Classification', 'TRAMWAY', 127
+'Building Classification', 'CEMETERY', 778
+'Building Classification', 'STREET', 2100852
+'Building Classification', 'CHURCH', 11623
+'Building Classification', 'SHOE', 4597
+'Building Classification', 'GROCERY/BODEGA', 79578
+'Building Classification', 'GYM/FITNESS FACILITY', 20584
+'Building Classification', 'COMMERCIAL BUILDING', 169666
+'Building Classification', 'PUBLIC SCHOOL,', 80133
+'Building Classification', 'GAS STATION,', 15340
+'Building Classification', 'DOCTOR/DENTIST OFFICE,', 15647
+'Building Classification', 'PUBLIC BUILDING,', 40464
+'Building Classification', 'ABANDONED BUILDING,', 2571
+'Building Classification', 'RESIDENCE-HOUSE,', 635847
+'Building Classification', 'TAXI/LIVERY (UNLICENSED),', 1103
+'Building Classification', 'SOCIAL CLUB/POLICY,', 4073
+'Building Classification', 'TRANSIT FACILITY (OTHER),', 5498
+'Building Classification', 'DRUG STORE,', 54183
+'Building Classification', 'MARINA/PIER,', 2748
+'Building Classification', 'DEPARTMENT STORE,', 127626
+'Building Classification', 'PRIVATE/PAROCHIAL SCHOOL,', 7708
+'Building Classification', 'HIGHWAY/PARKWAY,', 19039
+'Building Classification', 'TAXI (YELLOW LICENSED),', 6386
+'Building Classification', 'CLOTHING/BOUTIQUE,', 54398
+'Building Classification', 'STORE UNCLASSIFIED,', 29064
+'Building Classification', 'OTHER,', 176734
+'Building Classification', 'CHECK CASHING BUSINESS,', 7358
+'Building Classification', 'RESTAURANT/DINER,', 74862
+'Building Classification', 'HOTEL/MOTEL,', 27904
+'Building Classification', 'STORAGE FACILITY,', 5848
+'Building Classification', 'LIQUOR STORE,', 4738
+'Building Classification', 'MAILBOX INSIDE,', 326
+'Building Classification', 'BUS (OTHER),', 3299
+'Building Classification', 'SYNAGOGUE,', 2377
+'Building Classification', 'OTHER HOUSE OF WORSHIP,', 963
+'Building Classification', 'OPEN AREAS (OPEN LOTS),', 9615
+'Building Classification', 'BAR/NIGHT CLUB,', 72561
+'Building Classification', 'BUS TERMINAL,', 4807
+'Building Classification', 'CONSTRUCTION SITE,', 11127
+'Building Classification', 'AIRPORT TERMINAL,', 17929
+'Building Classification', 'PARKING LOT/GARAGE (PRIVATE),', 35504
+'Building Classification', 'FERRY/FERRY TERMINAL,', 1900
+'Building Classification', 'MAILBOX OUTSIDE,', 3161
+'Building Classification', 'PHOTO/COPY,', 877
+'Building Classification', 'TUNNEL,', 3427

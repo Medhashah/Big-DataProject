@@ -1,0 +1,24 @@
+1111-1117
+Finish Part One
+Todo:
+1. check the date time function
+2. check the large file
+3. write into the json file 
+4. summarize the result: plot to should the data type in each column, the histogram plot for the frequency of data type
+( just plot one data file will be fine I think)
+
+
+Question:
+1. do we need to format the data in file? the Paper said you have implemented to speed up your code, and data quality issues
+you have identified (e.g., too many missing values, heterogeneous columns -- columns with values of multiple types). Which
+should be in the data quality issues.
+
+2. do we need to pass all the file in that path? include the large large file?
+
+
+Should be mentioned in report:
+
+1. the challenges we faced ( a. using RDD or dataframe  b.创建一个主要的，不需要每次调用的rdd  c. many space in each data point)
+2. speed up the code 
+3. the data quality issues we identified  比如说无敌多的no data， datetime format不一致。。。
+4. summarized our result using plot (单独写一个函数吧，然后用一个ds做例子)

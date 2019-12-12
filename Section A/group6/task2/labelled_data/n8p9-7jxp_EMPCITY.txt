@@ -1,0 +1,3080 @@
+'City', 'Grenwood', 1
+'City', 'Rhinebeck', 7
+'City', 'Tyler', 1
+'City', 'Worcester', 2
+'City', 'NOVATO', 1
+'City', 'PRINCETON', 1
+'City', 'DANBERRY', 1
+'City', 'SANDS POINT', 1
+'City', 'Agawam', 1
+'City', 'S. Farmingdale', 1
+'City', 'Whiteplans', 4
+'City', 'Fairbanks', 1
+'City', 'Hanover', 1
+'City', 'Corona', 288
+'City', 'PT WASHINGTON', 1
+'City', 'Charleston', 9
+'City', 'VALLEY STREAM', 12
+'City', 'Springfield', 17
+'City', 'Harrisburg', 5
+'City', 'STAMFORD', 17
+'City', 'REYNOLDS', 1
+'City', 'LOS OLIVOS', 1
+'City', 'Tempe', 3
+'City', 'Long Island City Island', 1
+'City', 'Oakhurst', 3
+'City', 'Caguas', 2
+'City', 'Edmonds', 2
+'City', 'North Amityville', 1
+'City', 'Harrison', 34
+'City', 'King Of Prussia', 2
+'City', 'Lawrenceville', 10
+'City', 'LAKESUCCESS', 1
+'City', 'PHILADEPLHIA', 1
+'City', 'AMARILLO', 1
+'City', 'PALM BEACH', 5
+'City', 'Auburn', 2
+'City', 'Deal', 2
+'City', 'Cairo', 1
+'City', 'MclEan', 1
+'City', 'Chestnut Hill', 1
+'City', 'Wellington', 2
+'City', 'Upper Saddle River', 3
+'City', 'Bethsheda', 2
+'City', 'Nannet', 6
+'City', 'South Brunswick', 2
+'City', 'Hicksillve', 1
+'City', 'Kings Point', 3
+'City', 'Phoenix', 13
+'City', 'Midland Park', 1
+'City', 'Cherry Hill', 7
+'City', 'Center Valley', 2
+'City', 'Bethlehem', 2
+'City', 'Wesport', 2
+'City', 'Wilson', 1
+'City', 'Cranford', 7
+'City', 'Singapore 018960', 1
+'City', 'Bayport', 3
+'City', 'Corning', 1
+'City', 'Georgetown', 2
+'City', 'GETTISBURG', 1
+'City', 'farmingdale', 2
+'City', 'Beth Page', 1
+'City', 'Matteson', 1
+'City', 'East Rutherford', 23
+'City', 'Baldwin', 21
+'City', 'Levittown', 11
+'City', 'Richmond Hills', 1
+'City', 'Pleasantville', 20
+'City', 'Brunswick', 3
+'City', 'Hollywood', 12
+'City', 'Pittsburg', 4
+'City', 'Saddle Brook', 8
+'City', 'Temperance', 1
+'City', 'FREEHOLD', 2
+'City', 'ELKHART', 2
+'City', 'Oyster Bay', 9
+'City', 'SOMERVILLE', 2
+'City', 'Elmort', 1
+'City', 'East Rockaway', 2
+'City', 'Kalimazoo', 2
+'City', 'Waukegan', 2
+'City', 'Cedar Grove', 3
+'City', 'Granville', 1
+'City', 'Cliffside', 3
+'City', 'Demarest', 2
+'City', 'North Merrick', 3
+'City', 'Cape Charles', 1
+'City', 'Mableton', 1
+'City', 'Monroe', 16
+'City', 'Douglaston', 46
+'City', 'mamaroneck', 3
+'City', 'Brookly', 1
+'City', 'Brant Lake', 3
+'City', 'Menlo Park', 16
+'City', 'Waltham', 8
+'City', 'Mount Prospect', 2
+'City', 'Irvin', 1
+'City', 'st. louis', 1
+'City', 'Woodland', 1
+'City', 'Queens', 1203
+'City', 'WESTBURY', 3
+'City', 'Rockville Center', 24
+'City', 'Pembroke Pines', 5
+'City', 'SAVANNAH', 1
+'City', 'Darrien', 1
+'City', 'Sterling', 2
+'City', 'Brookfield', 1
+'City', 'Havover', 1
+'City', 'Maywood', 1
+'City', 'ORLANDO', 2
+'City', 'CORAL GABLES', 2
+'City', 'DEER PARK', 1
+'City', 'Oak Park', 5
+'City', 'Bradley Beach', 2
+'City', 'Toms River', 6
+'City', 'Greenwood Village', 1
+'City', 'Brookhaven', 3
+'City', 'Mercedita,', 1
+'City', 'Pond Ridge', 1
+'City', 'Purchase', 64
+'City', 'Lynbrook', 48
+'City', 'newark', 4
+'City', 'Culver City', 12
+'City', 'S. Hempstead', 1
+'City', 'Kerhonkson', 1
+'City', 'Palo Alto', 35
+'City', 'Lindenhurst', 7
+'City', 'Compton', 1
+'City', 'Coral Springs', 2
+'City', 'Carbondale', 1
+'City', 'Egg Harbor Twnship', 1
+'City', 'Lynnbrook', 2
+'City', 'Rego Park', 138
+'City', 'Munster', 3
+'City', 'Bay Shore', 18
+'City', 'Egg Harbor Township', 1
+'City', 'jackson', 1
+'City', 'Cederhurst', 1
+'City', 'Omaha', 4
+'City', 'FAIR LAWN', 1
+'City', 'Bainbridge Island', 2
+'City', 'RIDGEFIELD', 1
+'City', 'Ft Worth', 1
+'City', 'Sagaponack', 1
+'City', 'long island', 1
+'City', 'LA', 5
+'City', 'Bear', 3
+'City', 'Fair Lawn', 3
+'City', 'Kenilworth', 2
+'City', 'Rowayton', 1
+'City', 'Cedar Knolls', 2
+'City', 'Cold Spring', 3
+'City', 'Park Forest', 1
+'City', 'Anchorage', 5
+'City', 'FLORHAM PARK', 3
+'City', 'Macdonia', 1
+'City', 'WESTON', 3
+'City', 'RYE', 7
+'City', 'BETHESDA', 2
+'City', 'SPRING VALLEY', 1
+'City', 'Monmouth Jct', 12
+'City', 'East Hills', 4
+'City', 'Amangansett', 1
+'City', 'South Fallburg', 1
+'City', 'Woodbridge', 16
+'City', 'Englwood Cliffs', 1
+'City', 'ATLANTA', 4
+'City', 'ORANGEBURG', 2
+'City', 'MOUNT VERNON', 8
+'City', 'Hampton Bays', 2
+'City', 'Central Islip', 11
+'City', 'Fort Pierce', 1
+'City', 'Ashburn', 1
+'City', 'Fort Collins', 3
+'City', 'Whitehouse Station', 5
+'City', 'LYME', 1
+'City', 'Allentown', 7
+'City', 'Camp Hill', 4
+'City', 'Buckhannon', 1
+'City', 'Cheverly', 1
+'City', 'Walpole', 1
+'City', 'Weeharen', 1
+'City', 'Huntington Station', 16
+'City', 'retired', 2
+'City', 'Mount vernon', 1
+'City', 'Folsom', 2
+'City', 'RALEIGH', 3
+'City', 'Sonoma', 1
+'City', 'Anaheim', 2
+'City', 'Kirkville', 2
+'City', 'West Bloomfield', 1
+'City', 'PORT JEFFERSON', 2
+'City', 'SAG HARBOR', 4
+'City', 'Allendale', 2
+'City', 'secaucus', 1
+'City', 'Hockessin', 2
+'City', 'West Chester', 2
+'City', 'South Huntington', 1
+'City', 'Willaimsville', 2
+'City', 'Buffola', 2
+'City', 'E. Hanover', 3
+'City', 'Kew Gardens Hills', 1
+'City', 'Seville', 1
+'City', 'OCEANSIDE', 1
+'City', 'Mount Vernor', 2
+'City', 'Little Silver', 5
+'City', 'Rosyln', 3
+'City', 'MIAMI', 6
+'City', 'La Jolia', 1
+'City', 'WOBURN', 1
+'City', 'Columbous', 1
+'City', 'Taunton', 2
+'City', 'Avon Lake', 1
+'City', 'Bayside', 322
+'City', 'Jackson Heights', 598
+'City', 'CLIFFTON', 1
+'City', 'Jersey', 4
+'City', 'WATERBURY', 3
+'City', 'Greensboro', 7
+'City', 'Morgantown', 1
+'City', 'Washinton', 3
+'City', 'UNION', 2
+'City', 'Lona Beach', 1
+'City', 'nyack', 1
+'City', 'Barlett', 1
+'City', 'Ardsley On The Hudson', 2
+'City', 'Radcliffe', 1
+'City', 'Davie', 2
+'City', 'MENLO PARK', 2
+'City', 'MEMPHIS', 1
+'City', 'HUNTINGTON STATION', 1
+'City', 'FREMONT', 1
+'City', 'Eaton', 1
+'City', 'Shoreham', 1
+'City', 'Aguadilla', 1
+'City', 'Sunny Lisles', 1
+'City', 'Commack', 52
+'City', 'White Plains', 325
+'City', 'new york', 48
+'City', 'Pocono Manor', 1
+'City', 'Woodland Park', 2
+'City', 'Franklin', 2
+'City', 'Parmus', 2
+'City', 'Lewiston', 2
+'City', 'SANTA BARBARA', 1
+'City', 'MERION STATION', 1
+'City', 'Lincoln Park', 1
+'City', 'Taos', 1
+'City', 'West N', 1
+'City', 'Tiburon', 1
+'City', 'Oneida', 1
+'City', 'Redbank', 1
+'City', 'Rochelle Park', 6
+'City', 'crown point', 1
+'City', 'FORT LEE', 12
+'City', 'Dallas', 27
+'City', 'reading', 1
+'City', 'Manhassat', 2
+'City', 'Mount Laurel', 20
+'City', 'KINGSTON', 3
+'City', 'New Milford', 2
+'City', 'Wolfeboro', 1
+'City', 'Leids', 1
+'City', 'Isla Verde', 1
+'City', 'Singapore', 1
+'City', 'wilmington', 2
+'City', 'Rye', 44
+'City', 'Red Bank', 16
+'City', 'Brewster', 6
+'City', 'lynbrook', 5
+'City', 'Encinitas', 2
+'City', 'Guilford', 2
+'City', 'Eastport', 1
+'City', 'Kittery Point', 1
+'City', 'Carlsadt', 1
+'City', 'Saranac', 2
+'City', 'MOUNT KISCO', 1
+'City', 'West Bablyon', 1
+'City', 'Chesterfield', 1
+'City', 'Engleood', 3
+'City', 'Lake Swan', 1
+'City', 'Riverwoods', 2
+'City', 'Great Falls', 1
+'City', 'PATERSON', 1
+'City', 'NEW BRUNSWICK', 1
+'City', 'Solon', 1
+'City', 'Thomasville', 1
+'City', 'RENO', 1
+'City', 'Romeoville', 1
+'City', 'Oakland', 31
+'City', 'New City', 46
+'City', 'Oceanside', 25
+'City', 'Cupertino', 1
+'City', 'Aldie', 1
+'City', 'Gold River', 1
+'City', 'Laredo', 1
+'City', 'BEACH HAVEN', 1
+'City', 'BAY SHORE', 3
+'City', 'Manchester', 3
+'City', 'Lackawanna', 1
+'City', 'Eagle River', 1
+'City', 'Hewlet Bay Park', 1
+'City', 'Trenton', 26
+'City', 'casa grande', 1
+'City', 'chicago', 6
+'City', 'Holbrook', 6
+'City', 'WHITE PLAINS', 26
+'City', 'Scottsdale', 8
+'City', 'Suger Land', 1
+'City', 'Lamar', 1
+'City', 'TYSONS CORNER', 1
+'City', 'LOCUST VALLEY', 7
+'City', 'Naperville', 2
+'City', 'Spring Hill', 2
+'City', 'Vauxhall', 1
+'City', 'Loretto', 1
+'City', 'Jefferson City', 1
+'City', 'Fort Dix', 1
+'City', 'Needham Heights', 2
+'City', 'Ronkomka', 1
+'City', 'Frankfurt', 1
+'City', 'Glen Gead', 1
+'City', 'Tallman', 2
+'City', 'Greenwhich', 1
+'City', 'Cramford', 2
+'City', 'Chavy Chase', 1
+'City', 'Venice Beach', 4
+'City', 'Canfield', 1
+'City', 'OAKLAND', 2
+'City', 'ROSELAND', 3
+'City', 'STONY BROOK', 4
+'City', 'Woodmore', 1
+'City', 'Manhassef', 1
+'City', 'Leavenworth', 1
+'City', 'Jericho', 68
+'City', 'Weehawken', 24
+'City', 'Edison', 76
+'City', 'Largo', 4
+'City', 'Wilton', 6
+'City', 'Island Park', 3
+'City', 'Beloit', 1
+'City', 'Rutland', 1
+'City', 'Smithtown', 16
+'City', 'MILLER PLACE', 1
+'City', 'COLD SPRING HARBOR', 1
+'City', 'Hightstown', 1
+'City', 'Huron', 2
+'City', 'JENKINTOWN', 1
+'City', 'Old  Westbury', 1
+'City', 'East Patchoque', 2
+'City', 'Sufferis', 2
+'City', 'Stratford', 2
+'City', 'Cold Spring Harbor', 5
+'City', 'nyc', 8
+'City', 'North Babylon', 2
+'City', 'New york', 17
+'City', 'Sag Harbor', 5
+'City', 'Jupiter', 2
+'City', 'Somerdale', 1
+'City', 'SOUTH ORANGE', 2
+'City', 'DOUGLASTON', 4
+'City', 'NEW BERN', 1
+'City', 'Lowell', 5
+'City', 'Garden City Park', 3
+'City', 'Alva', 1
+'City', 'Washnington', 2
+'City', 'ANSONIA', 1
+'City', 'Riverdale', 4
+'City', 'BURT', 1
+'City', 'Mitchel Field', 1
+'City', 'Manasquan', 8
+'City', 'Columbia Heights', 1
+'City', 'Warsaw, Poland', 1
+'City', 'Self Employed', 1
+'City', 'Ft. Worth', 1
+'City', 'South San Franc', 1
+'City', 'Holtsville', 5
+'City', 'Fanwood', 1
+'City', 'jersey city', 3
+'City', 'Peekskill', 13
+'City', 'BRonx', 1
+'City', 'Woodcliff Lake', 4
+'City', 'San Antonio', 24
+'City', 'Elk Grove', 5
+'City', 'Westborough', 1
+'City', 'Elkridge', 1
+'City', 'Emeryville', 4
+'City', 'Macungie', 1
+'City', 'Elwood Park', 1
+'City', 'Bend', 1
+'City', 'Greenvale', 8
+'City', 'Union Beach', 1
+'City', 'Homdel', 1
+'City', 'albany', 7
+'City', 'bronx', 5
+'City', 'Alexandria', 41
+'City', 'Raleigh', 29
+'City', 'Lakewood Ranch', 1
+'City', 'Beech Grove', 1
+'City', 'Chula Vista', 1
+'City', 'EAST MEADOW', 3
+'City', 'COMMACT', 1
+'City', 'Pleasanton', 2
+'City', 'North Beach', 4
+'City', 'Croton-on-Hudso', 1
+'City', 'Philadelphia', 169
+'City', 'Louisville', 6
+'City', 'Apollo Beach', 1
+'City', 'Mt.  Kisko', 1
+'City', 'ROCKVILLE CENTRE', 5
+'City', 'ISLANDIA', 2
+'City', 'FAR HILLS', 1
+'City', 'Hollywood,', 1
+'City', 'roslyn heights', 1
+'City', 'Gret Neck', 1
+'City', 'Hackensach', 1
+'City', 'Orange', 9
+'City', 'East Islip', 1
+'City', 'Melvill', 1
+'City', 'Latham', 12
+'City', 'Taconic', 1
+'City', 'Dayton', 6
+'City', 'Dearborn', 4
+'City', 'Laurenceville', 1
+'City', 'REDWOOD CITY', 1
+'City', 'Bellville', 1
+'City', 'Wheat Ridge', 1
+'City', 'DELANSON', 1
+'City', 'Broad Channel', 2
+'City', 'New Yok', 1
+'City', 'GAINSVILLE', 1
+'City', 'Chantilly', 4
+'City', 'Fayetteville', 2
+'City', 'POMONA', 2
+'City', 'Oldsmar', 1
+'City', 'BARRON', 1
+'City', 'EAST ISLIP', 2
+'City', 'HIghland Park', 1
+'City', 'Shokan', 1
+'City', 'Fullerton', 1
+'City', 'Bloomberg', 1
+'City', 'Grinnell', 2
+'City', 'Isalin', 1
+'City', 'Suffen', 1
+'City', 'Sandy', 1
+'City', 'Hampton', 10
+'City', 'Fairview', 7
+'City', 'La Mott', 1
+'City', 'MACON', 1
+'City', 'OLD BETHPAGE', 1
+'City', 'Poughskeepsie', 1
+'City', 'Oak Hill', 1
+'City', 'Wshington', 2
+'City', 'Oakland Gardens', 107
+'City', 'Los Angeles', 251
+'City', 'Spencertown', 2
+'City', 'Earlton', 1
+'City', 'Middleburg', 1
+'City', 'Mahwah', 16
+'City', 'Kensington', 1
+'City', 'Covington', 2
+'City', 'YORK', 1
+'City', 'MISSOURI CITY', 1
+'City', 'Doral', 3
+'City', 'Hewlett Bay', 1
+'City', 'San Felipe Pueblo', 1
+'City', 'hackensack', 5
+'City', 'Cambridge', 47
+'City', 'Briarwood', 26
+'City', 'Rutherford', 18
+'City', 'Takoma Park', 2
+'City', 'Leonia', 5
+'City', 'Palm Beach', 18
+'City', 'Babylon', 5
+'City', 'Annadale', 1
+'City', 'Campbell', 7
+'City', 'Detriot', 1
+'City', 'Nassau County', 2
+'City', 'Stonybrook', 1
+'City', 'SLEEPY HOLLOW', 2
+'City', 'NORTHPORT', 1
+'City', 'GREENWICH', 30
+'City', 'FORT MYERS', 2
+'City', 'RAYNHAM', 1
+'City', 'Ellenville', 2
+'City', 'Crestline', 1
+'City', 'Long Isand', 1
+'City', 'Diamond Point', 1
+'City', 'Escondido', 1
+'City', 'Persippony', 1
+'City', 'Longwood', 1
+'City', 'Little Neck', 187
+'City', 'Washingtonville', 2
+'City', 'DAYTON', 2
+'City', 'Fairfield', 39
+'City', 'rockland county', 1
+'City', 'Montvale', 16
+'City', 'Elisabeth', 1
+'City', 'Schaumburg', 4
+'City', 'Wynnewood', 2
+'City', 'OLD WESTBURY', 1
+'City', 'lebanon', 2
+'City', 'Roslyn Height', 3
+'City', 'Mercedita', 1
+'City', 'Lone Tree', 1
+'City', 'Vero Beach', 4
+'City', 'DENVER', 2
+'City', 'Mt. Kisco', 5
+'City', 'Mellville', 4
+'City', 'MT. VERNON', 1
+'City', 'Utica', 2
+'City', 'AUGUSTA', 1
+'City', 'JERSERY CITY', 1
+'City', 'DARIEN', 1
+'City', 'Sayreville', 1
+'City', 'Williamsville', 2
+'City', 'Burlington Township', 1
+'City', 'Elyria', 1
+'City', 'Flushing', 2125
+'City', 'west orange', 2
+'City', 'Cedarhurst', 31
+'City', 'Ardsley', 7
+'City', 'Hoffman Estates', 2
+'City', 'Lake Hiawatha', 3
+'City', 'Bellingham', 1
+'City', 'Horsham', 1
+'City', 'Norwood', 1
+'City', 'Grand Rapids', 1
+'City', 'Shorewood', 1
+'City', 'Wakefield', 2
+'City', 'West Newbury', 1
+'City', 'Wall', 4
+'City', 'Shorthills', 1
+'City', 'MONROE TOWNSHIP', 2
+'City', 'Pittburgh', 1
+'City', 'DOYLESTOWN', 1
+'City', 'RIDGE', 1
+'City', 'Lisle', 1
+'City', 'West Hampton Beach', 2
+'City', 'WP', 1
+'City', 'Berkeley Height', 1
+'City', 'ST.PAUL', 1
+'City', 'Jamiaca', 3
+'City', 'Cayey', 2
+'City', 'Burr Ridge', 1
+'City', 'Mount Olive', 1
+'City', 'Wendover', 1
+'City', 'NA', 4
+'City', 'Mahopac Falls', 1
+'City', 'Menio Park', 3
+'City', 'Sacramento', 15
+'City', 'EMMETT', 1
+'City', 'Oakland Park', 1
+'City', 'Presque Isle', 2
+'City', 'Franklin Park', 1
+'City', 'Bensalem', 1
+'City', 'TRENTON', 5
+'City', 'Highland Falls', 1
+'City', 'Manassas', 4
+'City', 'Sewell', 7
+'City', 'Auburn Hills', 2
+'City', 'Ridgecrest', 1
+'City', 'Surfside', 1
+'City', 'Palisades', 2
+'City', 'Toms Rivers', 1
+'City', 'Philidelphia', 2
+'City', 'Moneta', 1
+'City', 'unknown', 2
+'City', 'East Elmhurst', 314
+'City', 'Armonk', 43
+'City', 'Atlantic City', 7
+'City', 'Bethpage', 57
+'City', 'Palisades Park', 7
+'City', 'Brentwood', 21
+'City', 'Towns River', 2
+'City', 'East Bridgewater', 1
+'City', 'Studio city', 1
+'City', 'JERICHO', 12
+'City', 'Atlantic Highlands', 1
+'City', 'SCOTTSDALE', 2
+'City', 'GREENLAWN', 4
+'City', 'BAYONNE', 2
+'City', 'WHITEPLAINS', 1
+'City', 'Holliston', 1
+'City', 'Camden', 11
+'City', 'Cateret', 1
+'City', 'Washington Turnpike', 2
+'City', 'HASBROOCK HTS', 2
+'City', 'Hewlitt', 1
+'City', 'Quogue', 1
+'City', 'W Short Hills', 1
+'City', 'Indianapolis', 23
+'City', 'Elmont', 33
+'City', 'Staatsburg', 1
+'City', 'Voorhees', 3
+'City', 'Park Ridge', 2
+'City', 'Carlsband', 1
+'City', 'santa monica', 1
+'City', 'PHOENIX', 2
+'City', 'DELRAY BEACH', 1
+'City', 'SOMERS', 2
+'City', 'Putnam Valley', 1
+'City', 'Fermington', 1
+'City', 'Greenwich', 124
+'City', 'Bridgewater', 10
+'City', 'Washington Township', 1
+'City', 'Mukilteo', 1
+'City', 'BELLEVILLE', 1
+'City', 'Wooden Hills', 1
+'City', 'Ray Brook', 1
+'City', 'New Braunfels', 1
+'City', 'Ft. Myers', 1
+'City', 'Bellflower', 1
+'City', 'Whitestone', 249
+'City', 'Pomona', 8
+'City', 'Lake Success', 109
+'City', 'Bayonne', 28
+'City', 'Maplewood', 5
+'City', 'BROOKLY', 5
+'City', 'Roosevelt', 6
+'City', 'South Orange', 24
+'City', 'enfild', 1
+'City', 'Webster', 1
+'City', 'BALTIMORE', 3
+'City', 'Farmington', 4
+'City', 'NISKAYUNA', 4
+'City', 'SOUTH SALEM', 5
+'City', 'HOLTSVILLED', 1
+'City', 'Wahington', 2
+'City', 'Prospect', 1
+'City', 'Mount Herman', 1
+'City', 'Industry', 1
+'City', 'LI', 1
+'City', 'Cleveland', 11
+'City', 'GREAT BARINGTON', 3
+'City', 'Jamaica Ave', 1
+'City', 'CHEVY CHASE', 1
+'City', 'LAKE GROVE', 4
+'City', 'Piermont', 1
+'City', 'Brooklyn Navy Yar', 1
+'City', 'Far  Rockaway', 1
+'City', 'CLAYTON', 1
+'City', 'Maimi Beach', 1
+'City', 'Topeka', 1
+'City', 'Cody', 1
+'City', 'Rockford', 1
+'City', 'San Diego', 50
+'City', 'San Francisco', 211
+'City', 'Nashville', 29
+'City', 'Saugerties', 1
+'City', 'Roxbury', 2
+'City', 'Oklahoma City', 3
+'City', 'Egg Harbor', 1
+'City', 'Rancho Cucamonga', 1
+'City', 'Lake Forest', 1
+'City', 'APO', 1
+'City', 'Lithia Springs', 2
+'City', 'Nesconset', 1
+'City', 'MOUNTAIN LAKES', 1
+'City', 'plainfield', 1
+'City', 'Kingwood', 1
+'City', 'LasVegas', 1
+'City', 'Flint', 3
+'City', 'New Burnswick', 1
+'City', 'Berlin', 1
+'City', 'Corydon', 4
+'City', 'None', 0
+'City', 'Westbury', 78
+'City', 'Tuckahoe', 7
+'City', 'Montgomery', 4
+'City', 'Bloomingdale', 2
+'City', 'Malibu', 2
+'City', 'ROCKVILLE', 1
+'City', 'BROKLYN', 4
+'City', 'Sun City West', 1
+'City', 'El Dorado', 2
+'City', 'Fairport', 1
+'City', 'arlington', 1
+'City', 'Savage', 2
+'City', 'Norristown', 1
+'City', 'Gurabo', 2
+'City', 'Carte Place', 1
+'City', 'Lake Ronkonkoma', 1
+'City', 'Hong Kong, China', 1
+'City', 'Rosalind', 1
+'City', 'Hewlett', 24
+'City', 'E. Northport', 2
+'City', 'West Nyack', 4
+'City', 'Roslyn', 52
+'City', 'Union', 14
+'City', 'Manhassett', 2
+'City', 'Vahalla', 2
+'City', 'Norwich', 3
+'City', 'WEST BBYLON', 1
+'City', 'CENTRAL ISLIP', 1
+'City', 'CARROLLTON', 1
+'City', 'WEST HOLLYWOOD', 1
+'City', 'Guttenberg', 1
+'City', 'Saratoga Spring', 1
+'City', 'Seagate NY', 1
+'City', 'Bryn Mawr', 1
+'City', 'Mahweh', 1
+'City', 'Washingon', 1
+'City', 'Chesapeake', 1
+'City', 'Houson', 1
+'City', 'Hauppauge', 58
+'City', 'Northlake', 1
+'City', 'Moonachie', 3
+'City', 'Darien', 5
+'City', 'Pennsylvania', 1
+'City', 'Brooklyn New York', 1
+'City', 'CARTERTT', 1
+'City', 'Locust Valley', 11
+'City', 'East Brunswick', 12
+'City', 'Medford', 10
+'City', 'San Rafael', 2
+'City', 'Glencove', 2
+'City', 'Briarcliff manor', 3
+'City', 'boston', 3
+'City', 'GETTYSBURG', 1
+'City', 'Montpelier', 1
+'City', 'ROUND ROCK', 2
+'City', 'baton rouge', 1
+'City', 'Southfield', 3
+'City', 'Morris NJ', 1
+'City', 'Cos Cob', 2
+'City', 'Newton Center', 1
+'City', 'Masspecqua', 1
+'City', 'Kill Devil Hills', 1
+'City', 'greenwich', 1
+'City', 'Holmdel', 6
+'City', 'Great neck', 6
+'City', 'Santa Cruz', 2
+'City', 'Olivenahin', 2
+'City', 'San Marino', 1
+'City', 'Detroit', 15
+'City', 'Schereville', 1
+'City', 'PORT ST LUCIE', 1
+'City', 'BRONXVILLE', 1
+'City', 'Fort Mill', 3
+'City', 'Livingston Manor', 3
+'City', 'Santa Rosa', 1
+'City', 'Devine', 1
+'City', 'Sugar Loaf', 1
+'City', 'Howell', 5
+'City', 'Boerne', 1
+'City', 'Peckskill', 1
+'City', 'Albany', 343
+'City', 'Ames', 2
+'City', 'Portland', 15
+'City', 'Lloyd Harbor', 3
+'City', 'West Point', 1
+'City', 'Malverne', 10
+'City', 'Muttontown', 8
+'City', 'Silver Springs', 5
+'City', 'Studio City', 5
+'City', 'NEW ALBANY', 1
+'City', 'Kearny', 12
+'City', 'Blemar', 1
+'City', 'Delran', 1
+'City', 'Morrisville', 1
+'City', 'West Hampton', 1
+'City', 'East Dennis', 1
+'City', 'Garden City', 279
+'City', 'Glen Oaks', 70
+'City', 'Port Jefferson', 5
+'City', 'Bridgeport', 14
+'City', 'Ocean city', 1
+'City', 'Port Orange', 1
+'City', 'Jeersey City', 1
+'City', 'San Bernardine', 2
+'City', 'HOUSTON', 5
+'City', 'Westbery', 1
+'City', 'Coppell', 2
+'City', 'SUFFERN', 1
+'City', 'BRIARCLIFF MANOR', 2
+'City', 'MADISON', 2
+'City', 'Londonderry', 1
+'City', 'Houston,', 1
+'City', 'Mt Carmel', 2
+'City', 'San Carlos', 1
+'City', 'McAllen', 1
+'City', 'Paramus', 32
+'City', 'Chatam', 2
+'City', 'Belle Mead', 1
+'City', 'Florence', 1
+'City', 'GLASTONBURY', 1
+'City', 'JAMESBURG', 1
+'City', 'Hachensach', 1
+'City', 'Mt Kisco', 7
+'City', 'tappan', 1
+'City', 'Princeton', 50
+'City', 'Fairfax Station', 1
+'City', 'London', 9
+'City', 'Scaredale', 1
+'City', 'NewBurg', 1
+'City', 'SHORT HILLS', 5
+'City', 'CONAKRY, GUINEA', 1
+'City', 'Roselle', 6
+'City', 'Lutz', 1
+'City', 'Misscula', 1
+'City', 'Milltertown', 2
+'City', 'Parsippay', 1
+'City', 'Elkins Park', 1
+'City', 'New Rochelle', 104
+'City', 'Scotch Plains', 4
+'City', 'Pound Ridge', 16
+'City', 'Remsenburg', 4
+'City', 'Mumbai', 1
+'City', 'Aurora', 4
+'City', 'Tallahassee', 4
+'City', 'JACKSONVILLE', 2
+'City', 'YAPHANK', 1
+'City', 'TULSA', 1
+'City', 'Boise', 1
+'City', 'Santan Monica', 1
+'City', 'Hines', 1
+'City', 'BloomingtonLake Success', 2
+'City', 'CHoboken', 1
+'City', 'Edinburg', 1
+'City', 'U-City', 1
+'City', 'Piscatway', 2
+'City', 'orlando', 1
+'City', 'Verona', 2
+'City', 'McLean', 15
+'City', 'pennington', 1
+'City', 'Coral Gables', 16
+'City', 'Mount Pleasant', 2
+'City', 'ROCHESTER', 8
+'City', 'WESTPORT', 3
+'City', 'Brachburg', 1
+'City', 'Crosslanes', 1
+'City', 'Montclair', 45
+'City', 'St. Louis', 7
+'City', 'Rochester Hills', 1
+'City', 'Fisher Island', 1
+'City', 'Matawan', 3
+'City', 'Thousand Oaks', 1
+'City', 'Gainsville', 2
+'City', 'Cheyenne', 1
+'City', 'GREAT NECK', 12
+'City', 'ELIZABETH', 2
+'City', 'DULUTH', 1
+'City', 'Amenia', 2
+'City', 'Mt Verrnon', 1
+'City', 'Montebello', 2
+'City', 'Menandes', 1
+'City', 'Redding', 1
+'City', 'Kendall Park', 4
+'City', 'Richmond Hill', 211
+'City', 'Lombard', 2
+'City', 'Stroudsburg', 4
+'City', 'Andover', 4
+'City', 'New Paltz', 7
+'City', 'Bayville', 1
+'City', 'Drexil Hill', 1
+'City', 'RANDOLF', 1
+'City', 'Holliswood', 2
+'City', 'Des Plaines', 2
+'City', 'WOODMERE', 7
+'City', 'cleveland', 1
+'City', 'Lake FOrest', 1
+'City', 'Orl', 2
+'City', 'Gulford', 1
+'City', 'Teaneck', 38
+'City', 'WATCHUNG', 1
+'City', 'Lynn', 1
+'City', 'Morris Plains', 4
+'City', 'CAMANCHE', 1
+'City', 'KINGS POINT', 1
+'City', 'SCHOFIELD BARRACKS', 1
+'City', 'North Brunswich', 1
+'City', 'Laurlton', 1
+'City', 'Edwardsville', 1
+'City', 'St. Charles', 2
+'City', 'el pardo', 1
+'City', 'Santa Clara', 5
+'City', 'North Riverside', 2
+'City', 'Ramsey', 5
+'City', 'Clayton', 1
+'City', 'Cambridge,', 1
+'City', 'New Vernon', 4
+'City', 'Tokyo', 3
+'City', 'Palmetto', 1
+'City', 'Bedford Hills', 2
+'City', 'NEW PROVIDENCE', 1
+'City', 'Birmingham', 8
+'City', 'Jerusalem', 1
+'City', 'white plans', 1
+'City', 'Neponsit', 2
+'City', 'Jessup', 1
+'City', 'k', 1
+'City', 'Blackwood', 1
+'City', 'mineola', 3
+'City', 'Hempstead', 76
+'City', 'Burbank', 24
+'City', 'Englewood', 32
+'City', 'Vienna', 16
+'City', 'Stony Point', 2
+'City', 'Hudson', 5
+'City', 'East Hanover', 14
+'City', 'Morgan Hill', 2
+'City', 'Plano', 2
+'City', 'AstoriaAstoria', 1
+'City', 'Hobokan', 1
+'City', 'PERRY', 1
+'City', 'Houma', 1
+'City', 'BELLMORE', 1
+'City', 'PORT CARBON', 1
+'City', 'LONG BEACH', 1
+'City', 'Hastings-on-Hudson', 1
+'City', 'Careret', 1
+'City', 'Islip', 1
+'City', 'Vernan', 1
+'City', 'Greenwood Lake', 1
+'City', 'West Hempstead', 12
+'City', 'Burlingame', 6
+'City', 'Exeter', 2
+'City', 'Barnegat Township', 1
+'City', 'Fountain Hills', 3
+'City', 'Pine Bush', 2
+'City', 'Stuart', 2
+'City', 'Roslindale', 1
+'City', 'REGO PARK', 1
+'City', 'Somers', 10
+'City', 'Elmsford', 30
+'City', 'West Haverstraw', 3
+'City', 'San Bruno', 2
+'City', 'Weston', 6
+'City', 'Goshen', 1
+'City', 'Independence', 1
+'City', 'Milpitas', 1
+'City', 'China', 1
+'City', 'Hillsboro', 1
+'City', 'Coraopolis', 1
+'City', 'Accord', 5
+'City', 'sag harbor', 1
+'City', 'BLOOMFIELD', 2
+'City', 'SADDLE BROOK', 2
+'City', 'Unondale', 1
+'City', 'Monsey', 7
+'City', 'New York NY', 1
+'City', 'Pompano Beach', 5
+'City', 'N Bergen', 1
+'City', 'Upper Makefield', 1
+'City', 'Pewaukee', 1
+'City', 'Ostenville', 1
+'City', 'Mountlake Terrace', 1
+'City', 'MANHASSET', 8
+'City', 'Irvine', 3
+'City', 'Burlington', 11
+'City', 'Hazlet', 1
+'City', 'yonkers', 4
+'City', 'Fire Island Pines', 1
+'City', 'BATAVIA', 1
+'City', 'nw jersey', 2
+'City', 'Lynchburg', 3
+'City', 'East hampton', 3
+'City', 'Fountainville', 1
+'City', 'Derby', 1
+'City', 'Birdsboro', 1
+'City', 'Cooperstown', 3
+'City', 'Emsford', 1
+'City', 'Sunrise', 1
+'City', 'San Fran', 1
+'City', 'Orchard Park', 2
+'City', 'Frankfort', 1
+'City', 'Westfield', 31
+'City', 'Lagrange', 1
+'City', 'Mclean', 5
+'City', 'Garnerville', 2
+'City', 'Bradenton', 2
+'City', 'PENTAGON', 1
+'City', 'LANCASTER', 1
+'City', 'MILWAUKEE', 2
+'City', 'SYOSSET', 3
+'City', 'FRANKLIN SQUARE', 1
+'City', 'Mamorneck', 1
+'City', 'Castro Valley', 1
+'City', 'Malta', 1
+'City', 'Old Brookville', 1
+'City', 'GLENCOVE', 1
+'City', 'Manfield', 1
+'City', 'Copiague', 9
+'City', 'Mt Vernon', 17
+'City', 'Wainscott', 3
+'City', 'Columbus', 10
+'City', 'GARDEN CITY SOUTH', 3
+'City', 'MORRISTOWN', 3
+'City', 'FORT LAUDERDALE', 1
+'City', 'Stormville', 1
+'City', 'Cranberry', 1
+'City', 'Carson City', 1
+'City', 'bohemia', 2
+'City', 'Berkeley Heights', 5
+'City', 'East Hampton', 36
+'City', 'San Franscisco', 2
+'City', 'Hunts Point', 1
+'City', 'Pine Brook', 4
+'City', 'Far Hills', 6
+'City', 'Merion Station', 4
+'City', 'Evansville', 1
+'City', 'MONTVALE', 1
+'City', 'ALLENTOWN', 1
+'City', 'AURORA', 1
+'City', 'N. Potomac', 2
+'City', 'Galena Park', 1
+'City', 'Great Neck', 274
+'City', 'Weehaken', 1
+'City', 'Hastings on Hud', 4
+'City', 'Middlebury', 4
+'City', 'Kingston', 16
+'City', 'Commerce', 6
+'City', 'La Jolla', 13
+'City', 'Memphis', 11
+'City', 'Rumson', 3
+'City', 'Waccabuc', 1
+'City', 'Hayward', 2
+'City', 'Wayland', 3
+'City', 'NEW HAVEN', 3
+'City', 'Bangall', 2
+'City', 'ROCKWAY BEACH', 4
+'City', 'HASTINGS ON HUDSON', 2
+'City', 'Key West', 1
+'City', 'Jamaica Estates', 2
+'City', 'Washington TWP', 4
+'City', 'Charlestown', 1
+'City', 'Altrincham, Cheshire', 1
+'City', 'GRANT NECK', 1
+'City', 'Basking Ridge', 10
+'City', 'Ann Arbor', 9
+'City', 'Mamaroneck', 38
+'City', 'Glenn Oaks', 1
+'City', 'Nyack', 10
+'City', 'Newton', 7
+'City', 'Neweark', 1
+'City', 'Larkspur', 1
+'City', 'Boulder', 8
+'City', 'PORT CHESTER', 2
+'City', 'Monterey, California', 3
+'City', 'AUSTIN', 1
+'City', 'Lebanon Springs', 1
+'City', 'Cormack', 1
+'City', 'Huntington Beach', 1
+'City', 'Hoboken', 45
+'City', 'Melville', 106
+'City', 'Venice', 11
+'City', 'Freehold', 6
+'City', 'Upper Nyack', 5
+'City', 'Downers Grove', 3
+'City', 'Lansdowne', 1
+'City', 'Lake Sucess', 1
+'City', 'south orange', 1
+'City', 'ROSLYN', 12
+'City', 'FALLS CHURCH', 3
+'City', 'OLD BROOKVILLE', 1
+'City', 'MALVERNE', 1
+'City', 'Lace Success', 2
+'City', 'Mountainville', 1
+'City', 'Seekonk', 1
+'City', 'Merion', 2
+'City', 'Tilson', 1
+'City', 'ENGLEWOOD CLIFF', 2
+'City', 'Floral Park', 92
+'City', 'Astoria', 1519
+'City', 'Suffern', 27
+'City', 'Westlake Village', 1
+'City', 'Fall River', 1
+'City', 'Hauppage', 6
+'City', 'Austin', 29
+'City', 'Los Angles', 2
+'City', 'Hastings on Hudson', 3
+'City', 'Berwyn', 1
+'City', 'Mabelvale', 2
+'City', 'PAULSBORO', 1
+'City', 'SLOATSBURG', 1
+'City', 'WATER MILL', 1
+'City', 'Winchester', 1
+'City', 'Sommerset', 2
+'City', 'POmona', 2
+'City', 'Washington', 934
+'City', 'Bklyn', 4
+'City', 'Madison', 20
+'City', 'Plantation FL', 1
+'City', 'Sugar grove', 1
+'City', 'Palm Harbor', 4
+'City', 'Haddonfiled', 1
+'City', 'NEW ROCHELLE', 5
+'City', 'KOHLER', 1
+'City', 'Roselyn', 1
+'City', 'South Richmond Hill', 205
+'City', 'Carlstadt', 16
+'City', 'Van Nuys', 4
+'City', 'Bristow', 1
+'City', 'Oaklyn', 1
+'City', 'DECATUR', 1
+'City', 'Gary', 1
+'City', 'Wilsall', 1
+'City', 'Brandford', 1
+'City', 'Flen Cove', 1
+'City', 'Bella Vista', 1
+'City', 'Gambrills', 1
+'City', 'Bellport', 4
+'City', 'Hawthorne', 16
+'City', 'MONROE', 3
+'City', 'Mountain Lakes', 4
+'City', 'Calverton', 4
+'City', 'Piedmont', 1
+'City', 'NASHVILLE', 2
+'City', 'Princeton Junction', 1
+'City', 'El Paso', 5
+'City', 'Wilmette', 1
+'City', 'Hopatcong', 1
+'City', 'Redhook', 2
+'City', 'Saint Petersberg', 1
+'City', 'charleston', 1
+'City', 'Naples', 3
+'City', 'Silver Spring MD', 1
+'City', 'Milwaukee', 11
+'City', 'Oklahoma', 1
+'City', 'HAMPTON', 1
+'City', 'MT VERNON', 2
+'City', 'Camuy', 1
+'City', 'Centreville', 1
+'City', 'Altedena', 1
+'City', 'Belleville', 3
+'City', 'Ft. Lee', 4
+'City', 'Mount Kisco', 9
+'City', 'Milton', 2
+'City', 'long beach', 1
+'City', 'Pasadena', 4
+'City', 'Pennington', 3
+'City', 'South Bend', 2
+'City', 'Pittsburgh', 17
+'City', 'Beckley', 1
+'City', 'FORT WASHINGTON', 2
+'City', 'Eastchester', 6
+'City', 'CHANTILLY', 1
+'City', 'LOUISVILLE', 1
+'City', 'BROOKFIELD', 1
+'City', 'Ghent', 1
+'City', 'Washington Twp', 3
+'City', 'Matthews', 2
+'City', 'West Stamford', 1
+'City', 'Highland', 2
+'City', 'E Setauket', 1
+'City', 'Pelham Manor', 45
+'City', 'Old Bethpage', 2
+'City', 'Meriden', 3
+'City', 'Hauppague', 1
+'City', 'Old Tappan', 4
+'City', 'East Norwich', 1
+'City', 'Bernardsville', 5
+'City', 'MONTCLAIR', 2
+'City', 'Great NEck', 1
+'City', 'SeattleRichland', 1
+'City', 'St Augustine', 1
+'City', 'LINDEN', 1
+'City', 'Englewood Cliff', 2
+'City', 'Carsltadt', 1
+'City', 'Arligton', 1
+'City', 'college point', 1
+'City', 'Redwood Shores', 2
+'City', 'RONKONKOMA', 2
+'City', 'PITTSBURGH', 1
+'City', 'Mathews', 2
+'City', 'Liberal', 1
+'City', 'Dulles', 1
+'City', 'Greenlawn', 1
+'City', 'Shaker Heights', 1
+'City', 'jamaica', 3
+'City', 'Elmwood', 2
+'City', 'Mentor', 1
+'City', 'savannah', 1
+'City', 'Philadelpia', 2
+'City', 'Jersey city', 1
+'City', 'Fort Hood', 1
+'City', 'BRIDGEPORT', 1
+'City', 'Long Branch', 2
+'City', 'Smyrna', 2
+'City', 'Selden', 4
+'City', 'Hottsville', 2
+'City', 'Searsdale', 1
+'City', 'West Brattleboro', 1
+'City', 'Middle Village', 104
+'City', 'New Hyde Park', 217
+'City', 'South Hampton', 3
+'City', 'Lempira', 2
+'City', 'Philo', 1
+'City', 'santa clara', 5
+'City', 'Ayer', 2
+'City', 'Glen Burnie', 1
+'City', 'Mount  Vernon', 1
+'City', 'EWING', 1
+'City', 'Roselle Park', 1
+'City', 'ALPHARETTA', 1
+'City', 'REYNOLDSBURG', 1
+'City', 'Lake Arthur', 1
+'City', 'Mesquite', 1
+'City', 'Greak Neck', 1
+'City', 'new hyde park', 2
+'City', 'Poughkeepsie', 14
+'City', 'Fushing', 1
+'City', 'Caldwell', 3
+'City', 'Roseland', 28
+'City', 'Lansing', 3
+'City', 'Bolingbrook', 1
+'City', 'Califon', 1
+'City', 'North Bellmore', 1
+'City', 'Rowland Heights', 5
+'City', 'Woodmere', 30
+'City', 'BRIDGWATER', 1
+'City', 'Annandale-on-Hudson', 4
+'City', 'BETHPAGE', 30
+'City', 'Mahopac', 6
+'City', 'Warren', 12
+'City', 'New Castle', 3
+'City', 'QUEENS', 9
+'City', 'Plymouth', 2
+'City', 'Barrington', 1
+'City', 'MERRICK', 4
+'City', 'SAN ANTONIO', 4
+'City', 'Sayville', 2
+'City', 'Kirkland', 1
+'City', 'Chicago', 269
+'City', 'Valley Stream', 102
+'City', 'Wayne', 24
+'City', 'Wellesley', 2
+'City', 'Amherst', 5
+'City', 'Melverne', 1
+'City', 'los gatos', 1
+'City', 'MANCHESTER', 5
+'City', 'WELLESLEY', 6
+'City', 'VICTOR', 1
+'City', 'Milburn', 1
+'City', 'Elmford', 2
+'City', 'uniondale', 2
+'City', 'Spokane Valley', 1
+'City', 'o', 1
+'City', 'North Vale', 1
+'City', 'Miami Beach', 33
+'City', 'New Brunswick', 36
+'City', 'West Islip', 5
+'City', 'Seatle', 1
+'City', 'VALHALLA', 5
+'City', 'Athens', 7
+'City', 'West Cape May', 1
+'City', 'Universal City', 8
+'City', 'Fairlawn', 2
+'City', 'KENSINGTON', 1
+'City', 'GERMANTOWN', 1
+'City', 'SHERMAN OAKS', 1
+'City', 'Quantico', 1
+'City', 'Fort Montsemevly', 1
+'City', 'Speonk', 1
+'City', 'Canovanas', 1
+'City', 'Leawood', 1
+'City', 'Tampa', 31
+'City', 'Massapeaka', 1
+'City', 'astoria', 2
+'City', 'Plainview', 55
+'City', 'SHELTON', 1
+'City', 'Newyork', 3
+'City', 'White Planes', 2
+'City', 'UPPER MARLBORO', 1
+'City', 'Silver Spring', 15
+'City', 'BKLN', 1
+'City', 'PROVIDENCE', 2
+'City', 'Pontiac', 1
+'City', 'Farmindale', 1
+'City', 'San Fransico', 1
+'City', 'BROOKLYNBrooklyn', 1
+'City', 'White PLains', 1
+'City', 'Williasport', 1
+'City', 'Lakewodd', 1
+'City', 'Glendale', 39
+'City', 'Woodbury', 64
+'City', 'Dhaka, Bangladesh', 1
+'City', 'WASHINGTON', 103
+'City', 'Herndon', 6
+'City', 'Bound Brook', 3
+'City', 'Hastings', 2
+'City', 'Germantown', 8
+'City', 'Hanover Township', 1
+'City', 'ROOSEVELT ISLAND', 1
+'City', 'BREWSTER', 1
+'City', 'Temp', 3
+'City', 'Royal Oak', 2
+'City', 'Clarkston', 1
+'City', 'Martinez', 2
+'City', 'New  York', 3
+'City', 'Sunnyside', 148
+'City', 'Old Chatham', 4
+'City', 'Livermore', 1
+'City', 'Playa Vista', 1
+'City', 'Valtile', 2
+'City', 'Bridgehampton', 4
+'City', 'Lorton', 1
+'City', 'West Springfield', 2
+'City', 'PARSIPPANY', 1
+'City', 'Plainsville', 2
+'City', 'Elmsfords', 1
+'City', 'beverly hills', 1
+'City', 'Newark', 520
+'City', 'Saint Albans', 84
+'City', 'Whiteplains', 3
+'City', 'flushing', 1
+'City', 'BROOKLYN', 106
+'City', 'Sramford', 1
+'City', 'BELLEVUE', 1
+'City', 'Someville', 2
+'City', 'SMITHTOWN', 1
+'City', 'WEST PALM BEACH', 1
+'City', 'Linthcicium', 2
+'City', 'North Plainfield', 2
+'City', 'College Point', 190
+'City', 'Middletown', 25
+'City', 'miami shore', 1
+'City', 'Yorktown Heights', 10
+'City', 'Rye Brook', 22
+'City', 'Fort Lauderdale', 22
+'City', 'Nutley', 5
+'City', 'Tustin', 1
+'City', 'NEW CANAAN', 4
+'City', 'PALO ALTO', 2
+'City', 'Conover', 1
+'City', 'Dalton', 2
+'City', 'Malvern', 3
+'City', 'Yellowstone Avenue', 2
+'City', 'Willmington', 1
+'City', 'Doylestown', 1
+'City', 'Emerson', 1
+'City', 'Millbrook', 1
+'City', 'Planedge', 1
+'City', 'Long Island City', 1657
+'City', 'MONSEY', 2
+'City', 'FLUSHING', 8
+'City', 'Manhattan Beach', 5
+'City', 'Fort Bragg', 2
+'City', 'Buckingham', 1
+'City', 'Horseheads', 2
+'City', 'Framingham', 2
+'City', 'MIRAMAR', 1
+'City', 'Oakdale', 3
+'City', 'Hopewell Junction', 5
+'City', 'DELMAR', 2
+'City', 'Closter', 2
+'City', 'Pocono Pines', 1
+'City', 'Broomfield', 1
+'City', 'Mt. Airy', 1
+'City', 'N Merrick', 1
+'City', 'Cherry Hil', 2
+'City', 'NEW', 1
+'City', 'Center Square', 2
+'City', 'Queens Village', 201
+'City', 'florham park', 1
+'City', 'Middle Island', 2
+'City', 'jesey city', 1
+'City', 'Inglewood', 2
+'City', 'Aiea', 2
+'City', 'north lnidhurst', 1
+'City', 'Lakewood', 24
+'City', 'Cold Spring Hills', 6
+'City', 'syracuse', 1
+'City', 'Bala Cynwyd', 5
+'City', 'Netcong', 1
+'City', 'central islip', 2
+'City', 'Cuperino', 1
+'City', 'Toronto', 3
+'City', 'AUSTRIA', 1
+'City', 'Fort Totten', 1
+'City', 'st albans', 1
+'City', 'Wantagh', 15
+'City', 'Chamalieres', 1
+'City', 'RENSSELAER', 1
+'City', 'Nanuet', 14
+'City', 'Manalapan', 7
+'City', 'SALEM', 1
+'City', 'POMPTON PLAINS', 1
+'City', 'York Beach', 1
+'City', 'AMcLean', 1
+'City', 'Duarte', 1
+'City', 'Topsfield', 1
+'City', 'MUTTONTOWN', 1
+'City', 'East Stroudsbur', 1
+'City', 'Airmont', 2
+'City', 'Orangeberg', 1
+'City', 'Gal Gables', 1
+'City', 'Ridgewood', 212
+'City', 'ELMWOOD PARK', 1
+'City', ':ake Success', 2
+'City', 'Rockville', 34
+'City', 'HOLTSVILLE', 2
+'City', 'Islesford', 2
+'City', 'NewCastle', 1
+'City', 'Pittsford', 1
+'City', 'PASSAIC', 1
+'City', 'Pine Plains', 2
+'City', 'Dinm', 1
+'City', 'East Alexandria', 4
+'City', 'The Woodlands', 2
+'City', 'Baltson Spa', 1
+'City', 'Yorktown Height', 1
+'City', 'Statenn Island', 1
+'City', 'Capitol Heights', 2
+'City', 'Bedford', 18
+'City', 'Lake SUccess', 2
+'City', 'Somerset', 12
+'City', 'Rockaway', 4
+'City', 'Northfield', 1
+'City', 'Jersity City', 2
+'City', 'Brisane', 1
+'City', 'Southern Pines', 1
+'City', 'Duxbury', 7
+'City', 'VIENNA', 8
+'City', 'NANTUCKET', 5
+'City', 'WANTAGH', 8
+'City', 'SCARSDALE', 6
+'City', 'CLIFTON PARK', 1
+'City', 'HackensacK', 2
+'City', 'Spaldings', 1
+'City', 'Islington, London UK', 1
+'City', 'Rockville Centre', 33
+'City', 'Tinton Falls', 6
+'City', 'Bayside Queens', 1
+'City', 'Larchmont', 38
+'City', 'Lancaster', 3
+'City', 'Irving', 3
+'City', 'Powder Springs', 1
+'City', 'Eatontown', 11
+'City', 'Bornx', 2
+'City', 'Stockbridge', 6
+'City', 'Newberry', 2
+'City', 'North Haven', 2
+'City', 'Fresh Meadow', 1
+'City', 'Longview', 1
+'City', 'West Malverne', 1
+'City', 'BrooklynNY', 1
+'City', 'S Chester', 1
+'City', 'San Pedro', 1
+'City', 'DALLAS', 13
+'City', 'Erie', 3
+'City', 'new orleans', 3
+'City', 'CHARLOTTE', 9
+'City', 'Chevy Chase', 14
+'City', 'Cape May', 6
+'City', 'west hollywood', 2
+'City', 'Cypress', 1
+'City', 'Amagunsett', 1
+'City', 'HAWTHONE', 1
+'City', 'Millington', 1
+'City', 'Springfield Gar', 3
+'City', 'Englewood Cliffs', 26
+'City', 'Annandale on Hudson', 1
+'City', 'Aventura', 5
+'City', 'New Hyde Pk', 1
+'City', 'San Juan Capistrano', 1
+'City', 'Queenstown', 1
+'City', 'Saint Rose', 1
+'City', 'West Palm Beach', 9
+'City', 'Bohemia', 16
+'City', 'Newport', 2
+'City', 'Pennsauken', 2
+'City', 'Notre Dame', 1
+'City', 'Haddon Field', 1
+'City', 'Los Angelas', 24
+'City', 'NEWTON', 1
+'City', 'BASKING RIDGE', 3
+'City', 'Wyndmoor', 1
+'City', 'Hopewell', 1
+'City', 'Fairfiled', 3
+'City', 'Rhineback', 1
+'City', 'Kennet Square', 1
+'City', 'Sedona', 1
+'City', 'Great Necj', 1
+'City', 'Waukesha', 1
+'City', 'Hicksville', 94
+'City', 'Nassau', 5
+'City', 'Dorchester', 3
+'City', 'Wilmington', 26
+'City', 'Lilburn', 3
+'City', 'WOODBURY', 8
+'City', 'LONG ISLAND CITY', 6
+'City', 'NEWARK', 25
+'City', 'southampton', 5
+'City', 'Redmond', 1
+'City', 'HOBOKEN', 14
+'City', 'Redwood Valley', 1
+'City', 'IRON MOUNTAIN', 1
+'City', 'EAST CHICAGO', 1
+'City', 'Mount Sinai', 2
+'City', 'Brookln', 2
+'City', 'Bethleham', 1
+'City', 'las vegas', 1
+'City', 'Kew Garden', 2
+'City', 'Parsippany', 54
+'City', 'Hasbrouck Heights', 4
+'City', 'Flanders', 6
+'City', 'Spring Valley', 11
+'City', 'Round Rock', 3
+'City', 'Long island City', 2
+'City', 'Springfield garden', 1
+'City', 'Wheaton', 1
+'City', 'East Orange', 5
+'City', 'Asheville', 2
+'City', 'Glendale Heights', 1
+'City', 'Sayerville', 1
+'City', 'Forham Park', 1
+'City', 'GLENDALE', 7
+'City', 'Oak Creek', 1
+'City', 'Old Bronxville', 1
+'City', 'Akron', 8
+'City', 'Fort Belvoir', 1
+'City', 'Farmingdale', 102
+'City', 'Carmel', 8
+'City', 'Berkely', 1
+'City', 'austin', 1
+'City', 'Ardmore', 5
+'City', 'Stanford', 9
+'City', 'woodbridge', 1
+'City', 'CHARLESTON', 1
+'City', 'ELMIRA', 1
+'City', 'PATCHOGUE', 2
+'City', 'LIBERTY CORNER', 1
+'City', 'Kalamazoo', 4
+'City', 'Union Dale', 2
+'City', 'Mitchell Field', 1
+'City', 'North Canton', 1
+'City', 'Ithaca', 12
+'City', 'West New York', 17
+'City', 'Brookyn', 4
+'City', 'ROSLYN HEIGHTS', 5
+'City', 'Healdsburg', 1
+'City', 'Victorville', 1
+'City', 'Portchester', 2
+'City', 'Blauvelt', 5
+'City', 'LIVINGSTON', 2
+'City', 'BOONE', 1
+'City', 'EnglewoodCliffs', 1
+'City', 'Palos Hills', 1
+'City', 'Chadds Ford', 2
+'City', 'Rockvilel Cntr', 1
+'City', 'Hialeah Gardens', 1
+'City', 'W. Hazleton', 2
+'City', 'Bloomington', 2
+'City', 'Northeidge', 1
+'City', 'BROOKVILLE', 3
+'City', 'Manhansset', 1
+'City', 'Old Town Alexandria', 1
+'City', 'Hong Kong', 1
+'City', 'Corona Ave', 1
+'City', 'BRIARWOOD', 1
+'City', 'PARAMUS', 1
+'City', 'Highland Mills', 1
+'City', 'Wilton Manors', 1
+'City', 'Ponce', 2
+'City', 'Wycoff', 2
+'City', 'Manhaset', 1
+'City', 'Orangebury', 1
+'City', 'West Haven', 1
+'City', 'queens Village', 1
+'City', 'Long Islan City', 1
+'City', 'Thornwood', 3
+'City', 'Golden', 1
+'City', 'Priceton', 1
+'City', 'HOBOKENNJ', 1
+'City', 'North Charleston', 1
+'City', 'Lincoln', 1
+'City', 'Copley', 1
+'City', 'Buffalo Grove', 1
+'City', 'Ada', 1
+'City', 'lefrack city', 2
+'City', 'Woodstock', 2
+'City', 'Pgh', 1
+'City', 'Lake Grove', 17
+'City', 'MINELOA', 2
+'City', 'Summit', 18
+'City', 'Wallington', 1
+'City', 'Mt. View', 2
+'City', 'San Clemente', 1
+'City', 'Paughkeepsie', 1
+'City', 'GLEN HEAD', 4
+'City', 'ROCKVILLE CTR', 2
+'City', 'GRAND RAPIDS', 3
+'City', 'Bloomfield Hills', 1
+'City', 'Mammoth Lakes', 1
+'City', 'NEWQ ROCHELLE', 1
+'City', 'Clifton', 36
+'City', 'Sleepy Hollow', 6
+'City', 'GARDEN CITY', 12
+'City', 'Laurelton', 9
+'City', 'North Miami Beach', 5
+'City', 'Carol Stream', 1
+'City', 'Vancouver', 2
+'City', 'Cond', 1
+'City', 'CORTLANDT MANOR', 1
+'City', 'MELVILE', 1
+'City', 'Spartanberg', 1
+'City', 'Pelham', 3
+'City', 'Haven', 2
+'City', 'OIF', 1
+'City', 'Atlantic Beach', 3
+'City', 'Bayamon', 1
+'City', 'Eaton Town', 1
+'City', 'Ft. Lauderdale', 6
+'City', 'Marlboro', 7
+'City', 'Great River', 1
+'City', 'Lyndhurst', 32
+'City', 'Shellman', 6
+'City', 'Aberdeen', 1
+'City', 'New Mildord', 1
+'City', 'Santa Fe', 9
+'City', 'Centereach', 3
+'City', 'Cranger', 1
+'City', 'Elmpark', 1
+'City', 'Salem', 6
+'City', 'EAGAN', 1
+'City', 'Macon', 3
+'City', 'South Hackensak', 1
+'City', 'Hewlet', 2
+'City', 'Markham', 2
+'City', 'NEW CITY', 3
+'City', 'Walden', 1
+'City', 'Niskayuna', 4
+'City', 'Colchester', 1
+'City', 'Santa Ana', 2
+'City', 'Old Westbrook', 1
+'City', 'PORTSMOUTH', 2
+'City', 'HICKORY', 4
+'City', 'TARRYTOWN', 3
+'City', 'Ft lauderdale', 1
+'City', 'Ketchikan', 1
+'City', 'Morgate', 1
+'City', 'Glenville', 1
+'City', 'New Rork', 1
+'City', 'Jameica', 1
+'City', 'Uniondale', 103
+'City', 'Atlanta', 95
+'City', 'Sufern', 1
+'City', 'camillus', 2
+'City', 'Mystic', 1
+'City', 'Lafayette', 9
+'City', 'new canaan', 1
+'City', 'Yardley', 3
+'City', 'CINCINNATI', 2
+'City', 'TBURG', 1
+'City', 'Averne', 1
+'City', 'Reno', 3
+'City', 'DPO', 2
+'City', 'Evergreen', 1
+'City', 'Amityville', 10
+'City', 'UNIONDALE', 5
+'City', 'CHICAGO', 8
+'City', 'Arlington', 43
+'City', 'New Orleans', 9
+'City', 'College Station', 3
+'City', 'Lagrangeville', 1
+'City', 'MARSHALL', 1
+'City', 'BRIDGEWATER', 1
+'City', 'RENTON', 1
+'City', 'NEw York', 6
+'City', 'Ft. Launderdale', 1
+'City', 'ALEXANDRIA', 8
+'City', 'Westport', 39
+'City', 'manhasset', 5
+'City', 'Brookyln', 2
+'City', 'PLAINVIEW', 4
+'City', 'WEST ISLIP', 1
+'City', 'BEVERLY HILLS', 2
+'City', 'Long Pond', 1
+'City', 'STONEY BROOK', 2
+'City', 'Long Island', 5
+'City', 'Jackson', 8
+'City', 'New Yor', 6
+'City', 'Sebastian', 1
+'City', 'West Hollywood', 20
+'City', 'Abbott Park', 2
+'City', 'Murfreesboro', 1
+'City', 'Tampera', 1
+'City', 'East Windsor', 1
+'City', 'CROTON ON HUDSON', 1
+'City', 'Topanga', 1
+'City', 'Fresno', 3
+'City', 'Pawling', 2
+'City', 'Elmon', 1
+'City', 'flrming Island', 1
+'City', 'Wall Township', 1
+'City', 'Haddonfield', 2
+'City', 'Vally Stream', 1
+'City', 'Mendocino', 1
+'City', 'Arverne', 23
+'City', 'Cambria Heights', 98
+'City', 'Lexington', 7
+'City', 'Las Vegas', 20
+'City', 'Northvale', 2
+'City', 'CEDAR GROVE', 2
+'City', 'Grass Valley', 1
+'City', 'Manaquan', 1
+'City', 'W. Brentwood', 1
+'City', 'Uncasville', 3
+'City', 'Perth Amboy', 6
+'City', 'Raritan', 5
+'City', 'Dobbs Ferry', 22
+'City', 'East Northport', 3
+'City', 'washington', 6
+'City', 'Ny', 1
+'City', 'Ridgeland', 1
+'City', 'Northhampton', 1
+'City', 'Kenner', 2
+'City', 'Atherton', 1
+'City', 'Ontario', 4
+'City', 'IRVINE', 1
+'City', 'COMMACK', 2
+'City', 'Melvile', 1
+'City', 'Tuscon', 1
+'City', 'Cordillera', 1
+'City', 'Roosevelt Island', 1
+'City', 'Brooklyn', 20687
+'City', 'Voorheesville', 1
+'City', 'Mount Vernon', 39
+'City', 'Patchogue', 6
+'City', 'Los Gatos', 3
+'City', 'Andrews', 1
+'City', 'Greenville', 4
+'City', 'Laguna Hills', 2
+'City', 'Boynton Beach', 2
+'City', 'North Caldwell', 2
+'City', 'Huntington station', 1
+'City', 'Congers', 1
+'City', 'CHATHAM', 2
+'City', 'BINGHAMTON', 1
+'City', 'Daytona Beach', 1
+'City', 'Mountalnlake', 1
+'City', 'Phelan', 1
+'City', 'Buenos Aires', 1
+'City', 'Bardonia', 1
+'City', 'Silver Sping', 2
+'City', 'Catskill', 1
+'City', 'Nokomis', 2
+'City', 'Wyckoff', 2
+'City', 'Palestine', 2
+'City', 'Kingspoint', 2
+'City', 'City of Industry', 3
+'City', 'Fort Lee', 62
+'City', 'BRONX', 14
+'City', 'San francisco', 1
+'City', 'Murrells Inlet', 1
+'City', 'San Mateo', 6
+'City', 'Bedminster', 7
+'City', 'STUDIO CITY', 3
+'City', 'TAMPA', 5
+'City', 'CARLSTADT', 2
+'City', 'POTTSTOWN', 1
+'City', 'LEVITTOWN', 1
+'City', 'Kualapuu', 1
+'City', 'rUTHERFORD', 2
+'City', 'Chelmsford', 1
+'City', 'Lake Mary', 1
+'City', 'Delanson', 1
+'City', 'Terrytown', 2
+'City', 'Livington', 1
+'City', 'Little Rock', 1
+'City', 'Carcstadt', 1
+'City', 'Ridgefield Park', 9
+'City', 'Honolulu', 10
+'City', 'Wappinger Falls', 5
+'City', 'Lynbroock', 2
+'City', 'Charlottesville', 2
+'City', 'Mountainside', 1
+'City', 'Colonia', 3
+'City', 'BRIELLE', 1
+'City', 'CARLSBAD', 1
+'City', 'OLD BRIDGE', 1
+'City', 'Fort Carson', 1
+'City', 'North Wales', 1
+'City', 'Vernon', 1
+'City', 'FARMINGDALE', 9
+'City', 'Rochester', 22
+'City', 'Garfield', 2
+'City', 'Tarreytown', 1
+'City', 'Benicia', 1
+'City', 'San Fransisco', 3
+'City', 'Hooks', 1
+'City', 'BROOKYN', 2
+'City', 'Jacksonville Ave', 1
+'City', 'WOODCLIFF LAKE', 2
+'City', 'Paupack', 1
+'City', 'Montville', 1
+'City', 'Sacremento', 1
+'City', 'Rockaway Beach', 17
+'City', 'Colts Neck', 4
+'City', 'Scotts Valley', 1
+'City', 'Randolph', 8
+'City', 'Queen Creek', 1
+'City', 'Saddle River', 2
+'City', 'Tuscaloosa', 2
+'City', 'Beresda', 1
+'City', 'DIAMOND BAR', 1
+'City', 'LONDON, EC 2V', 1
+'City', 'NEWBURGH', 1
+'City', 'Meridan', 1
+'City', 'Bearsville', 1
+'City', 'Bridegwater', 1
+'City', 'Newton Centre', 1
+'City', 'Beacon', 11
+'City', 'Hillsborough', 5
+'City', 'Binghamton', 4
+'City', 'THE WOODLANDS', 1
+'City', 'HERNDON', 2
+'City', 'Edgewood', 6
+'City', 'Daleville', 1
+'City', 'Bridgeville', 1
+'City', 'Belmar', 1
+'City', 'RICHMOND', 1
+'City', 'Flemington', 1
+'City', 'Centerport', 1
+'City', 'Plandome', 7
+'City', 'Cloverport', 1
+'City', 'Seattle', 24
+'City', 'Myrtle Beach', 1
+'City', 'COLUMBUS', 4
+'City', 'Lincolinshire', 1
+'City', 'MANALAPAN', 1
+'City', 'Merriville', 1
+'City', 'Lanham', 2
+'City', 'San Angelo', 1
+'City', 'Bellrose', 6
+'City', 'Palm Desert', 1
+'City', 'Yonkers', 268
+'City', 'Stamford', 124
+'City', 'kansas city', 1
+'City', 'Irvington', 13
+'City', 'LAWRENCE', 6
+'City', 'South San Francisco', 1
+'City', 'Chappaqua', 17
+'City', 'Whippany', 3
+'City', 'Bristol', 2
+'City', 'Mashantucket', 1
+'City', 'MEDFORD', 3
+'City', 'KEY WEST', 1
+'City', 'Green Belt', 1
+'City', 'ARMONK', 2
+'City', 'newtown', 1
+'City', 'NEWPORT BEACH', 1
+'City', 'Signal Mountain', 1
+'City', 'Jersey City', 287
+'City', 'Evergreen Park', 6
+'City', 'West Babylon', 17
+'City', 'Kent', 3
+'City', 'Brooklyno', 1
+'City', 'Paulsboro', 9
+'City', 'Cos Cab', 1
+'City', 'Englewood Clifts', 2
+'City', 'WILTON', 1
+'City', 'St. Paul', 3
+'City', 'Roslyn Hights', 1
+'City', 'Warminster', 1
+'City', 'Branchburg', 2
+'City', 'baltimore', 1
+'City', 'Searingtown', 3
+'City', 'Long Beach', 41
+'City', 'Hummelstown', 1
+'City', 'Budd Lake', 1
+'City', 'Smithfield', 2
+'City', 'Broadlands', 1
+'City', 'Dorsett', 2
+'City', 'Lodi', 2
+'City', 'Malboro', 2
+'City', 'Huntington  Valley', 1
+'City', 'universal city', 1
+'City', 'Woodhaven', 58
+'City', 'Ossining', 18
+'City', 'Niles', 1
+'City', 'Secaucas', 1
+'City', 'Gainesville', 5
+'City', 'SACAUCUS', 2
+'City', 'Carnegie Hill', 1
+'City', 'Dublin, Ireland', 1
+'City', 'GARDENA', 4
+'City', 'NEW BUNSWICK', 1
+'City', 'THOUSAND OAKS', 1
+'City', 'RED BANK', 1
+'City', 'Juno Beach', 1
+'City', 'Croton on Hudson', 2
+'City', 'Littleton', 1
+'City', 'Hyde Park', 1
+'City', 'Holmadel', 1
+'City', 'Weswt Babylon', 1
+'City', 'Guam', 3
+'City', 'Woodside', 511
+'City', 'Staten Island', 3367
+'City', 'Bloomfield', 13
+'City', 'Millstone Township', 1
+'City', 'Sunnyvale', 8
+'City', 'L.I.C.', 34
+'City', 'NAPA', 3
+'City', 'bRONX', 1
+'City', 'MAHWAH', 1
+'City', 'Istanbul, Turkey', 1
+'City', 'MOHEGAN LAKE', 1
+'City', 'SanFrancisco', 1
+'City', 'Cincinatti', 4
+'City', 'Scarsdale', 96
+'City', 'Belmont', 6
+'City', 'Delray Beach', 4
+'City', 'DIX HILLS', 7
+'City', 'DEARBORN', 1
+'City', 'Marlton', 5
+'City', 'Gretna', 1
+'City', 'Milford', 3
+'City', 'EAST NORTHPORT', 1
+'City', 'BERNARDSVILLE', 1
+'City', 'wantagh', 1
+'City', 'North Branford', 1
+'City', 'Averill Park', 2
+'City', 'Fresh Meadows', 484
+'City', 'Baldwyn', 1
+'City', 'Mineolla', 1
+'City', 'Southport', 3
+'City', 'Ewing', 4
+'City', 'Watermill', 6
+'City', 'Southampton', 14
+'City', 'Danbury', 7
+'City', 'FREEPORT', 4
+'City', 'Bayfield', 1
+'City', 'forest hills', 1
+'City', 'Plainsboro', 2
+'City', 'TROY', 5
+'City', 'Battle Creek', 1
+'City', 'Ridgefiled', 1
+'City', 'Glen Mills', 1
+'City', 'New Yrok', 1
+'City', 'Upper Saddle Ri', 1
+'City', 'W. Hollywood', 1
+'City', 'Port Chester', 11
+'City', 'Hamden', 9
+'City', 'Belville', 1
+'City', 'College Park', 1
+'City', 'Plantsville', 2
+'City', 'WINTER PARK', 1
+'City', 'EL SEGUNDO', 1
+'City', 'Pleasant Hill', 1
+'City', 'Brattleboro', 1
+'City', 'Santa Clarita', 1
+'City', 'White Plaina', 1
+'City', 'Beaverton', 5
+'City', 'ROSLEV', 1
+'City', 'Bellmore', 15
+'City', 'Metaine', 1
+'City', 'Ambler', 2
+'City', 'Enfield', 1
+'City', 'EAST HANOVER', 3
+'City', 'Mt Laurel', 4
+'City', 'Sugar Land', 1
+'City', 'Edinboro', 1
+'City', 'Frederick', 1
+'City', 'Palm Springs', 1
+'City', 'Minerva', 1
+'City', 'Monmouth Beach', 1
+'City', 'Jax', 1
+'City', 'Freedom', 1
+'City', 'Blairstown', 1
+'City', 'Yaphand', 1
+'City', 'LOS ANGELES', 12
+'City', 'Winooski', 1
+'City', 'Aspen', 2
+'City', 'Beverley Hills', 2
+'City', 'sherman', 1
+'City', 'Costa Mesa', 3
+'City', 'Monroe Township', 2
+'City', 'Prince William', 1
+'City', 'Syoseet', 5
+'City', 'Neward', 2
+'City', 'commack', 1
+'City', 'HALLANDALE', 2
+'City', 'MacBrook', 1
+'City', 'NY', 156
+'City', 'NEW HYDE PARK', 8
+'City', 'Fuquay-Varina', 1
+'City', 'Upper Montclair', 4
+'City', 'Mission Woods', 1
+'City', 'San Juan', 45
+'City', 'Lido Beach', 2
+'City', 'Calabases', 1
+'City', 'Mauldin', 1
+'City', 'PHILADELPHIA', 2
+'City', 'LIVONIA', 1
+'City', 'Midwest City', 1
+'City', 'Cohasset', 1
+'City', 'Glen Rock', 1
+'City', 'Elnsford', 1
+'City', 'Frisco', 1
+'City', 'Oxnard', 1
+'City', 'N/A', 11
+'City', 'stamford', 2
+'City', 'Patterson', 4
+'City', 'Passaic', 9
+'City', 'New Canaan', 6
+'City', 'Bal Harbor', 1
+'City', 'New Fairfield', 1
+'City', 'Phoenicia', 2
+'City', 'SEATTLE', 4
+'City', 'Signal Hill', 1
+'City', 'Englewood Clffs', 1
+'City', 'North Salem', 2
+'City', 'Lauderdale', 1
+'City', 'Montrose', 3
+'City', 'Riverhead', 7
+'City', 'Seacaucus', 7
+'City', 'Norfolk', 9
+'City', 'Walnut Creek', 4
+'City', 'Trumbull', 4
+'City', 'MT Kisco', 1
+'City', 'Gilboa', 1
+'City', 'HUDSON', 2
+'City', 'Wash', 1
+'City', 'Woburn', 1
+'City', 'Waterbury', 2
+'City', 'Dunedin', 2
+'City', 'n Jose', 1
+'City', 'Breat Neck', 1
+'City', 'Westerfield', 1
+'City', 'Bayone', 1
+'City', 'Pottsdown', 1
+'City', 'Oak Brook', 2
+'City', 'Tappan', 5
+'City', 'Annapolis', 14
+'City', 'Westchester', 7
+'City', 'Hauppuage', 1
+'City', 'North Miami', 2
+'City', 'Mattituck', 5
+'City', 'King of Prussia', 7
+'City', 'cambridge', 2
+'City', 'Ballwin', 1
+'City', 'Armonic', 1
+'City', 'BUFFALO', 4
+'City', 'N.Y.', 2
+'City', 'HUNTINGTON VALLEY', 1
+'City', 'FORT WORTH', 3
+'City', 'WANTAGN', 1
+'City', 'Valparaiso', 1
+'City', 'Ketchum', 1
+'City', 'Stoneridge', 1
+'City', 'Canaan', 5
+'City', 'Sparks', 2
+'City', 'los angels', 1
+'City', 'Deerfield', 2
+'City', 'Newirk,', 1
+'City', 'ASHTON,', 1
+'City', 'WILLOW,', 2
+'City', 'New Jersey,', 4
+'City', 'Landsing,', 1
+'City', 'NHP,', 1
+'City', 'Augusta,', 2
+'City', 'N. Bellmore,', 1
+'City', 'elmont,', 1
+'City', 'PURCHASE,', 5
+'City', 'Potomac,', 6
+'City', 'Phoneix,', 1
+'City', 'Playa Del Ray,', 1
+'City', 'HUNTINGTON,', 4
+'City', 'St. Albans,', 3
+'City', 'Coronado,', 2
+'City', 'Galveston,', 1
+'City', 'New Hartford,', 1
+'City', 'Hato Rey,', 3
+'City', 'Linecroft,', 1
+'City', 'Glendora,', 4
+'City', 'Easton,', 3
+'City', 'New Lebanon,', 2
+'City', 'Bethesda,', 30
+'City', 'Conshohocken,', 3
+'City', 'Glastonbury,', 1
+'City', 'Huntsville,', 3
+'City', 'SAN DIEGO,', 2
+'City', 'ASTORIA,', 3
+'City', 'ANAHEIM HILLS,', 3
+'City', 'SANTA MONICA,', 2
+'City', 'Amagansett,', 1
+'City', 'Slaterville Springs,', 1
+'City', 'Penn Valley,', 1
+'City', 'Morgansville,', 1
+'City', 'Baldwin Park,', 1
+'City', 'Maspeth,', 259
+'City', 'Glean Oaks,', 1
+'City', 'Valhalla,', 37
+'City', 'brooklyn,', 48
+'City', 'Springfield Gardens,', 129
+'City', 'Kansas City,', 22
+'City', 'New Haven,', 36
+'City', 'Green Island,', 1
+'City', 'Sands Point,', 13
+'City', 'Laurel,', 2
+'City', 'Chino,', 4
+'City', 'Winnetka,', 1
+'City', 'Rartian,', 1
+'City', 'Sussex,', 4
+'City', 'HILLSBOROUGH,', 1
+'City', 'Woods Hole,', 1
+'City', 'BOCA RATON,', 5
+'City', 'Kihei,', 1
+'City', 'Happauge,', 8
+'City', 'Lakewood Twnship,', 1
+'City', 'Maple Valley,', 1
+'City', 'South Dartmouth,', 1
+'City', 'Indianaopolis,', 1
+'City', 'East Greenwich,', 1
+'City', 'New Province,', 1
+'City', 'North Arlington,', 3
+'City', 'Braintree,', 1
+'City', 'Brick,', 6
+'City', 'Landorer,', 1
+'City', 'Clifton Park,', 4
+'City', 'Pacific Palisades,', 3
+'City', 'Osterville,', 1
+'City', 'Hillside,', 2
+'City', 'SHREVEPORT,', 2
+'City', 'Norcross,', 1
+'City', 'Colonial,', 2
+'City', 'St. George's, Grenada,', 1
+'City', 'Juncos,', 3
+'City', 'Deer Park,', 9
+'City', 'philadelphia,', 1
+'City', 'North Baldwin,', 2
+'City', 'El Seguro,', 1
+'City', 'Neptune,', 2
+'City', 'Endicott,', 1
+'City', 'River Edge,', 9
+'City', 'Clark,', 6
+'City', 'North Andover,', 1
+'City', 'STATE COLLEGE,', 1
+'City', 'Laguna Niguel,', 1
+'City', 'Washignton,', 1
+'City', 'Sandia Park,', 1
+'City', 'Salinas,', 2
+'City', 'Berkeley,', 61
+'City', 'Florham Park,', 18
+'City', 'Haymarket,', 1
+'City', 'Dougaston,', 1
+'City', 'BRENTWOOD,', 8
+'City', 'princeton,', 1
+'City', 'RLEIGH,', 1
+'City', 'Old Bridge,', 4
+'City', 'SPRING LAKE,', 2
+'City', 'MANHASSAT,', 1
+'City', 'Gaithersburg,', 2
+'City', 'Lanesville,', 1
+'City', 'Cutchogue,', 1
+'City', 'lake success,', 1
+'City', 'Bogota,', 2
+'City', 'Pt Washington,', 1
+'City', 'Menands,', 3
+'City', 'Inwood,', 32
+'City', 'Hewlett Bay Park,', 2
+'City', 'Ridge,', 3
+'City', 'Washington DC,', 13
+'City', 'ROOSEVELT,', 1
+'City', 'Jenkintown,', 4
+'City', 'Durham,', 8
+'City', 'Upper Marlboro,', 3
+'City', 'Shrub Oak,', 1
+'City', 'HICKSVILLE,', 3
+'City', 'ST PAUL,', 1
+'City', 'St Louis,', 5
+'City', 'Yarmouth,', 1
+'City', 'Parma,', 1
+'City', 'CARMEL,', 3
+'City', 'OrnageBurg,', 1
+'City', 'West babylon,', 1
+'City', 'Troy,', 4
+'City', 'Cliffside Park,', 5
+'City', 'williston park,', 1
+'City', 'Cherry Hills,', 1
+'City', 'Inkter,', 1
+'City', 'CLEARWATER,', 1
+'City', 'NRW YOK,', 1
+'City', 'No. White Plains,', 1
+'City', 'Lack Success,', 1
+'City', 'Henderson,', 4
+'City', 'Jamaica,', 1516
+'City', 'Bellerose,', 75
+'City', 'Roslyn Heights,', 23
+'City', 'MAMARONECK,', 4
+'City', 'Weddington,', 1
+'City', 'Franklin Square,', 6
+'City', 'ENGLEWOOD CLIFFS,', 3
+'City', 'Swedesboro,', 1
+'City', 'Pittsfield,', 1
+'City', 'CEDARHURST,', 3
+'City', 'River Vale,', 1
+'City', 'Uppe rMontclair,', 1
+'City', 'Faifield,', 1
+'City', 'Palm Bay,', 1
+'City', 'W Palm Beach,', 1
+'City', 'Elizabeth,', 68
+'City', 'Montauk,', 2
+'City', 'Northbrook,', 4
+'City', 'DOBBS FERRY,', 5
+'City', 'West Harrison,', 4
+'City', 'Quincy,', 2
+'City', 'Salisbury,', 2
+'City', 'SILVER SPRING,', 2
+'City', 'HAUPPAUGE,', 6
+'City', 'SAINT LOUIS,', 6
+'City', 'AMAGANSETT,', 1
+'City', 'WALLINGTON,', 1
+'City', 'Saint Louis,', 10
+'City', 'Secorcus,', 1
+'City', 'Monroeville,', 1
+'City', 'Williston Park,', 16
+'City', 'LAKE SUCCESS,', 10
+'City', 'San Jose,', 19
+'City', 'Little Ferry,', 3
+'City', 'HEMPSTEAD,', 8
+'City', 'rochester,', 4
+'City', 'BOHEMIA,', 2
+'City', 'Short Hills,', 15
+'City', 'West Caldwell,', 4
+'City', 'Bowie,', 3
+'City', 'Jersey CIty,', 1
+'City', 'Suffolk,', 1
+'City', 'Windsor,', 2
+'City', 'WILMINGTON,', 1
+'City', 'Rancho Cordova,', 1
+'City', 'Orinda,', 2
+'City', 'Elkhart,', 1
+'City', 'Islandia,', 18
+'City', 'Galloway,', 1
+'City', 'Paterson,', 6
+'City', 'Port Jefferson Station,', 1
+'City', 'Miami Lakes,', 3
+'City', 'Woodridge,', 6
+'City', 'Kennett Square,', 4
+'City', 'Hamilton,', 1
+'City', 'Redwood City,', 6
+'City', 'Brightwaters,', 2
+'City', 'SOUTHAMPTON,', 1
+'City', 'Stonington,', 2
+'City', 'Rock Island,', 2
+'City', 'Melbourne,', 1
+'City', 'san fran,', 1
+'City', 'Guyanabo,', 1
+'City', 'Mineola,', 118
+'City', 'coney island,', 1
+'City', 'North Bergen,', 12
+'City', 'Celebration,', 1
+'City', 'garroltton,', 4
+'City', 'ANN ARBOR,', 2
+'City', 'St Petersburg,', 4
+'City', 'Oberlin,', 3
+'City', 'Malabo,', 2
+'City', 'Fort Meade,', 1
+'City', 'EAST HAMPTON,', 6
+'City', 'TOTOWA,', 1
+'City', 'Rome,', 2
+'City', 'Juneau,', 1
+'City', 'Ogdensburg,', 1
+'City', 'Galesville,', 2
+'City', 'Colorado Springs,', 1
+'City', 'North Lindenhurst,', 1
+'City', 'South Ozone Park,', 105
+'City', 'Morristown,', 41
+'City', 'PT washington,', 1
+'City', 'West Elmford,', 1
+'City', 'Cross River,', 10
+'City', 'NEWTOWN SQUARE,', 1
+'City', 'Kings Park,', 2
+'City', 'St. Petersburg,', 2
+'City', 'Billerica,', 1
+'City', 'newyork,', 4
+'City', 'Port Jervis,', 1
+'City', 'STRATFORD,', 2
+'City', 'Highland Park,', 6
+'City', 'Rockville Centr,', 6
+'City', 'Poughkeepsee,', 1
+'City', 'Simsbury,', 4
+'City', 'suffern,', 1
+'City', 'South Amboy,', 4
+'City', 'Richardson,', 1
+'City', 'Old Westbury,', 18
+'City', 'Rockleigh,', 2
+'City', 'Phillipsburg,', 1
+'City', 'Hubbard,', 2
+'City', 'Billings,', 1
+'City', 'Newtown,', 1
+'City', 'Bron,', 1
+'City', 'WEST HEMPSTEAD,', 2
+'City', 'GREENBELT,', 1
+'City', 'ROCHELLE PARK,', 1
+'City', 'KATONAH,', 1
+'City', 'Staen Island,', 1
+'City', 'Glen Cone,', 1
+'City', 'Kenvil,', 1
+'City', 'Los Ranchos,', 1
+'City', 'Walham,', 1
+'City', 'Seaford,', 7
+'City', 'Fords,', 1
+'City', 'Justice,', 1
+'City', 'Lindhurst,', 1
+'City', 'Lincroft,', 4
+'City', 'Northampton,', 5
+'City', 'Teterboro,', 5
+'City', 'Palisade Park,', 1
+'City', 'Roanoke,', 6
+'City', 'Fresh Weadow,', 1
+'City', 'Hackenstack,', 1
+'City', 'PIttsburgh,', 1
+'City', 'Briarcliff Manor,', 3
+'City', 'JERSEY CITY,', 34
+'City', 'Sarasota,', 5
+'City', 'Westhampton,', 2
+'City', 'Tucson,', 5
+'City', 'La Canada,', 1
+'City', 'MASSAPEQUA,', 6
+'City', 'Peoria,', 3
+'City', 'Liverpool,', 1
+'City', 'DANIEL ISLAND,', 3
+'City', 'ELMONT,', 1
+'City', 'MASSAPEQUA PARK,', 1
+'City', 'Pompton Lakes,', 1
+'City', 'Alpine,', 1
+'City', 'Setauket,', 3
+'City', 'Watkins Glen,', 2
+'City', 'Edgewood Cliffs,', 1
+'City', 'South Plainfield,', 10
+'City', 'Beaumont,', 3
+'City', 'Southhampton,', 3
+'City', 'Dover,', 7
+'City', 'Exton,', 1
+'City', 'Pensylvania,', 2
+'City', 'Schnectady,', 1
+'City', 'ROCKAWAY,', 2
+'City', 'North Branch,', 1
+'City', 'Southplainfield,', 1
+'City', 'Belle Harbor,', 4
+'City', 'Shelton,', 4
+'City', 'Hartford,', 30
+'City', 'Yorktown,', 9
+'City', 'Mill Neck,', 3
+'City', 'PISCATAWAY,', 3
+'City', 'BALDWIN,', 2
+'City', 'PEAPACK,', 1
+'City', 'tinton Falls,', 3
+'City', 'D.C.,', 1
+'City', 'Moncticello,', 1
+'City', 'Cumberland,', 1
+'City', 'Hawthrone,', 1
+'City', 'Port Washington,', 52
+'City', 'Riverside,', 11
+'City', 'Falls Church,', 15
+'City', 'Eastampton,', 1
+'City', 'Carteret,', 10
+'City', 'WEEHAWKEN,', 2
+'City', 'Elmwood Park,', 11
+'City', 'Ringwood,', 3
+'City', 'Malba,', 1
+'City', 'Wasington,', 2
+'City', 'Lewisburg,', 3
+'City', 'Vestal,', 1
+'City', 'Highlanes,', 1
+'City', 'Beltsville,', 1
+'City', 'Needham,', 6
+'City', 'Shrewsbury,', 3
+'City', 'Bellaire,', 2
+'City', 'Moorestown,', 1
+'City', 'Imperial,', 1
+'City', 'VERO BEACH,', 1
+'City', 'HALESITE,', 1
+'City', 'St Thomas,', 1
+'City', 'West Long Beach,', 1
+'City', 'Saddlebrook,', 1
+'City', 'great neck,', 2
+'City', 'E Brunswick,', 1
+'City', 'Falmouth,', 1
+'City', 'New Boston,', 1
+'City', 'woodmere,', 4
+'City', 'DELAND,', 1
+'City', 'Merrick,', 12
+'City', 'Minneapolis,', 20
+'City', 'Tamarac,', 1
+'City', 'Duluth,', 4
+'City', 'Livonston,', 1
+'City', 'Chatsworth,', 1
+'City', 'New York City,', 2
+'City', 'OYSTER BAY,', 2
+'City', 'Saint Petersburg,', 1
+'City', 'Sodus,', 1
+'City', 'Canton,', 3
+'City', 'monsey,', 1
+'City', 'Massaspequa,', 1
+'City', 'LosAngeles,', 1
+'City', 'Slingerlands,', 1
+'City', 'Hopeville Junction,', 1
+'City', 'katonah,', 1
+'City', 'Howard Beach,', 74
+'City', 'Breezy Point,', 14
+'City', 'Livonia,', 1
+'City', 'Houston,', 98
+'City', 'Albertson,', 7
+'City', 'WARNER ROBINS,', 4
+'City', 'Mohegan Lake,', 2
+'City', 'MINNETONKA,', 1
+'City', 'Central Falls,', 1
+'City', 'West Brentwood,', 2
+'City', 'HASBROOK HEIGHTS,', 1
+'City', 'Tacoma,', 1
+'City', 'SI,', 17
+'City', 'Mobile,', 1
+'City', 'Manhatten,', 1
+'City', 'North Blenheim,', 1
+'City', 'Ferndale,', 3
+'City', 'Alhambra,', 6
+'City', 'Mt. Kisko,', 1
+'City', 'East Meadow,', 40
+'City', 'Boca Raton,', 20
+'City', 'South Salem,', 5
+'City', 'Woonsocket,', 2
+'City', 'Santa Barbara,', 10
+'City', 'Plantation,', 9
+'City', 'Piscataway,', 18
+'City', 'WEST CHESTER,', 1
+'City', 'Ft Lee,', 3
+'City', 'Addison,', 2
+'City', 'Great Beck,', 1
+'City', 'NEW YORK,', 188
+'City', 'Mt. Vernon,', 47
+'City', 'Carle Place,', 24
+'City', 'Elizaville,', 1
+'City', 'Sunny Isle Beach,', 1
+'City', 'Bellevue,', 2
+'City', 'South Norwalk,', 1
+'City', 'South Hempstead,', 1
+'City', 'WEST HARTFORD,', 1
+'City', 'GOTEBURG,', 1
+'City', 'LAS VEGAS,', 1
+'City', 'KNOXVILLE,', 1
+'City', 'woodbury,', 1
+'City', 'CLINTON,', 1
+'City', 'Gardena,', 1
+'City', 'Piscataway Township,', 4
+'City', 'Lebanon,', 1
+'City', 'Whitinsville,', 1
+'City', 'WICHITA,', 1
+'City', 'Ozone Park,', 171
+'City', 'Elwood,', 1
+'City', 'Somerville,', 16
+'City', 'White Plaines,', 1
+'City', 'Rahway,', 10
+'City', 'Murray Hill,', 2
+'City', 'Dix Hills,', 13
+'City', 'East Haven,', 1
+'City', 'Feasterville Trevose,', 1
+'City', 'Saranac Lake,', 1
+'City', 'Carlsbad,', 1
+'City', 'Labanon,', 1
+'City', 'South El Monte,', 1
+'City', 'Rosedale,', 90
+'City', 'Ashville,', 2
+'City', 'CLEVELAND,', 4
+'City', 'PRIDE'S CROSSING,', 1
+'City', 'MOUNTAINSIDE,', 1
+'City', 'Valencia,', 1
+'City', 'Denville,', 2
+'City', 'Mt. Sinai,', 1
+'City', 'Jacksonville,', 3
+'City', 'Lindon,', 1
+'City', 'NORTH BERGEN,', 2
+'City', 'Oak Parl,', 1
+'City', 'NORTHFIELD,', 1
+'City', 'Port Newark,', 1
+'City', 'Glenview,', 1
+'City', 'Morganville,', 4
+'City', 'LYNBROOK,', 5
+'City', 'Yaphank,', 1
+'City', 'Wilkes Barre,', 3
+'City', 'CHESTNUT RIDGE,', 4
+'City', 'North Rutherford,', 1
+'City', 'Woodstown,', 1
+'City', 'Fremont,', 7
+'City', 'CHAPEL HILL,', 1
+'City', 'Latrobe,', 1
+'City', 'Elmira,', 2
+'City', 'Huntersville,', 1
+'City', 'Spanaway,', 1
+'City', 'N. MASSAPEQUA,', 2
+'City', 'Des Moines,', 1
+'City', 'E Binghamton,', 1
+'City', 'Englewoods,', 1
+'City', 'Red bank,', 2
+'City', 'South Plainfiel,', 2
+'City', 'Forest Hills,', 569
+'City', 'Manhasset,', 98
+'City', 'Tarrytown,', 45
+'City', 'Bayshore,', 6
+'City', 'Port Reading,', 2
+'City', 'Westwood,', 1
+'City', 'Mason Neck,', 2
+'City', 'Sherman Oaks,', 3
+'City', 'AMITYVILLE,', 3
+'City', 'Chesire,', 1
+'City', 'Holyoke,', 2
+'City', 'CLIFTON,', 4
+'City', 'RIVERSIDE,', 1
+'City', 'SAN RAFAEL,', 1
+'City', 'NORTH HOLLYWOOD,', 1
+'City', 'Rivervale,', 1
+'City', 'Eaglewood,', 1
+'City', 'Lawerence,', 1
+'City', 'Geneva,', 1
+'City', 'Manorville,', 2
+'City', 'Ridgefield,', 17
+'City', 'Harsdale,', 1
+'City', 'Aliso Viejo,', 2
+'City', 'Central Valley,', 2
+'City', 'Ocean City,', 1
+'City', 'Redwood Shore,', 1
+'City', 'GAITHERSBURG,', 2
+'City', 'New Albany,', 1
+'City', 'Virginia Beach,', 2
+'City', 'Hauppaugue,', 5
+'City', 'New,', 2
+'City', 'West,', 1
+'City', 'New Cannon,', 1
+'City', 'Ft Myers,', 1
+'City', 'Woodland Hill,', 1
+'City', 'Taftville,', 1
+'City', 'LIC,', 46
+'City', 'queens,', 7
+'City', 'Hartsdale,', 11
+'City', 'Syosset,', 69
+'City', 'Oradell,', 8
+'City', 'Schenectady,', 4
+'City', 'NEW York,', 3
+'City', 'Mt. Laurel,', 1
+'City', 'new Orleans,', 5
+'City', 'Taylorsville,', 2
+'City', 'PEARL RIVER,', 3
+'City', 'BEDFORD,', 2
+'City', 'FT LAUDERDALE,', 1
+'City', 'STEPHENTOWN,', 1
+'City', 'Portsmouth,', 2
+'City', 'Prides Crossing,', 1
+'City', 'Tulsa,', 2
+'City', 'Gap Mills,', 1
+'City', 'Tonawanda,', 4
+'City', 'West Shokan,', 1
+'City', 'No. Billerica,', 1
+'City', 'Destin,', 1
+'City', 'Alpharetta,', 1
+'City', 'white plains,', 1
+'City', 'Waterville,', 1
+'City', 'Fair Oaks,', 1
+'City', 'Lighthouse Point,', 1
+'City', 'Purcellville,', 1
+'City', 'SOUTH SAN FRANCICO,', 2
+'City', 'Hawthorn,', 2
+'City', 'New Hope,', 1
+'City', 'West Coldwell,', 2
+'City', 'Beechhurst,', 1
+'City', 'Kinnelon,', 2
+'City', 'LITTLE SILVER,', 2
+'City', 'Dresher,', 4
+'City', 'Pound ridge,', 1
+'City', 'Van Auys,', 1
+'City', 'Bergenfield,', 3
+'City', 'Evanston,', 11
+'City', 'East Williston,', 4
+'City', 'Monterey,', 1
+'City', 'ORANGE,', 1
+'City', 'BOLTON LANDING,', 1
+'City', 'MONTAUK,', 1
+'City', 'WOODLAWN,', 1
+'City', 'Maple Grove,', 1
+'City', 'Banning,', 1
+'City', 'Hingham,', 1
+'City', 'New London,', 2
+'City', 'Goose Creek,', 1
+'City', 'Valley Forge,', 1
+'City', 'Shelter Island,', 8
+'City', 'Glen Cove,', 52
+'City', 'Ordadell,', 1
+'City', 'SEA GIRT,', 1
+'City', 'GLENS FALLS,', 1
+'City', 'Arden Hills,', 2
+'City', 'Cheshire,', 2
+'City', 'White House Station,', 1
+'City', 'Buffalo,', 36
+'City', 'Chester,', 10
+'City', 'MINEOLA,', 10
+'City', 'Granite Springs,', 2
+'City', 'Knoxville,', 7
+'City', 'Millburn,', 5
+'City', 'Forestville,', 2
+'City', 'Triangle Park,', 1
+'City', 'BAYVILLE,', 1
+'City', 'St. James,', 2
+'City', 'Rosella,', 1
+'City', 'JAMAICA,', 1
+'City', 'Hemphill,', 1
+'City', 'Chelsea,', 1
+'City', 'Freemont,', 1
+'City', 'Douglas,', 3
+'City', 'Woodland Hills,', 12
+'City', 'Brookline,', 6
+'City', 'Encino,', 4
+'City', 'Fairfax,', 13
+'City', 'Los Altos,', 4
+'City', 'East Farmingdale,', 1
+'City', 'PORT WASHINGTON,', 5
+'City', 'FOREST HILLS,', 1
+'City', 'Madna,', 2
+'City', 'Saint Helene,', 2
+'City', 'Cortlandt Manor,', 5
+'City', 'Freeport,', 28
+'City', 'NewYork,', 1
+'City', 'Newport Beach,', 5
+'City', 'Ruthorford,', 2
+'City', 'Foster City,', 4
+'City', 'Sante Fe,', 4
+'City', 'Cornwall,', 1
+'City', 'Jericho,,', 1
+'City', 'Monmouth,', 3
+'City', 'MOORPARK,', 1
+'City', 'Newiark,', 1
+'City', 'Wallingford,', 1
+'City', 'Kissimmee,', 1
+'City', 'RVC,', 1
+'City', 'Harvard,', 1
+'City', 'Torrance,', 1
+'City', 'Lenjacheben,', 1
+'City', 'Garrison,', 7
+'City', 'Union City,', 10
+'City', 'FIDDING,', 1
+'City', 'pearl river,', 1
+'City', 'South Ozone Par,', 1
+'City', 'NEW YORK NY,', 1
+'City', 'Arrasate,', 2
+'City', 'San Franciso,', 1
+'City', 'West Roxbury,', 2
+'City', 'Red Hook,', 2
+'City', 'SALT LAKE CITY,', 1
+'City', 'TACONIC,', 2
+'City', 'Washington DC NW,', 1
+'City', 'Woodmare,', 1
+'City', 'Washington,,', 1
+'City', 'Blue Point,', 2
+'City', 'Liberty,', 1
+'City', 'Farmington Hills,', 1
+'City', 'Far Rockaway,', 250
+'City', 'Brookville,', 10
+'City', 'Wyandanch,', 5
+'City', 'Winston Salem,', 3
+'City', 'Albuquerque,', 5
+'City', 'Cincinnati,', 10
+'City', 'RAHWAY,', 1
+'City', 'NEWPORT,', 2
+'City', 'WALL TOWNSHIP,', 1
+'City', 'CHELMSFORD,', 1
+'City', 'simsbury,', 1
+'City', 'Martinsburg,', 1
+'City', 'Charles Town,', 1
+'City', 'Oakbrook,', 1
+'City', 'lake Success,', 2
+'City', 'Briarcliff,', 1
+'City', 'Miamiq,', 1
+'City', 'Woodsburgh,', 1
+'City', 'Peabody,', 2
+'City', 'SEA CLIFF,', 4
+'City', 'Skokie,', 1
+'City', 'WarWick,', 1
+'City', 'Kew Gardens,', 276
+'City', 'RIVERHEAD,', 1
+'City', 'Bronxork,', 1
+'City', 'Norwalk,', 27
+'City', 'Herridon,', 1
+'City', 'YONKER,', 2
+'City', 'NEW MILFORD,', 1
+'City', 'FORT CARSON,', 2
+'City', 'WAYNE,', 2
+'City', 'Culpeper,', 2
+'City', 'Greenich,', 1
+'City', 'Loudonville,', 1
+'City', 'Park City,', 2
+'City', 'springfield,', 1
+'City', 'Windmere,', 1
+'City', 'Mineola Blvd,', 1
+'City', 'IRA,', 2
+'City', 'Roslyn Avenue,', 1
+'City', 'W Islip,', 1
+'City', 'Ronkonkoma,', 17
+'City', 'Arnonk,', 3
+'City', 'MANHATTAN BEACH,', 2
+'City', 'Clearwater,', 2
+'City', 'Pitsburgh,', 1
+'City', 'Rensselaer,', 3
+'City', 'Long Islnd City,', 3
+'City', 'Monterey Park,', 2
+'City', 'Vacaville,', 3
+'City', 'S. San Francisco,', 2
+'City', 'Palm Beach Gardens,', 6
+'City', 'Bay Head,', 6
+'City', 'Danville,', 1
+'City', 'South Setauket,', 2
+'City', 'East Lansing,', 1
+'City', 'Mointain View,', 1
+'City', 'Warwick,', 2
+'City', 'SOUTH FALLSBURG,', 3
+'City', 'RIDGEWOOD,', 1
+'City', 'queen,', 1
+'City', 'Glen cove,', 1
+'City', 'Winston-Salem,', 1
+'City', 'POUGHKEEPSIE,', 3
+'City', 'Coram,', 7
+'City', 'Chatham,', 9
+'City', 'Providence,', 21
+'City', 'hollis,', 1
+'City', 'London, U.K.,', 1
+'City', 'Mineloa,', 3
+'City', 'Jamesburg,', 3
+'City', 'Livingston,', 24
+'City', 'Glenside,', 1
+'City', 'BALTIMOR,', 1
+'City', 'DURHAM,', 2
+'City', 'Oswego,', 1
+'City', 'Totowa,', 10
+'City', 'Florida Park,', 1
+'City', 'LARCHMONT,', 5
+'City', 'Watertown,', 3
+'City', 'Corel Gables,', 1
+'City', 'Richille Pk,', 1
+'City', 'Franklin Lake,', 1
+'City', 'Long Island Cit,', 69
+'City', 'Thurnwood,', 1
+'City', 'Holmes,', 1
+'City', 'White Plane,', 1
+'City', 'Syracuse,', 21
+'City', 'Sea Girt,', 1
+'City', 'Township of Washington,', 1
+'City', 'Solana Beach,', 1
+'City', 'Pflugervilleisd,', 1
+'City', 'Islip Terrace,', 1
+'City', 'IRVINGTON,', 1
+'City', 'Olean,', 2
+'City', 'E. Hampton,', 2
+'City', 'Huntingdon,', 1
+'City', 'Fort Ann,', 1
+'City', 'Flamouth,', 1
+'City', 'Brea,', 1
+'City', 'Bedfordhills,', 1
+'City', 'Miami,', 95
+'City', 'Santa Monica,', 55
+'City', 'Williamsport,', 2
+'City', 'Katonah,', 19
+'City', 'Shenectady,', 1
+'City', 'Rio Rancho,', 2
+'City', 'NORTH FERRISBURGH,', 1
+'City', 'KEENE,', 1
+'City', 'Sommerville,', 1
+'City', 'Eagan,', 2
+'City', 'Paletra,', 1
+'City', 'West Winsdor,', 1
+'City', 'Wilma,', 1
+'City', 'Linden,', 18
+'City', 'Miramar,', 3
+'City', 'Ellicott City,', 2
+'City', 'Salt Lake City,', 10
+'City', 'Washington D.C.,', 2
+'City', 'Coco Beach,', 2
+'City', 'Jamaica Plain,', 1
+'City', 'Cumming,', 5
+'City', 'OLDWESTBURY,', 1
+'City', 'Wind Gap,', 2
+'City', 'MANHATTAN,', 1
+'City', 'Alameda,', 1
+'City', 'ENGLEWOOD,', 2
+'City', 'CedarhurstFar Rockaway,', 1
+'City', 'Bakesville,', 1
+'City', 'Mullici Hill,', 2
+'City', 'Guaynabo,', 5
+'City', 'Weehawkin,', 1
+'City', 'Croton on Harmon,', 1
+'City', 'Rockaway Park,', 87
+'City', 'Baltimore,', 39
+'City', 'Johnstown,', 4
+'City', 'Leesburg,', 3
+'City', 'Ocean Beach,', 3
+'City', 'Seldon,', 1
+'City', 'Dahlgren,', 1
+'City', 'Rosemont,', 1
+'City', 'W Orange,', 1
+'City', 'HARTFORD,', 1
+'City', 'Boonton,', 2
+'City', 'IDAHO FALLS,', 1
+'City', 'HARRISBURG,', 1
+'City', 'Metuchen,', 9
+'City', 'W Hempstead,', 1
+'City', 'Fishkill,', 1
+'City', 'Waterford,', 2
+'City', 'Rock Tavern,', 5
+'City', 'Laguardia,', 1
+'City', 'Avenel,', 2
+'City', 'Cleavland,', 1
+'City', 'Angleton,', 1
+'City', 'Henrico,', 1
+'City', 'WATERMILL,', 1
+'City', 'NORWALK,', 7
+'City', 'JUNO BEACH,', 1
+'City', 'MIDDLETOWN,', 2
+'City', 'JACKSON,', 1
+'City', 'Newtown Square,', 1
+'City', 'Pheonix,', 1
+'City', 'huntington sta,', 1
+'City', 'QUEENS VILLAGE,', 1
+'City', 'Mt Sinai,', 1
+'City', 'dix hills,', 9
+'City', 'Mamoroneck,', 1
+'City', 'Columbia,', 12
+'City', 'YONKERS,', 13
+'City', 'Delmar,', 3
+'City', 'Richmond,', 16
+'City', 'Englishtown,', 1
+'City', 'bethesda,', 2
+'City', 'CAMBRIDGE,', 4
+'City', 'Burke,', 1
+'City', 'ISELIN,', 4
+'City', 'RYE BROOK,', 1
+'City', 'STATEN ISLAND,', 3
+'City', 'Rockville Ctr,', 4
+'City', 'pembroke pines,', 1
+'City', 'Woodcliffe,', 1
+'City', 'san Diego,', 1
+'City', 'Garden City Long Island,', 1
+'City', 'Secaucus,', 56
+'City', 'Iowa City,', 1
+'City', 'kingston,', 1
+'City', 'Beverly Hills,', 41
+'City', 'Cary,', 3
+'City', 'Coconut Creek,', 1
+'City', 'Jefferson Valley,', 1
+'City', 'Mesa,', 2
+'City', 'LAKEFOREST,', 1
+'City', 'TEANECK,', 3
+'City', 'FAIRFIELD,', 3
+'City', 'Towson,', 3
+'City', 'EAST RUTHERFORD,', 1
+'City', 'Islandpark,', 1
+'City', 'Queensbury,', 2
+'City', 'Monterary Park,', 2
+'City', 'Pelham ManorPelham,', 1
+'City', 'Long Is City,', 1
+'City', 'Orlando,', 30
+'City', 'Chestnut Ridge,', 4
+'City', 'North Woodmere,', 1
+'City', 'Chatham,,', 1
+'City', 'UPPER MONTCLAIR,', 1
+'City', 'Picatinny Arsenal,', 7
+'City', 'Sadle River,', 1
+'City', 'Shanhai,', 1
+'City', 'Fairlane,', 2
+'City', 'Laurel Hollow,', 1
+'City', 'los angeles,', 1
+'City', 'Concord,', 6
+'City', 'San Ramon,', 2
+'City', 'Tenafly,', 7
+'City', 'Saratoga Springs,', 12
+'City', 'NEW YOR,', 3
+'City', 'Malcon,', 1
+'City', 'Max Meadow,', 1
+'City', 'Novi,', 5
+'City', 'CHARLOTTESVILLE,', 1
+'City', 'BRANCHBURG,', 1
+'City', 'out of state,', 2
+'City', 'Fairfeild,', 2
+'City', 'Uiondale,', 1
+'City', 'El Monte,', 1
+'City', 'Syosette,', 1
+'City', 'teaneck,', 1
+'City', 'New York,', 66024
+'City', 'Massapequa Park,', 5
+'City', 'Huntington,', 29
+'City', 'Franklin Lakes,', 4
+'City', 'Lattingtown,', 2
+'City', 'Winona,', 1
+'City', 'CENtral islip,', 1
+'City', 'Bennington,', 2
+'City', 'Asbury Park,', 2
+'City', 'FOLSOM,', 1
+'City', 'ROCKVILLE CENTER,', 1
+'City', 'East Elmshurst,', 1
+'City', 'Pensacola,', 1
+'City', 'Great Barrington,', 1
+'City', 'Garden CIty,', 2
+'City', 'New Jersey City,', 2
+'City', 'Croton-on-Hudson,', 2
+'City', 'Old Greenwich Ct.,', 1
+'City', 'Stewart Manor,', 1
+'City', 'Newburgh,', 10
+'City', 'Northport,', 12
+'City', 'Ft. Salonga,', 1
+'City', 'laurelton,', 1
+'City', 'W. Jersey City,', 2
+'City', 'West Orange,', 34
+'City', 'Massapequa,', 18
+'City', 'Plansboro,', 1
+'City', 'Carol Gables,', 1
+'City', 'NORFOLK,', 1
+'City', 'PLANO,', 2
+'City', 'white Plains,', 3
+'City', 'New Providence,', 2
+'City', 'New Hyde PArk,', 1
+'City', 'Walla Walla,', 3
+'City', 'valley stream,', 3
+'City', 'Oyster Bay Cove,', 5
+'City', 'Lindenwold,', 2
+'City', 'Manhattan,', 9
+'City', 'Reston,', 17
+'City', 'Greenport,', 3
+'City', 'Valley Cottage,', 4
+'City', 'Rocky Point,', 1
+'City', 'University Park,', 1
+'City', 'yorktown,', 1
+'City', 'Maimi,', 1
+'City', 'East Setauket,', 3
+'City', 'York,', 5
+'City', 'East Palo Alto,', 1
+'City', 'HOLMDEL,', 1
+'City', 'South Burlington,', 2
+'City', 'SP 3290000076 Brazil,', 1
+'City', 'Vatavia,', 1
+'City', 'Bensonville,', 1
+'City', 'ny,', 15
+'City', 'Manhatsset,', 1
+'City', 'Charlotte,', 22
+'City', 'Lawrence,', 36
+'City', 'Watchung,', 2
+'City', 'Wendell,', 1
+'City', 'Mountain View,', 12
+'City', 'Waldwick,', 1
+'City', 'West Hatfield,', 1
+'City', 'LINDENHURST,', 3
+'City', 'Lake Oswego,', 2
+'City', 'Colleg Station,', 1
+'City', 'Gardiner,', 1
+'City', 'New Yoek,', 1
+'City', 'South Hackensac,', 1
+'City', 'Norther Haldon,', 1
+'City', 'Sanford,', 1
+'City', 'Olathe,', 1
+'City', 'Rodgewood,', 1
+'City', 'Bronx,', 5664
+'City', 'kalamazoo,', 1
+'City', 'SAN FRANCISCO,', 3
+'City', 'West Simsbury,', 2
+'City', 'Marietta,', 5
+'City', 'Leominster,', 2
+'City', 'Humble,', 1
+'City', 'New Rochellr,', 1
+'City', 'West Conshohock,', 1
+'City', 'Orem,', 1
+'City', 'Roseville,', 1
+'City', 'Gramille,', 1
+'City', 'Essex,', 1
+'City', 'Painesville,', 1
+'City', 'Edge Water,', 2
+'City', 'Edgewater,', 9
+'City', 'Glen Head,', 10
+'City', 'Somer,', 1
+'City', 'Orangeburg,', 8
+'City', 'Glenn Mills,', 3
+'City', 'Seagirt,', 6
+'City', 'Eugene,', 1
+'City', 'CARLE PLACE,', 5
+'City', 'HORSEHEADS,', 1
+'City', 'HAMILTON,', 1
+'City', 'Cedar Falls,', 1
+'City', 'North,', 1
+'City', 'Radnor,', 9
+'City', 'Monroey,', 1
+'City', 'Mundelein,', 1
+'City', 'San Anselmo,', 1
+'City', 'Bronxville,', 29
+'City', 'MELVILLE,', 15
+'City', 'Buellton,', 1
+'City', 'san francisco,', 5
+'City', 'Brecksville,', 1
+'City', 'East Longmeadow,', 1
+'City', 'baldwin,', 1
+'City', 'SUMMIT,', 5
+'City', 'Midland,', 1
+'City', 'Rolling Hills,', 1
+'City', 'Nw York,', 1
+'City', 'Long Isand City,', 1
+'City', 'North Hollywood,', 1
+'City', 'Stony Brook,', 19
+'City', 'St Albans,', 7
+'City', 'North Brunswick,', 4
+'City', 'El Verano,', 1
+'City', 'Miamisburg,', 1
+'City', 'MCLEAN,', 3
+'City', 'Edgartown,', 1
+'City', 'Wesley Hill,', 1
+'City', 'Marlborough,', 2
+'City', 'Denver,', 31
+'City', 'Center Moriches,', 5
+'City', 'Grand Island,', 1
+'City', 'Key Biscayne,', 1
+'City', 'Laguna Beach,', 1
+'City', 'WOODCLIFFS LAKES,', 1
+'City', 'INDIANA,', 1
+'City', 'JOHNSON CITY,', 3
+'City', 'COLLEGE POINT,', 1
+'City', 'Fort Worth,', 6
+'City', 'Alcobendas,', 1
+'City', 'Sharon,', 1
+'City', 'Victor,', 1
+'City', 'Roslyn Hts,', 1
+'City', 'Middleton,', 2
+'City', 'New Hyde Parak,', 2
+'City', 'Aquebogue,', 1
+'City', 'Huntington Stat,', 1
+'City', 'Las Cruces,', 1
+'City', 'Jeffersonville,', 1
+'City', 'ForestHills,', 1
+'City', 'Boston,', 126
+'City', 'Westort,', 2
+'City', 'Montreal (Canada),', 4
+'City', 'Tuscan,', 2
+'City', 'ARLINGTON,', 2
+'City', 'HACKENSACK,', 4
+'City', 'Sarver,', 1
+'City', 'Cedar Hurst,', 1
+'City', 'Manhasset Hills,', 1
+'City', 'Cranbury,', 1
+'City', 'Lynnebrook,', 1
+'City', 'Hollis,', 70
+'City', 'new York,', 7
+'City', 'HAWTHORNE,', 5
+'City', 'Iselin,', 11
+'City', 'Lansdale,', 2
+'City', 'El Segundo,', 9
+'City', 'Pearl River,', 14
+'City', 'jERSEY cITY,', 1
+'City', 'Scotia,', 1
+'City', 'Skillman,', 4
+'City', 'Fort Wayne,', 1
+'City', 'vieena,', 1
+'City', 'CLEARWATER BEACH,', 4
+'City', 'Kerriville,', 1
+'City', 'Little Falls,', 4
+'City', 'Eads,', 1
+'City', 'Skaneateles,', 1
+'City', 'Green Brook,', 4
+'City', 'South River,', 1
+'City', 'NYC,', 28
+'City', 'Hackensack,', 66
+'City', 'Round ROck,', 1
+'City', 'Saginaw,', 1
+'City', 'Nashua,', 2
+'City', 'Pawtucket,', 2
+'City', 'Provo,', 1
+'City', 'Jay,', 1
+'City', 'Cabo Rojo,', 1
+'City', 'Homestead,', 1
+'City', 'Barnardsville,', 1
+'City', 'Elmhurst,', 333
+'City', 'Manhasset Long Island,', 1
+'City', 'Warrington,', 1
+'City', 'ALBANY,', 29
+'City', 'melville,', 1
+'City', 'Shanghai,', 1
+'City', 'Los Angelos,', 11
+'City', 'Atmore,', 2
+'City', 'Hackettstown,', 4
+'City', 'Kenosha,', 1
+'City', 'BOSTON,', 14
+'City', 'EDISON,', 2
+'City', 'Deerfield Beach,', 4
+'City', 'Sioux Falls,', 1
+'City', 'Sea Cliff,', 3
+'City', 'Fort Drum,', 1

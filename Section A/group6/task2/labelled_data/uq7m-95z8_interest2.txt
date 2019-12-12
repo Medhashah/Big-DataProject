@@ -1,0 +1,22 @@
+'Areas of study', 'Performing Arts/ Visual Art & Design', 1
+'Areas of study', 'Performing Arts/Visual Art & Design', 1
+'Areas of study', 'Engineering', 8
+'Areas of study', 'Environmental Science', 2
+'Areas of study', 'None', 0
+'Areas of study', 'Teaching', 2
+'Areas of study', 'Hospitality, Travel, & Tourism', 2
+'Areas of study', 'Communications', 3
+'Areas of study', 'Animal Science', 1
+'Areas of study', 'JROTC', 1
+'Areas of study', 'Computer Science, Math & Technology,', 1
+'Areas of study', 'Science & Math,', 19
+'Areas of study', 'Law & Government,', 9
+'Areas of study', 'Architecture,', 2
+'Areas of study', 'Business,', 6
+'Areas of study', 'Culinary Arts,', 5
+'Areas of study', 'Performing Arts,', 14
+'Areas of study', 'Computer Science & Technology,', 14
+'Areas of study', 'Humanities & Interdisciplinary,', 41
+'Areas of study', 'Health Professions,', 10
+'Areas of study', 'Visual Art & Design,', 7
+'Areas of study', 'Film/Video,', 2

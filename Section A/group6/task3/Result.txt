@@ -1,0 +1,48 @@
+2004:
+   Queens: Water System, Blocked Driveway, Noise - Street/Sidewalk
+   Brooklyn: Noise - Street/Sidewalk, Water System, Blocked Driveway
+   Manhattan: Noise - Commercial, Noise, Taxi Complaint
+   Bronx: Water System, Sewer, Street Condition
+   Staten Island: Sewer, Street Condition, Missed Collection (All Materials)
+
+2005:
+    Queens: Sewer, Water System, Building/Use
+    Brooklyn: Sewer, Street Condition, Water System
+    Manhattan: Noise - Street/Sidewalk, Street Light Condition, Water System
+    Bronx: Water System, Noise - Street/Sidewalk, Sewer
+    Staten Island: Street Condition, Water System, Sewer
+
+2006:
+    Queens: Sewer, Water System, Traffic Signal Condition
+    Brooklyn: Traffic Signal Condition, Sewer, Water System
+    Manhattan: Traffic Signal Condition, Street Light Condition, Noise - Street/Sidewalk
+    Bronx: Water System, Traffic Signal Condition, Sewer
+    Staten Island: Street Condition, Water System, Sewer
+
+2007:
+    Queens: Sewer, Water System, Blocked Driveway
+    Brooklyn: Sewer, Traffic Signal Condition, Blocked Driveway
+    Manhattan: Traffic Signal Condition, Street Light Condition, Taxi Complaint
+    Bronx: Water System, Sewer, Traffic Signal Condition
+    Staten Island: Water System, Sewer, Street Light Condition
+
+2008:
+    Queens: Sewer, General Construction/Plumbing, Street Condition
+    Brooklyn: Street Condition, Sewer, Traffic Signal Condition
+    Manhattan: General Construction/Plumbing, Taxi Complaint, Street Condition
+    Bronx: Water System, Street Condition, Blocked Driveway
+    Staten Island: Street Light Condition, Sewer, Water System
+
+2009:
+    Queens: Street Condition, Blocked Driveway, Sewer
+    Brooklyn: Street Condition, Water System, Blocked Driveway
+    Manhattan: Noise, Street Light Condition, General Construction/Plumbing
+    Bronx: Street Condition, Water System, Blocked Driveway
+    Staten Island: Street Light Condition, Water System, Sewer
+
+2010 - Present:
+    Queens: Noise - Residential, Street Condition, Street Light Condition
+    Brooklyn: Heat/Hot Water, Blocked Driveway, Illegal Parking
+    Manhattan: Heat/Hot Water, Noise, Noise - Street/Sidewalk
+    Bronx: Heat/Hot Water, Heating, Street Light Condition
+    Staten Island: Street Light Condition, Water System, Noise - Residential

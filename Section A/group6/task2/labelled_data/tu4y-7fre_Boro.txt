@@ -1,0 +1,5 @@
+'Borough', 'QUEENS', 14
+'Borough', 'BROOKLYN', 18
+'Borough', 'BRONX,', 12
+'Borough', 'MANHATTAN,', 12
+'Borough', 'STATEN ISLAND,', 3

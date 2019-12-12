@@ -1,0 +1,288 @@
+'City', 'RANDALLS ISLAND', 2
+'City', 'Corona', 10
+'City', 'MANHATTEN', 38
+'City', 'BROOKYLN', 27
+'City', 'NEW JERSEY', 3
+'City', 'BRONC', 1
+'City', 'Queens', 1191
+'City', 'BROOklyn', 12
+'City', 'long island city', 21
+'City', '44 Ferris St', 11
+'City', 'Rego Park', 2
+'City', 'jackson heights', 1
+'City', 'Brklyn', 1
+'City', 'BROOKLYLN', 25
+'City', 'Manhattann', 2
+'City', 'BROOKLYN (HONEY)', 42
+'City', 'BROOKLYN(CAMERA)', 42
+'City', 'CORONA', 7
+'City', 'Jackson Heights', 8
+'City', 'Bayside', 1
+'City', 'new york', 82
+'City', 'Brooklyn(Star Semi 2)', 25
+'City', 'White Plains', 54
+'City', 'MANHATTATN', 1
+'City', 'LAGUARDIA', 1
+'City', 'LONG ISLAND', 7
+'City', 'nyc', 6
+'City', 'New york', 4
+'City', 'Booklyn', 23
+'City', 'White Plains(Honey)', 7
+'City', 'BAYSIDE', 1
+'City', 'RIDGWOOD', 1
+'City', 'White Plains (Grip)', 8
+'City', 'E. Elmhurst', 3
+'City', 'bronx', 471
+'City', 'MANHATAN', 1
+'City', 'BROOLYN', 2
+'City', 'maspeth', 3
+'City', 'Q', 1
+'City', 'East Elmhurst,', 15
+'City', 'bklyn', 109
+'City', 'BROOKLYN (2RMSTAKE(', 41
+'City', 'Flushing', 94
+'City', 'FAR ROCKAWAY', 9
+'City', 'Brooklyn(Camera)', 28
+'City', 'ROOSVELT ISLAND', 1
+'City', 'MASPETH(GR)', 12
+'City', 'Broolkyn', 1
+'City', 'KEW GARDENS', 2
+'City', 'Brooklyn (Wardrobe)', 25
+'City', 'East Elmhurst', 38
+'City', 'BROOK', 1
+'City', 'RIDGEWOOD QUEENS', 2
+'City', 'MASPETH NY', 10
+'City', 'manhattan', 66
+'City', 'Whitestone', 5
+'City', 'BROOKLY', 4
+'City', 'LOng Island City', 1
+'City', 'HARLEM', 2
+'City', 'None', 0
+'City', 'BROKLYN', 15
+'City', 'STATeN ISLAND', 3
+'City', 'Flusing', 1
+'City', 'STATEN ISLAND NY', 1
+'City', 'Kearny', 1
+'City', 'CONEY ISLAND', 10
+'City', 'BREEZY POINT', 3
+'City', 'Brooklyn ( Electric)', 40
+'City', 'NEWYORK', 4
+'City', 'Street', 2
+'City', 'WHITESTONE', 2
+'City', 'Richmond Hill', 2
+'City', 'BROOKLYN (3RMSHORTY)', 40
+'City', 'MASPETH(P)', 2
+'City', 'Staten Island New York City', 1
+'City', 'Beach Channel', 1
+'City', 'E Elmhurst', 1
+'City', 'yonkers', 28
+'City', 'New York,', 1
+'City', 'brklyn', 8
+'City', 'JAMICA', 4
+'City', 'Greenpoint(Combi)', 14
+'City', 'BROOKLYN(Props)', 41
+'City', 'Brooklyn(HMU)', 25
+'City', 'AVERNE', 1
+'City', 'MAN', 3
+'City', 'LONG ISLAND CITY (QUEENS)', 2
+'City', 'SOUTH OZONE PARK', 1
+'City', 'Maspeth Queens', 1
+'City', 'Astoria', 852
+'City', 'LONG ISLAND  CITY', 75
+'City', 'BROOKLYN (2RMSHORTY)', 41
+'City', 'Bkyn', 1
+'City', 'Bklyn', 342
+'City', 'Brooklyn(Electric)', 29
+'City', 'WOODSIDE (QUEENS)', 1
+'City', 'L.I.C', 126
+'City', 'NEW TORK', 8
+'City', 'NEW DORP LANE & HYLAN BLVD', 1
+'City', 'college point', 1
+'City', 'jamaica', 49
+'City', 'Middle Village', 1
+'City', 'QUEENS', 8713
+'City', 'astoria', 54
+'City', 'Glendale', 402
+'City', 'ROOSEVELT ISLAND', 4
+'City', 'ROCKAWAY PARK', 3
+'City', 'Brooklyn(Grip)', 29
+'City', 'QUEESN', 1
+'City', 'BROOKLYN', 10179
+'City', 'ELMHURST', 4
+'City', 'EAST ELMHURST', 47
+'City', 'MESPETH', 1
+'City', 'flushing', 4
+'City', 'NEW  YORK', 1
+'City', 'College Point', 69
+'City', 'FLUSHING', 238
+'City', 'Long Island City', 1769
+'City', 'Statan Island', 3
+'City', 'Queens Village', 6
+'City', 'manhatten', 3
+'City', 'White Plains (Elec)', 8
+'City', 'MASPETH(3#1)', 11
+'City', 'Ridgewood', 35
+'City', 'JACKSON HEIGHTS', 1
+'City', 'corona', 27
+'City', 'BROOKLYN (2RMFUEL)', 41
+'City', 'East Elmhrst', 2
+'City', 'MASPETH', 327
+'City', 'MIDDLE VILLAGE', 1
+'City', 'LONG ISLAND CITY', 656
+'City', 'Steinway', 4
+'City', 'Randells Island', 1
+'City', 'Brookln', 2
+'City', 'GLENDALE', 5
+'City', 'Long island City', 1
+'City', 'Bronx,', 1
+'City', 'Greenpoint(3rmNP)', 14
+'City', 'Brookyn', 2
+'City', 'NYc', 1
+'City', 'OZONE PARK', 5
+'City', 'Atlantic Beach', 5
+'City', 'Maspeth(H)', 12
+'City', 'Averne,', 1
+'City', 'ISLAND CITY,', 2
+'City', 'Brooklyn, NY,', 50
+'City', 'Long isalnd City,', 1
+'City', 'Brookyln,', 2
+'City', 'Arverne,', 3
+'City', 'east elmhurst,', 2
+'City', 'Ny,', 7
+'City', 'Roosevelt Island,', 1
+'City', 'Brooklyn,', 19873
+'City', 'MASPETH(W),', 13
+'City', 'MANHHATAN,', 1
+'City', 'BRONX,', 1993
+'City', 'White Plains (props),', 8
+'City', 'E. ELmhurst,', 1
+'City', 'Manhatttan,', 34
+'City', 'BROOKYN,', 1
+'City', 'BROOKLYN (HMU),', 42
+'City', 'Far Rockway,', 6
+'City', 'Bklynm,', 1
+'City', 'CITY ISLAND,', 1
+'City', 'Far Rokaway,', 1
+'City', 'JAMIACA,', 6
+'City', 'Yonkers,', 2
+'City', 'Jamica,', 10
+'City', 'ASTORIA QUEENS,', 1
+'City', 'STATN ISLAND,', 467
+'City', 'Staten Isalnd,', 1
+'City', 'Staten Island,', 1372
+'City', 'Randalls Island,', 2
+'City', 'bRONX,', 2
+'City', 'L.I.C.,', 304
+'City', 'Brooklyn(3 Room Pop),', 25
+'City', 'SOUTH BRONX,', 1
+'City', 'Woodside,', 1
+'City', 'Bromx,', 2
+'City', 'forest hills,', 1
+'City', 'Brokklyn,', 125
+'City', 'FAIR ROCK AWAY,', 1
+'City', 'FRESH MEADOWS,', 1
+'City', 'jamiaca,', 1
+'City', 'NY,', 79
+'City', 'ARVERNE (QUEENS),', 1
+'City', 'StatenIsland,', 1
+'City', 'glendale,', 29
+'City', 'Greenpoint(Honey),', 14
+'City', 'New Jersey,', 1
+'City', 'New Jersey/New York,', 1
+'City', 'brookln,', 8
+'City', 'ASTORIA,', 1511
+'City', 'Maspeth,', 1814
+'City', 'brooklyn,', 3644
+'City', 'MASPETH (QUEENS),', 1
+'City', 'College point,', 3
+'City', 'QUEEN,', 3
+'City', 'JAMACIA,', 1
+'City', 'Jamaica,', 25
+'City', 'Staten island,', 199
+'City', 'WARDS ISLAND,', 9
+'City', 'SPRINGFIELD GARDENS,', 1
+'City', 'statan Island,', 6
+'City', 'Staton Island,', 2
+'City', 'BROOKLN,', 87
+'City', 'QUEENS Maspeth,', 1
+'City', 'Brookliyn,', 1
+'City', 'South Ozone Park,', 19
+'City', 'bx,', 2
+'City', 'MASPETH(3#2),', 11
+'City', 'I-95 NJ,', 1
+'City', 'Staten iSLAND,', 1
+'City', 'ARVERNE,', 15
+'City', 'FLUSHING MEADOWS,', 1
+'City', 'STEINWAY,', 1
+'City', 'New York City,', 3
+'City', 'Breezy Point,', 6
+'City', 'college Point,', 2
+'City', 'Howard Beach,', 1
+'City', 'Manhatten,', 1
+'City', 'SI,', 1
+'City', 'White Plains 2Rm1,', 8
+'City', 'NEW YORK,', 1838
+'City', 'MANAHTTAN,', 1
+'City', 'Brooklyn ( Wardrobe),', 38
+'City', 'Ozone Park,', 6
+'City', 'MASPETH(3/#),', 1
+'City', 'E ELMHURST , QUEENS,', 1
+'City', 'SUNNYSIDE,', 1
+'City', 'Forest Hills,', 1
+'City', 'JAIMACA,', 1
+'City', 'LIC,', 111
+'City', 'queens,', 128
+'City', 'College Pt,', 1
+'City', 'Mahattan,', 2
+'City', 'Brooklyn(Honey),', 25
+'City', 'staten Island,', 4
+'City', 'JAMAICA,', 237
+'City', 'FOREST HILLS,', 3
+'City', 'Manhatta,', 1
+'City', 'NEW YORK NY,', 25
+'City', 'White Plains (HMU),', 8
+'City', 'ROSEDALE,', 2
+'City', 'Far Rockaway,', 26
+'City', 'staten island,', 115
+'City', '900 E. 12nd st,', 3
+'City', 'BROX,', 2
+'City', 'Kew Gardens,', 3
+'City', 'White Plains (Ward),', 6
+'City', 'BOOKLYN,', 1
+'City', 'RIDGEWOOD,', 5
+'City', 'BRONX,,', 17
+'City', 'JAMACA,', 1
+'City', 'NASSAU/QUEENS,', 1
+'City', 'MANHATTAN,', 8648
+'City', 'Rockaway Park,', 3
+'City', 'MANHATTaN,', 1
+'City', 'QUEENS VILLAGE,', 2
+'City', 'STATEN ISLAND,', 2426
+'City', 'Brooklyn (2Room),', 26
+'City', 'Brooklyn (Grip),', 41
+'City', 'GWBUBRG03729,', 1
+'City', 'New York,', 566
+'City', 'HOLLIS,', 1
+'City', 'Manhattan,', 920
+'City', 'WOODSIDE,', 16
+'City', 'NEW YORK, NY,', 6
+'City', 'ny,', 8
+'City', 'LONGISLAND CITY,', 2
+'City', 'Bronx,', 1280
+'City', 'Brooklyn(Star Semi 1),', 26
+'City', 'woodside,', 2
+'City', 'RANDALL'S ISLAND,', 1
+'City', 'Long Isand City,', 1
+'City', 'COLLEGE POINT,', 6
+'City', 'Queens Ny,', 1
+'City', 'BKLYN,', 43
+'City', 'NEW YORK CITY,', 35
+'City', 'NEWYORK CITY,', 1
+'City', 'FAR FROCKAWAY,', 1
+'City', 'BROOKLYM,', 1
+'City', 'NYC,', 27
+'City', 'Greenpoint,', 45
+'City', 'LONG ISLAND CITY, QUEENS,', 1
+'City', 'bROOKLYN,', 4
+'City', 'Elmhurst,', 7
+'City', 'Far rockaway,', 3

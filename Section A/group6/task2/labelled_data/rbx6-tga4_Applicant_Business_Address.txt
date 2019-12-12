@@ -1,0 +1,2534 @@
+'Address', '35-06 FARRINGTON ST, 1ST FLOOR', 393
+'Address', '2060 ANTIN PLACE', 21
+'Address', '3722 73RD STREET, SUITE 2E', 24
+'Address', '101-38 130TH STREET', 45
+'Address', '310 NASSAU AVENUE', 77
+'Address', '109 WINANT PLACE', 6
+'Address', '15 WOODLAND LANE', 7
+'Address', '220 ROANOKE AVENUE STE 1', 1
+'Address', '161 21ST STREET', 3
+'Address', '10-01 37TH AVENUE', 1
+'Address', '237 WEST 35TH ST. SUITE 1005', 1
+'Address', '121-06 22ND AVENUE', 1
+'Address', '5705 6TH AVE', 7
+'Address', '356 RICHARD AVENUE', 8
+'Address', '51-11 34TH STREET', 8
+'Address', '213-50 35TH AVENUE', 2
+'Address', '140 58TH STREET BUILDING B 1E', 2
+'Address', '25 MIDLAND AVENUE', 5
+'Address', '506 6TH AVE POB 150717', 2
+'Address', '123-11 18TH AVE', 1
+'Address', '6942 184TH STREET', 6
+'Address', '199 LEE AVENUE #727', 1
+'Address', '10-15 45TH AVENUE', 1
+'Address', '266 BROADWAY STE#301', 2
+'Address', '240 LUCILLE AVENUE', 10
+'Address', '75 UNION STREET', 167
+'Address', '302 MANOR ROAD', 14
+'Address', '3356 BEDFORD AVENUE', 10
+'Address', '811 MCLEAN AVENUE, SUITE 2A', 4
+'Address', '200 VESEY STREET 24TH FLOOR', 1
+'Address', '420 MADISON AVE STE 14TH FL', 1
+'Address', '2210 REEDS MILL LANE', 1
+'Address', '161 22ND STREET', 11
+'Address', '2120 ATLANTIC AVENUE', 1
+'Address', '147-18 23RD AVENUE', 8
+'Address', '383 THORNEYCROFT AVENUE', 8
+'Address', '38-32 54 STREET', 2
+'Address', '670 MRYTLE AVE', 1
+'Address', '43-01 22ND STREET. STE 528', 1
+'Address', '316 LANDSDOWNE AVENUE', 2
+'Address', '40 FULTON STREET, 21ST FLOOR', 1
+'Address', '1762 EAST 172ND STREET', 1
+'Address', '3908 16TH AVENUE', 3
+'Address', '219-07 MERRICK BOULEVARD', 1
+'Address', '333 JERICHO TURNPIKE SUITE333', 1
+'Address', '135-20 109TH AVENUE', 4
+'Address', '242 NEVINS ST', 2
+'Address', '33-37 103RD ST', 2
+'Address', '2822 BATCHELDER ST. UNIT 1A', 2
+'Address', '649 56TH STREET', 2
+'Address', '519 8TH AVENUE -7TH FLOOR', 2
+'Address', '1204 AVENUE U STE 1004', 2
+'Address', '89 HUNTER AVENUE, SUITE #3', 1
+'Address', '110-16 LIBERTY AVENUE, SUITE 201', 13
+'Address', '4366B VICTORY BLVD, 2ND FLOOR', 41
+'Address', '585 NORTH GANNON AVENUE', 13
+'Address', '809 STEWART AVE', 25
+'Address', '35-28TH 41ST STREET', 7
+'Address', '99 NEW DORP PLAZA', 5
+'Address', '12 ELMWOOD ROAD', 1
+'Address', '1202 AVENUE U , SUITE 1211', 3
+'Address', '5 PECKMAN ROAD', 2
+'Address', '148-05A HILLSIDE AVENUE', 2
+'Address', '242 W 30TH STREET, SUITE#1003', 1
+'Address', '67-01 54TH AVENUE', 1
+'Address', '240-21 BRADDOCK AVENUE', 5
+'Address', '14 TEHAMA ST', 2
+'Address', '8076 22ND STREET', 2
+'Address', '58-48 59TH STREET', 5
+'Address', '2383 MCDONALD AVE', 1
+'Address', '223 DYCKMAN STREET', 1
+'Address', '227 EAST 235 STREET', 2
+'Address', '78-19 MYRTLE AVENUE', 4
+'Address', '102-30 CORONA AVE', 3
+'Address', '5 COLT PLACE', 1
+'Address', '768 CONEY ISLAND AVE', 4
+'Address', '16 S. FRANKLIN STREET', 3
+'Address', '62 18TH ST', 1
+'Address', '169-12 HILLSIDE AVE 2ND FLOOR', 2
+'Address', '109-25 CORONA AVENUE', 3
+'Address', '24-39 44TH STREET', 1
+'Address', '19 EAST JEFFERSON AVENUE', 1
+'Address', '81 JERICHO TURNPIKE', 1
+'Address', '774 53 STREET 3R', 5
+'Address', '135 13TH STREET', 2
+'Address', '255 WEST 36TH SUITE #1005', 5
+'Address', '85-66 PARSONS BLVD 2ND FL', 4
+'Address', '670 MYRTLE AVENUE SUITE 370', 23
+'Address', '1305 HERSCHELL STREET', 5
+'Address', '5 WHITE STREET, 4B', 3
+'Address', '33 DONOR AVE', 8
+'Address', '247 WEST 37TH STREET,STE 1206', 5
+'Address', '1201 BROADWAY SUITE 708', 4
+'Address', '620 SHEEPSHEAD BAY STE 720', 1
+'Address', '1819 GILFORD AVENUE', 1
+'Address', '389 BROOME STREET', 1
+'Address', '105 BLOOMINGDALE ROAD', 1
+'Address', '189-51 44TH AVENUE', 7
+'Address', '2506 ATLANTIC AVENUE', 3
+'Address', '150 JAMES STREET STE 206', 3
+'Address', '693 EAST 132ND STREET', 1
+'Address', '51 NEWARK STREET, SUITE 500', 1
+'Address', '384 LAKE NESPESSING RD', 1
+'Address', '2818 WEST 17TH STREET, SUITE 9', 2
+'Address', '91 EAST MAIN STREET', 2
+'Address', '142 FAIRVIEW BLVD APT#2', 2
+'Address', '201 INGRAHAM STREET', 18
+'Address', '2070 DEER PARK AVENUE', 2
+'Address', '112-45 ROOSEVELT AVE, 2ND FL', 2
+'Address', '32 LINCOLN STREET', 5
+'Address', '47-33 157TH STREET', 3
+'Address', '26 DELAVAN ST', 55
+'Address', '1649 59 STREET', 9
+'Address', '545 MIDLAND AVENUE', 4
+'Address', '48-04 ASTORIA BLVD', 3
+'Address', '1450 37 STREET', 3
+'Address', '5 HANOVER SQUARE,FLOOR 22', 1
+'Address', '544 39TH STREET', 1
+'Address', '3021 AVENUE J', 1
+'Address', '2718 YOUNG AVE #1', 1
+'Address', '60 EAST 42ND ST,40FL STE#9E', 1
+'Address', '101 VICTORY BLVD', 1
+'Address', '58-60 57TH STREET', 12
+'Address', '2 WILSON PL', 1
+'Address', '2471 N JERUSALEM RD', 2
+'Address', '271 58TH STREET', 6
+'Address', '119-16 201ST PLACE', 7
+'Address', '30 GALESI DRIVE STE 202A', 7
+'Address', '6008 83RD STREET', 1
+'Address', '147 W. 35TH STREET, SUITE 311', 1
+'Address', '330A PERRY HIGHWAY', 4
+'Address', '34 WEST 27TH STREET STE 601', 1
+'Address', '33-70 PRINCE STREET STE 706', 7
+'Address', '134-03 35TH AVE', 5
+'Address', '197 COLUMBIA STREET', 2
+'Address', '16 WASHINGTON AVENUE', 8
+'Address', '45 WEST 34TH STREET STE#1107', 1
+'Address', '37-20 30TH STREET', 1
+'Address', '2561 LACONIA AVENUE', 1
+'Address', '751 BAYARD STREET', 3
+'Address', '18 EAST 50TH STREET', 2
+'Address', '288 EAST 8TH STREET', 1
+'Address', '219-07 MERRICK BLVD', 1
+'Address', '147 WEST 35TH STREET, SUITE 211', 1
+'Address', '90 APOLLO STREET 2ND FLR', 5
+'Address', '1449 EAST 58 STREET', 2
+'Address', '36 DUNBAR STREET', 1
+'Address', '3475 VICTORY BLVD', 4
+'Address', '103-16 LIBERTY AVE', 1
+'Address', '3700 RICHMOND AVENUE', 5
+'Address', '133 PLEASANT PLAINS AVE', 4
+'Address', '746 TAYLOR AVENUE', 5
+'Address', '1381 UTICA AVENUE', 18
+'Address', '1894 WASHINGTON AVENUE', 4
+'Address', '34-02 LAUREL HILL BLVD', 57
+'Address', '1624 WEBSTER AVENUE', 4
+'Address', '2800 WEBSTER AVENUE', 2
+'Address', '213 50TH STREETT', 6
+'Address', '1500 MACE AVE SUITE#15', 6
+'Address', '19-53 46TH STREET', 1
+'Address', '2057 FORD STREET', 1
+'Address', '487 EAST MAIN STREET STE #344', 2
+'Address', '147 ATTORNEY STREET', 2
+'Address', '122 15TH STREET', 1
+'Address', '55-10 37TH AVENUE', 1
+'Address', '595 BUSHWICK AVE', 1
+'Address', '1 HARMON PLAZA #1004', 5
+'Address', '84-45 103RD AVENUE', 17
+'Address', '405 LEXINGTON AVE., 28TH FL', 28
+'Address', '1800 BOSTON RD', 60
+'Address', '616 MIDLAND AVENUE, GROUND FL', 1
+'Address', '1375 CONEY ISLAND AVENUE', 5
+'Address', '47-04 108TH STREET.1ST FLOOR', 1
+'Address', '258-19 87TH AVE', 1
+'Address', '140 ORCHARD ST. SUITE #01', 2
+'Address', '34 ELIZABETH STREET', 1
+'Address', '25 OREGON ROAD', 1
+'Address', '147 23 15TH AVE', 1
+'Address', '19 MINTURN AVENUE', 11
+'Address', '60-31 60TH PLACE', 55
+'Address', '375 E.163RD ST', 11
+'Address', '3537 36TH STREET', 112
+'Address', '22-21 PARSONS BLVD 1ST FL', 2
+'Address', '164 FAIRVIEW AVENUE', 6
+'Address', '989 EAST 35TH STREET', 4
+'Address', '250 139TH STREET', 1
+'Address', '4391 BOSTON POST ROAD', 2
+'Address', '178-16 EVELETH ROAD', 2
+'Address', '305 HILLSIDE AVENUE', 1
+'Address', '136-14 63RD AVE', 2
+'Address', '48 WEST 38TH STREET 9TH FL', 5
+'Address', '35-12 19TH AVENUE, SUITE 2E', 2
+'Address', '53-28 11TH STREET', 53
+'Address', '1029 MCDONALD AVENUE', 3
+'Address', '1149 EAST 34TH STREET', 12
+'Address', '41 BOX ST SUITE 301', 2
+'Address', '175-17 68TH AVENUE', 2
+'Address', '15 LAWTON STREET, STE 48', 1
+'Address', '2383 MCDONALD AVENUE', 2
+'Address', '611 SPRINGFILED RD', 3
+'Address', '326 CANAL STREET', 2
+'Address', '294 GARRETSON AVENUE', 2
+'Address', '1433 BASSETT AVENUE SUITE 2A', 1
+'Address', '11812 101 AVENUE.1ST FLOOR', 177
+'Address', '4459 BRONX BOULEVARD', 3
+'Address', '289 MESEROLE ST, STE 201', 10
+'Address', '4111 18TH AVENUE', 5
+'Address', '211 EAST 43RD STREET STE 1400', 2
+'Address', '800 ANNADALE ROAD', 2
+'Address', '175 BLAKE AVENUE', 2
+'Address', '218 WEST LINCOLN AVE', 1
+'Address', '204 KILDARE ROAD', 2
+'Address', '87-64 110TH STREET', 2
+'Address', '130-19 180TH STREET', 1
+'Address', '11-20 131ST ST', 1
+'Address', '131 TEHAMA ST', 2
+'Address', '333 VANDERVOORT AVENUE', 1
+'Address', '199 LEE AVENUE #884', 1
+'Address', '1927 E 28TH ST', 11
+'Address', '5 YEOMALT AVE', 11
+'Address', '118 VICTORY ROAD APT. 129', 1
+'Address', '23-21 BQE WEST', 2
+'Address', '6060 69TH AVE APT #1F', 1
+'Address', '33-54 FARRINGTON ST SUITE 2C', 2
+'Address', '242 W.30TH STREET', 3
+'Address', '340 JACKSON AVENUE', 2
+'Address', '1222 AVENUE M', 1
+'Address', '62C RECTOR STREET', 1
+'Address', '15 WEST 19TH STREET', 1
+'Address', '163 FINLAY STREET', 12
+'Address', '213 ST NICHOLAS AVE 2L', 8
+'Address', '58-35 COLLEGE POINT BLVD', 2
+'Address', '320 ROEBLING ST #106', 1
+'Address', '142 AVENUE T', 1
+'Address', '94-37 113 STREET', 1
+'Address', '2658 EAST 28TH STREET', 1
+'Address', '1608 48TH STREET', 2
+'Address', '361 WEST 36TH STREET', 1
+'Address', '20 SAINT PAUL'S COURT, LB2', 1
+'Address', '8932 117TH STREET #A2', 10
+'Address', '641 LEXINGTON AVE', 1
+'Address', '32 WILLIAMS PARKWAY', 4
+'Address', '200 PARK AVENUE', 7
+'Address', '93-02 183RD STREET', 2
+'Address', '261 W 35TH STREET FL 10TH', 1
+'Address', '160 CHESTERFEILD INDUS BLVD', 4
+'Address', '464 LATHAM ROAD', 1
+'Address', '70 LAFAYETTE ST', 2
+'Address', '34-33 42ND STREET', 3
+'Address', '514 LAFAYETTE AVE', 1
+'Address', '53-10 74TH STREET', 1
+'Address', '717 WYNGATE DR W', 1
+'Address', '2890 REVIEW AVENUE', 1
+'Address', '191 DUPONT STREET', 2
+'Address', '134-22 32ND AVENUE', 1
+'Address', '41-33 38TH STREET', 265
+'Address', '118-01 ATLANTIC AVENUE', 4
+'Address', '117 SANDPIPER LANE UNIT 3A', 3
+'Address', '1215 2ND AVENUE', 1
+'Address', '98 CUTTERMILL RD, SUITE 475N', 1
+'Address', '224-17 MERRICK BLVD', 2
+'Address', '18 CHERRY BROOK PLACE SOUTH', 1
+'Address', '124-11 101 AVENUE', 1
+'Address', '247 W 35TH STREET SUITE 1101', 1
+'Address', '630 5TH AVE AVE SB 101', 2
+'Address', '8940 212TH PL', 1
+'Address', 'BEDFORD AVENUE', 2
+'Address', '35-46 32ND STREET', 1
+'Address', '118 WEST 18TH STREET', 1
+'Address', '8019 17TH AVENUE', 6
+'Address', '143-16 LABURNUM AVENUE', 4
+'Address', '3064 BUHRE AVENUE', 1
+'Address', '24 FIESTA DRIVE', 1
+'Address', '1521 W 6TH ST', 2
+'Address', '1063 ROUTE 22 EAST', 2
+'Address', '2839 VALENTINE AVENUE', 1
+'Address', '31 ELLIOT ROAD', 1
+'Address', '214-30 27TH AVENEUE', 3
+'Address', '203 WEST 90 STREET APT 1B', 1
+'Address', '2616 SKILLMAN AVENUE', 2
+'Address', '721 EAST 136TH STREET', 1
+'Address', '720 LEFFERTS AVENUE #3', 3
+'Address', '880 EAST 141 STREET', 1
+'Address', '240-60 68TH  AVENUE', 57
+'Address', '86-08 130TH STREET', 30
+'Address', '192 MORELAND STREET', 9
+'Address', '1261 MERRIAM AVENUE BSMNT', 1
+'Address', '121 TWEED BLVD', 7
+'Address', '345 CROOKED HILL ROAD #1', 1
+'Address', '1316 MOTOR PARKWAY', 3
+'Address', '32-27 41ST ST', 1
+'Address', '160-04 CROSSBAY BLVD #139', 53
+'Address', '440 SHARROTTS ROAD', 1
+'Address', '161 SUFFOLK STREET', 1
+'Address', '1234 CASTLETON AVENUE', 59
+'Address', '176 NORTH 9 STREET', 17
+'Address', '4601C 1ST AVENUE', 2
+'Address', '47-14 32ND PLACE', 9
+'Address', '63 FLUSHING AVENUE UNIT 257', 1
+'Address', '67-31 52ND RD', 4
+'Address', '47-35 27TH STREET', 1
+'Address', '734 S COLUMBUS AVE', 2
+'Address', '77-11 164TH STREET 2ND FLOOR', 14
+'Address', '36-05C COLLEGE POINT BLVD', 35
+'Address', '1 STONE RIDGE COURT', 90
+'Address', '179-15 HILLSIDE AVE', 3
+'Address', '217-04 NORTHERN BOULEVARD', 2
+'Address', '66 HIGHLAND AVENUE', 2
+'Address', '1828 HYLAN BLVD', 8
+'Address', '37 WEST END AVENUE,UNIT 2F', 1
+'Address', '22-15 HAZEN STREET', 2
+'Address', '263 ROUTE 25A', 5
+'Address', '1157 WILLIS AVE STE LL3', 2
+'Address', '956 56TH STREET', 10
+'Address', '1531 MCDONALD AVENUE APT 1F', 2
+'Address', '102-53 JAMAICA AVENUE', 3
+'Address', '280 WEST JAMAICA AVENUE', 3
+'Address', '2359 STILLWELL AVE', 2
+'Address', '75 VIRGINIA RD STE 400', 1
+'Address', '23-06 44TH DRIVE', 1
+'Address', '169 CLASSON AVENUE, 2ND FLR', 1
+'Address', '225 DELAWARE AVENUE', 6
+'Address', '154-05 BARCLAY AVENUE', 3
+'Address', '140 GREELEY AVENUE', 3
+'Address', '389 BROOME STREET, BOX # 2', 12
+'Address', '6415 58TH ROAD', 3
+'Address', '128-19 22ND AVENUE', 1
+'Address', '114-34 135TH AVENUE', 1
+'Address', '70 KAROL PLACE', 1
+'Address', '85-13 95TH AVEUNE', 1
+'Address', '460 MORGAN AVE', 6
+'Address', '39 POPLAR AVENUE', 1
+'Address', '2071 FLATBUSH AVENUE SUITE  44', 1
+'Address', '231 NORMAN STREET#206', 19
+'Address', '118 STRATTFORD ROAD', 11
+'Address', '33-70 PRINCE STREET, SUITE 706', 11
+'Address', '38 WEST 21ST STREET, 8TH FL', 27
+'Address', '2427 EAST 29TH STREET #2P', 2
+'Address', '237 W. 35TH ST SUITE 901', 4
+'Address', '186 CONSELYEA ST', 1
+'Address', '847 SHEPHERD AVENUE', 12
+'Address', '845 CASTLETON AVENUE', 1
+'Address', '1072 ATLANTIC AVE', 9
+'Address', '581 55 STREET', 1
+'Address', '700 ST. MARKS AVENUE', 6
+'Address', '36-51 BELL BLVD, SUITE 202', 1
+'Address', '130-11 116TH AVENUE', 2
+'Address', '270 SPARTA AVE.STE 104', 1
+'Address', '38-25 55TH STREET 1ST FLOOR', 1
+'Address', '185 MARCY AVENUE, SUITE 304', 18
+'Address', '167-25 ROCKAWAY BLVD', 24
+'Address', '254 FLATBUSH AVE', 1
+'Address', '147-20 75TH AVE', 14
+'Address', '160 WEST 71ST STREET', 2
+'Address', '58 BROWER AVE', 7
+'Address', '58-34 255TH ST', 3
+'Address', '405 VAN BRUNT STREET', 1
+'Address', '25417 38TH AVENUE', 1
+'Address', '549 63RD STREET', 29
+'Address', '76 ELMIRA AVENUE', 3
+'Address', '4322 18TH AVE', 3
+'Address', '27-28 THOMSON AVE STE 450', 2
+'Address', '294 VAN BRUNT STREET', 2
+'Address', '45 WEST 34TH STREET STE 1001', 4
+'Address', '202 EAST MAIN STREET STE 201', 2
+'Address', '176 GARFIELD AVENUE, STE 2', 1
+'Address', '32-33 111TH STREET', 1
+'Address', '855 ST. NICHOLAS AVENUE', 13
+'Address', '145-11 FERNDALE AVENUE', 8
+'Address', '110 FYCKE LANE', 93
+'Address', '127-16 14TH AVENUE', 15
+'Address', '79 BRIDGE STREET', 2
+'Address', '130-26 144TH STREET, 2ND FL', 2
+'Address', '450 MEACHAM.AVE', 1
+'Address', '28 JOHNSON DRIVE', 1
+'Address', '201 BRIGHTON 1ST ROAD, #2A', 1
+'Address', '49-30 31ST PLACE', 479
+'Address', '130-47 121ST STREET', 15
+'Address', '1869 WHITE PLAINS ROAD', 9
+'Address', '78 DEERPATH STREET', 2
+'Address', '204 ASTORIA BLVD.SUITE 2H', 1
+'Address', '11 FERRY ST', 6
+'Address', '199 JERICHO TURNPIKE STE 303', 5
+'Address', '6016 15TH AVE', 1
+'Address', '1606 RICHMOND AVE', 3
+'Address', '59-21 56TH STREET', 3
+'Address', '2548 WEST 13TH STREET', 7
+'Address', '1927 RICHMOND TERRACE', 1
+'Address', '35 WEST 31ST STREET,STE 1002', 1
+'Address', '1150 LONGWOOD AVE', 652
+'Address', '337 KIMBALL AVENUE', 70
+'Address', '211 EAST 123RD STREET', 13
+'Address', '122-17 18TH AVENUE', 13
+'Address', '129-09 26 AVE #303B', 3
+'Address', '140-19 MULBERRY AVE', 4
+'Address', '142 MINEOLA AVE', 1
+'Address', '250 LORRAINE STREET 2ND FLR', 1
+'Address', '571 EAST NEW YORK AVE. STE A', 2
+'Address', '25 SHERDAN AVE', 2
+'Address', '5510 13TH AVE APT 1A', 1
+'Address', '41-12 34TH AVENUE 1ST FLOOR', 1
+'Address', '245 EAST 80TH STREET STE #1B', 1
+'Address', '86-88 HAUSMAN STREET', 139
+'Address', '575 LEXINGTON AVENUE 18TH FL', 2
+'Address', '4394 VICTORY BLVD 2ND FL STE#2', 2
+'Address', '43-10 MAIN STREET, 2ND FLOOR', 1
+'Address', '134 HERRICKS ROAD', 2
+'Address', '338 SCHOLES STREET', 6
+'Address', '1412 AVENUE M', 1
+'Address', '56 FARREL STREET', 1
+'Address', '155 WATER ST', 1
+'Address', '135-51 LEFFERTS BLVD APT. 1', 2
+'Address', '1562 PACIFIC STREET', 6
+'Address', '15-25 132ND STREET', 19
+'Address', '3441 KINGSBRIDGE AVE', 2
+'Address', '36-20 164TH STREET SUITE 102', 5
+'Address', '601 HAMBURG TURNPIKE, STE.300', 4
+'Address', '58-41 63RD STREET', 2
+'Address', '27 EAST 33RD STREET', 59
+'Address', '829 E 15TH STREET', 5
+'Address', '325 WEST 37TH. STREET', 19
+'Address', '109-51 134TH STREET', 1
+'Address', '14 WALL STREET, 20TH FL', 1
+'Address', '3533 83RD STREET, D6', 1
+'Address', '3746 93RD STREET 2ND FLOOR', 1
+'Address', '1623 HEWLETT AVENUE', 2
+'Address', '256 MANHATTAN AVENUE, STE. B', 2
+'Address', '826 BROADWAY 11TH FL', 1
+'Address', '56-32 59TH STREET', 1
+'Address', '161-11 29TH AVENUE', 1
+'Address', '39-39 29TH STREET', 1
+'Address', '4459 BRONX BLVD', 4
+'Address', '1070 38TH STREET', 7
+'Address', '6 DOWNES AVE', 3
+'Address', '229 GIFFORDS LN', 2
+'Address', '40-18 BERRIAN BLVD', 8
+'Address', '99 TULIP AVENUE SUITE 203', 3
+'Address', '59-41 LINDEN STREET', 1
+'Address', '55 NORTH 10TH STREET', 4
+'Address', '430 PARK AVE', 7
+'Address', '116 ASH STREET', 1
+'Address', '33 OAKDALE AVENUE', 2
+'Address', '36-22A FRANCIS LEWIS BLVD, #201', 1
+'Address', '1 POLICE PLAZA ROOM 1406', 1
+'Address', '1721 BATH AVENUE', 4
+'Address', '2950 BAINBRIDGE AVE STE 4A', 2
+'Address', '1747 STARR STREET', 1
+'Address', '633 3RD AVENUE', 34
+'Address', '368 OCEAN AVE', 1
+'Address', '1357 HUGUENOT AVENUE', 1
+'Address', '125 WEST 30TH STREET, SUITE B', 1
+'Address', '1685 BOONE AVENUE', 5
+'Address', '2589 RICHMOND', 1
+'Address', '561 EMERSON STREET', 1
+'Address', '201 46TH STREET 1ST FL', 15
+'Address', '406 SHORE ROAD', 7
+'Address', '28-13 23RD AVENUE', 7
+'Address', '36-05C COLLEGE POINT BLVD 1ST FL', 4
+'Address', '230 EAST 3RD STREET', 5
+'Address', '37 NORTHERN BLVD', 3
+'Address', '114-08 LEFFERTS BLVD', 1
+'Address', '147 WATKINS STREET', 1
+'Address', '3719 55 STREET', 1
+'Address', '1026 BROADWAY.#12', 1
+'Address', '150-17 84TH AVENUE', 1
+'Address', '23 CLOVERDALE DRIVE', 1
+'Address', '6 SUMMIT PLACE', 1
+'Address', '333 WEST 52ND ST., SUITE 1003', 2
+'Address', '90 JOHN ST SUITE 405', 1
+'Address', '1833 BATHGATE AVENUE', 4
+'Address', '1037 HERKIMER STREET', 2
+'Address', '35-28 41ST STREET', 2
+'Address', '260 PARK AVENUE', 2
+'Address', '91 CRESCENT BEACH ROAD', 1
+'Address', '813 BERGEN STREET 2ND FLOOR', 3
+'Address', '3811 13TH AVE', 2
+'Address', '385 WEST JOHN STREET', 1
+'Address', '185-08 UNION TPKE STE 106', 7
+'Address', '2337 MCDONALD AVENUE', 2
+'Address', '800 SOUTH COLUMBUS AVE', 1
+'Address', '133 MAIN STREET', 1
+'Address', '281 ADA DRIVE', 1
+'Address', '259 NEWBRUNSWICK AVENUE', 3
+'Address', '2343 HYLAN BLVD 2ND FL SUITE #', 28
+'Address', '135-42 129TH STREET', 29
+'Address', '14 ROSWELL AVENUE', 3
+'Address', '167-17 NORTHERN BLVD', 8
+'Address', '80 8TH AVENUE,SUITE 1010', 1
+'Address', '36-14 11TH STREET', 7
+'Address', '25 BROADWAY 9TH FLOOR', 1
+'Address', '155 3RD STREET', 19
+'Address', '699 PROSPECT PLACE', 1
+'Address', '38-68 11TH STREET', 34
+'Address', '2412 WESTCHESTER AVENUE', 2
+'Address', '9-11 118TH STREET', 2
+'Address', '367 OTIS AVE', 2
+'Address', '35-01 DITMARS BLVD', 2
+'Address', '120 NORTHERN BLVD', 1
+'Address', '93-24 123RD ST 2ND FL', 3
+'Address', '21-10 23RD STREET', 1
+'Address', '8 DIANE COURT', 1
+'Address', '37-36 75TH ST', 1
+'Address', '48-24 42ND STREET', 2
+'Address', '117 WEST 28TH STREET', 4
+'Address', '3 BOHNERT PLACE', 2
+'Address', '4770 WHITE PLAINS ROAD', 1
+'Address', '89-29 191ST STREET', 1
+'Address', '708 SHARROTTS ROAD', 1
+'Address', '14-05 117TH STREET', 8
+'Address', '33 WASHINGTON AVE', 8
+'Address', '339 JEFFERSON ROAD', 2
+'Address', '60 BARNEGAT ROAD', 1
+'Address', '480 82ND STREET', 4
+'Address', '69 FIELDS LANE', 2
+'Address', '767 THIRD AVENUE, 33RD FLOOR', 2
+'Address', '321 EAST 87TH STREET', 3
+'Address', '153 EAST 57TH ST 4D', 1
+'Address', '691 LINDEN BLVD STE 5A', 3
+'Address', '531 75TH ST', 1
+'Address', '49-01 GRAND AVE', 3
+'Address', '902 BROADWAY 7TH FLOOR', 1
+'Address', '118 DUNCAN ST', 2
+'Address', '671 W BROADWAY', 1
+'Address', '360 TARGEE STREET', 1
+'Address', '1629 BATH AVE 1ST FLOOR', 6
+'Address', '8907 118 STREET', 10
+'Address', '45 MAIN ST', 5
+'Address', '37-14 61ST STREET', 5
+'Address', '181 COIT STREET', 131
+'Address', '220-29 HEMPSTEAD AVENUE', 4
+'Address', '2220 65TH STREET, SUITE 136', 5
+'Address', '70 LAFAYETTE STREET 4TH FLR', 10
+'Address', '1874 CLOVE RD', 1
+'Address', '100 COMAC ST', 1
+'Address', '30 PARK AVE #PH-A', 5
+'Address', '5 CATHEDRAL CT', 1
+'Address', '2565 EAST 11TH ST', 1
+'Address', '51 WINANT PLACE', 11
+'Address', '99-21 204 STREET', 16
+'Address', '28-10 21ST AVENUE', 3
+'Address', '2043 ELLIS AVENUE', 1
+'Address', 'None', 0
+'Address', '517 DEGRAW STREET, SUITE A', 2
+'Address', '237 46TH ST', 6
+'Address', '9525 114 STREET 1ST FLOOR', 25
+'Address', '2250 2ND AVE', 2
+'Address', '67-23 FRESH MEADOW LN', 9
+'Address', '569 HALSEY STREET', 3
+'Address', '96 COALE AVENUE', 1
+'Address', '64-70 MAURICE AVENUE', 2
+'Address', '147-37 2OTH RD', 1
+'Address', '544 E 171 STREET', 4
+'Address', '1375 E 7TH STREET', 1
+'Address', '183 WILSON STREET, SUITE 488', 3
+'Address', '7 JACKSON WALKWAY', 1
+'Address', '1065 AVENUE OF AMERICAS-7TH FL', 4
+'Address', '136-16 32ND AVENUE', 1
+'Address', '43-01 37TH STRET', 1
+'Address', '408 EAST 175TH STREET', 1
+'Address', '5971 MARION RD', 1
+'Address', '9033 212TH PLACE', 1
+'Address', '23-30 50TH AVENUE', 2
+'Address', '7378 AMBOY ROAD', 1
+'Address', '3333 NEW HYDE PARK ROAD,STE200', 10
+'Address', '633 BRITTON AVE', 14
+'Address', '2362 NOSTRAND AVENUE APT. 1', 7
+'Address', '60 BAYARD STREET', 33
+'Address', '6510 7TH AVENUE', 9
+'Address', '31 SOUTH STREET, STE 2N-4', 2
+'Address', '100 HULL AVENUE', 13
+'Address', '1549 EAST 32ND STREET', 9
+'Address', '14-57 110TH STREET', 1
+'Address', '12055 131ST STREET 1F', 1
+'Address', '12 OLD BRIDGE RD', 3
+'Address', '599 PRESCOTT PLACE', 1
+'Address', '1117 38TH STREET', 3
+'Address', '260 MADISON AVE SUITE 204', 3
+'Address', '3112 45TH STREET', 2
+'Address', '9 MARTHA LANE', 4
+'Address', '48-52 CLEARVIEW EXPY', 2
+'Address', '12-15 37TH AVENUE', 4
+'Address', '12 BAY 49TH ST', 1
+'Address', '280 E 134TH STREET APT 3M', 41
+'Address', '535 8TH AVENUE, 12TH FLOOR', 6
+'Address', '3720 13TH AVENUE', 1
+'Address', '2114 ARTHUR AVENUE', 3
+'Address', '101 PARK AVENUE- BSMT LEVEL', 1
+'Address', '39 DESIBIO PLACE', 1
+'Address', '53 S. JEFFERSON ROAD STE M', 1
+'Address', '1682 ST. JOHNS AVENUE', 4
+'Address', '253-11 CULLMAN AVENUE', 2
+'Address', '1318 48TH STREET', 2
+'Address', '247 WEST 37TH STREET', 1
+'Address', '200 E 89TH STREET #22C', 2
+'Address', '35-37 36TH STREET 6TH FLOOR', 4
+'Address', '110-01 101ST AVENUE', 65
+'Address', '110 WEST 40TH STREET ST 1201', 2
+'Address', '139-19 109TH AVENUE', 3
+'Address', '5308 13TH AVENUE, #527', 6
+'Address', '1140 BROADWAY 6TH FL', 1
+'Address', '2127 OAKWOOD PLACE', 2
+'Address', '76-22 30TH AVENUE', 2
+'Address', '49 WEST 27TH STREET, 10TH FL', 1
+'Address', '149-15 22ND AVENUE', 15
+'Address', '117 MAYBROOK ROAD', 1
+'Address', '2130 72ND STREET FLOOR 1', 2
+'Address', '1159 E 13TH STREET', 2
+'Address', '1409 RICHMOND AVE', 4
+'Address', '148-23 94TH AVENUE', 7
+'Address', '182-11 UNION TURNPIKE', 1
+'Address', '139-06 101 AVENUE', 1
+'Address', '157 AVE O STE 2', 1
+'Address', '14-08 31ST. AVENUE, SUITE 1', 5
+'Address', '201-01 28TH AVENUE', 1
+'Address', '157 BAY TERRACE', 1
+'Address', '66 ORCHARD STREET', 1
+'Address', '1373 LINCOLN AVENUE', 28
+'Address', '7220 AMBOY ROAD', 1
+'Address', '172 JEFFERSON STREET APT B', 1
+'Address', '110-32A 15TH. AVENUE', 156
+'Address', '35 KALLAS COURT', 9
+'Address', '9219 101 STREET', 155
+'Address', '305 E 37TH STREET', 13
+'Address', '180 COLONIAL PARKWAY NORTH', 1
+'Address', '59-15 174 TH ST. 3RD FLOOR', 1
+'Address', '11343 39TH STREET NORTH', 1
+'Address', '585 BICYCLE PATH STE 12', 1
+'Address', '128-10 111TH AVE', 6
+'Address', '155 FIRST STREET SUITE 103', 1
+'Address', '207 OCEAN PARKWAY STE 5E', 2
+'Address', '2860 RICHMOND TERRACE', 1
+'Address', '18-33 41ST STREET', 3
+'Address', '27 WILDWOOD DRIVE', 1
+'Address', '68 CONWAY STREET', 97
+'Address', '119 MT.VERNON STE 2E', 547
+'Address', '448 79TH ST', 1
+'Address', '37 JOSEPHINE STREET', 5
+'Address', '104-35 205TH PLACE', 18
+'Address', '368 PETER AVENUE', 4
+'Address', '1303 53RD STREET SUITE 193', 11
+'Address', '12-05 149TH STREET', 1
+'Address', '35 WINDSOR COURT', 1
+'Address', '191 DOUGLASS STREET', 2
+'Address', '84-11 21 AVE #D6', 1
+'Address', '509 OGORMAN AVENUE', 1
+'Address', '17 STRINGHAM AVENUE', 1
+'Address', '45 HEINZ AVENUE', 1
+'Address', '886 LINCOLN PLACE', 3
+'Address', '1414 65TH STREET', 2
+'Address', '36-52 37TH STREET', 1
+'Address', '2635 ROBERTS AVENUE', 3
+'Address', '121 EAST 31ST STREETM STE 1B2', 1
+'Address', '31 W 34TH ST SUITE 1004', 1
+'Address', '2002 MCDONALD AVENUE 2ND FLOOR', 2
+'Address', '37-20 12 STREET', 24
+'Address', '24-34 45TH STREET', 10
+'Address', '57-41 58TH ST', 4
+'Address', '43-01 21ST STREET, SUITE 201A', 6
+'Address', '2402 86TH STREET', 9
+'Address', '579 CALEDONIA ROAD', 1
+'Address', '100 SUTTON STREET', 4
+'Address', '178 INDUSTRIAL LOOP', 1
+'Address', '1152 ST. JOHN PLACE', 2
+'Address', '106 W 32ND ST 2FL', 1
+'Address', '1274 49TH STREET STE 324', 3
+'Address', '9999 E EXPLORATION CT', 2
+'Address', '60 RAYNOR AVENUE', 1
+'Address', '63-29A DOUGLASTON PKWY', 1
+'Address', '19237 UNDERHILL AVE', 8
+'Address', '36-17 BUD PLACE', 2
+'Address', '1169 HARDSCRABLE ROAD', 4
+'Address', '515 FRANKLIN AVENUE', 1
+'Address', '134 MARTENS AVE SUITE 101', 3
+'Address', '3537 36TH STREET 2ND FLOOR', 2
+'Address', '3080 ARTHUR KILL ROAD', 1
+'Address', '5006 3RD AVENUE 1ST FLOOR', 2
+'Address', '99 MADISON AVENUE STE 520', 10
+'Address', '465 OCEAN PARKWAY #2C', 1
+'Address', '4333 41ST STREET 1A', 1
+'Address', '60-54 METROPOLITAN AVENUE', 1
+'Address', '1328 NEW YORK AVE', 3
+'Address', '30-07 43RD STREET', 2
+'Address', '5102 AVENUE N', 1
+'Address', '120-05 ATLANTIC AVENUE STE 2', 146
+'Address', '59 W. 28TH ST. 2ND FLOOR', 68
+'Address', '64-54 MAURICE AVENUE', 1
+'Address', '195 BUSH STREET', 31
+'Address', '715 SHARROTS RD', 16
+'Address', '127-04 133 AVENUE', 10
+'Address', '400 CROSSWAYS PARK DRIVE #102', 3
+'Address', '2515 HONE AVE', 3
+'Address', '261-11 83RD AVENUE', 3
+'Address', '79 MADISON AVENUE STE 628', 1
+'Address', '3444 BAILEY AVENUE', 3
+'Address', '34-55 11TH STREET', 6
+'Address', '36 BRUCKNER BLVD', 3
+'Address', '380 LEXINGTON AVE, 53RD FLOOR', 1
+'Address', '145-33 228TH STREET', 3
+'Address', '35-12 FARRINGTON STREET ND FL', 1
+'Address', '226 DEGRAW STREET', 1
+'Address', '155 PARK AVENUE', 1
+'Address', '8884 138TH STREET', 1
+'Address', '94 DAVIDSON STREET', 6
+'Address', '1734 FLATBUSH AVENUE', 3
+'Address', '66-00 LONG ISLAND EXPRESSWAY', 18
+'Address', '589 EAST 56TH STREET', 5
+'Address', '2765 WEST 5 STREET 10G', 3
+'Address', '255 52ND STREET', 4
+'Address', '186 NUGENT STREET', 2
+'Address', '60-43 MASPETH AVENUE', 1
+'Address', '372 LAUREL ROAD', 1
+'Address', '125-20 18TH AVENUE', 1
+'Address', '40 BAYVIEW ROAD', 1
+'Address', '2167 CROSS BRONX EXPRESSWAY', 10
+'Address', '15 DANIEL ROAD EAST', 10
+'Address', '55 COMMERCIAL STREET', 2
+'Address', '433 CASTLETON AVE', 3
+'Address', '1111 ROUTE 110 UNIT 353', 5
+'Address', '86-41 254TH STREET', 1
+'Address', '457 WASHINGTON STREET, 2ND FL', 1
+'Address', '1234 36TH STREET', 2
+'Address', '582 19TH STREET', 1
+'Address', '1151 ASTOR AVENUE', 1
+'Address', '18-24 42ND STREET', 2
+'Address', '35-04 203RD STREET', 2
+'Address', '2148 21ST STREET', 1
+'Address', '2251 SCHENECTADY AVENUE', 14
+'Address', '3920 MAIN STREET SUITE 207', 2
+'Address', '37 CUMBERLAND STREET', 1
+'Address', '214 CENTRAL AVE. #5C', 6
+'Address', '77 CUTTERMILL ROAD', 3
+'Address', '2719 FULTON STREET', 4
+'Address', '6-27 151ST STREET', 3
+'Address', '307 7TH AVENUE AUITE 404', 1
+'Address', '4 POST COURT', 2
+'Address', '62 FULTON STREET', 3
+'Address', '35-47 31ST STREET', 1
+'Address', '6513 FRESH POND RD', 1
+'Address', '335 THROOP AVE., STE #8 BSMT', 1
+'Address', '139 TOLEDO STREET', 1
+'Address', '138A DWIGHT ST', 1
+'Address', '355 LEXINGTON AVENUE #17', 2
+'Address', '26 OAK ROAD', 4
+'Address', '168 SHERIDEN AVE', 2
+'Address', '105 CENTRAL AVENUE', 2
+'Address', '7 WHITWELL PL', 4
+'Address', '200 PARK AVE', 5
+'Address', '18-50 STEINWAY ST', 6
+'Address', '56-10 NURGE AVENUE', 1
+'Address', '2955 VETERANS ROAD WEST', 5
+'Address', '130-29 129TH STREET', 1
+'Address', '2115 ASTORIA BLVD', 4
+'Address', '3004 AVENUE L', 12
+'Address', '140-37 CHERRY AVE, SUITE CA', 15
+'Address', '620 R OAKWOOD AVENUE', 16
+'Address', '162 E 7TH STREET 1H', 1
+'Address', '131 WEST 35TH STREET, 8TH FL', 1
+'Address', '283 ROUNDHILL DRIVE', 2
+'Address', '2915 THROOP AVE', 1
+'Address', '127 WEST 26TH STREET STE 401', 1
+'Address', '17 DEMAREST DR', 4
+'Address', '364 DEGRAW STREET', 1
+'Address', '23-30 32ND STREET', 1
+'Address', '14 WALL STREET 2ND FLOOR', 1
+'Address', '70-30 80TH STREET, UNIT 36', 16
+'Address', '379 FIFTH AVENUE 4TH FLOOR', 53
+'Address', '27 MAIN STREET', 19
+'Address', '135 MILLET STREET N', 6
+'Address', '36 FINLAY STREET', 8
+'Address', '1940 MCDONALD AVE', 31
+'Address', '15009 24TH AVENUE FL 1', 1
+'Address', '501 HALF HOLLOW RD', 8
+'Address', '5308 13TH AVENUE, SUITE 325', 2
+'Address', '1501 BROADWAY, SUITE 501', 13
+'Address', '246 WEST 38TH STREET STE#1103', 5
+'Address', '83 HAMPTON PLACE', 1
+'Address', '2071 FLATBUSH AVE SUITE 46', 26
+'Address', '4400 SECOND AVENUE', 1
+'Address', '10 YELLOWSTONE AVENUE', 14
+'Address', '487 FURROWS ROAD', 1
+'Address', '1010 41 STREET', 1
+'Address', '73 DEWEY STREET', 1
+'Address', '129-09 26TH AVENUE SUITE #102', 2
+'Address', '179 CLEVELAND AVENUE', 2
+'Address', '638 50TH STREET.1ST FLOOR', 1
+'Address', '59-06 LAUREL HILL BLVD', 2
+'Address', '81-11 TRYON PLACE', 2
+'Address', '107-63 121 STREET', 2
+'Address', '60-22 FLUSHING AVE', 1
+'Address', '860 HUMBOLDT STREET', 1
+'Address', '267 CORTLANDT STREET', 1
+'Address', '268 S HARRISON AVE', 18
+'Address', '3 TEVERYA WAY #301', 17
+'Address', '28 CLINTON PLACE', 1
+'Address', '112 KEYLAND COURT', 4
+'Address', '280 N MIDLAND AVENUE', 13
+'Address', '90-22 176TH STREET', 4
+'Address', '99-06 METROPOLITAN AVE, FL 2', 5
+'Address', '139-50 35TH AVE, 1A', 1
+'Address', '757 48TH ST', 2
+'Address', '22 NORTH TYSON AVENUE 2ND FL', 1
+'Address', '75 ECKFORD STREET', 1
+'Address', '184 GLENMORE AVENUE', 1
+'Address', '46 RUGBY ROAD', 3
+'Address', '131 STORER AVENUE', 2
+'Address', '42-19 GLEANE STREET', 22
+'Address', '15 OCEAN AVENUE', 8
+'Address', '232 MORNINGSTAR ROAD', 1
+'Address', '151 28 ST 2ND FL', 3
+'Address', '323 EAST 65TH STREET', 1
+'Address', '5 PENN PLAZA, 19TH FLOOR', 1
+'Address', '6414 11TH AVENUE', 2
+'Address', '429 THROOP AVENUE SUITE 306', 1
+'Address', '70-62 KISSENA BLVD, #3F', 3
+'Address', '2498 ARTHUR AVENUE', 1
+'Address', '150 MRYTLE AVENUE SUITE2', 1
+'Address', '420-C EAST 111TH STREET,GR FL', 1
+'Address', '167-17 NORTHERN BOULEVARD', 2
+'Address', '23-83 38TH STREET', 1
+'Address', '260 PULASKI AVENUE', 5
+'Address', '65 VESTRY STREET', 5
+'Address', '12-19 37TH AVENUE', 2
+'Address', '155 WEST 231ST STREET', 3
+'Address', '7448 AMBOY ROAD', 5
+'Address', '5917 146TH STREET FLOOR 2', 7
+'Address', '974 45TH STREET B4', 3
+'Address', '330 W 34TH STREET', 1
+'Address', '670 MYRTLE AVENUE #379', 7
+'Address', '1531 STILLWELL AVENUE', 1
+'Address', '203-14 48TH AVENUE', 1
+'Address', '688 COURT STREET,', 1
+'Address', '252 JAVA STREET, STE 203', 16
+'Address', '2395 WASHINGTON AVENUE', 1
+'Address', '16 SHENANDOAH AVE STE#1', 2
+'Address', '155 EAST 55TH STREET, STE 304', 2
+'Address', '576 FIFTH AVE STE 903', 5
+'Address', '38-60 REVIEW AVE', 9
+'Address', '119-14 14TH ROAD', 4
+'Address', '555 FIFTH AVENUE', 4
+'Address', '673 SHELDON AVENUE', 1
+'Address', '25 W 31 STREET 9TH FL', 1
+'Address', '18 VANDERBILT AVENUE', 13
+'Address', '211 EAST 43RD STREET 21ST FL', 8
+'Address', '130-26 ATLANTIC AVE 3RD FL', 11
+'Address', '1105 BAY 24TH STREET', 1
+'Address', '48-44 CLEARVIEW EXPRESSWAY', 1
+'Address', '20-35 STEINWAY STREET', 3
+'Address', '185 MARCY AVENUE SUITE 300', 1
+'Address', '432 SLEIGHT AVENUE', 6
+'Address', '17 KEARNY ST', 1
+'Address', '142 38 37TH AVENUE #1F', 10
+'Address', '99 WALL STREET, SUITE 417', 1
+'Address', '9008 2ND AVE', 3
+'Address', '2 ELIZABETH LANE', 1
+'Address', '62-27 84TH STREET #B44', 3
+'Address', '10-40 BORDEN AVE', 1
+'Address', '35 ALLEN STREET 2ND FLOOR', 4
+'Address', '27 SATMAR DRIVE UNIT 301', 24
+'Address', '71 INGRAHAM STREET', 7
+'Address', '5912 57TH STREET', 10
+'Address', '320 EAST 109 STREET STE 1', 10
+'Address', '7 COLITA COURT', 12
+'Address', '176 FRANKLIN STREET', 5
+'Address', '600 ELLSWORTH AVENUE', 5
+'Address', '144 EAST 44TH STREET STE 101', 6
+'Address', '600 RICHMOND TERRACE', 1
+'Address', '44 WEST 28TH STREET, 11TH FL', 11
+'Address', '85-51 164TH STREET', 4
+'Address', '1501 BROADWAY SUITE 704', 2
+'Address', '15 WEST 36TH ST 16TH FLOOR', 1
+'Address', '111-23 157TH STREET', 1
+'Address', '317 REMSEN AVE', 1
+'Address', '140 EAST 46TH STREET APT 8A', 1
+'Address', '894 6TH AVE., 4TH FL', 5
+'Address', '7216 7TH AVENUE', 1
+'Address', '38-08 43RD AVENUE', 1
+'Address', '6404 14TH AVENUE', 2
+'Address', '356 ARLINGTON AVENUE', 6
+'Address', '391 BUCHANAN AVENUE', 2
+'Address', '42-02 ASTORIA BLVD', 4
+'Address', '1223 39TH STREET', 2
+'Address', '353 WEST 48TH ST, 4TH FLOOR', 4
+'Address', '66 SOUTH 11 SUITE 09', 11
+'Address', '576 WILLOWBY AVENUE', 1
+'Address', '108-08 52ND AVENUE 2ND FLOOR', 4
+'Address', '5720 KISSENA BLVD', 4
+'Address', '195 RIVERDALE AVE', 1
+'Address', '35-44 34TH STREET UNIT 4A', 1
+'Address', '4717 1ST AVENUE', 4
+'Address', '135-06 FOCH BLVD', 2
+'Address', '1767 CENTRAL PARK AVENUE #25', 1
+'Address', '35 SOUTH DRIVE', 1
+'Address', '36-35 BELL BLVD', 2
+'Address', '2237 WEBSTER AVENUE', 2
+'Address', '115 WEST 30TH ST-STE 1110A', 1
+'Address', '1573 73RD STREET', 1
+'Address', '20 ROMANELLI AVE', 28
+'Address', '335 E 6TH ST', 3
+'Address', '2727 CONEY ISLAND AVENUE', 1
+'Address', '160 GOFF AVENUE', 1
+'Address', '804 JERICHO TPKE', 1
+'Address', '444 HORTON HIGHWAY', 2
+'Address', '30 LINCOLN CENTER', 1
+'Address', '22 COLT COURT', 1
+'Address', '10532 191ST STREET', 1
+'Address', '147-26 ROOSEVELT AVE #2C', 27
+'Address', '123-14 JAMAICA AVENUE', 20
+'Address', '1209 DEKALB AVE', 9
+'Address', '15 E UWCHLAN AVENUE STE 404', 4
+'Address', '307 SEVENTH AVENUE', 9
+'Address', '38-17 111TH ST', 2
+'Address', '1043 ANNADALE ROAD', 1
+'Address', '354 LAKE STREET', 2
+'Address', '2498 65TH STREET,1ST FLOOR', 3
+'Address', '612 79TH STREET', 1
+'Address', '1816 127TH ST FL 2', 18
+'Address', '20 GANSEVOORT BLVD', 10
+'Address', '133B SUTTON STREET', 37
+'Address', '167-25 ROCKAWAY BOULEVARD', 49
+'Address', '69 WESLEY STREET', 6
+'Address', '281 STERLING PLACE APT 3', 1
+'Address', '127-15 102ND ROAD', 2
+'Address', '83 JEWETT AVE', 10
+'Address', '524 MCDONALD AVE', 4
+'Address', '151 LOGAN AVENUE', 1
+'Address', '45-10 VERNON BLVD', 1
+'Address', '499 VAN BRUNT STREET 8A', 1
+'Address', '1309 E 69TH STREET APT#2', 1
+'Address', '79 BRIDGE STREET,LOWER LEVEL', 2
+'Address', '29-10 120TH STREET', 1
+'Address', '1144 WHITE PLAINS ROAD APT A', 4
+'Address', '191 NEWEL ST', 1
+'Address', '2468 NORTH JERUSALEM AVENUE', 6
+'Address', '145-88 176TH STREET 1ST FLOOR', 76
+'Address', '2500 WESTCHESTER AVE STE 109', 32
+'Address', '14-24 118 STREET', 1
+'Address', '136 NORTH 10TH STREET 2ND FLO', 2
+'Address', '1920 AVENUE W', 9
+'Address', '89-51 70TH RD', 2
+'Address', '467 KEAP STREET STE 1A', 5
+'Address', '149-33 ROOSEVELT AVENUE', 4
+'Address', '51 WINDSOR AVE', 3
+'Address', '1279 E 102 ST', 2
+'Address', '121-09 107TH AVE', 2
+'Address', '1954 SCHOOL STREET', 1
+'Address', '676 SAW MILL RIVER ROAD', 3
+'Address', '990 ARNOW AVENUE', 1
+'Address', '540 BROADWAY, 4TH FLOOR', 1
+'Address', '553 LINCOLN AVENUE', 3
+'Address', '50-25 65TH PLACE', 1
+'Address', '1641 EAST 19 STREET', 1
+'Address', '802 JAMAICA AVENUE', 1
+'Address', '625 RXR PLAZA', 8
+'Address', '1109 METROPOLITAN AVE', 9
+'Address', '38-26 10 STREET', 3
+'Address', '41 BOX STREET', 6
+'Address', '557 ROUTE 23 SOUTH', 1
+'Address', '79-01 QUEENS BLVD UNIT C', 1
+'Address', '670 MYRTLE AVENUE #388', 8
+'Address', '9221 DITMAS AVE', 1
+'Address', '76 MOTT STREET, 2ND FLOOR', 2
+'Address', '2309 MICKLE AVENUE', 1
+'Address', '160-17 79TH AVE', 1
+'Address', '5314 16TH AVENUE PMB 441', 1
+'Address', '9721 118 STREET', 1
+'Address', '1735 WEST FARMS ROAD', 2
+'Address', '75-01 31ST AVENUE', 2
+'Address', '30 EAST 33RD STREET 11TH FL', 1
+'Address', '11 FERNDALE AVENUE', 10
+'Address', '84-16 253RD STREET', 13
+'Address', '211-04 39TH AVENUE', 146
+'Address', '2 ALLEN STREET, SUITE 4H', 8
+'Address', '1427 BROADWAY', 2
+'Address', '29 BEACH ROAD', 4
+'Address', '196 JACQUES AVENUE', 3
+'Address', '3426 29TH STREET 1ST FLOOR', 1
+'Address', '1669 EAST NEW YORK AVENUE', 2
+'Address', '48 LAKE STREET', 1
+'Address', '2020 GREENE STREET APT 2R', 1
+'Address', '2074 RICHMOND TERRACE', 1
+'Address', '115-11 174TH STREET', 1
+'Address', '630 9TH AVENUE 5TH FLOOR', 1
+'Address', '5605 184TH STREET', 24
+'Address', '194 MORNINGSTAR RD', 1
+'Address', '1736 55TH STREET', 2
+'Address', '763 CONEY ISLAND AVENUE', 1
+'Address', '163 BRAISTED AVE', 2
+'Address', '23 ROCKLAND AVE', 1
+'Address', '89 LEUNING ST', 3
+'Address', '3 COLONIAL ROAD', 2
+'Address', '279 PROSPECT AVEUNE #5C', 1
+'Address', '492 CITY ISLAND AVENUE', 1
+'Address', '141 BEARD STREET BLDG 12B', 1
+'Address', '87-23 144TH STREET', 4
+'Address', '75-14 68TH AVENUE', 7
+'Address', '190-22 39TH AVENUE', 4
+'Address', '36-22A FRANCIS LEWIS BLVD #201', 2
+'Address', '158-13 72ND AVENUE SUITE 2A', 3
+'Address', '11-12 CLINTONVILLE ST 1ST FL', 1
+'Address', '171-14 115TH AVENUE', 1
+'Address', '148-45 89TH STREET, SUITE 1B', 2
+'Address', '41-09 NATIONAL STREET,2ND FLOOR', 1
+'Address', '747 PINE STREET #1', 9
+'Address', '21 CAMBRIA STREET', 4
+'Address', '19-65 STEINWAY STREET', 2
+'Address', '925 LINCOLN AVENUE UNIT 11', 2
+'Address', '741 GENERALS HIGHWAY', 1
+'Address', '1548 EAST 32 STREET', 3
+'Address', '1955 E 36TH STREET', 1
+'Address', '23-82 BQE WEST', 8
+'Address', '2638 EAST 23RD STREET', 3
+'Address', '9-11 40TH AVENUE', 1
+'Address', '3586 MAPLE COURT', 4
+'Address', '4442 ARTHUR KILL RD STE 7', 1
+'Address', '47 FOSTER ROAD', 1
+'Address', '2005 HONE AVENUE', 11
+'Address', '8691 18TH AVENUE', 1
+'Address', '1803 ATLANTIC AVENUE 1ST FL', 17
+'Address', '215-10 HEMPSTEAD AVENUE', 4
+'Address', '183 US HIGHWAY 206 SOUTH', 3
+'Address', '231 20TH STREET', 1
+'Address', '43-24 166TH STREET', 1
+'Address', '37-20 58TH STREET', 1
+'Address', '91-34 195TH STREET,', 25
+'Address', '2260 TILLOTSON AVE,', 14
+'Address', '49-29 MASPETH AVENUE,', 11
+'Address', '15 JEFFREY LN,', 14
+'Address', '67 MILL STREET,', 22
+'Address', '124-06 METROPOLITAN AVENUE,', 5
+'Address', '71-0 MYRTLE AVENUE,', 2
+'Address', '3-33 35TH STREET,', 2
+'Address', '53 CENTRE ST.,#08,', 1
+'Address', '584 MINEOLA AVENUE,', 1
+'Address', '52-30 73RD STREET,', 1
+'Address', '0-87 JACKSON AVENUE,', 1
+'Address', '060 HIGHWAY 36,', 1
+'Address', '128-24 140TH STREET,', 66
+'Address', '134 ROBBY LANE,', 15
+'Address', '38-11 DITMARS BLVD,', 6
+'Address', '1000 WILSHIRE BLVD STE 2100,', 114
+'Address', '51 MADISON AVENUE 34TH FL,', 13
+'Address', '22 PENGUIN LN,', 16
+'Address', '08 WEST 39TH STREET, 4TH FL,', 1
+'Address', '131 NEPTUNE AVE, 1ST FL,', 2
+'Address', '37 S WASHINGTON STREET,', 1
+'Address', '5 WESTCHESTER PLAZA STE 37,', 1
+'Address', '23-41 BORDEN AVENUE,', 218
+'Address', '136 WEST 83RD STREET,', 78
+'Address', '267-18 77TH AVENUE,', 10
+'Address', '4340 UNION STREET SUITE #5A,', 2
+'Address', '424 CONEY ISLAND AVE,', 13
+'Address', '316 RAMONA AVENUE,', 10
+'Address', '33-25 12TH PLACE,', 6
+'Address', '16 WEBSTER AVENUE,', 3
+'Address', '136-31 1ST AVENUE, STE 5C,', 4
+'Address', '6225 16TH AVE,', 3
+'Address', '245 SHOREWARD DRIVE,', 1
+'Address', '2742 BRIGHTON 8TH STREET,', 3
+'Address', '7-36 65TH ST,', 1
+'Address', '46-2 BAYSIDE AVENUE,', 1
+'Address', '20-203 INGRAHAM STREET,', 1
+'Address', '364 DECKER AVENUE,', 1
+'Address', '311 ROGERS AVENUE,', 13
+'Address', '158 TEHAMA STREET,', 3
+'Address', '1034 ROGERS AVE,', 2
+'Address', '82-37 213TH ST,', 14
+'Address', '2618 WEST 13TH STREET,', 4
+'Address', '556 74 STREET,', 1
+'Address', '69-81 75TH STREET,', 4
+'Address', '9714 THIRD AVENUE,', 2
+'Address', '330 WILLIS AVE,', 4
+'Address', '82-17 15RD AVE., SUITE #206,', 3
+'Address', '57 FOREST AV,', 2
+'Address', '47-15 49TH STREET,', 2
+'Address', '037 39TH STREET,', 1
+'Address', '18-55 4ND STREET,', 2
+'Address', '60 WHITNEY RD,', 1
+'Address', '555 SAW MILL RIVER ROAD,', 2
+'Address', '95 BROADWAY SUITE #,', 1
+'Address', '10-01 50TH AVENUE, ND FL,', 2
+'Address', '50 PEPPERIDGE ROAD,', 4
+'Address', '58-76 57TH DRIVE,', 3
+'Address', '1338 ATLANTIC AVENUE,', 2
+'Address', '7 SAINT JAMES PLACE,', 1
+'Address', '45-7 169TH STREET,', 2
+'Address', '97-6 34TH STREET,', 1
+'Address', '628 GRAND AVE,', 1
+'Address', '85 TOLEDO ST,', 1
+'Address', '2 BENTLEY STREET,', 1
+'Address', '5014 16TH AVE SUITE 80,', 2
+'Address', '25A MOFFITT BLVD,', 1
+'Address', '3152 ALBANY CRESCENT,', 10
+'Address', '610 11TH AVENUE,', 5
+'Address', '600 WYONA STREET APT 3R,', 1
+'Address', '150-47 20TH AVE,', 3
+'Address', '387 PARK AVE SOUTH,', 4
+'Address', '149 WEST 8TH STREET,', 2
+'Address', '4114B MAIN STREET NUM 0,', 2
+'Address', '1433 BASSETT AVE,', 2
+'Address', '5314 16TH AVENUE #113,', 2
+'Address', '2775 WEST 5TH STREET STE 7J,', 1
+'Address', '61 W 35TH ST, STE 405,', 2
+'Address', '36-16 19TH AVENUE,', 4
+'Address', '15 EAST 19TH STREET, UNIT A,', 2
+'Address', '33 WEST 46TH STREET,', 1
+'Address', '1725 RICHMOND ROAD,', 28
+'Address', '420 1TH AVENUE 2ND FLR,', 3
+'Address', '3524 ROMBOUTS AVENUE,', 130
+'Address', '30-32 PELL STREET,', 1
+'Address', '87 WOLFS LANE #F,', 2
+'Address', '3328 202ND STREET,', 1
+'Address', '15 WASHINGTON AVENUE,', 2
+'Address', '160 MCDONALD AVE GROUND FL,', 2
+'Address', '58-07 METROPOLITAN AVENUE,', 1
+'Address', '4920 3RD AVENUE,', 8
+'Address', '147 28 ST,', 5
+'Address', '16-0 225 STREET,', 4
+'Address', '0-02 108TH STREET,', 5
+'Address', '150-31 17TH ROAD,', 2
+'Address', '129-06 18TH AVENUE,', 7
+'Address', '3605 SEDGWICK AVE STE C,', 1
+'Address', 'ONE PENNSYLVANIA PLAZA, 5500,', 6
+'Address', '705 VAN DUZER STREET,', 1
+'Address', '513 BEMENT AVENUE STE B,', 2
+'Address', '64- BROADWAY,', 1
+'Address', '87 CROSSBAY BLVD A,', 1
+'Address', '25-10 57TH AVENUE,', 4
+'Address', '2320 S. ARCHIBALD AVE,', 10
+'Address', '9 W 4TH STREET,', 5
+'Address', '70 VALLEY ROAD,', 1
+'Address', '26 GLEN HEAD ROAD,', 1
+'Address', '7 LINDEN STREET,', 1
+'Address', '226-7 59TH AVENUE ST FL,', 1
+'Address', '0 WEST 34TH STREET 6TH FL,', 1
+'Address', '94 HYLAN BLVD,', 3
+'Address', '129-31 132 STREET,', 57
+'Address', '7 EAST AVENUE,', 6
+'Address', '4010 14TH AVENUE,', 20
+'Address', '8 PARK AVENUE SOUTH,', 2
+'Address', '47-36 230TH PL,', 1
+'Address', '1660 WESTCHESTER AVENUE,', 2
+'Address', '1755 JULIA GOLDBACH AVENUE,', 2
+'Address', '5806 76TH STREET,', 4
+'Address', '80-05 252 ST,', 6
+'Address', '1103 55 STREET,', 6
+'Address', '5655 AMBOY ROAD,', 2
+'Address', '7-05 52ND STREET SUITE #303,', 1
+'Address', '456A CENTRAL AVE SUITE 0,', 1
+'Address', '670 MYRTLE AVENUE #505,', 1
+'Address', '49 ENGLEWOOD AVENUE #6,', 5
+'Address', '31 CORSON AVENUE,', 10
+'Address', '000 SAW MILL RIVER ROAD,', 1
+'Address', '2273 WESTCHESTER AVENUE,', 5
+'Address', '814 CONEY ISLAND AVENUE,', 2
+'Address', '144 N 7TH STREET SUITE 408,', 2
+'Address', '145 ULSTER HEIGHT RD,', 3
+'Address', '35 OCEAN PKWY APT #5E,', 1
+'Address', '8TH AVENUE, 12TH FLOOR,', 3
+'Address', '70 HUDSON STREET, SUITE 5A,', 3
+'Address', '32-47 62 STREET,', 74
+'Address', '354 FRONT STREET,', 1
+'Address', '36 WEST 37TH STREET PENTHOUS,', 1
+'Address', '47-27 5TH STREET,', 19
+'Address', '5 ROLLINS AVENUE,', 1
+'Address', '75 NOEL STREET,', 10
+'Address', '885 DITMAS AVENUE,', 1
+'Address', '8-2 QUEENS BLVD SUITE 55,', 1
+'Address', '5-12 19TH AVE, 2W,', 3
+'Address', '27 42ND STREET,', 1
+'Address', '0 PLYMOUTH STREET,', 2
+'Address', '36 JOHN STREET,', 18
+'Address', '619 DERBY DRIVE EAST,', 8
+'Address', '0-18 45TH AVENUE, FL,', 2
+'Address', '642 OUTWATER LANE,', 1
+'Address', '3324 DELAVALL AVENUE,', 5
+'Address', '83 BAYVIEW AVENUE,', 1
+'Address', '159-25 HILLSIDE AVENUE, 2ND FL,', 4
+'Address', '4 CASTLETON AVENUE,', 2
+'Address', '35-37 24TH ST,', 1
+'Address', '300 NORTHERN BLVD. SUITE 01,', 2
+'Address', '3006 AVENUE M #201,', 37
+'Address', '67-17 48TH AVENUE,', 56
+'Address', '23 STRAUSS STREET,', 28
+'Address', '909 10TH AVENUE,', 7
+'Address', '333 MAMARONECK AVE STE 300,', 1
+'Address', '103 UNFRANCHISE WAY,', 15
+'Address', '141 SEAVIEW AVE,', 2
+'Address', '1111 CALHOUN AVENUE,', 3
+'Address', '28-14 14TH STREET 1FL,', 3
+'Address', '958 50TH STREET, UNIT D,', 1
+'Address', '5202 AVENUE N,', 1
+'Address', '489 5TH AVENUE, 9TH FLOOR,', 1
+'Address', '87-7 LEFFERTS BOULEVARD,', 1
+'Address', '62-0 34TH AVENUE,', 1
+'Address', '450 7TH AVENUE, 2ST FLOOR,', 1
+'Address', '120 EAST 131ST STREET,', 35
+'Address', '752 EAST 17TH STREET 1ST FLR,', 3
+'Address', '0 EAST 8TH STREET APT 4L,', 3
+'Address', '189 BAY 10 STREET,', 2
+'Address', '101-14 118TH STREET,', 2
+'Address', '2665 BRIGGS AVENUE,', 4
+'Address', '1160 COMMERCE AVENUE,', 7
+'Address', '56 RADNOR ROAD,', 2
+'Address', '2023 60TH STREET,', 4
+'Address', '11-12 MAIN AVENUE,', 4
+'Address', '99 LEE AVENUE #276,', 1
+'Address', '34-02 CROSS BAY BLVD,', 1
+'Address', '4280 KATONAH AVENUE,', 1
+'Address', '32 WEST 3ST STREET 5 FL,', 1
+'Address', '2842 HARRINGTON AVE APT ,', 1
+'Address', '35 BROADWAY -SUITE 30,', 1
+'Address', '3306 88TH STREET STE 214,', 7
+'Address', '1100 CONEY ISLAND AVE STE 08,', 4
+'Address', '24-1 4TH STREET,', 5
+'Address', '2890 NOSTRAND AVENUE,', 1
+'Address', '6 FRANCIS COURT,', 4
+'Address', '735 BEDFORD AVE,', 1
+'Address', '62-60 WOODHAVEN BLVD STE R-3,', 1
+'Address', '1177 EAST 4TH ST,', 2
+'Address', '18 BRONX BLVD,', 4
+'Address', '580 63RD STREET ST FLOOR,', 1
+'Address', '307 BRUCKNER BLVD,', 2
+'Address', '2969 ROUTE 23 SOUTH,', 1
+'Address', '429 CARLL'S PATH,', 1
+'Address', '7-46 24TH STREET,', 1
+'Address', '941 MCCLEAN AVE STE 402,', 61
+'Address', '129-38 133RD STREET,', 28
+'Address', '244-20 THORNHILL AVENUE,', 1
+'Address', '46-49 54TH AVENUE,', 104
+'Address', '2-18 0TH STREET,', 5
+'Address', '200 MAMARONECK AVE,', 120
+'Address', '57-52 9 PLACE,', 4
+'Address', '80 AVENUE U APT 3D,', 2
+'Address', '7 E. HOFFMAN AVENUE,', 2
+'Address', '72 MILL ST,', 5
+'Address', '11 SEVENTH STREET,', 2
+'Address', '820 39TH STREET,', 1
+'Address', '45-5 BARNETT AVENUE,', 1
+'Address', '42-9 20TH AVENUE,', 1
+'Address', '54 AVENUE OF THE AMERICAS,', 1
+'Address', '26-6 SKILLMAN AVE,', 1
+'Address', '69-65 74TH STREET APT.#,', 1
+'Address', '0 RAMBLEWOOD AVENUE,', 15
+'Address', '111-07 101ST AVENUE,', 31
+'Address', '218 HAMILTON AVE,', 5
+'Address', '4 PHILIP AVE,', 2
+'Address', '6-14 2 STREET,', 3
+'Address', '106-33 15TH STREET,', 7
+'Address', '38 CLOVE RD,', 1
+'Address', '1401 67TH STREET, C,', 2
+'Address', '2955 SHELL ROAD #4B,', 1
+'Address', '33 EAST 33RD STREET 4TH FL,', 2
+'Address', '2 SKILLMAN STREET SUITE 205,', 8
+'Address', '800 3RD AVE,', 1
+'Address', '57 TWIN ARCH ROAD,', 2
+'Address', '332 NORTH HIGH STREET,', 1
+'Address', '95 DOUGLASS STREET,', 1
+'Address', '10-44 11TH AVENUE,', 5
+'Address', '33-70 PRINCE STREET, #906,', 43
+'Address', '1501 BROADWAY, 1ST FLOOR,', 3
+'Address', '33 A NORTH HIGH STREET,', 9
+'Address', '177 WEST 126TH STREET,', 4
+'Address', '97-4 107TH STREET,', 2
+'Address', '39-0 MAIN STREET STE 400,', 1
+'Address', '24 EVERGREEN AVENUE,', 1
+'Address', '6 BRIGHTON  PLACE PH-B,', 2
+'Address', '6-40 LITTLE STREET,', 3
+'Address', '39-08 4TH STREET. STE 4,', 2
+'Address', '97-42 99 STREET,', 1
+'Address', '340 SIEGFRIED PLACE,', 1
+'Address', '3275 GRACE AVENUE,', 1
+'Address', '48 BAY 23RD STREET,', 1
+'Address', '5314 16TH AVE STE 166,', 19
+'Address', '137 ORCHARD ST,', 10
+'Address', '125-09 10 AVENUE,', 4
+'Address', '101-21 ROCKAWAY BOULEVARD,', 3
+'Address', '99 CONEY ISLAND AVENUE,', 4
+'Address', '31-99 13RD STREET,', 2
+'Address', '449 TROUTMAN STREET STE C,', 1
+'Address', '78 STAFFORD AVENUE,', 2
+'Address', '23 KENT STREET,', 1
+'Address', '570 TAXTER ROAD,', 46
+'Address', '144 BEACH 8TH STREET,', 11
+'Address', '43 DARLINGTON AVE,', 2
+'Address', '838 BAY STREET,', 4
+'Address', '47 W 30TH STREET FL 11,', 2
+'Address', '23 MONTEREY DRIVE,', 18
+'Address', '42 8TH AVENUE,', 1
+'Address', '590 36TH ST ST FL,', 1
+'Address', '2377 WASHINGTON AVENUE,', 1
+'Address', '0-48 20TH STREET ST FL,', 1
+'Address', '088 UTICA AVENUE,', 1
+'Address', '289 HENDERICKSON AVE,', 21
+'Address', '80-02 ASTORIA BOULEVARD,', 9
+'Address', '140 BEAUMONT ST,', 7
+'Address', '4051 N HIGHWAY 121 SUITE 400,', 6
+'Address', '43-2 ASTORIA BLVD,', 1
+'Address', '3 WEST 34TH ST., STE. 8083,', 1
+'Address', '717 2ND AVE FLOOR 2,', 5
+'Address', '1-21 72ND AVENUE, 1ST FLOOR,', 4
+'Address', '200 WEST 38TH STREET,GF STE,', 1
+'Address', '96 JAQUES AVENUE,', 1
+'Address', '440 15TH AVENUE, STE 68,', 3
+'Address', '137 BOSTON ROAD,', 4
+'Address', '40 LAUMAN LANE,', 1
+'Address', '35 WEST 45TH STREET,', 1
+'Address', '71-59 160TH STREET CF#2,', 13
+'Address', '14A 53RD STREET 4TH FLOOR,', 42
+'Address', '347 37TH ST ND FL,', 2
+'Address', '35 CARROLL STREET,', 17
+'Address', '29-10 20 AVENUE,', 3
+'Address', '94-23 7TH STREET,', 6
+'Address', '1025 BAY STREET,', 3
+'Address', '129-19 97TH AVENUE,', 3
+'Address', '400 BARRETTO STREET,', 6
+'Address', '471 CLOVE ROAD,', 2
+'Address', '14 ROSEWELL AVENUE,', 7
+'Address', '771 LAMONT AVENUE,', 2
+'Address', '91 CHERRY LANE,', 3
+'Address', '55 WATER STREET 51ST FLOOR,', 2
+'Address', '140-19 QUINCE AVENUE,', 5
+'Address', '3 53RD STREET,', 1
+'Address', '9 PONDFIELD RD #6,', 1
+'Address', '202 INDUSTRIAL LOOP,', 1
+'Address', '577 HICKS STREET,', 2
+'Address', '27 HAVEMEYER ST FL 4,', 1
+'Address', '199 LEE AVENUE, PMB 10,', 3
+'Address', '825 EAST GATE BLVD, SUITE 200,', 1
+'Address', '44-09 243RD STREET,', 1
+'Address', '149-4 114TH PLACE,', 2
+'Address', '008 A BRONXWOOD AVE,', 4
+'Address', '45 NEWTOWN ROAD, SUITE 600,', 2
+'Address', '04-04 ASTORIA BLVD,', 1
+'Address', '25-06 8TH AVENUE,', 1
+'Address', '7407 13TH AVENUE,', 6
+'Address', '8226 5TH AVENUE,', 7
+'Address', '81-09 101 AVE,', 16
+'Address', '183 MADISON AVENUE SUITE#1601,', 10
+'Address', '10-10 66TH ROAD, APT. 11K,', 2
+'Address', '22 FORSYTH STREET,', 1
+'Address', '-26 46TH AVE,', 5
+'Address', 'JOHN STREET, SUITE 00,', 1
+'Address', '404 CONEY ISLAND AVENUE,', 1
+'Address', '35 MONROE PLACE,', 28
+'Address', '62 RAMONA AVENUE,', 3
+'Address', 'GATEWAY CENTER SUITE.00,', 2
+'Address', '190 REEDS MILL LANE,', 2
+'Address', '275 BROOME ST #4,', 1
+'Address', '230 PATTON AVENUE,', 9
+'Address', '2249 POWELL AVENUE,', 3
+'Address', '29-09 26TH AVENUE #40,', 1
+'Address', '189 NORTH FINLEY AVE,', 3
+'Address', '35 NORTH TYSON AVE SUITE ,', 2
+'Address', '128 SUTTON STREET,', 256
+'Address', '41-08 BERRIAN BLVD,', 123
+'Address', 'HORTON AVENUE,', 27
+'Address', '84-1 122ND STREET,', 3
+'Address', '107 FRONT STREET REAR ENTRANC,', 5
+'Address', '834 MORROW STREET,', 1
+'Address', '179-36 HILLSIDE AVENUE,', 80
+'Address', '902 ALLERTON AVE,', 11
+'Address', '81 ROUTE ,', 2
+'Address', '14-01 31ST AVENUE,', 11
+'Address', '890 SHELL ROAD,', 2
+'Address', '7 SOUTH SECOND ST,', 1
+'Address', '89-07 69TH AVE,', 2
+'Address', '256 ARKANSAS DRIVE,', 4
+'Address', '54-42 46TH. STREET,', 1
+'Address', '478 ALBANY UNIT 3,', 1
+'Address', '60 7TH STREET,', 1
+'Address', '104 HARBOR ROAD,', 2
+'Address', '123-60 83RD AVE., APT 10U,', 4
+'Address', '183 WILSON STREET #205,', 7
+'Address', '6 BAYLEY PLACE,', 5
+'Address', '62-14 82ND PLACE,', 9
+'Address', '14-51 ROCKAWAY BLVD,', 2
+'Address', '28-29 9TH STREET,', 1
+'Address', '339 8ST STREET,', 1
+'Address', '77 NEW YORK AVENUE,UNIT G,', 1
+'Address', '105-4 JAMAICA AVENUE,', 2
+'Address', '64-24 37TH STREET,', 1
+'Address', '64 2TH STREET,', 1
+'Address', '6202 7TH AVENUE,', 1
+'Address', '1- 75TH STREET, SUITE MC,', 4
+'Address', '1222 AVENUE M SUITE 0,', 5
+'Address', '313 SAND LANE,', 7
+'Address', '1600 OCEAN AVENUE,', 2
+'Address', '2-20 37TH AVENUE,', 1
+'Address', '60 SACKETT STREET,', 1
+'Address', '95-27 08TH STREET,', 1
+'Address', '841 BARRETTO STREET 1 FL,', 2
+'Address', '184-15 AVON ROAD,', 10
+'Address', '63-45 ALDERTON STREET,', 1
+'Address', '148-5 59TH AVENUE.STE ,', 2
+'Address', '44 BETHPAGE RD STE 8,', 2
+'Address', '24-02 39TH AVENUE,', 1
+'Address', '602 SOUTH THIRD AVENUE,', 1
+'Address', '845 THIRD AVE.,6TH FL,', 1
+'Address', '404 AVENUE U,', 2
+'Address', '164 MAIN STREET,', 14
+'Address', '300 WEST SERVICE ROAD,', 10
+'Address', '610 11TH AVE,', 5
+'Address', '33-06 88TH STREET STE 13,', 2
+'Address', '8109 20TH AVENUE SUITE D7,', 21
+'Address', '97 BROOKLYN TERMINAL MARKET,', 1
+'Address', '332 CLINTON STREET,', 1
+'Address', '111 CLAY STREET, SUITE 200,', 6
+'Address', '260 MADISON AVE., FL 8,', 1
+'Address', '549 BASSETT AVE,', 1
+'Address', '100 RAYNOR AVENUE,', 15
+'Address', '1640 CENTRE STREET,', 42
+'Address', '150-10 BEAVER STREET,', 194
+'Address', '511 CANAL STREET .6TH FLOOR,', 7
+'Address', '6701 14TH AVENUE,', 3
+'Address', '111 JOHN STREET, 4TH FL,', 3
+'Address', '199-02 32ND AVENUE,', 10
+'Address', '26 WEST 17TH STREET STE 01,', 8
+'Address', '144 SPENCER STREET, #612,', 3
+'Address', '599 ALBANY AVENUE,SUITE C,', 2
+'Address', '246 PORT RICHMOND AVENUE,', 14
+'Address', '7336 AMBOY ROAD,', 1
+'Address', '3535 KINGS COLLEGE PL,', 10
+'Address', '66-49 ALDERTON STREET,', 1
+'Address', '1153 UDALL ROAD,', 2
+'Address', '1-12 CROSS BAY BLVD,', 3
+'Address', '4-09 35TH STREET,', 2
+'Address', '11 CAMBRIDGE COURT,', 9
+'Address', '1 MADISON STREET,', 2
+'Address', '63 FLUSHING AVENUE, UNIT 324,', 1
+'Address', '68 78TH STREET,', 1
+'Address', '06-08 ROCKAWAY BLVD,', 1
+'Address', '69-3 76TH STREET,', 4
+'Address', '247-07 JAMAICA AVENUE,', 1
+'Address', '36 W 8TH STREET.4TH FLOOR,', 1
+'Address', '530 WEST 50TH STREET,', 11
+'Address', '88-7 78TH AVENUE,', 1
+'Address', '129 MIDLAND ROAD,', 3
+'Address', '39 WEST 32ND STREET STE 900,', 1
+'Address', '74-06 METROPOLITAN AVENUE,', 1
+'Address', '2521 49TH STREET,', 3
+'Address', '61-27 186TH ST,', 3
+'Address', '126-6 3TH AVENUE,', 4
+'Address', '42 65TH STREET,', 1
+'Address', '151-54 17TH AVE,', 2
+'Address', '150 WIMAN AVE,', 2
+'Address', '560 TOMPKINS AVE,', 4
+'Address', '700 COMMERCIAL AVENUE,', 500
+'Address', '83-28 PARSONS BLVD,', 9
+'Address', '1092 DEKALB AVENUE,', 11
+'Address', '150-80 70TH ROAD, 3RD FLOOR,', 4
+'Address', '247 52ND ST,', 9
+'Address', '25 MARCUS BLVD,', 3
+'Address', '1330 AVE OF THE AMERICAS 3A,', 2
+'Address', '15-1 1 TH ROAD,', 2
+'Address', '84 OXFORD STREET,', 1
+'Address', '02-5 03RD AVENUE,', 1
+'Address', '5268 72ND STREET,', 1
+'Address', '115-39 15TH STREET,', 2
+'Address', '239 CASTLE HILL AVENUE,', 1
+'Address', '531 16TH AVENUE SUITE 116,', 4
+'Address', '2334 RALPH AVENUE,', 1
+'Address', '375 HUDSON STREET,', 2
+'Address', '32-40 7ST STREET,', 1
+'Address', '965 EAST 57TH ST,', 2
+'Address', '70 LAFAYETTE STREET,', 1
+'Address', '2959 PAULDING AVENUE,', 3
+'Address', '44-08 30 AVENUE,', 1
+'Address', '43-20 203RD STREET,', 1
+'Address', '18-17 CEDRIC RD,', 2
+'Address', '1817 EMMONS AVENUE, 2ND FLOOR,', 5
+'Address', '1039 FLUSHING AVENUE,', 8
+'Address', '1 JEFERSON PLACE,', 4
+'Address', '69-34 COOPER AVENUE,', 2
+'Address', '31 W 44TH STREET, STE 703,', 2
+'Address', '38 WEST 8TH STREET FLR 3,', 2
+'Address', '97-26 99TH STREET,', 11
+'Address', '5215 65TH PLACE STE 6E,', 3
+'Address', '3911 AMBOY ROAD,', 2
+'Address', '750 3ST AVE,', 1
+'Address', '250 CASTLETON AVE,', 1
+'Address', '56-45 58TH STREET,', 1
+'Address', '87-28 130TH STREET,', 108
+'Address', '76 OLYMPIA BOULEVARD,', 2
+'Address', '229 6TH STREET,', 4
+'Address', '6612 8TH AVENUE,', 4
+'Address', '987 EAST 17TH STREET,', 3
+'Address', '29 65TH STREET,', 1
+'Address', '57-45 57TH DRIVE,', 2
+'Address', '350 7TH AVENUE, RM20,', 1
+'Address', '7 HIGHLAND PL,', 5
+'Address', '66-53 74TH ST,', 1
+'Address', '048 25TH STREET,', 1
+'Address', '237 W 35TH STREET SUITE 303,', 99
+'Address', '7610 34TH AVENUE, STE #1A,', 50
+'Address', '95 JERSEY STREET,', 317
+'Address', '417 MYRTLE AVE,', 216
+'Address', '1431 CROMWELL AVENUE,', 8
+'Address', '464 ARTHUR KILL ROAD #300,', 8
+'Address', '388 EAST 198TH STREET,', 2
+'Address', '24-24 ROUTE 52 SUITE 2C,', 6
+'Address', '69 LEE AVENUE,', 1
+'Address', '12908 107TH AVE,', 4
+'Address', '94 DEKALB AVENUE,', 2
+'Address', '2 LAKEVILLE ROAD,', 1
+'Address', '83 HESTER STREET,', 2
+'Address', '854 HUMBOLDT STREET,', 1
+'Address', '130-05 125TH STREET,', 17
+'Address', '268 NOEL ST,', 7
+'Address', '0 EAST 97TH STREET APT 3,', 1
+'Address', '3611 14TH AVENUE #606,', 5
+'Address', '94-0 24TH AVENUE,', 1
+'Address', '135-21 37TH AVENUE STE 202,', 4
+'Address', '941 MCLEAN AVENUE STE 444,', 2
+'Address', '76-02 21ST AVENUE,', 11
+'Address', '0 VISITATION PLACE #2,', 1
+'Address', '3908 04TH STREET,', 1
+'Address', '24-49 96TH ST,', 1
+'Address', '81 APOLLO STREET,', 7
+'Address', '40 BROAD ST, 4TH FL,', 1
+'Address', '62-07 SANFORD AVENUE,', 1
+'Address', '1513 BEACH AVENUE,', 8
+'Address', '700 COMMERCIAL AVE GROUND FL,', 90
+'Address', '45 WEST 25TH STREET,', 9
+'Address', '8-0 119TH ST, FL  UNIT FRONT,', 2
+'Address', '101-13 LEFFERTS BLVD,', 56
+'Address', '450 7TH AVENUE, SUITE 506,', 29
+'Address', '35-43 37TH STREET,', 2
+'Address', '40 BROADWAY SUITE 20,', 1
+'Address', '313 SPOOK ROCK ROAD,', 2
+'Address', '2-0 37TH AVENUE,', 1
+'Address', '53-28 61ST STREET,', 4
+'Address', '98 SOUTH RAILROAD AVE,', 1
+'Address', '40 DOBBIN STREET,', 3
+'Address', '656 EAST 133RD STREET, 2ND FL,', 4
+'Address', '112-15 FRANCIS LEWIS BLVD,', 7
+'Address', '151 28TH STREET,', 16
+'Address', '586A MIDLAND AVENUE, 2ND FL,', 24
+'Address', '8-1 PITKIN AVENUE,', 4
+'Address', '2472 BROADWAY STE 25,', 1
+'Address', '65 TAAFFE PLACE 2ND FLOOR,', 1
+'Address', '36181 EAST LAKE RD.SUITE 144,', 2
+'Address', '545 BROADWAY 4TH FLOOR,', 3
+'Address', '2712 WILLIAMSBRIDGE ROAD,', 9
+'Address', 'SUITE 207,', 12
+'Address', '129 FRANKLIN STREET,', 54
+'Address', '04 WEST 40TH STREET 7TH FL,', 1
+'Address', '7 PRINCETON AVE,', 5
+'Address', '35 E GRASSY SPRAIN ROAD #300,', 1
+'Address', '22 SOUTH 6TH AVENUE,', 1
+'Address', '97-27 2 STREET,', 1
+'Address', '832 RADCLIFF AVE,', 1
+'Address', '2590 EAST 21 STREET,', 22
+'Address', '449 THIRD STREET SUITE 4B,', 1
+'Address', '25-12 40TH AVENUE,', 3
+'Address', '95-1 ASTORIA BLVD,', 3
+'Address', '47-3 EDGEWOOD ST,', 1
+'Address', '1157 54TH STREET,', 3
+'Address', '1763 PITMAN AVENUE,', 4
+'Address', '8304 3TH AVENUE,', 1
+'Address', '53-77 66 STREET,', 1
+'Address', '666 4TH AVE,', 1
+'Address', '5-59 7TH AVE,', 1
+'Address', '66-0 BURNS STREET  #2D,', 1
+'Address', '3 EAST 50TH STREET,', 1
+'Address', '5-0 4 AVENUE,', 1
+'Address', '29 LORIMER STREET,', 616
+'Address', '125-05 101ST AVENUE,', 365
+'Address', '6-4 40TH STREET,', 1
+'Address', '874 RICHMOND ROAD,', 1
+'Address', '104 PINE TREE ROAD,', 2
+'Address', '193 RUTLEDGE ST,', 2
+'Address', '178-01 LIBERTY AVE,', 4
+'Address', '6 LIBERTY AVE,', 5
+'Address', '5 STICKLE AVE SUITE 4,', 3
+'Address', '40 WEST 15TH ROAD,', 2
+'Address', '35 KOSCIUSZKO STREET,', 2
+'Address', '205 EAST 1 STREET,', 4
+'Address', '48-08 70TH. STREET  ROOM 5,', 1
+'Address', '64 TOLEDO STREET,', 2
+'Address', '05 BLOOMFIELD AVEUNE #B,', 1
+'Address', '40 EAST 84TH STREET UNIT 5B,', 1
+'Address', '900 PELHAMDALE AVE,', 1
+'Address', '51 CONKLIN STREET,', 2
+'Address', '1231 MCDONALD AVENUE 2ND FLOOR,', 6
+'Address', '420 C EAST TH STREET,', 1
+'Address', '2-04 35TH AVE,', 1
+'Address', '49 CENTRE STREET,', 1
+'Address', '55 7TH STREET #,', 1
+'Address', '156 MT. VERNON AVE SUITE 210,', 104
+'Address', '76 AVENUE M, SUITE ,', 2
+'Address', '69-09 164TH STREET, 2ND FLR,', 13
+'Address', '100 PARK AVENUE,', 6
+'Address', '213-12 ROCKAWAY POINT BLVD,', 9
+'Address', '18 CEDAR AVENUE,', 2
+'Address', '199 LEE STREET SUITE 255,', 6
+'Address', '429 OLD TOWN ROAD,', 1
+'Address', '984 66TH STREET,', 1
+'Address', '50-20 70TH STREET,', 1
+'Address', '48-02 25TH AVENUE, SUITE 400,', 32
+'Address', '32 SPRUCE STREET,', 9
+'Address', '975 CLARK PLACE,', 4
+'Address', '59TH STREET,', 3
+'Address', '1 LEE AVENUE #413,', 9
+'Address', '118 BAXTER ST, SUITE 401,', 2
+'Address', '228 RUSSELL ST,', 3
+'Address', '5-23 29 AVENUE,', 1
+'Address', '36-36 MAIN ST STE 2F,', 1
+'Address', '3 EAST 54TH STREET.10TH FL,', 6
+'Address', '6 HORIZON ROAD,', 52
+'Address', '1160 AMBOY AVE,', 3
+'Address', '110 WILLOW AVENUE,', 3
+'Address', '355 LEXINGTON AVENUE 17TH FL,', 4
+'Address', '90-36 53RD AVE APT 2D,', 1
+'Address', 'SKILLMAN STREET SUITE 31,', 2
+'Address', '87-54 68TH STREET 2ND FL,', 1
+'Address', '3911 AMBOY ROAD, SUITE H,', 2
+'Address', '33-29 156TH STREET,', 11
+'Address', '889 256TH STREET,', 7
+'Address', '5 LAWRENCE AVENUE,', 17
+'Address', '1270 BROADWAY SUITE 1005,', 3
+'Address', '6804 17TH AVE 2ND FL,', 23
+'Address', '704 DEKALB AVENUE,', 1
+'Address', '3 BAYSIDE,', 4
+'Address', '32-06 82ND STREET,', 1
+'Address', '15 GREGORY STREET,', 2
+'Address', '56-74 58TH PLACE,', 1
+'Address', '35-5 40TH ROAD, SUITE 302,', 1
+'Address', '29 SADDLE LANE,', 1
+'Address', '167 WEST 74TH STREET,', 2
+'Address', '27 NORTH AVE 502,', 1
+'Address', '431 BARRETTO STREET,', 2
+'Address', '217-04 NORTHERN BLVD,', 38
+'Address', '318 WEST 53RD ST STE 203,', 6
+'Address', '43 FIFTH AVENUE SUITE 860,', 2
+'Address', '900 AVENUE H,  #6C,', 8
+'Address', '570 FOREST AV,', 2
+'Address', '85 24TH STREET #3,', 1
+'Address', '386 TROUTMAN STREET,', 4
+'Address', '00 NORTHERN BLVD,', 3
+'Address', '2 DEWEY ST W,', 1
+'Address', '89-10 NORTHERN BLVD,', 3
+'Address', '120-05 ATLANTIC AVENUE,', 78
+'Address', '1 MANN AVENUE,', 2
+'Address', '772 IONIA AVENUE,', 4
+'Address', '1816 EAST 3RD STREET,', 2
+'Address', '336 W 37TH STREET STE 150,', 2
+'Address', '260 DOUGHTY BLVD,', 4
+'Address', '115-4 09TH STREET,', 2
+'Address', '0-50 WHITESTONE EXPY STE #101B,', 3
+'Address', '5-38 68 STREET,', 1
+'Address', '2229 OCEAN PARKWAY,', 3
+'Address', '505 FLUSHING AVENUE #H,', 1
+'Address', '163-A PARIS AVE,', 28
+'Address', '08 EAST 6TH ST,5TH FL,', 1
+'Address', '12 POTTER AVENUE,', 3
+'Address', '17 ZOE STREET APT6P,', 5
+'Address', '1742 46TH STREET,', 5
+'Address', '250 PARK AVENUE 7TH FLOOR,', 1
+'Address', '706 WILLOWBROOK RD,', 1
+'Address', '94- 209TH ST 1ST FLOOR,', 32
+'Address', '6-2 21TH ST,', 5
+'Address', '27 BENNETT PLACE,', 1
+'Address', '144 MCCLEAN AVE,', 2
+'Address', '456 EAST 173 STREET,', 10
+'Address', '21-22 JAMAICA AVE,', 6
+'Address', '56 INDUSTRIAL LOOP STE 2C,', 1
+'Address', '11-44 40TH ROAD 2ND FLOOR,', 3
+'Address', '150 WEST 28TH STREET STE 1702,', 3
+'Address', '56 LIBERTY AVE,', 2
+'Address', '151 INDUSTRIAL LOOP SUITE 107,', 2
+'Address', '559 BROOKLYN AVENUE, APT 5,', 1
+'Address', '16 NORTH MADA AVENUE,', 2
+'Address', '120- 89TH AVENUE,', 11
+'Address', 'B KERMIT AVENUE,', 1
+'Address', '332 ADAMS STREET,', 61
+'Address', '4612 QUEENS BLVD,', 105
+'Address', '18 EAST 123RD STREET,', 5
+'Address', '24 WEST 26TH STREET, ST FL,', 1
+'Address', '61-21 62ND RD APT#1,', 3
+'Address', '163-15 86TH STREET,', 2
+'Address', '35 163RD STREET,', 8
+'Address', '74 DEERFIELD ROAD,', 1
+'Address', '726 6TH AVENUE ST FL,', 1
+'Address', '6767 AMBOY RD,', 2
+'Address', '56 VAN STREET,', 40
+'Address', '1000 ANDERSEN AVE, 2ND FLOOR,', 124
+'Address', '43 EAST 16TH STREET,', 2
+'Address', '305 MINEOLA BLVD,', 1
+'Address', '822 RIVER ROAD REAR BUILDING,', 3
+'Address', '24-36 HILLSIDE AVENUE,', 1
+'Address', '316A HIMROD STREET SUITE 2,', 4
+'Address', '40-43 100TH ST,', 8
+'Address', '44 EAST MAIN STREET,', 2
+'Address', '2 WATER STREET,', 4
+'Address', '050 ROCKAWAY AVE,', 1
+'Address', '8906 72ND STREET,', 1
+'Address', '4-17 172ND ST,', 3
+'Address', '6923 8TH AVENUE,', 1
+'Address', '180 MANSION AVE,', 2
+'Address', '21 DEL LAVAL AVENUE,', 3
+'Address', '132-06 ROCKAWAY BLVD,', 38
+'Address', '149-44 DELAWARE AVENUE,', 7
+'Address', '123 50TH STREET,', 15
+'Address', '761 BRUCKNER BLVD,', 3
+'Address', '381 MARGUERITE AVENUE,', 11
+'Address', '1903 TOMLINSON AVENUE,', 7
+'Address', '23-09 31ST STREET, SUITE 2,', 6
+'Address', '116-11 101ST AVE,', 9
+'Address', '60 WEST 2ND STREET, SUITE D3,', 1
+'Address', '33 BENNETT PLACE,', 1
+'Address', '50 EAST 3 STREET UNIT 7,', 1
+'Address', '24 WHITEWELL PLACE,', 1
+'Address', '6 EAST 27TH STREET 3RD FL,', 1
+'Address', 'MAIN ST UNIT 3,', 1
+'Address', '37 GRAHAM AVENUE,', 1
+'Address', '87-10 97TH STREET,', 4
+'Address', '242 WEST 36TH ST 14TH FLOOR,', 9
+'Address', '266 BROADWAY STE 301,', 7
+'Address', '40 BROADWAY-4ST FL,', 1
+'Address', '724 E 9TH STREET,', 1
+'Address', '36-26 TH STREET,', 1
+'Address', '45 WEST 1ST STREET,', 2
+'Address', '9 W 8TH ST STE 1100W,', 3
+'Address', '3 KENWOOD ROAD,', 1
+'Address', '38 WAVERLY AVE,', 1
+'Address', '40 EAST CITY AVENUE, STE 500,', 1
+'Address', '4-22 75 STREET, ST FL,', 1
+'Address', '00 AVENUE L,', 3
+'Address', '191 WILLOW AVENUE,', 4
+'Address', '384 TROUTMAN STREET,', 23
+'Address', '33 DOBBIN STREET,', 5
+'Address', '505 8TH AVENUE #70,', 2
+'Address', '5 LENZIE STREET,', 1
+'Address', '208 7ST STREET,', 1
+'Address', '110 W CLARKSTOWN ROAD,', 2
+'Address', '47-05 24TH AVE,', 1
+'Address', '123 LAFAYETTE AVE,', 4
+'Address', '35-6 24TH STREET,', 1
+'Address', '24-02 NORTHERN BOULEVARD 2ND FL,', 1
+'Address', '8 JEROME ROAD,', 1
+'Address', '654 4TH AVENUE,', 180
+'Address', '137-30 REDDINGS STREET,', 23
+'Address', '197 FIRENZE STREET,', 3
+'Address', '8 LAMARTINE TERRACE APT 3G,', 2
+'Address', '353 WEST 48TH STREET, STE 329,', 1
+'Address', '461 WEST 261 STREET,', 7
+'Address', '835 MCLEAN AVENUE,', 1
+'Address', '775 WEST 54 STREET,', 2
+'Address', '1900 LAKEWAY.DRIVE SUITE 100,', 5
+'Address', '4403 15TH AVENUE #04,', 2
+'Address', '179-36 HILLSIDE AVE,', 64
+'Address', '90-02 9ST AVENUE,', 1
+'Address', '89-42 29TH STREET,', 1
+'Address', '8 TURF ROAD,', 4
+'Address', '83 AZALEA ROAD,', 4
+'Address', '63 FLUSHING AVENUE UNIT 324,', 11
+'Address', '201 4TH STREET,', 6
+'Address', '808 NEPPERHAN AVENUE,', 121
+'Address', '88 9TH STREET,', 4
+'Address', '209 S FEHR WAY,', 3
+'Address', '2 WEST CASTOR PLACE,', 5
+'Address', '5 RHINELANDER AVE,', 1
+'Address', '5620 ST AVENUE,', 1
+'Address', '737 3TH AVE,', 1
+'Address', '19 JOHNSON AVENUE,', 2
+'Address', '389 BROOME STREET  BOX#2,', 25
+'Address', '08-27 66TH AVENUE,', 1
+'Address', '00 PACIFIC STREET,', 1
+'Address', '16-1 41ST AVENUE SUITE 2A,', 3
+'Address', '311 ROEBLING ST. ND FL,', 2
+'Address', '05 DIAMOND ST,', 1
+'Address', '1809 EMMONS AVENUE, 2ND FLOOR,', 3
+'Address', '6745 69TH STREET,', 1
+'Address', '65 W MERRICK RD,SUITE 202,', 225
+'Address', '1431 CROMWELL AVE,', 19
+'Address', '59 HYLAN BOULEVARD, STE. B,', 6
+'Address', '5 N.VILLAGE AVENUE 2ND FLR,', 1
+'Address', '239 CENTRE STREET, BASEMENT,', 5
+'Address', '99 CONEY ISLAND AVENUE,', 2
+'Address', '708 THIRD AVENUE,', 1
+'Address', '70-60 83RD ST, 1ST FLOOR,', 2
+'Address', '1324 HERSCHELL STREET,', 7
+'Address', '270 BROADWAY SUITE 003,', 1
+'Address', '206-05 JAMAICA AVENUE,', 1
+'Address', '729 ROOSEVELT AVENUE,', 1
+'Address', '146 44TH STREET STE 1D,', 5
+'Address', '5 MELVIN AVE,', 2
+'Address', '5308 3TH AVE SUITE #89,', 1
+'Address', '435 BEACH 136 STREET,', 7
+'Address', '303 53RD STREET, STE 84,', 1
+'Address', '45 NORTHERN BLVD. SUITE#6,', 2
+'Address', '576 7TH AVENUE,', 1
+'Address', '30 CHURCH STREET BASEMENT FL,', 1
+'Address', '4656 BURLING ST,', 3
+'Address', '678 MORRIS PARK AVENUE,', 1
+'Address', '90-50 SUTPHIN BOULEVARD,', 1
+'Address', '59-3 56TH ROAD,', 4
+'Address', '56-10 NURGE AVE,', 3
+'Address', '32-37 62ND STREET,', 16
+'Address', '199 LEE AVENUE, SUITE 785,', 3
+'Address', '26 PAGNOTTA DRIVE,', 1
+'Address', '414 3RD AVENUE,', 2
+'Address', '2945 BRIGHTON 1 STREET,', 7
+'Address', '871 51ST STREET,', 2
+'Address', '733 EAST 3RD APT ,', 2
+'Address', '2043 WEST 7TH STREET, #1R,', 21
+'Address', '511 CANAL STREET, 4TH FLOOR,', 2
+'Address', '156 E 3RD STREET,', 14
+'Address', '95-20 50TH STREET,', 1
+'Address', '75-4 HILLSIDE AVE,', 1
+'Address', '8509 57TH ROAD,', 2
+'Address', '96-1 69TH AVENUE,', 2
+'Address', '652 BATH AVENUE, 2ND FLOOR,', 1
+'Address', '754 5TH AVENUE,', 1
+'Address', '96-59 222ND STREET,', 3
+'Address', '314 48TH STREET,', 12
+'Address', '330 WEST 34TH STREET,', 23
+'Address', '85 CARVER AVE,', 6
+'Address', '151 41ST ROAD,', 3
+'Address', '38 W 06TH ST 4FW,', 1
+'Address', '30-7 23RD AVE,', 1
+'Address', '54-01 35 STREET,', 2
+'Address', '361 NOSTRAND AVENUE SUITE 901,', 2
+'Address', '176-5 UNION TURNPIKE #179,', 2
+'Address', '230 FERRIS AVE,', 1
+'Address', '5314 16TH AVENUE, SUITE 295,', 8
+'Address', '169-12 HILLSIDE AVENUE,', 3
+'Address', '32-21 55TH STREET,', 4
+'Address', '32-57 8TH STREET,', 4
+'Address', '25 NORTHERN BLVD,', 1
+'Address', '6133 TYNDALL AVENUE,', 4
+'Address', '37 CATHERINE ST B,', 1
+'Address', '833 TUCKAHOE ROAD,', 1
+'Address', '15 PASSAIC STREET,', 2
+'Address', '2 MADISON AVENUE,6TH FLOOR,', 1
+'Address', '400 BROOME STREET.TH FLOOR,', 1
+'Address', '39-15 MAIN STREET, #308,', 50
+'Address', '20 BROADWAY SUITE 20,', 1
+'Address', '13-10 CROSS BAY BLVD,', 2
+'Address', '98 JEWETT AVE,', 3
+'Address', '97-1 107TH STREET,', 2
+'Address', '100 JERICHO TURNPIKE,', 2
+'Address', '14 FLORIDA AVENUE,', 2
+'Address', '656 METROPOLITAN AVE REAR BLD,', 2
+'Address', '135-4 HILLSIDE AVENUE,', 2
+'Address', '18-1 ASTORIA PARK SOUTH,', 2
+'Address', '228 FRONT ST,', 5
+'Address', '107 SEGUINE AVE,', 4
+'Address', '35-2 BELL BLVD,', 1
+'Address', '74-6A GRAND AVENUE, SUITE 47,', 1
+'Address', '184 BERTHA PL,', 2
+'Address', '95 RALPH AVENUE,', 1
+'Address', '159-10 MEYER AVENUE,', 4
+'Address', '291 BROADWAY, SUITE 706,', 4
+'Address', '143 VINELAND AVE,', 2
+'Address', '117-02 ATLANTIC AVENUE,', 4
+'Address', '81-09 101ST AVENUE,', 26
+'Address', '12-22 CANEY LANE,', 4
+'Address', '17-A SEAMAN AVE,', 2
+'Address', '144-21 JAMAICA AVE,', 8
+'Address', '155 WEST 231ST STREET, FL 1,', 8
+'Address', '63-03 FOREST AVENUE,', 7
+'Address', '377 OAK STREET, SUITE 110,', 8
+'Address', '77 BOX STREET,', 2
+'Address', '68 EAST 11ST STREET,', 3
+'Address', '27 SAINT CHARLES ST,', 1
+'Address', '55-15 69TH PLACE,', 8
+'Address', '1976 E 24TH STREET,', 5
+'Address', '52 COLUMBIA STREET,', 4
+'Address', '63 PATMOR AVENUE,', 2
+'Address', '158 DAVID STREET,', 2
+'Address', '6308 WOODHAVEN BLVD,', 1
+'Address', '57 PARK DRIVE,', 1
+'Address', '74-3 91ST AVENUE,', 2
+'Address', '67-7 NORTHERN BVLD,', 1
+'Address', '670 MYRTLE AVE #6,', 1
+'Address', '3241 SKILLMAN AVENUE,', 11
+'Address', '1-07 FARRINGTON STREET,', 3
+'Address', '1441 76TH STREET,', 2
+'Address', '5308 13TH ST SUITE #398,', 7
+'Address', '1970 EAST 18TH STREET 11TH FLR,', 2
+'Address', '74 RICHMOND TERRACE,', 1
+'Address', '157-7 85TH STREET,', 2
+'Address', '11 E 156TH ST,', 4
+'Address', '44 EAST 6TH STREET, 2ND FL,', 1
+'Address', '47 W 35TH STREET #5,', 1
+'Address', '29 LOUISIANA AVENUE,', 1
+'Address', '76 BROOK STREET,', 2
+'Address', '6506 GRAND AVE,', 1
+'Address', '65-6 99TH STREET APT 4P,', 3
+'Address', '89-33 133RD STREET,', 12
+'Address', '91-01 130TH STREET,', 22
+'Address', '188 RALPH AVENUE,', 2
+'Address', '1 PLAZA ROAD- STE LL1,', 7
+'Address', '14 WEST 57TH STREET,', 2
+'Address', '4270 AUSTIN BOULEVARD,', 1
+'Address', '422 PHILLIP AVE,', 1
+'Address', '2 EAST 43RD STREET,', 1
+'Address', '900 3RD AVENUE,', 1
+'Address', '333 OLD TARRYTOWN RD STE 1B,', 2
+'Address', '60-11 39TH AVENUE, 1ST FLOOR,', 2
+'Address', '7 RYE RIDGE PLAZA,', 1
+'Address', '159-20 115TH ROAD,', 3
+'Address', '111 JOHN STREET.#400,', 2
+'Address', '113-07 86TH AVE 1ST FL,', 33
+'Address', '18 CLOVE ROAD,', 3
+'Address', '200 PARK AVENUE TH FLOOR,', 1
+'Address', '385 CHURCH AVENUE,', 1
+'Address', '21-60 RD STREET,', 3
+'Address', '76-02 88TH AVENUE,', 4
+'Address', '275 WEST 39TH STREET 4TH FL,', 1
+'Address', '876 SCHENECTADY AVE SUITE 2,', 1
+'Address', '99 CONEY ISLAND AVE,', 2
+'Address', '5308 3TH AVE #283,', 1
+'Address', '101-08 97 AVENUE,', 4
+'Address', '1 E. BROWARD BLVD. STE 805,', 2
+'Address', '2-1 ASTORIA BOULEVARD,', 3
+'Address', '326 PIERMONT RD,', 1
+'Address', '100 BEARD STREET,', 6
+'Address', '4023 AVENUE T, 1ST FL,', 5
+'Address', '70 NEW STREET,', 1
+'Address', '09- PINE GROVE ST,', 1
+'Address', '05-57 35TH STREET,', 1
+'Address', '28 MEYERS AVE SUITE C,', 1
+'Address', '3044 CONEY ISLAND AVE STE B7,', 2
+'Address', '2-15 LEAVITT ST APT 1C,', 3
+'Address', '50-8 203RD STREET,', 1
+'Address', '280 LAFAYETTE AVENUE,', 1
+'Address', '55-35 77ST ST FLOOR,', 1
+'Address', '129-08 143RD STREET,', 559
+'Address', '1140 BROADWAY STE 06,', 2
+'Address', '51-51 59TH PLACE,', 7
+'Address', '2032 E 17TH STREET,', 4
+'Address', '122 WOODWORTH AVENUE,', 38
+'Address', '363 DARLINGTON AVENUE,', 12
+'Address', '52 SEWANEE AVENUE #B,', 1
+'Address', '6-1 4TH STREET,', 2
+'Address', '7 BAYLIS AVE,', 1
+'Address', '380 MT COBB ROAD LAKE ARIEL,', 1
+'Address', '70 ORANGE AVENUE,', 1
+'Address', '145 WEST 45 STREET STE1001 10,', 3
+'Address', '1274 49TH STREET, SUITE 129,', 3
+'Address', '655 ROUTE 300,', 1
+'Address', '30-36 52ND STREET,', 1
+'Address', '106-07 NORTHERN BLVD,', 2
+'Address', '164-6 UNDERHILL AVENUE,', 3
+'Address', '105 MADISON AVENUE,', 3
+'Address', '837 AVE Z,', 1
+'Address', '113-05 111TH AVE,', 2
+'Address', '40 W 57TH STREET,', 3
+'Address', '80 PENN STREET,', 2
+'Address', '663 61 STREET,', 2
+'Address', '55 NORTHERN BLVD STE 42,', 1
+'Address', '1358 UTICA AVENUE,', 2
+'Address', '00 MERRICK ROAD STE 350W,', 1
+'Address', '770 LEXINGTON AVENUE 13TH FL,', 16
+'Address', '783 EAST 4TH STREET,', 2
+'Address', '5014 16TH AVE #136,', 96
+'Address', '48-09 37TH STREET,', 1
+'Address', '7218 16TH AVENUE,', 29
+'Address', '96 STEVENS PLACE,', 37
+'Address', '18-16 127TH STREET UNIT 2ND FL,', 3
+'Address', '0 LEDYARD PLACE,', 3
+'Address', '60-7 BLEECKER STREET,', 1
+'Address', '937 7ST STREET STE BSMT,', 1
+'Address', '62-25 DEPOT ROAD,', 1
+'Address', '5804 57TH ROAD,', 13
+'Address', '95-26 SUTPHIN BOULEVARD,', 1
+'Address', '10 PURSER PLACE,', 42
+'Address', '4-01 170TH STREET,', 8
+'Address', '101-01 101 AVENUE,', 9
+'Address', '470 CONVENT AVENUE, SUITE 2,', 22
+'Address', '49 64TH STREET,', 1
+'Address', '589 3RD AVENUE,', 1
+'Address', '17-17 166 STREET,', 3
+'Address', '55-54 60TH  STREET,', 2
+'Address', '2 ALLEN STREET STE H,', 4
+'Address', '728 WEST 8TH STREET, #B,', 1
+'Address', '95-55 114TH STREET,', 110
+'Address', '4 CHANNEL DR,', 5
+'Address', '122 E 57TH STREET ROOM 4R,', 6
+'Address', '10-06 METROPOLITAN AVE., 1ST FL,', 2
+'Address', '1070 2ND AVENUE RD FLOOR,', 3
+'Address', '368 RICHARDSON STREET,', 18
+'Address', '53-55 LIBERTY AVE,', 2
+'Address', '96 WOODMERE DRIVE,', 1
+'Address', '9753 85TH STREET,', 1
+'Address', '547 WEST 27TH STREET STE 304,', 1
+'Address', '33-60 9TH STREET 2ND FLOOR,', 1
+'Address', '209 MADISON STREET,', 1
+'Address', '970 COLGATE AVENUE,', 89
+'Address', '307 SMITH STREET,', 1
+'Address', '843 S.OCEAN AVENUE,', 34
+'Address', '169 WILLIAMSBRIDGE ROAD,', 2
+'Address', '40 DOYLE COURT,', 9
+'Address', '62-21 62ND ROAD,', 3
+'Address', '0 WEST 8TH ST SUITE 511,', 3
+'Address', '201 ARLINGTON AVENUE,', 3
+'Address', '19 WHITMAN DRIVE,', 4
+'Address', 'WAREHOUSE LANE SUITE 160,', 5
+'Address', '406 JERICHO TURNPIKE,', 2
+'Address', '41 BEACH 136 STREET,', 5
+'Address', '587 RIVERSIDE DRIVE APT 3D,', 1
+'Address', '50 LORDS WAY,', 1
+'Address', '-15 UNION TURNPIKE,', 2
+'Address', '15 WEST 27TH STREET, 10TH FL,', 3
+'Address', '85 BELMONT AVENUE,', 4
+'Address', '5308 13TH AVENUE #434,', 2
+'Address', '435 AUSTIN PLACE, SUITE F,', 1
+'Address', '274 GERRITSEN AVENUE,', 1
+'Address', '15 MILL AVENUE,', 2
+'Address', '167 NORTH 1ST STREET,', 3
+'Address', '11-16A WYCKOFF AVENUE,', 3
+'Address', '026 CONEY ISLAND AVENUE,', 1
+'Address', '2079 WEST 7TH STREET,', 1
+'Address', '16 RIDGE PL,', 3
+'Address', '22- 8TH AVENUE,', 1
+'Address', '29 50TH ST,', 4
+'Address', '98 BEACH STREET,', 2
+'Address', '070 RANCHITOS NE,', 1
+'Address', '867 FATHER CAPODANNO  BLVD #,', 2
+'Address', '63-7 METROPOLITAN AVENUE,', 1
+'Address', '11-4 20TH AVE,', 5
+'Address', '1300 MADISON AVENUE,', 5
+'Address', '152-32 ROCKAWAY BLVD,', 12
+'Address', '14-07 1TH STREET,', 13
+'Address', '246-15 87TH AVENUE,', 3
+'Address', '320 BEECH AVE FL3,', 14
+'Address', '1836 GILFORD AVENUE,', 5
+'Address', '-01 VERNON BLVD,', 3
+'Address', 'UNION STREET,', 36
+'Address', '94 EDGEWOOD AVE STE 2F,', 1
+'Address', '225 CITY BLVD,', 1
+'Address', '770 MIDDLENECK ROAD SUITE 4P,', 3
+'Address', '53 BROADWAY,', 2
+'Address', '18 HUNTINGTON STREET,', 3
+'Address', '01 SPRAIN ROAD,', 2
+'Address', '30-4 50TH STREET,', 1
+'Address', '34 VAN DYKE STREET,', 1
+'Address', '840 FALMOUTH AVENUE,', 1
+'Address', '2343 HYLAND BLVD,', 37
+'Address', '55 WEST 39TH STREET-SUITE205,', 1
+'Address', '15 MARGARET STREET,', 4
+'Address', '571 TIMPSON PLACE,', 4
+'Address', '2-0 161ST STREET,', 4
+'Address', '4-52 28TH AVENUE,', 1
+'Address', '702 CROSSBAY BLVD,', 4
+'Address', '1051 UTICA AVENUE,', 2
+'Address', '39-8 49TH STREET,', 1
+'Address', '464 WILD AVENUE,', 7
+'Address', '159 10 MEYER AVENUE,', 2
+'Address', '184 MACE AVENE #,', 2
+'Address', '1274 49TH STREET PMB 18,', 6
+'Address', '749 LOCKPORT RD,', 2
+'Address', '72 KING ST,', 3
+'Address', '45 WEST 6TH ST 12TH FL,', 3
+'Address', '820 EDISON AVENUE,', 1
+'Address', '2262 CENTRE AVENUE STE C,', 1
+'Address', '272 EAST 63RD STREET,', 1
+'Address', '58 206TH STREET,', 1
+'Address', '84 CALVERT STREET SUITE 2E,', 1
+'Address', '334 EAST 0 STREET,', 1
+'Address', '5621 PRESTON CT,', 13
+'Address', '66 BROADWAY BLDG F,', 2
+'Address', '231 NORMAN AVENUE RM 210,', 5
+'Address', '166-05 71ST AVE STE,', 2
+'Address', '638 BEDFORD AVENUE,', 4
+'Address', '67 DAWSON CIRCLE,', 1
+'Address', '8-02 26TH ROAD,', 1
+'Address', '04 RIDGE ROAD,', 1
+'Address', '390A TIFFANY STREET,', 2
+'Address', '6 BROADWAY SUITE 33,', 1
+'Address', '601 UNION STREET,', 2
+'Address', '0 WEST 40TH STREET.SU 603,', 1
+'Address', '8-7 30TH STREET, FL ,', 1
+'Address', '303 5TH AVE.SUITE.60,', 1
+'Address', '69-19 169TH ST,', 2
+'Address', '119-0 3RD AVENUE,', 2
+'Address', '9 KRISTI CT,', 2
+'Address', '00 WILSHIRE BLVD., STE. 1000,', 6
+'Address', 'HUDSON STREET #405,', 3
+'Address', '90-06A 69TH AVE 3B,', 1
+'Address', '10-35 7TH ROAD,', 4
+'Address', '24 MAMARONECK AVENUE,', 1
+'Address', '487 EMERALD STREET,', 2
+'Address', '530 13TH AVE SUITE 27,', 8
+'Address', '57-44 20TH ROAD,', 1
+'Address', '28 KANSAS STREET,', 1
+'Address', '1455 KARLENS WAY,', 2
+'Address', '470 CLOVE ROAD,', 1
+'Address', '545 GRENVILLE AVENUE,', 1
+'Address', '154 EAST 3RD STREET,', 24
+'Address', '600 NORTH GREENFIELD PARKWAY,', 78
+'Address', '25-2 49TH STREET,', 1
+'Address', '8051 CONGRESS AVENUE,', 3
+'Address', '163-52 20TH AVENUE,', 4
+'Address', '7188 AMBOY ROAD,', 3
+'Address', '30 5 STREET.2ND FLOOR,', 1
+'Address', '82-37 259TH STREET,', 10
+'Address', '100-01 METROPOLITAN AVE F,', 2
+'Address', '07 PULASKI HIGHWAY,', 9
+'Address', '180 EAST 94TH ST,', 2
+'Address', '300 BROADWAY,', 1
+'Address', '44-45 4ST AVE #2V,', 1
+'Address', '60 VARICK STREET SUITE 0,', 1
+'Address', '150-31 1TH AVENUE, SUITE 119,', 2
+'Address', '229 NORWOOD AVE,', 1
+'Address', '29 WEST 36TH STREET 6TH FL,', 1
+'Address', '35 CLOSE AVENUE,', 1
+'Address', '354 HUMBOLDT STREET,', 7
+'Address', '159-25 HILLSIDE AVE..2ND FLOOR,', 3
+'Address', '16 WEST DRIVE,', 2
+'Address', '6704 184TH STEET,', 2
+'Address', '128-12 18TH AVENUE,', 5
+'Address', '105 EAST 10TH STREET,', 2
+'Address', '884 EASTERN PARKWAY,', 3
+'Address', '2 SKILLMAN ST #214,', 5
+'Address', '1838 ADEE AVENUE,', 2
+'Address', '3 MAIN STREET,', 1
+'Address', '1906 59TH STREET,', 24
+'Address', '177 NORTH 11ST,', 3
+'Address', '201 46TH STREET, 1ST FLOOR,', 14
+'Address', '260 ATLANTIC AVE,', 1
+'Address', '740 SNEDIKER AVE F,', 1
+'Address', '165B INDUSTRIAL LOOP,', 11
+'Address', '1-20 95 AVENUE,', 3
+'Address', '08 VILLAGE SQUARE,STE 50,', 1
+'Address', '2390 MCDONALD AVE,', 6
+'Address', '7 WEST 36TH STREET, 7TH FL,', 1
+'Address', '2208 ARVELL STREET,', 10
+'Address', '33-3 VERNON BLVD,', 4
+'Address', '675 LINE ROAD,', 4
+'Address', '67 WESTVIEW ROAD,', 3
+'Address', '2279 65TH STREET,', 1
+'Address', '0 INDUSTRIAL AVE STE 3,', 1
+'Address', '42-06A BELL BLVD, STE 332,', 5
+'Address', '106 OVERLOOK AVENUE,', 5
+'Address', '188 VAN BUREN STREET,', 3
+'Address', '545 CONEY ISLAND AVE,', 1
+'Address', '14-41 4ND AVENUE, STE. 4B,', 2
+'Address', '66-3 FRESH POND ROAD,', 1
+'Address', '545 PORT RICHMOND AVE,', 3
+'Address', '240 E. 86TH STREET 7B,', 1
+'Address', '45 UNDERHILL BLVD STE 30,', 8
+'Address', '19 W 1ST STREET STE 40,', 2
+'Address', '2-5 ASTORIA BLVD,', 1
+'Address', '06-8 ROCKAWAY BLVD APT #,', 1
+'Address', '59-05 59TH DRIVE,', 7
+'Address', '45 WEST 45TH ST,STE 00,', 1
+'Address', '45 N STATION PLAZA #24,', 1
+'Address', '78 VAN NEST AVENUE,', 1
+'Address', '19A FORESTER CT,', 2
+'Address', '33 EVANS STREET,', 1
+'Address', '2341 MCDONALD AVE,', 18
+'Address', '1895 WALT WHITMAN RD,', 14
+'Address', '1650 60TH STREET,', 3
+'Address', '33-0 3 AVENUE,', 1
+'Address', '39 BANKER ST,', 1
+'Address', '4645 DELAFIELD AVENUE,', 1
+'Address', '109-32 123RD ST,', 6
+'Address', '35 VAN BRUNT ROAD,', 2
+'Address', '580 BROADWAY SUITE 900,', 40
+'Address', '54-05 NORTHERN BLVD,', 1
+'Address', '820 CONEY ISLAND AVE,', 1
+'Address', '346 BROADWAY,', 9
+'Address', '5740 229TH STREET,', 1
+'Address', '129 WEST 86 STREET,', 3
+'Address', '103-19 103RD AVE,', 2
+'Address', '488 MADISON AVENUE, STE 120,', 3
+'Address', '23-55 BORDEN AVENUE,', 11
+'Address', '59-5 FRESH POND RD., 1ST FLOOR,', 7
+'Address', '86-16 QUEENS BLVD SUITE #07,', 2
+'Address', '45-65 166TH ST,', 3
+'Address', '224 FIFTH AVENUE 5TH FL,', 1
+'Address', '53 GROVE AVENUE,', 8
+'Address', '226 EAST 28TH STREET,', 1
+'Address', '20 MELROSE ROAD,', 1
+'Address', '63 ALBANY AVE,', 1
+'Address', '46-33 66 STREET,', 1
+'Address', '54-0 35TH STREET,', 1
+'Address', '440 A 3TH STREET,', 1
+'Address', '8 EATON CT,', 4
+'Address', '116-16 QUEENS BLVD STE 215,', 3
+'Address', '19 28TH STREET,', 5
+'Address', '301 EVANS AVENUE,', 22
+'Address', '2955 65TH ST,', 1
+'Address', '7 PERLMAN DR,', 3
+'Address', '7505 2ND STREET,', 16
+'Address', '700 COLUMBIA STREET BLDG 30A,', 1
+'Address', '2919 SAMPSON AVENUEE,', 3
+'Address', '6767 AMBOY ROAD,', 1
+'Address', '2-58 CLINTONVILLE STREET,', 1
+'Address', '55 NEW DORP PLAZA,', 1
+'Address', '67-4 ELIOT AVE,', 1
+'Address', '91-15 187TH PLACE,', 3
+'Address', '2 QUINCE LANE,', 1
+'Address', '109 WEST 38TH STREET, SUITE 801,', 2
+'Address', '2247 EAST ST STREET,', 1
+'Address', '5 ROCHELLE LANE,', 1
+'Address', '31-00 47TH AVE,', 2
+'Address', '453 BYRON AVENUE,', 1
+'Address', '1202 HALSEY AVE STREET,', 35
+'Address', '122-17 18 AVENUE,', 4
+'Address', '61-2 56 DRIVE,', 3
+'Address', '1865 PALMER AVE,', 3
+'Address', '2243-7 HOLLERS AVENUE,', 1
+'Address', '16 WALWORTH STREET,', 2
+'Address', '102 MADISON AVENUE, 9TH FLOOR,', 3
+'Address', '5-3 54TH RD,', 8
+'Address', '24 WILSON ST,', 1
+'Address', '20 W 29TH STREET 8TH FL,', 1
+'Address', '45 AUSTIN PLACE,', 3
+'Address', '545 PORT RICHMOND AVENUE,', 1
+'Address', '16 BROADWAY,', 3
+'Address', '6 ANDREW DRIVE,', 8
+'Address', '717 EAST 3RD ST,', 8
+'Address', '99 PARK AVENUE, 2ND FLOOR,', 13
+'Address', '99 MERRICK ROAD,', 1
+'Address', '3733 NOSTRAND AVENUE,', 12
+'Address', '48 FRANKLIN AVENUE,', 3
+'Address', '25 LAKE AVENUE,', 1
+'Address', '2753 CONEY ISLAND AVE ROOM 206,', 1
+'Address', '80 8TH AVENUE,SUITE STE 708,', 3
+'Address', '10 W. 29TH STREET,', 3
+'Address', '999 MARCUS AVENUE, SUITE 30,', 1
+'Address', '27-08 MERRICK BLVD,', 1
+'Address', '44-03 8TH AVENUE,', 2
+'Address', '8 ROCKDALE AVENUE,', 1
+'Address', '14409 ROCKAWAY BOULEVARD,', 99
+'Address', '80 EIGHTH AVENUE, STE 1001,', 3
+'Address', '1163 50TH STREET,', 8
+'Address', '1605 UNIVERSITY AVE #1D,', 2
+'Address', '0-0 44TH AVENUE .SUITE 45,', 1
+'Address', '49-47 31ST STREET,', 2
+'Address', '59-43 60TH STREET,', 2
+'Address', '225 JERICHO TURNPIKE,', 19
+'Address', '374 UNION STREET,', 1
+'Address', '7E ABBOTT AVENUE,', 1
+'Address', '184TH STREET,', 2
+'Address', '767 EAST 32ND STREET,', 1
+'Address', '09-25 97TH ST,', 1
+'Address', '96-36 46TH AVENUE,', 2
+'Address', '9 THE INTERVALE,', 3
+'Address', '181 58 ST,', 3
+'Address', '38-51 TH STREET,', 11
+'Address', '517 CONEY ISLAND AVENUE,', 4
+'Address', '6-06 CROSSBAY BLVD,', 1
+'Address', '397 DALEVIEW AVENUE,', 5
+'Address', '50 ROCKFELLER PLAZA SUB-BASE,', 1
+'Address', '110-20 JAMAICA AVE,', 5
+'Address', '40 8TH STREET,', 1
+'Address', '137 ELMER STREET,', 4
+'Address', '841 VAN DUZER STREET,', 2
+'Address', '149-157 33RD ST,', 2
+'Address', '403 HEWES STREET APT D,', 1
+'Address', '9538 5TH STREET,', 1
+'Address', '1470 BRUCKNER BLVE,', 238
+'Address', '329 HAROLD AVENUE,', 44
+'Address', '2304 JEROME AVENUE,', 1
+'Address', '31 SOUTH STREET, SUITE 4S-,', 6
+'Address', '10-4 15TH RD,', 3
+'Address', '80-34 LITTLE NECK PKWY,', 1
+'Address', '75 LONG BEACH RD,', 1
+'Address', '9821 101ST AVE,', 7
+'Address', '3902 AMBOY ROAD,', 1
+'Address', '42-6 28TH AVENUE,', 1
+'Address', '740 PROSPECT AVE STE 20,', 1
+'Address', '7 ELK STREET LOWER LEVEL,', 1
+'Address', '193 CUSHING AVENUE,', 22
+'Address', '1700 TONNELLE AVE,', 19
+'Address', '49-28 31ST PLACE,', 5
+'Address', 'MCKEE STREET,', 2
+'Address', '34-7 STEINWAY STREET, #108,', 2
+'Address', '197 FRANKLIN AVENUE,', 2
+'Address', '102-06 METROPOLITAN AVE, 1ST FL,', 7
+'Address', '065 LAWSON BLVD,', 3
+'Address', '540 W. MADISON STREET, 16TH,', 41
+'Address', '66-40 69TH STREET,', 43
+'Address', '700-76 BROADWAY,STE 327,', 17
+'Address', '10 JERICHO TURNPIKE STE 103,', 2
+'Address', '1298 BIRCH STREET,', 3
+'Address', '224 ECKFORD STREET,', 1
+'Address', '179 DIVISION  AVENUE,', 2
+'Address', '32 EAST MAIN STREET,', 1
+'Address', '25-26 50TH ST,', 3
+'Address', '31-10 37TH AVENUE, SUITE 500,', 19
+'Address', '43 RIDGEDALE AVENUE,', 1
+'Address', '85 SUMMERFIELD ROAD,', 1
+'Address', '37-17 111TH STREET.STE 1F,', 22
+'Address', '13-09 36TH ROAD,', 4
+'Address', '68 DEGRAW STREET,', 1
+'Address', '38-32 5TH STREET,', 4
+'Address', '370 EAST 134 STREET,', 2
+'Address', '158-31 90TH STREET,', 2
+'Address', '90 WEST SANDFORD BLVD,', 7
+'Address', '699 FOUNTAIN AVE,', 1
+'Address', '317 SPRAGUE ROAD,', 2
+'Address', '333 WEST 57 STREET APT 205,', 1
+'Address', '3969 MERRITT AVE,', 350
+'Address', '180 VARICK STREET,SUITE 206,', 38
+'Address', 'AND HEATING,', 4
+'Address', '60 LOCUST AVENUE,', 1
+'Address', '12 GRUBER DRIVE,', 3
+'Address', '36-87 ROOSEVELT AVENUE 2ND FL,', 1
+'Address', '72 244TH STREET,', 1
+'Address', '555 LONGFELLOW AVENUE,', 1
+'Address', '50 SEVENTH AVENUE SUITE 503,', 1
+'Address', '500 SEVENTH AVENUE 2TH FLOOR,', 1
+'Address', '874 EAST 2RD STREET,', 3
+'Address', '102-16 35 AVE,', 4
+'Address', '1913 DEER PARK AVENUE,', 2
+'Address', '58-40 208TH ST,', 3
+'Address', '104-14 NORTHERN BLVD,', 3
+'Address', '213 WEST 3TH STREET, STE#806,', 5
+'Address', '461 20TH STREET,', 3
+'Address', '18-08 25TH ROAD,', 7
+'Address', '218 GRAND STREET SUITE 18,', 4
+'Address', '110-42 15TH AVENUE,', 44
+'Address', '823 EAST 16TH STREET, SUITE 1,', 5
+'Address', '150 AVE OF THE AMERICAS 2ND F,', 3
+'Address', '163 BEACH 14 STREET,', 2
+'Address', '122-09 6TH AVE,', 3
+'Address', '34 SOUTH 9 ST,', 1
+'Address', '126-10 89TH AVENUE,', 3
+'Address', '3711 AVENUE L,', 2
+'Address', '749 PROSPECT PLACE,', 1
+'Address', '383 BRADFORD AVE,', 2
+'Address', '257 E 24 STREET,', 3
+'Address', '7 BARSTOW ROAD #208,', 1
+'Address', '70 EAST 34TH STREET,', 1
+'Address', 'LEONE ENTERPRISES,', 1
+'Address', '32 AMBOY ROAD,', 7
+'Address', '34-56 10TH STREET,', 2
+'Address', '104 LORIMER STREET,', 15
+'Address', '33-23 161 STREET,', 22
+'Address', '8810 WHITNEY AVENUE,', 2
+'Address', '400 WEST 7TH STREET SUITE3D,', 1
+'Address', '179-15 JAMAICA AVENUE,', 2
+'Address', '45 MAIN STREET SUITE 526,', 1
+'Address', '40 DURGES STREET,', 5
+'Address', '280 TOWNE CENTER DRIVE, BLDG1,', 3
+'Address', '34-28 COLLINS PLACE,', 11
+'Address', '45-0 JAMAICA AVE,', 1
+'Address', '163 BAY 34TH STREET 1ST FLOOR,', 7
+'Address', '1062 ADAMS AVENUE,', 4
+'Address', '11-15 3RD ROAD,', 4
+'Address', '62 CORPORATE WAY SUITE ,', 1
+'Address', '677 VAN NEST AVE,', 3
+'Address', '457 SKIDMORE ROAD,', 1
+'Address', '23-68 24TH STREET,', 1
+'Address', '46-12 QUEENS BLVD #20,', 3
+'Address', '85 MCLEAN AVE SUITE 2,', 1
+'Address', '069 CONEY ISLAND AVENUE,', 1
+'Address', '66 DIKEMAN STREET,', 1
+'Address', '66 MCDONALD AVENUE, STE 08,', 1
+'Address', '925 SAW MILL RIVER ROAD,', 1
+'Address', '1-11 REDFERN AVENUE,', 2
+'Address', '132-03 101ST AVENUE,', 221
+'Address', '845 BAY RIDGE AVENUE #1F,', 2
+'Address', '508 MORGAN AVENUE,', 16
+'Address', '589 JOHNSON AVENUE,', 55
+'Address', '149 DEVOE AVENUE,', 5
+'Address', '6 CONCORD PLACE,', 1
+'Address', '673 TH AVENUE,', 1
+'Address', '24 BOUCK AVE,', 1
+'Address', '22 DONCASTER RD,', 1
+'Address', '175 ZOE STREET APT. 6-P,', 4
+'Address', '6717 4TH AVENUE,', 8
+'Address', '0 WEST PARKWAY, UNIT#10,', 2
+'Address', '183 WILSON STREET,', 9
+'Address', '157 WALLABOUT ST APT4P,', 10
+'Address', '4308 28TH AVE #3,', 1
+'Address', '87-16 101ST AVENUE,', 2
+'Address', '429 MEEKER AVENUE,', 1
+'Address', '2907 DITMARS BLVD,', 3
+'Address', '37-22 30TH STREET,', 4
+'Address', '249 EAST TREMONT AVENUE,', 1
+'Address', '10 WEST 38TH STREET,', 2
+'Address', '107 BEAVERBROOK ROAD,', 14
+'Address', '668 20TH AVE #40442,', 1
+'Address', '530 WILLETT AVENUE,', 7
+'Address', '450 VET MEM HI STE 3080 W,', 2
+'Address', '340 MADISON AVE 19FL,', 5
+'Address', '14 E 94TH STREET,', 5
+'Address', '42-2 QUEENS BLVD #203,', 1
+'Address', '4019 14TH AVENUE,', 2
+'Address', '3 MCLEAN AVE,', 1
+'Address', '6056 59TH AVENUE,', 2
+'Address', '141-65 85TH ROAD, STE 5E,', 2
+'Address', '148 BAY STREET,', 3
+'Address', '104-40 108TH STREET,', 6
+'Address', '1078 ARNOW AVE,', 2
+'Address', '5-0 4TH AVENUE,', 1
+'Address', '211 COOK STREET,', 80
+'Address', '870 NEPPERHAN AVENUE,', 56
+'Address', '524 9TH AVENUE,', 1
+'Address', '8 SHERWOOD CIRCLE,', 6
+'Address', '8-12 0TH STREET,', 3
+'Address', '6414 ASQUITH CRES,', 3
+'Address', '965 EAST 2TH STREET,', 1
+'Address', '5275 ARTHUR KILL ROAD,', 15
+'Address', '438 67TH STREET,', 1
+'Address', '387 PARK AVENUE SOUTH 7TH FL,', 1
+'Address', '84 MASON  BLVD,', 1
+'Address', '420 MANIDA STREET,', 145
+'Address', '2201 NEPTUNE AVENUE,', 12
+'Address', '2511 3RD AVENUE,', 380
+'Address', '1044 NORTHERN BLVD, 2ND FL,', 7
+'Address', '510 EAGLE AVE,', 4
+'Address', '16-40 CENTRE STREET,', 23
+'Address', '1470 BRUCKNER BLVD,', 31
+'Address', '38 UNION STREET,', 1
+'Address', '4410 AVENUE J,', 7
+'Address', '41 AVENUE A,', 2
+'Address', '87 AVENUE X,', 2
+'Address', '58-8 37TH. AVENUE,', 1
+'Address', '5910 15TH AVENUE,', 7
+'Address', '25 SHADYSIDE AVENUE,', 3
+'Address', '84 BROADWAY 2A,', 7
+'Address', '4465 BRONX BLVD,', 39
+'Address', '183 WILSON STREET, STE 409,', 6
+'Address', '5 CANAL STREET,6FL,', 1
+'Address', '68 RAVENHURST AVENUE,', 1
+'Address', '124 MC CLEAN AVENUE,', 3
+'Address', '30 LEGION DRIVE,', 1
+'Address', '359 EAST 198TH STREET,', 2
+'Address', '1149 E 34TH STREET ND FL # B,', 2
+'Address', '24-76 OAK PARK DR,', 1
+'Address', '74-35 GRAND AVENUE,', 2
+'Address', '19-23 DITMARS BOULEVARD,', 5
+'Address', '627 AVENUE W,', 1
+'Address', '351 BAY COURT,', 2
+'Address', '1 HARBORVIEW SOUTH,', 4
+'Address', 'BUILDING 3 #007,', 1
+'Address', '49 W MERRICK ROAD SUITE 10,', 2
+'Address', '37-51 76 STREET,', 2
+'Address', '25-0 ULMER STREET, 2ND FLOOR,', 1
+'Address', '49 WEST 38 ST,', 6
+'Address', '11 EAST 31ST STREET, # 18,', 2
+'Address', '9-02 42ND STREET,', 1
+'Address', '5-5 BARNETT AVE,', 2
+'Address', '260 MADISON AVE., 8TH FL,', 1
+'Address', '75-4 JAMAICA AVE,', 1
+'Address', '08-29 LIVER POOL STREET,', 1
+'Address', '3-23 162ND STREET, GROUND FL,', 4
+'Address', '8 GOLDFINCH LANE,', 7
+'Address', '107-3 125TH STREET,', 4
+'Address', '666 FLUSHING AVENUE,', 4
+'Address', '41-6 71ST STREET,', 3
+'Address', '47 ASH STREET,', 2
+'Address', '0 PLYMOUTH STREET, 1ST FL,', 2
+'Address', '247-6 JERICHO TURNPIKE,', 1
+'Address', '45-8 1ST STREET,', 2
+'Address', '10206 METROPOLITAN AVE STORE #2,', 14
+'Address', '12012 91ST AVENUE,', 50
+'Address', '1560 WEST ND STREET NUM 1,', 2
+'Address', '333 SYLVAN AVE LL11,', 2
+'Address', '38 ALBOURNE AVENUE EAST,', 1
+'Address', '599 LEXINGTON AVE 44TH FLOOR,', 1
+'Address', '25 WAVERLY AVE,', 3
+'Address', '6006 55TH DR,', 25
+'Address', '255 AUBURN AVENUE,', 1
+'Address', '22 RUTGERS STREET.CELLAR,', 4
+'Address', '4300 HYLAN BLVD.SUITE D,', 2
+'Address', '55-24 3TH AVE,', 1
+'Address', '236 WEST 26TH STREET ROOM 303,', 1
+'Address', '52 CLARENDON STREET,', 1
+'Address', '37-16 9ND STREET,', 2
+'Address', '220 FERRIS AVENUE,', 1
+'Address', '24 NEWKIRK AVENUE,', 1
+'Address', '38 NEWKIRK AVENUE,', 2
+'Address', '82 LOUISA STREET,', 1
+'Address', '115 W 1TH STREET,', 8
+'Address', '98-09 ATLANTIC AVE 1ST FL,', 4
+'Address', '290 SHELL ROAD,', 6
+'Address', '225 MCDONALD AVE,', 6
+'Address', '110-01 101ST AVE,', 7
+'Address', '246 LYNCH STREET 1A,', 3
+'Address', '68 S. SERVICE ROAD SUITE 100,', 5
+'Address', '3203 WESTCHESTER AVE,', 28
+'Address', '63-62 SAUNDERS STREET STE204,', 1
+'Address', '56 WOODWARD AVENUE,', 7
+'Address', '473 EASTON TURNPIKE,', 1
+'Address', '35-06 FARRINGTON STREET ND FL,', 2
+'Address', '839 STEWART AVE,', 1
+'Address', '15 CORPORATE DRIVE,', 12
+'Address', '127 WEST 26TH STREET, STE 401,', 202
+'Address', '60 RUTLEDGE STREET, #201,', 15
+'Address', '127-07 LIBERTY AVE,', 4
+'Address', '139 WILLIAMBRIDGE RD,', 2
+'Address', '106 SCHUMACHER DRIVE,', 4
+'Address', '3029 BRIGHTON 7TH ST,', 16
+'Address', '85-8 22TH STREET,', 1
+'Address', '616 73RD STREET,', 2
+'Address', '15 CENTRE ST #108,', 3
+'Address', '3-5 GREENPOINT AVENUE,', 2
+'Address', '30-43 60TH AVE,', 1
+'Address', '350 7TH AVENUE, SUITE 503,', 1
+'Address', '5 HANOVER SQUARE 5TH FLOOR,', 2
+'Address', '3000 BURNS AVENUE,', 19
+'Address', '103 HARRISON AVENUE, #3,', 4
+'Address', '150 CLOVE RD UNIT D,', 10
+'Address', '430 3RD AVENUE,', 6
+'Address', '37 HUDSON STREET, 6TH FL,', 5
+'Address', '66-70 69TH STREET,', 1
+'Address', '20 EAST 3TH STREET,', 1
+'Address', '62 SEDWICK AVENUE,', 1
+'Address', '425 GRAND STREET, SUITE #1,', 3
+'Address', '6701 BAY PARKWAY,', 2
+'Address', '6-35 0ND STREET,', 2
+'Address', '91-12 189TH STREET,', 7
+'Address', '720 FRANKLIN AVENUE,', 3
+'Address', '5412 9TH AVENUE,', 3
+'Address', '2019 MULINER AVENUE #2,', 27
+'Address', '65-06 174TH STEET,', 3
+'Address', '18 DIVISION PLACE,', 3
+'Address', '8 EAST 40TH STREET.STE 510,', 6
+'Address', '526 MIDLAND AVENUE,', 10
+'Address', '18-19 19TH STREET,', 2
+'Address', '199 LEE AVENUE 907,', 2
+'Address', '36-25 2TH STREET,', 1
+'Address', '87-11 118TH STREET,', 3
+'Address', '4370A VICTORY BLVD,', 1
+'Address', '101 PARK AVENUE LOWER LOBBY,', 75
+'Address', '3370 PRINCE STREET SUITE 218,', 41
+'Address', '45 NORTHERN BLVD SUITE 3,', 2
+'Address', '19 W JEFRYN BLVD STE 1,', 2
+'Address', '697 GRAND STREET SUITE 06,', 2
+'Address', '2-11 BROWVALE LANE,', 5
+'Address', '5014 16TH AVENUE SUITE 416,', 2
+'Address', '81 PATTON BLVD,', 2
+'Address', '60 BRONXDALE AVENUE,', 1
+'Address', '43-43 VERNON BOULEVARD,', 1
+'Address', '2-36 162 STREET 1FL,', 4

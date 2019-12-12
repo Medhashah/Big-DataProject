@@ -1,0 +1,385 @@
+'City', 'PRINCETON', 2
+'City', 'NESCONSET', 1
+'City', 'MAHOPAC', 1
+'City', 'VALLEY STREAM', 7
+'City', 'STAMFORD', 3
+'City', 'EAST PATCHOGUE', 1
+'City', 'RIDGEFIELD PARK', 1
+'City', 'PLANTATION', 2
+'City', 'ORLANDO', 4
+'City', 'WESTBURY', 6
+'City', 'DEER PARK', 1
+'City', 'PETALUMA', 1
+'City', 'CHESTER', 2
+'City', 'GOODLETTSVILLE', 1
+'City', 'MOUNT VERNON', 4
+'City', 'ATLANTA', 35
+'City', 'CHEEKTOWAGA', 2
+'City', 'COLLEYVILLE', 1
+'City', 'RALEIGH', 1
+'City', 'CORONA', 25
+'City', 'S RICHMOND HL', 4
+'City', 'OCEANSIDE', 2
+'City', 'MIAMI', 2
+'City', 'RICHFIELD', 11
+'City', 'MEMPHIS', 4
+'City', 'KEARNY', 2
+'City', 'FREMONT', 1
+'City', 'FORT LEE', 1
+'City', 'PATERSON', 1
+'City', 'WINSTON SALEM', 2
+'City', 'BAY SHORE', 2
+'City', 'SPRNGFLD GDNS', 1
+'City', 'BROAD CHANNEL', 1
+'City', 'NASHUA', 1
+'City', 'MASTIC', 1
+'City', 'DES MOINES', 1
+'City', 'DOUGLASTON', 2
+'City', 'BAYSIDE', 32
+'City', 'CAMARILLO', 1
+'City', 'GREENVILLE', 11
+'City', 'NORWOOD', 2
+'City', 'EAST MEADOW', 4
+'City', 'ASTON', 1
+'City', 'BETHLEHEM', 1
+'City', 'MINNEAPOLIS', 11
+'City', 'ISLANDIA', 2
+'City', 'ROCKVILLE CENTRE', 1
+'City', 'REDWOOD CITY', 1
+'City', 'INWOOD', 2
+'City', 'ROHNERT PARK', 1
+'City', 'GREENWICH', 1
+'City', 'LOWELL', 1
+'City', 'AUGUSTA', 3
+'City', 'OAKLAND GDNS', 2
+'City', 'DARIEN', 3
+'City', 'FAR ROCKAWAY', 6
+'City', 'RIDGE', 1
+'City', 'TRINITY', 2
+'City', 'KEW GARDENS', 2
+'City', 'LITTLE ROCK', 1
+'City', 'TOLEDO', 2
+'City', 'HOLYOKE', 1
+'City', 'SCOTTSDALE', 2
+'City', 'DELRAY BEACH', 1
+'City', 'PHOENIX', 2
+'City', 'FLORAL PARK', 8
+'City', 'Whitestone', 1
+'City', 'SOUTH SALEM', 1
+'City', 'MENOMONEE FALLS', 2
+'City', 'CHEVY CHASE', 1
+'City', 'LAKE FOREST', 1
+'City', 'WOODSTOCK', 1
+'City', 'GAVILAN HILLS', 1
+'City', 'NORTHLAKE', 1
+'City', 'None', 0
+'City', 'CEDAR FALLS', 4
+'City', 'CARROLLTON', 2
+'City', 'ROUND ROCK', 1
+'City', 'HEWLETT', 2
+'City', 'WASHINGTON CROSSING', 4
+'City', 'NEPONSIT', 2
+'City', 'NEW ALBANY', 1
+'City', 'MIDDLE VLG', 4
+'City', 'COLTS NECK', 3
+'City', 'HOUSTON', 17
+'City', 'MADISON', 2
+'City', 'NORTH ANDOVER', 1
+'City', 'MARIETTA', 2
+'City', 'JACKSONVILLE', 6
+'City', 'TULSA', 1
+'City', 'WHITESTONE', 13
+'City', 'ELIZABETH', 2
+'City', 'GREAT NECK', 11
+'City', 'BLOOMINGTON', 1
+'City', 'REDMOND', 1
+'City', 'CAMBRIA HEIGHTS', 2
+'City', 'TOPEKA', 1
+'City', 'BELLMORE', 3
+'City', 'PERRY', 1
+'City', 'REGO PARK', 10
+'City', 'WARREN', 1
+'City', 'HOLLADAY', 3
+'City', 'MANHASSET', 1
+'City', 'DEERFIELD', 2
+'City', 'MILWAUKEE', 2
+'City', 'SYOSSET', 2
+'City', 'FRANKLIN SQUARE', 2
+'City', 'FORT LAUDERDALE', 2
+'City', 'MORRISTOWN', 1
+'City', 'PARK RIDGE', 3
+'City', 'BAYSIDE HILLS', 2
+'City', 'MILFORD', 2
+'City', 'HASTINGS ON HUDSON', 1
+'City', 'QUEENS VLG', 7
+'City', 'AUSTIN', 4
+'City', 'PORT CHESTER', 1
+'City', 'WILLIAMSVILLE', 2
+'City', 'TUCKAHOE', 1
+'City', 'SOUTH OZONE PARK', 9
+'City', 'UPPER DARBY', 1
+'City', 'LITTLE NECK', 4
+'City', 'NEW ROCHELLE', 4
+'City', 'MARYVILLE', 1
+'City', 'RANDOLPH', 1
+'City', 'MONROE', 1
+'City', 'HAMPTON', 1
+'City', 'EL PASO', 2
+'City', 'LOUISVILLE', 2
+'City', 'STAFFORD', 1
+'City', 'BROOKFIELD', 4
+'City', 'ALBUQUERQUE', 18
+'City', 'RICHARDSON', 2
+'City', 'RONKONKOMA', 1
+'City', 'LAURELTON', 6
+'City', 'GROVE CITY', 1
+'City', 'BRIDGEPORT', 1
+'City', 'ALBERTSON', 1
+'City', 'CORAM', 1
+'City', 'BETHPAGE', 10
+'City', 'SAN ANTONIO', 1
+'City', 'MERRICK', 1
+'City', 'MANCHESTER', 46
+'City', 'LYNNWOOD', 5
+'City', 'EAST SETAUKET', 1
+'City', 'VALHALLA', 1
+'City', 'SHELTON', 1
+'City', 'ROCKAWAY PARK', 1
+'City', 'FLANDERS', 1
+'City', 'PARSIPPANY', 3
+'City', 'BROOKLYN', 851
+'City', 'ELMHURST', 24
+'City', 'BELLEVUE', 6
+'City', 'EAST ELMHURST', 16
+'City', 'FLUSHING', 99
+'City', 'MONSEY', 9
+'City', 'OVERLAND', 5
+'City', 'CONSHOHOCKEN', 5
+'City', 'N BELLMORE', 4
+'City', 'BENTON HARBOR', 1
+'City', 'MURFREESBORO', 1
+'City', 'WESTBOROUGH', 2
+'City', 'ELMWOOD PARK', 1
+'City', 'JACKSON HEIGHTS', 24
+'City', 'PASSAIC', 3
+'City', 'MOORESVILLE', 8
+'City', 'FREDERICKSBURG', 1
+'City', 'WOODHAVEN', 7
+'City', 'DALLAS', 11
+'City', 'CUPERTINO', 8
+'City', 'MASPETH', 37
+'City', 'MIDDLE VILLAGE', 3
+'City', 'BASKING RIDGE', 1
+'City', 'LONG ISLAND CITY', 68
+'City', 'WOODBURY', 5
+'City', 'PROVO', 1
+'City', 'NEWARK', 2
+'City', 'LONGWOOD', 5
+'City', 'GLENDALE', 8
+'City', 'METAIRIE', 5
+'City', 'BELLEROSE', 2
+'City', 'HOLLYWOOD', 1
+'City', 'ROSLYN HEIGHTS', 1
+'City', 'GLEN COVE', 4
+'City', 'EAST ROCKAWAY', 1
+'City', 'BRIARWOOD', 2
+'City', 'PARAMUS', 2
+'City', 'LAWRENCEVILLE', 1
+'City', 'OZONE PARK', 51
+'City', 'ALDEN MANOR', 1
+'City', 'OXFORD', 1
+'City', 'ROCKAWAY BEACH', 26
+'City', 'GARDEN CITY', 20
+'City', 'CORTLANDT MANOR,', 1
+'City', 'NEW CITY,', 1
+'City', 'SOUTH OZONE,', 2
+'City', 'CINCINNATI,', 5
+'City', 'RENTON,', 8
+'City', 'CHICAGO,', 3
+'City', 'BRISBANE,', 1
+'City', 'BEVERLY HILLS,', 3
+'City', 'PLAINVIEW,', 3
+'City', 'HOFFMAN ESTATES,', 21
+'City', 'JACKSON HTS,', 9
+'City', 'IRVING,', 2
+'City', 'IRVINE,', 2
+'City', 'COMMACK,', 2
+'City', 'Brooklyn,', 1
+'City', 'OAKDALE,', 1
+'City', 'BINGHAMTON,', 1
+'City', 'BRONX,', 414
+'City', 'LEVITTOWN,', 3
+'City', 'SOUTH DAYTONA,', 1
+'City', 'ROME,', 1
+'City', 'CARLSBAD,', 1
+'City', 'FRISCO,', 5
+'City', 'LONG ISLAND CIT,', 9
+'City', 'FARMINGDALE,', 45
+'City', 'NEWBURGH,', 1
+'City', 'MORRISVILLE,', 1
+'City', 'COLUMBUS,', 5
+'City', 'WYCLOFF,', 2
+'City', 'HAZELWOOD,', 3
+'City', 'ARMONK,', 1
+'City', 'MAHOPAC FALLS,', 1
+'City', 'CAMP HILL,', 4
+'City', 'MEDFORD,', 1
+'City', 'LAWRENCE,', 1
+'City', 'CANTON,', 1
+'City', 'SUNRISE,', 1
+'City', 'LISLE,', 18
+'City', 'LIVERPOOL,', 22
+'City', 'EAST NORTHPORT,', 1
+'City', 'OCEAN SPRINGS,', 5
+'City', 'FREEPORT,', 4
+'City', 'EASTCHESTER,', 1
+'City', 'FRESH MEADOWS,', 9
+'City', 'SOUTH RICHMOND HILL,', 20
+'City', 'LOS ANGELES,', 1
+'City', 'NEW HYDE PARK,', 23
+'City', 'PHILADELPHIA,', 1
+'City', 'LAFAYETTE,', 1
+'City', 'MC LEAN,', 1
+'City', 'SEATTLE,', 7
+'City', 'EATONTOWN,', 1
+'City', 'CHESAPEAKE,', 3
+'City', 'HAM LAKE,', 2
+'City', 'FORT WORTH,', 1
+'City', 'BUFFALO,', 1
+'City', 'SANDY,', 1
+'City', 'HUNTINGTON,', 2
+'City', 'ROXBURY,', 2
+'City', 'ASTORIA,', 54
+'City', 'HOLBROOK,', 1
+'City', 'SAN DIEGO,', 2
+'City', 'SANTA MONICA,', 1
+'City', 'KISSIMMEE,', 1
+'City', 'BENTONVILLE,', 3
+'City', 'SOUTH RICHMOND,', 1
+'City', 'VIRGINIA BEACH,', 5
+'City', 'NEWTOWN,', 1
+'City', 'SHERWOOD,', 1
+'City', 'HICKSVILLE,', 7
+'City', 'CHATSWORTH,', 1
+'City', 'ISSAQUAH,', 1
+'City', 'CLEARWATER,', 1
+'City', 'CEDARHURST,', 1
+'City', 'MAMARONECK,', 3
+'City', 'GREENWOOD VLG,', 1
+'City', 'WALLINGTON,', 1
+'City', 'SPRINGFIELD GARDENS,', 2
+'City', 'SAINT LOUIS,', 4
+'City', 'HAUPPAUGE,', 11
+'City', 'WILMINGTON,', 13
+'City', 'HEMPSTEAD,', 3
+'City', 'MIDDLETON,', 1
+'City', 'WEST MILFORD,', 1
+'City', 'DORAL,', 1
+'City', 'CHERRY HILL,', 4
+'City', 'SOUTHAMPTON,', 1
+'City', 'ANN ARBOR,', 1
+'City', 'EAST BRUNSWICK,', 1
+'City', 'EAST HAMPTON,', 1
+'City', 'PELHAM,', 2
+'City', 'WEST HEMPSTEAD,', 2
+'City', 'ROCHELLE PARK,', 1
+'City', 'BURLINGTON,', 4
+'City', 'ELMONT,', 4
+'City', 'JERSEY CITY,', 5
+'City', 'MASSAPEQUA,', 2
+'City', 'MASSAPEQUA PARK,', 2
+'City', 'PISCATAWAY,', 2
+'City', 'ARVERNE,', 1
+'City', 'AMHERST,', 1
+'City', 'HILLSIDE,', 1
+'City', 'TUSTIN,', 1
+'City', 'OYSTER BAY,', 1
+'City', 'WEST CHESTER,', 2
+'City', 'MILL NECK,', 1
+'City', 'NEW YORK,', 816
+'City', 'HOWARD BEACH,', 18
+'City', 'LAS VEGAS,', 3
+'City', 'NORTH BERGEN,', 2
+'City', 'CLEVELAND,', 3
+'City', 'BROOKHAVEN,', 2
+'City', 'HARLAN,', 1
+'City', 'SUNNYSIDE,', 6
+'City', 'LYNBROOK,', 2
+'City', 'CLIFTON,', 3
+'City', 'AMITYVILLE,', 1
+'City', 'SAINT ALBANS,', 11
+'City', 'COON RAPIDS,', 1
+'City', 'STRATHAM,', 1
+'City', 'PEARL RIVER,', 1
+'City', 'ELMSFORD,', 3
+'City', 'FT LAUDERDALE,', 1
+'City', 'BEDFORD,', 1
+'City', 'SCOTCH PLAINS,', 1
+'City', 'READING,', 2
+'City', 'FRANKLIN,', 2
+'City', 'NORTH BELLMORE,', 1
+'City', 'JAMAICA,', 122
+'City', 'LONG IS CITY,', 12
+'City', 'FORT WALTON BEACH,', 1
+'City', 'MINEOLA,', 1
+'City', 'FOREST HILLS,', 10
+'City', 'SAINT CHARLES,', 1
+'City', 'ROSEDALE,', 6
+'City', 'SALT LAKE CITY,', 1
+'City', 'FRAMINGHAM,', 4
+'City', 'DEFIANCE,', 1
+'City', 'RICHMOND HILL,', 28
+'City', 'RIVERHEAD,', 1
+'City', 'WOONSOCKET,', 5
+'City', 'RIDGEWOOD,', 24
+'City', 'POUGHKEEPSIE,', 1
+'City', 'HARRISON,', 4
+'City', 'LARCHMONT,', 2
+'City', 'IRVINGTON,', 1
+'City', 'MOUNT SINAI,', 4
+'City', 'ARCADIA,', 7
+'City', 'ENGLEWOOD,', 1
+'City', 'SEAFORD,', 2
+'City', 'MANHATTAN,', 1
+'City', 'HARTFORD,', 1
+'City', 'HARRISBURG,', 2
+'City', 'QUEENS VILLAGE,', 32
+'City', 'NORWALK,', 4
+'City', 'MIDDLETOWN,', 1
+'City', 'STATEN ISLAND,', 120
+'City', 'YONKERS,', 10
+'City', 'MONMOUTH JUNCTION,', 1
+'City', 'STROUDSBURG,', 1
+'City', 'ISELIN,', 1
+'City', 'TWINSBURG,', 1
+'City', 'FAIRFIELD,', 2
+'City', 'SIOUX FALLS,', 1
+'City', 'BERGENFIELD,', 1
+'City', 'BUSHKILL,', 1
+'City', 'CLAYMONT,', 1
+'City', 'ROSWELL,', 23
+'City', 'NORTH HIGHLANDS,', 1
+'City', 'RANCHO DOMINGUEZ,', 7
+'City', 'LANGHORNE,', 2
+'City', 'SAINT PAUL,', 5
+'City', 'PLANO,', 12
+'City', 'HOLLIS,', 7
+'City', 'NORFOLK,', 9
+'City', 'WOODSIDE,', 32
+'City', 'GLEN OAKS,', 1
+'City', 'SAN FRANCISCO,', 4
+'City', 'FT WASHINGTON,', 8
+'City', 'S OZONE PARK,', 29
+'City', 'MELVILLE,', 6
+'City', 'WILKES BARRE,', 1
+'City', 'GRAPEVINE,', 2
+'City', 'COLLEGE POINT,', 22
+'City', 'ARLINGTON,', 1
+'City', 'HACKENSACK,', 1
+'City', 'FRANKLIN SQ,', 1
+'City', 'OVERLAND PARK,', 13
+'City', 'WHITTIER,', 1
+'City', 'ALBANY,', 1
+'City', 'SAN JOSE,', 3
+'City', 'OMAHA,', 1
+'City', 'EDISON,', 1

@@ -1,0 +1,1 @@
+{"column name": "Org_Name", "semantic_types": [{"semantic_type": "business_name", "count": 9863}, {"semantic_type": "school_name", "count": 1088}, {"semantic_type": "building_classification", "count": 623}, {"semantic_type": "college_name", "count": 95}, {"semantic_type": "park_playground", "count": 33}], "true_type": "business_name", "prediction_type": "business_name"}

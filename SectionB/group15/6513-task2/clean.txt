@@ -1,0 +1,15 @@
+"TEXT': 21237, 'INTEGER': 15194, 'REAL': 4664, 'DATE TIME': 1511"					
+					
+					
+					
+					
+		"{'TEXT': 21717, 'INTEGER': 15906, 'REAL': 4961, 'DATE TIME': 1453}"			
+					
+			"{'TEXT': 21717, 'INTEGER': 15906, 'REAL': 4961, 'DATE TIME': 1453}"		
+					
+					
+					
+				TEXT	21717
+				INTEGER	15906
+				REAL	4961
+				DATE TIME	1453

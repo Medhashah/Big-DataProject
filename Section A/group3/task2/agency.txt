@@ -1,0 +1,251 @@
+NYC Office of the Actuary
+NYCOA
+NYC Office of Administrative Justice Coordinator
+AJC
+Office of Administrative Tax Appeals
+Office of Administrative Trials and Hearings
+OATH
+Department for the Aging
+DFTA
+Mayor's Office of Appointments
+MOA
+Brooklyn Public Library 
+BPL
+Department of Buildings
+DOB
+Business Integrity Commission
+BIC
+Campaign Finance Board 
+CFB
+Center for Innovation through Data Intelligence 
+CIDI
+Charter Revision Commission
+NYC Office of Chief Medical Examiner
+OCME
+Administration for Children's Services
+ACS
+City Clerk, Office of the CLERK
+City Council, New York
+Department of City Planning 
+DCP
+City University of New York 
+CUNY
+Department of Citywide Administrative Services
+DCAS
+Office of Citywide Event Coordination and Management
+CECM
+Civic Engagement Commission CEC
+Civil Service Commission 
+CSC
+Civilian Complaint Review Board 
+CCRB
+Climate Policy & Programs
+Commission on Gender Equity 
+CGE
+Commission to Combat Police Corruption 
+CCPC
+Community Affairs Unit 
+CAU
+Community Boards 
+CB
+Comptroller 
+COMP
+Conflicts of Interest Board 
+COIB
+Department of Consumer Affairs
+DCA
+Department of Consumer and Worker Protection
+DCWP
+Mayor's Office of Contract Services
+MOCS
+Board of Correction 
+BOC
+Department of Correction
+DOC
+Mayor's Office of Criminal Justice 
+Department of Cultural Affairs
+DCLA
+Mayor's Office of Data Analytics
+MODA
+Department of Design and Construction
+DDC
+District Attorney - Bronx County
+District Attorney - Kings County Brooklyn
+District Attorney - New York County Manhattan
+District Attorney - Queens County
+District Attorney - Richmond County Staten Island
+Department of Education
+DOE
+Board of Elections
+BOE
+Emergency Management, NYC
+Mayor’s Office of Environmental Coordination 
+MOEC
+Department of Environmental Protection
+DEP
+Equal Employment Practices Commission 
+EEPC
+Department of Finance 
+DOF
+Fire Department, New York City 
+FDNY
+Fiscal Year 2005 Securitization Corporation
+Office of the Food Policy Director
+GreeNYC 
+GNYC
+Department of Health and Mental Hygiene  
+DOHMH
+Department of Homeless Services 
+DHS
+Housing Authority, New York City 
+NYCHA
+Department of Housing Preservation and Development
+HPD
+Housing Recovery Operations 
+HRO
+Hudson Yards Infrastructure Corporation
+Human Resources Administration 
+HRA
+City Commission on Human Rights  
+CCHR
+Mayor's Office of Immigrant Affairs 
+MOIA
+Independent Budget Office, NYC 
+IBO
+Mayor's Office of Information Privacy  
+MOIP
+Department of Information Technology and Telecommunications
+DOITT
+Office of the Inspector General NYPD
+Mayor's Office of Intergovernmental Affairs 
+MOIGA
+Department of Investigation 
+DOI
+Mayor's Advisory Committee on the Judiciary 
+MACJ
+Labor Relations, NYC Office of 
+OLR
+Landmarks Preservation Commission 
+LPC
+Law Department 
+LAW
+Library, Brooklyn Public 
+BPL
+Library, New York Public 
+NYPL
+Library, Queens Public 
+QL
+Loft Board 
+LOFT
+Office of Management and Budget
+OMB
+Mayor's Committee on City Marshals 
+MCCM
+Mayor's Fund to Advance NYC Mayor's Fund
+Mayor's Office 
+OM
+Mayor's Office for Economic Opportunity
+Mayor's Office for International Affairs 
+IA
+Mayor's Office for People with Disabilities 
+MOPD
+Mayor's Office of Environmental Remediation 
+OER
+Mayor's Office of Special Projects & Community Events 
+MOSPCE
+Mayor's Office of the Chief Technology Officer
+Mayor’s Office of Minority and Women-Owned Business Enterprises 
+OMWBE
+Mayor’s Office of Strategic Partnerships 
+OSP
+Mayor’s Office to End Domestic and Gender-Based Violence 
+ENDGBV
+Mayor's Office of Media and Entertainment  
+MOME
+Media, NYC
+NYC & Company 
+NYCGO
+NYC Children's Cabinet
+NYC Cyber Command
+NYC Economic Development Corporation 
+NYCEDC
+NYC Employees' Retirement System 
+NYCERS
+NYC Health + Hospitals
+NYC Service SERVICE
+NYC Young Men’s Initiative
+New York City Transitional Finance Authority 
+TFA
+New York Public Library 
+NYPL
+Office of Recovery & Resiliency
+Office of ThriveNYC
+Office of the Census for NYC
+Operations, Mayor's Office of OPS
+Department of Parks and Recreation 
+DPR
+Office of Payroll Administration 
+OPA
+Police Department 
+NYPD
+Police Pension Fund 
+PPF
+Probation, Department of 
+DOP
+Procurement Policy Board 
+PPB
+Advisory Commission on Property Tax Reform
+Public Administrator - Bronx County 
+BCPA
+Public Administrator - Kings County 
+KCPA
+Public Administrator - New York County 
+NYCountyPA
+Public Administrator - Queens County 
+QPA
+Public Administrator - Richmond County 
+RCPA
+Public Advocate 
+PUB ADV
+Public Design Commission
+Queens Public Library 
+QPL
+Department of Records and Information Services
+DORIS
+Rent Guidelines Board 
+RGB
+Sales Tax Asset Receivable Corporation 
+STAR
+Sanitation, Department of 
+DSNY
+School Construction Authority 
+SCA
+Small Business Services 
+SBS
+Social Services, Department of 
+DSS
+Special Commissioner of Investigation for the New York City School District
+Mayor’s Office of Special Enforcement 
+OSE
+NYC Office of the Special Narcotics Prosecutor
+SNP
+Board of Standards and Appeals
+BSA
+Sustainability, Mayor's Office Of TSASC, Inc.
+Tax Appeals Tribunal, New York City 
+TAT
+Tax Commission, New York City 
+TC
+Taxi and Limousine Commission 
+TLC
+Teachers' Retirement System of the City of New York
+Department of Transportation
+DOT
+Veterans' Services, Department of DVS
+Water Board 
+NYWB
+NYC Municipal Water Finance Authority 
+NYW
+Workforce Development, Mayor's Office of
+Department of Youth and Community Development 
+DYCD

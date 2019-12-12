@@ -1,0 +1,13 @@
+'Areas of study', 'Performing Arts/Visual Art & Design', 3
+'Areas of study', 'Engineering', 4
+'Areas of study', 'None', 0
+'Areas of study', 'Zoned', 5
+'Areas of study', 'Communications', 3
+'Areas of study', 'Science & Math', 5
+'Areas of study', 'Law & Government,', 1
+'Areas of study', 'Business,', 1
+'Areas of study', 'Performing Arts,', 11
+'Areas of study', 'Computer Science & Technology,', 4
+'Areas of study', 'Humanities & Interdisciplinary,', 4
+'Areas of study', 'Health Professions,', 5
+'Areas of study', 'Visual Art & Design,', 4

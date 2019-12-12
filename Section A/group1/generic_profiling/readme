@@ -1,0 +1,7 @@
+Command to run the generic_profiling.py file
+
+./test.sh generic_profiling.py folder-name number-of-datasets-to-process
+
+eg.
+
+./test.sh generic_profilin.py /user/hm74/NYCOpenData 1900

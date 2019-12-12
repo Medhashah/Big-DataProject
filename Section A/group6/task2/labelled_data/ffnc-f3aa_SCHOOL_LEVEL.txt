@@ -1,0 +1,8 @@
+'School Levels', 'High School', 422
+'School Levels', 'Middle', 386
+'School Levels', 'High School Transfer', 44
+'School Levels', 'YABC,', 23
+'School Levels', 'K-2,', 13
+'School Levels', 'Elementary,', 612
+'School Levels', 'K-3,', 17
+'School Levels', 'K-8,', 160

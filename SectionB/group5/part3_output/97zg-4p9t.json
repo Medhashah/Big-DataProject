@@ -1,0 +1,278 @@
+{
+ "null": [
+  {
+   "column_name": "FY",
+   "null_value": []
+  },
+  {
+   "column_name": "APPLICANT_TYPE",
+   "null_value": []
+  },
+  {
+   "column_name": "RECEIVED",
+   "null_value": []
+  },
+  {
+   "column_name": "STREET ADDRESS",
+   "null_value": []
+  },
+  {
+   "column_name": "BOR",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "Postcode",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "BLOCK",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "LOT",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "STAFF ACTION",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "BOARD ACTION",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "AMOUNT",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "HIST_DISTRICT",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "Latitude",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "Longitude",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "Community Board",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "Community Council ",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "Census Tract",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "BIN",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "BBL",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "NTA",
+   "null_value": [
+    null
+   ]
+  }
+ ],
+ "disguised": [
+  {
+   "column_name": "FY",
+   "disguised_missing_value": [
+    "1980",
+    "1981",
+    "1983"
+   ]
+  },
+  {
+   "column_name": "APPLICANT_TYPE",
+   "disguised_missing_value": [
+    "HO",
+    "NFP",
+    " "
+   ]
+  },
+  {
+   "column_name": "RECEIVED",
+   "disguised_missing_value": [
+    "01/15/1980",
+    "03/10/1981",
+    "07/26/1982"
+   ]
+  },
+  {
+   "column_name": "STREET ADDRESS",
+   "disguised_missing_value": [
+    "13 Mount Morris Park West",
+    "777 Dawson Street",
+    "468 West 141st Street"
+   ]
+  },
+  {
+   "column_name": "BOR",
+   "disguised_missing_value": [
+    "Manhattan",
+    "Bronx",
+    "Brooklyn"
+   ]
+  },
+  {
+   "column_name": "Postcode",
+   "disguised_missing_value": [
+    "10027",
+    "10455",
+    "10031"
+   ]
+  },
+  {
+   "column_name": "BLOCK",
+   "disguised_missing_value": [
+    "1720",
+    "2695",
+    "2057"
+   ]
+  },
+  {
+   "column_name": "LOT",
+   "disguised_missing_value": [
+    "53",
+    "31",
+    "152"
+   ]
+  },
+  {
+   "column_name": "STAFF ACTION",
+   "disguised_missing_value": [
+    "Present to Board",
+    "Staff Withdrawal",
+    "Other; see file"
+   ]
+  },
+  {
+   "column_name": "BOARD ACTION",
+   "disguised_missing_value": [
+    "Board Approved",
+    "Other; see file",
+    "Board Denied"
+   ]
+  },
+  {
+   "column_name": "AMOUNT",
+   "disguised_missing_value": [
+    "6691.00",
+    "0.00",
+    "9600.00"
+   ]
+  },
+  {
+   "column_name": "HIST_DISTRICT",
+   "disguised_missing_value": [
+    "MMP",
+    "LW",
+    "HH"
+   ]
+  },
+  {
+   "column_name": "Latitude",
+   "disguised_missing_value": [
+    "40.804721",
+    "40.817582",
+    "40.822343"
+   ]
+  },
+  {
+   "column_name": "Longitude",
+   "disguised_missing_value": [
+    "-73.945554",
+    "-73.899885",
+    "-73.948658"
+   ]
+  },
+  {
+   "column_name": "Community Board",
+   "disguised_missing_value": [
+    "10",
+    "2",
+    "9"
+   ]
+  },
+  {
+   "column_name": "Community Council ",
+   "disguised_missing_value": [
+    "9",
+    "17",
+    "36"
+   ]
+  },
+  {
+   "column_name": "Census Tract",
+   "disguised_missing_value": [
+    "200",
+    "85",
+    "227"
+   ]
+  },
+  {
+   "column_name": "BIN",
+   "disguised_missing_value": [
+    "1053366",
+    "2005328",
+    "1061220"
+   ]
+  },
+  {
+   "column_name": "BBL",
+   "disguised_missing_value": [
+    "1017200053",
+    "2026950031",
+    "1020570152"
+   ]
+  },
+  {
+   "column_name": "NTA",
+   "disguised_missing_value": [
+    "Central Harlem South                                                       ",
+    "Longwood                                                                   ",
+    "Hamilton Heights                                                           "
+   ]
+  }
+ ]
+}

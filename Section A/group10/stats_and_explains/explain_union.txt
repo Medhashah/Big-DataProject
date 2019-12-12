@@ -1,0 +1,18 @@
+Union
+:- *(3) HashAggregate(keys=[], functions=[count(Fiscal Year#42), max(Fiscal Year#42), min(Fiscal Year#42), avg(cast(Fiscal Year#42 as bigint)), stddev_samp(cast(Fiscal Year#42 as double))])
+:  +- Exchange SinglePartition
+:     +- *(2) HashAggregate(keys=[], functions=[partial_count(Fiscal Year#42), partial_max(Fiscal Year#42), partial_min(Fiscal Year#42), partial_avg(cast(Fiscal Year#42 as bigint)), partial_stddev_samp(cast(Fiscal Year#42 as double))])
+:        +- *(2) Project [cast(Fiscal Year#10 as int) AS Fiscal Year#42]
+:           +- *(2) Project [Fiscal Year#10, Number of Arrests#11]
+:              +- *(2) Filter (pythonUDF0#281 = INT)
+:                 +- BatchEvalPython [get_column_type(Fiscal Year#10)], [Fiscal Year#10, Number of Arrests#11, pythonUDF0#281]
+:                    +- *(1) FileScan csv [Fiscal Year#10,Number of Arrests#11] Batched: false, Format: CSV, Location: InMemoryFileIndex[hdfs://dumbo/user/hm74/NYCOpenData/d4uz-6jaw.tsv.gz], PartitionFilters: [], PushedFilters: [], ReadSchema: struct<Fiscal Year:string,Number of Arrests:string>
++- *(6) HashAggregate(keys=[], functions=[count(Number of Arrests#170), max(Number of Arrests#170), min(Number of Arrests#170), avg(cast(Number of Arrests#170 as bigint)), stddev_samp(cast(Number of Arrests#170 as double))])
+   +- Exchange SinglePartition
+      +- *(5) HashAggregate(keys=[], functions=[partial_count(Number of Arrests#170), partial_max(Number of Arrests#170), partial_min(Number of Arrests#170), partial_avg(cast(Number of Arrests#170 as bigint)), partial_stddev_samp(cast(Number of Arrests#170 as double))])
+         +- *(5) Project [cast(Number of Arrests#11 as int) AS Number of Arrests#170]
+            +- *(5) Project [Fiscal Year#10, Number of Arrests#11]
+               +- *(5) Filter (pythonUDF0#282 = INT)
+                  +- BatchEvalPython [get_column_type(Number of Arrests#11)], [Fiscal Year#10, Number of Arrests#11, pythonUDF0#282]
+                     +- *(4) FileScan csv [Fiscal Year#10,Number of Arrests#11] Batched: false, Format: CSV, Location: InMemoryFileIndex[hdfs://dumbo/user/hm74/NYCOpenData/d4uz-6jaw.tsv.gz], PartitionFilters: [], PushedFilters: [], ReadSchema: struct<Fiscal Year:string,Number of Arrests:string>
+

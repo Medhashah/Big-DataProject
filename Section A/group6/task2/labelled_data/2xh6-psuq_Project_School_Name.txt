@@ -1,0 +1,1702 @@
+'School name', 'I.S. 2 - BROOKLYN', 14
+'School name', 'I.S. 71 - BROOKLYN', 9
+'School name', 'P.S. 151 - MANHATTAN', 7
+'School name', 'BARD COLLEGE HS - MANHATTAN', 4
+'School name', 'P.S. 48 - QUEENS', 3
+'School name', 'P.S. 58 - BRONX', 11
+'School name', 'I.S. 267 - BRONX', 5
+'School name', 'GRANT AVENUE ELEMENTARY SCHOOL', 8
+'School name', 'P.S. 315 - BROOKLYN', 9
+'School name', 'BRIGHTER CHOICE COMMUN SCHL', 8
+'School name', 'BROOKLYN ACADEMY HS - BROOKLYN', 6
+'School name', 'FIORELLO LAGUARDIA HS - MANHAT', 1
+'School name', 'P.S. 234 - QUEENS', 8
+'School name', 'HUNTERS POINT COMMUNITY MIDDLE', 1
+'School name', 'P.S. 86 - BRONX', 8
+'School name', 'MOTT HAVEN COMMUNITY HIGH SCHO', 1
+'School name', 'P.S. 128 - BROOKLYN', 8
+'School name', 'I.S. 220 - BROOKLYN', 6
+'School name', 'P.S. 282 - BROOKLYN', 16
+'School name', 'BEDFORD ACADEMY HS - K', 1
+'School name', 'I.S. 302 - MANHATTAN', 5
+'School name', 'P.S. 18 - MANHATTAN', 1
+'School name', 'I.S. 74 - QUEENS', 10
+'School name', 'P.S. 165 - QUEENS', 2
+'School name', 'QUEENS PREPARATORY ACADEMY - Q', 1
+'School name', '3K CENTER @ 87-40 88 ST - Q', 4
+'School name', 'MATH, SCI., RESEARCH & TECH. H', 16
+'School name', 'P.S. 16 - STATEN ISLAND', 8
+'School name', 'ALFRED E. SMITH HS - X', 18
+'School name', 'KURT HAHN EXPED LEARNING SCH', 4
+'School name', 'MURROW H.S.', 4
+'School name', 'CITY POLYTECHNIC HIGH SCHOOL O', 1
+'School name', 'Q255 SPED - QUEENS', 12
+'School name', 'MUSEUM SCHOOL - MANHATTAN', 1
+'School name', 'STUYVESANT HS - MANHATTAN', 6
+'School name', 'Q009 SPED - QUEENS', 23
+'School name', 'Q224 SPED - QUEENS', 8
+'School name', 'P.S. 199 - BRONX', 12
+'School name', 'I.S. 298 - BRONX', 1
+'School name', 'I.S. 228 - BROOKLYN', 6
+'School name', 'I.S. 93 - QUEENS', 14
+'School name', 'P.S. 94 - QUEENS', 6
+'School name', 'P.S. 117 - QUEENS', 11
+'School name', 'P.S. 220 - QUEENS', 7
+'School name', '3K CENTER @ 20 EBBITTS STREET', 8
+'School name', 'P.S. 81 - BRONX', 12
+'School name', 'I.S. 339 - BRONX', 10
+'School name', 'P.S. 152 - BRONX', 6
+'School name', 'P.S. 306 - BRONX', 8
+'School name', 'P.S. 11 - MANHATTAN', 7
+'School name', 'GRAPHIC COMMUNICATION ARTS', 1
+'School name', 'J.H.S. 237 - QUEENS', 11
+'School name', 'I.S. 273 - BRONX', 2
+'School name', 'P.S. 97 - BRONX', 14
+'School name', 'METROPOLITAN HS - BRONX', 2
+'School name', 'MEDGAR EVERS COLLEGE PREPARATO', 3
+'School name', 'WASHINGTON IRVING H.S.', 5
+'School name', 'I.S. 371 - BRONX', 14
+'School name', 'P.S. 206 - BROOKLYN', 6
+'School name', 'I.S. 562 - BROOKLYN', 3
+'School name', 'BKLYN SCHL FOR MATH AND RESRCH', 4
+'School name', 'P.S. 124 - QUEENS', 13
+'School name', 'P.S. 76 - BRONX', 4
+'School name', 'MONROE ACAD FOR VISUAL ARTS', 12
+'School name', 'P.S. 1 - BROOKLYN', 15
+'School name', 'P.S. 93 - BROOKLYN', 2
+'School name', 'TRANSIT TECH H.S. - EAST NY', 1
+'School name', 'FREDERICK DOUGLAS ACADEMY - M', 7
+'School name', 'P.S. 55 - QUEENS', 6
+'School name', 'P.S. 148 - QUEENS', 12
+'School name', 'P.S. 111 - BRONX', 6
+'School name', 'I.S. 328 - BRONX', 8
+'School name', 'P.S. 446 - BROOKLYN', 3
+'School name', 'P.S. 188 - BROOKLYN', 1
+'School name', 'P.S. 193 - BROOKLYN', 9
+'School name', 'P.S. 288 - BROOKLYN', 13
+'School name', 'URBAN ASSEMBLY SCHOOL', 11
+'School name', 'P.S. 143 - QUEENS', 15
+'School name', 'MATH, SCI., RESEARCH & TECH.', 1
+'School name', 'QUEENS HS FOR THE SCIENCES - Q', 3
+'School name', 'DOE BUREAU OF SUPPLIES', 4
+'School name', 'P.S. 52 - STATEN ISLAND', 9
+'School name', 'X176 SPED - BRONX', 1
+'School name', 'P.S. 133 - BROOKLYN', 2
+'School name', 'HEALTH PROF & HUMAN  SVCS', 4
+'School name', 'P.S. 96 - QUEENS', 6
+'School name', 'I.S. 202 - QUEENS', 3
+'School name', 'P.S. 268 - QUEENS', 6
+'School name', '3K CENTER @ 2389 RICHMOND AVE', 4
+'School name', 'X012 SPED - BRONX', 6
+'School name', 'P.S. 81 - BROOKLYN', 2
+'School name', 'P.S. 46 - MANHATTAN', 5
+'School name', 'P.S. 134 - MANHATTAN', 4
+'School name', 'I.S. 227 - QUEENS', 7
+'School name', 'P.S. 11 - BRONX', 6
+'School name', 'X188 SPED - BRONX', 10
+'School name', 'P.S. 55 - BRONX', 13
+'School name', 'P.S. 57 - BRONX', 11
+'School name', 'I.S. 151 - BRONX', 5
+'School name', 'P.S. 27 - BROOKLYN', 1
+'School name', 'EAST NEW YORK MIDDLE SCHOOL OF', 1
+'School name', 'P.S. 86 - BROOKLYN', 7
+'School name', 'OLYMPUS ACADEMY - BROOKLYN', 1
+'School name', 'NEW DESIGN MIDDLE SCHOOL - M', 4
+'School name', 'SATELLITE AT FORSYTHE', 7
+'School name', 'Q752 SPED - QUEENS', 2
+'School name', 'P.S. 159 - QUEENS', 10
+'School name', 'P.S. 183 - QUEENS', 15
+'School name', 'Q721 SPED - QUEENS', 7
+'School name', 'P.S. 49 - BRONX', 2
+'School name', 'P.S. 273 - BROOKLYN', 3
+'School name', 'P.S. 377 - BROOKLYN', 9
+'School name', 'KHALIL GIBRAN INTERNATIONAL AC', 1
+'School name', 'THE COLLEGE ACADEMY - M', 10
+'School name', 'I.S. 294 - QUEENS', 1
+'School name', 'GOTHAM COLLABORATIVE HIGH SCHO', 2
+'School name', 'P.S. / I.S. 498 - BRONX', 3
+'School name', 'SUCCESS ACADEMY CROWN HEIGHTS', 1
+'School name', 'COY L. COX SCHOOL', 10
+'School name', 'BEDFORD STUYVESANT COLLEGIATE', 4
+'School name', 'I.S. 362 - MANHATTAN', 8
+'School name', 'FASHION INDUSTRIES VOC HS - M', 9
+'School name', 'LONG ISLAND CITY HS - Q', 16
+'School name', 'HS FOR LAW ENFORCEMENT - Q', 4
+'School name', 'P.S. 1 - STATEN ISLAND', 26
+'School name', 'K753 SPED - BROOKLYN', 11
+'School name', 'P.S. 97 - BROOKLYN', 19
+'School name', 'P.S. 241 - BROOKLYN', 5
+'School name', 'M.S. 890', 1
+'School name', 'M.S. 334 - BROOKLYN', 1
+'School name', 'GEORGE WESTINGHOUSE VOC. HS', 6
+'School name', 'MANHATTAN EARLY COLLEGE SCHOOL', 3
+'School name', 'BARUCH COLLEGE CAMPUS HS - M', 3
+'School name', 'EPIC HIGH SCHOOL - SOUTH', 1
+'School name', 'I.S. 235 - QUEENS', 1
+'School name', 'INTERNATIONAL HIGH SCHOOL FOR', 1
+'School name', 'MIDDLE SCHL MEDIA, LAW AND FIN', 1
+'School name', 'I.S. 30 - BROOKLYN', 1
+'School name', 'P.S. 380 - BROOKLYN', 5
+'School name', 'I.S. 533 - BROOKLYN', 2
+'School name', 'I.S. 10 - QUEENS', 11
+'School name', 'THE SCHOLARS ACADEMY - QUEENS', 9
+'School name', 'P.S. 398 - QUEENS', 4
+'School name', 'R000 - STATEN ISLAND', 5
+'School name', 'BRONX EARLY COLLEGE ACADEMY', 1
+'School name', 'P.S. 315 - MANHATTAN', 2
+'School name', 'I.S. 12 - MANHATTAN', 10
+'School name', 'P.S. 60 - QUEENS', 1
+'School name', 'P.U.L.S.E. HS - BRONX', 1
+'School name', 'X000 - BRONX', 10
+'School name', 'BRONX SCHOOL FOR LAW, GOVERNME', 1
+'School name', 'P.S. 99 - BROOKLYN', 12
+'School name', 'THE BROOKLYN SCHOOL OF INQUIRY', 6
+'School name', 'P.S. 746 - BROOKLYN', 4
+'School name', 'NYC LAB HS - MANHATTAN', 4
+'School name', 'P.S. 87 - MANHATTAN', 12
+'School name', 'THE GLOBAL LEARNING COLLABORAT', 1
+'School name', 'P.S. 12 - QUEENS', 3
+'School name', 'BRONX CNTR FOR SCIENCE & MATH', 11
+'School name', 'P.S. 120 - BROOKLYN', 5
+'School name', 'P.S. 213 - BROOKLYN', 6
+'School name', 'LEADERS HIGH SCHOOL - K', 7
+'School name', 'I.S. 318 - QUEENS', 2
+'School name', 'BAYSIDE HIGH SCHOOL - QUEENS', 26
+'School name', 'BENJAMIN N. CARDOZO HS - QUEEN', 5
+'School name', 'EXCELSIOR PREP HIGH SCHOOL - Q', 2
+'School name', 'P.S. 280 - BRONX', 5
+'School name', 'P.S. 31 - BROOKLYN', 4
+'School name', 'P.S. 159 - BROOKLYN', 12
+'School name', 'P.S. 166 - MANHATTAN', 16
+'School name', 'WEST END SECONDARY SCHOOL - M', 8
+'School name', 'P.S. 30 - QUEENS', 1
+'School name', 'I.S. 210 - QUEENS', 7
+'School name', 'BENJAMIN N. CARDOZO HS - Q', 10
+'School name', 'P.S. 8 - STATEN ISLAND', 14
+'School name', 'P.S. 36 - STATEN ISLAND', 11
+'School name', 'NORTH BRONX SCHOOL OF EMPOWERM', 4
+'School name', 'P.S. 45 - BROOKLYN', 13
+'School name', 'P.S. 153 - BROOKLYN', 4
+'School name', 'K231 SPED - BROOKLYN', 2
+'School name', 'P.S. 204 - BROOKLYN', 2
+'School name', 'P.S. 208 - BROOKLYN', 12
+'School name', 'I.S. 252', 4
+'School name', 'STEM CENTER @ CLINTON STREET', 4
+'School name', 'HEADQTRS 65 CNTRL ADMIN. - K', 5
+'School name', 'I.S. 325 - BRONX', 5
+'School name', 'P.S. 235 - BROOKLYN', 10
+'School name', 'CYPRESS HILLS COLLEGIATE - K', 14
+'School name', 'P.S. 187 - MANHATTAN', 4
+'School name', 'MANHTN CT FOR MATH & SCI. HS', 5
+'School name', 'P.S. 209 - QUEENS', 6
+'School name', 'P.S. / I.S. 270 - QUEENS', 3
+'School name', 'R721 SPED - STATEN ISLAND', 7
+'School name', 'THE LONGWOOD ACADEMY OF DISCOV', 2
+'School name', 'X754 SPED', 3
+'School name', 'HEALTH OPPORTUNITIES (HS LVL)', 3
+'School name', 'M.S. 596 PEACE ACADEMY - K', 1
+'School name', 'P.S. 212 - BROOKLYN', 11
+'School name', 'P.S. 214 - BROOKLYN', 1
+'School name', 'P.S. 108 - BRONX', 1
+'School name', 'ACADEMY FOR SCHOLARSHIP AND EN', 1
+'School name', 'THE SCIENCE AND MEDICINE MIDDL', 1
+'School name', 'ABRAHAM LINCOLN HS - BROOKLYN', 7
+'School name', 'BROOKLYN FRONTIERS HIGH SCHOOL', 1
+'School name', 'M094 SPED - MANHATTAN', 1
+'School name', 'P.S. 223 - QUEENS', 4
+'School name', 'COMMUNITY VOICES MIDDLE SCHOOL', 14
+'School name', 'REG OPERATION CENTER C- QUEENS', 1
+'School name', 'P.S. 3 - BRONX', 10
+'School name', 'P.S. 35 - BRONX', 3
+'School name', 'P.S. 217 - BROOKLYN', 10
+'School name', 'I.S. 302 - BROOKLYN', 1
+'School name', 'P.S. 40 - MANHATTAN', 7
+'School name', 'I.S. 348 - MANHATTAN', 6
+'School name', 'P.S. 3 - STATEN ISLAND', 15
+'School name', 'P.S. 9 - BROOKLYN', 1
+'School name', 'K000 - BROOKLYN', 12
+'School name', 'I.S. 114 - MANHATTAN', 5
+'School name', 'LIBERTY HS ACADEMY FOR NEWCOME', 7
+'School name', 'A. PHILIP RANDOLPH HS -M', 17
+'School name', 'P.S. 100 - QUEENS', 8
+'School name', 'P.S. 111 - QUEENS', 9
+'School name', 'P.S. 112 - QUEENS', 16
+'School name', 'P.S. 171 - QUEENS', 8
+'School name', 'P.S. 200 - QUEENS', 11
+'School name', 'P.S. 25 - BRONX', 9
+'School name', 'P.S. 382 - BRONX', 4
+'School name', 'P.S. 138 - BRONX', 5
+'School name', 'P.S. 251 - BROOKLYN', 8
+'School name', 'P.S. 65 - BROOKLYN', 1
+'School name', 'HS FOR HEALTH PROF & HUMAN SER', 2
+'School name', 'P.S. 37 - QUEENS', 23
+'School name', 'P.S. 91 - QUEENS', 12
+'School name', 'P.S. 161 - QUEENS', 3
+'School name', 'P.S. 705 - BROOKLYN', 6
+'School name', 'P.S. 121 - QUEENS', 9
+'School name', 'P.S. 140 - BRONX', 4
+'School name', 'PRE-K CENTER @ 168 8TH STREET', 4
+'School name', 'P.S. 115 - MANHATTAN', 16
+'School name', 'VANGUARD HS - MANHATTAN', 2
+'School name', 'PARK WEST HS (ECF)', 4
+'School name', 'P.S. 20 - QUEENS', 14
+'School name', '3K CENTER@100-02 ROCKAWAY BLVD', 4
+'School name', 'YOUNG WOMENS' LEADERSHIP SCHOO', 4
+'School name', 'NORTH QUEENS COMMUNITY HS - Q', 1
+'School name', 'P.S. 65 - BRONX', 12
+'School name', 'I.S. 118 - BRONX', 14
+'School name', 'P.S. 310 - BROOKLYN', 2
+'School name', 'P.S. 312 - BROOKLYN', 18
+'School name', 'ACAD. FOR YOUNG WRITERS - K', 1
+'School name', 'HS FOR LEADERSHIP & PUBLIC SER', 1
+'School name', 'Q993 SPED - QUEENS', 5
+'School name', 'I.S. 319 - QUEENS', 8
+'School name', 'P.S./I.S. 208 - QUEENS', 5
+'School name', 'JACKSON HS', 4
+'School name', 'P.S. 78 - BRONX', 5
+'School name', 'CELIA CRUZ HS OF MUSIC - BRONX', 3
+'School name', 'MIDDLE SCHOOL OF MKTG - K', 6
+'School name', 'PATHWAYS IN TECHNOLOGY EARLY C', 5
+'School name', 'NYC LAB MIDDLE SCHOOL - M', 1
+'School name', 'P.S. 212 - QUEENS', 2
+'School name', 'BUSINESS TECHNOLOGY EARLY COLL', 5
+'School name', 'P.S. 108 - BROOKLYN', 8
+'School name', 'I.S. 278 - BROOKLYN', 8
+'School name', 'BROOKLYN HS FOR SCI & THE ENVI', 1
+'School name', 'HARLEM RENAISSANCE HS - M', 1
+'School name', 'THE PORT RICHMOND SCHOOL FOR V', 1
+'School name', 'X811 SPED - BRONX', 9
+'School name', 'I.S. 123 - BRONX', 4
+'School name', 'P.S. 157 - BRONX', 4
+'School name', 'P.S. 211 - BRONX', 1
+'School name', 'WIILIAMSBURG PREP- BROOKLYN', 9
+'School name', 'CENTRAL PARK EAST HS - MANHATT', 4
+'School name', 'P.S. 175 - QUEENS', 12
+'School name', 'I.S. 226 - QUEENS', 8
+'School name', '3K CENTER @ 104-06 101 AVENUE', 4
+'School name', 'CSI HS FOR INTERNATIONAL STUDI', 7
+'School name', 'K140 SPED - BROOKLYN', 6
+'School name', 'P.S. 366 - MANHATTAN', 1
+'School name', 'P.S. 51 - MANHATTAN', 1
+'School name', 'P.S. @ TRINITY PLACE - M', 4
+'School name', 'P.S. 107 - QUEENS', 5
+'School name', 'BROOKLYN COLLEGIATE: A COLLEGE', 5
+'School name', 'P.S. 299 - BROOKLYN', 4
+'School name', 'I.S. 267 - BROOKLYN', 4
+'School name', 'P.S. 116 - MANHATTAN', 12
+'School name', 'P.S. 155 - QUEENS', 9
+'School name', 'BEACH CHANNEL HS - QUEENS', 5
+'School name', 'HS FOR LAW ENFORCEMENT', 1
+'School name', 'TOTTENVILLE HS - STATEN ISLAND', 18
+'School name', 'P.S. 150 - BRONX', 5
+'School name', 'BROOKLYN BRIDGE ACADEMY - K', 9
+'School name', 'THE DOCK STREET SCHOOL FOR STE', 1
+'School name', 'LAFAYETTE ACADEMY - MANHATTAN', 6
+'School name', 'EAST-WEST SCHOOL OF INTL STUDI', 3
+'School name', 'P.S. 67 - BRONX', 14
+'School name', 'CONTINUING EDUCATION PROGRAM -', 1
+'School name', 'P.S. 149 - BROOKLYN', 5
+'School name', 'AUTOMOTIVE TRADES VOC HS - K', 12
+'School name', 'P.S. 4 - MANHATTAN', 9
+'School name', 'HS FOR LAW AND PUBLIC SERVICE', 1
+'School name', 'BACCALAUREATE SCL FOR GLOBAL E', 6
+'School name', 'P.S. 100 - BRONX', 2
+'School name', 'P.S. 109 - BRONX', 10
+'School name', 'BROOKLYN GARDENS ELEMENTARY SC', 9
+'School name', 'P.S. 152 - MANHATTAN', 19
+'School name', 'P.S. 194 - MANHATTAN', 6
+'School name', 'I.S. 195 - MANHATTAN', 3
+'School name', 'P.S./I.S. 217 - MANHATTAN', 7
+'School name', 'P.S. 13 - QUEENS', 5
+'School name', 'P.S. 42 - QUEENS', 11
+'School name', 'P.S. 195 - BRONX', 6
+'School name', 'I.S. 51 - BROOKLYN', 7
+'School name', 'P.S. 192 - BROOKLYN', 1
+'School name', 'P.S. 272 - BROOKLYN', 17
+'School name', 'BROOKLYN LAB SCHOOL - BROOKLYN', 4
+'School name', 'PERFORMING ARTS AND TECH. HS', 12
+'School name', 'I.S. 443 - BROOKLYN', 2
+'School name', 'BROOKLYN URBAN CHARTER SCHOOL', 2
+'School name', 'P.P.A.S. - MANHATTAN', 7
+'School name', 'SCHOOL OF THE FUTURE - MANHATT', 1
+'School name', 'P.S. 51 - QUEENS', 1
+'School name', 'P.S. @ 357 TARGEE STREET', 4
+'School name', 'P.S. 83 - BRONX', 8
+'School name', 'CONCOURSE VILLAGE ELEMEN SCHL', 4
+'School name', 'MOTT HALL COMMUNITY SCHOOL - X', 1
+'School name', 'J.H.S. 57 - BROOKLYN', 1
+'School name', 'P.S. 146 - BROOKLYN', 12
+'School name', 'P.S. 169 - BROOKLYN', 11
+'School name', 'P.S. 225 - BROOKLYN', 2
+'School name', 'P.S. 318 - MANHATTAN', 1
+'School name', 'MANHATTAN THEATER LAB - MANHAT', 1
+'School name', 'P.S. 99 - QUEENS', 7
+'School name', 'P.S. 102 - QUEENS', 8
+'School name', 'P.S. 147 - QUEENS', 10
+'School name', 'P.S. 150 - QUEENS', 16
+'School name', 'BRONX COMPASS HIGH SCHOOL - BR', 1
+'School name', 'I.S. 162 - BROOKLYN', 15
+'School name', 'COMMUNITY BASED ORGANIZATION -', 1
+'School name', 'P.S. 241 - MANHATTAN', 4
+'School name', 'I.S. 143 - MANHATTAN', 12
+'School name', 'P.S. 242 - MANHATTAN', 9
+'School name', 'I.S. 119 - QUEENS', 10
+'School name', '3K CENTER @ 1535 RICHMOND AVE', 4
+'School name', 'P.S. 37 - BRONX', 6
+'School name', 'P.S. 53 - BRONX', 6
+'School name', 'P.S. 130 - BROOKLYN', 10
+'School name', 'FREDERICK DOUGLAS ACAD VII HS', 1
+'School name', 'TEACHERS PREP (HS LVL) - K', 2
+'School name', 'BROOKLYN SCIENCE AND ENGINEERI', 2
+'School name', 'NEW YORK HARBOR SCHOOL - M', 4
+'School name', 'J.H.S. 157 - QUEENS', 7
+'School name', 'P.S. 110 - QUEENS', 3
+'School name', 'GATEWAY SCH FOR RES & TECH - X', 4
+'School name', 'P.S. 335 - BROOKLYN', 5
+'School name', 'COBBLE  HILL SCHL OF AMER STDS', 4
+'School name', 'ACORN COMMUNITY HS - K', 6
+'School name', 'MOTT HALL HS - MANHATTAN', 3
+'School name', 'P.S. 130 - QUEENS', 5
+'School name', 'THE QUEENS SCHOOL OF INQUIRY-Q', 6
+'School name', 'I.S. 22 - BRONX', 10
+'School name', 'M.S. 363 - BRONX', 6
+'School name', 'THE STEAM BRIDGE SCHOOL - BRON', 1
+'School name', 'P.S. 196 - BROOKLYN', 12
+'School name', 'YOUNG SCHOLARS ACADEMY - BKLN', 4
+'School name', 'P.S. 376 - BROOKLYN', 4
+'School name', 'MULTICULTURAL HS - BROOKLYN', 15
+'School name', 'LOWER EAST SIDE PREP HS - M', 6
+'School name', 'J.H.S. 292 - MANHATTAN', 14
+'School name', 'P.S. 116 - QUEENS', 6
+'School name', 'HS FOR CONST.TRADES,ENGG.,& AR', 1
+'School name', 'P.S./I.S. 218 - BRONX', 6
+'School name', 'J.H.S. 50 - BROOKLYN', 7
+'School name', 'I.S. 211 - BROOKLYN', 3
+'School name', 'P.S. 262 - BROOKLYN', 6
+'School name', 'I.S. 522 - BROOKLYN', 12
+'School name', 'P.S. 277 - BROOKLYN', 14
+'School name', 'I.S. 218 - MANHATTAN', 6
+'School name', 'NEW YORK HARBOR SCHOOL ANNEX', 4
+'School name', 'P.S. 54 - STATEN ISLAND', 20
+'School name', 'P.S. 59 - BRONX', 3
+'School name', 'MARIE CURIE HS FOR NURSING - B', 3
+'School name', 'X723 SPED - BRONX', 2
+'School name', 'P.S. 127 - BROOKLYN', 25
+'School name', 'I.S. 234 - BROOKLYN', 13
+'School name', 'P.S. 268 - BROOKLYN', 16
+'School name', 'WILLIAM E. GRADY VOC HS - K', 20
+'School name', 'TALENT UNLIMITED HS - M', 4
+'School name', 'LIFE SCIENCE SECONDARY SCHOOL', 10
+'School name', 'P.S. 90 - QUEENS', 10
+'School name', 'I.S. 238 - QUEENS', 14
+'School name', 'P.S. 307 - QUEENS', 6
+'School name', 'P.S. 396 - BRONX', 1
+'School name', 'P.S. 23 - BROOKLYN', 13
+'School name', 'I.S. 442 - BROOKLYN', 4
+'School name', 'I.S. 363 - BROOKLYN', 8
+'School name', 'SCHOOL BASED HEALTH CENTER - M', 1
+'School name', 'P.S. 72 - MANHATTAN', 6
+'School name', 'Q004 SPED - QUEENS', 14
+'School name', 'P.S. 45 - STATEN ISLAND', 8
+'School name', 'P.S. 69 - STATEN ISLAND', 7
+'School name', 'P.S. 555 - BRONX', 3
+'School name', 'SPORTS PROFESSIONS HS - BRONX', 1
+'School name', 'P.S. 67 - BROOKLYN', 5
+'School name', 'VISTA ACADEMY - BROOKLYN', 5
+'School name', 'P.S. 319 - BROOKLYN', 1
+'School name', 'I.S. 266 - BROOKLYN', 8
+'School name', 'P.S. 70 - QUEENS', 3
+'School name', 'P.S. 188 - QUEENS', 6
+'School name', 'R373 SPED - STATEN ISLAND', 9
+'School name', 'I.S. 51 - STATEN ISLAND', 9
+'School name', 'P.S. 344 - BRONX', 7
+'School name', 'P.S. 28 - BROOKLYN', 2
+'School name', 'P.S. 157 - BROOKLYN', 4
+'School name', 'EDWARD R. MURROW HS - K', 12
+'School name', 'BENJAMIN BANNEKER ACAD.', 4
+'School name', 'P.S. 140 - MANHATTAN', 10
+'School name', 'P.S. 175 HENRY H GARNET - M', 6
+'School name', 'MANHATTAN INTERNATIONAL HS - M', 1
+'School name', 'FOREST HILLS HS - QUEENS', 18
+'School name', 'THE HARBOR VIEW SCHOOL - R', 1
+'School name', 'P.S. 32 - BRONX', 17
+'School name', 'I.S. 347 - BROOKLYN', 2
+'School name', 'HS FOR SERVICE AND LEARNING -', 2
+'School name', 'I.S. 243 - MANHATTAN', 1
+'School name', 'P.S. 19 - QUEENS', 7
+'School name', 'I.S. 217 - QUEENS', 5
+'School name', 'P.S. 48 - STATEN ISLAND', 3
+'School name', 'P.S. 70 - BRONX', 3
+'School name', 'X186 SPED - BRONX', 12
+'School name', 'BRONX INTERNATIONAL - BRONX', 13
+'School name', 'SCHUYLERVILLE PREPARATORY HIGH', 2
+'School name', 'GOTHAM PROFESSIONAL ARTS ACAD', 2
+'School name', 'P.S. 97', 4
+'School name', 'J.H.S. 126 - BROOKLYN', 9
+'School name', 'P.S. 236 - BROOKLYN', 12
+'School name', 'P.S. 253 - BROOKLYN', 9
+'School name', 'M.S. 671 - BROOKLYN', 1
+'School name', 'BARD HS EARLY COLLEGE II - Q', 4
+'School name', 'D75 REPLACEMENT @ 15 FAIRFIELD', 4
+'School name', 'P.S. 6 - BRONX', 9
+'School name', 'I.S. 484 - BROOKLYN', 4
+'School name', 'P.S. 66 - BROOKLYN', 5
+'School name', 'AMBER CHARTER SCHOOL - M', 5
+'School name', 'I.S. 109 - QUEENS', 4
+'School name', 'P.S. 122 - QUEENS', 17
+'School name', 'CROTONA ACADEMY HIGH SCHOOL', 4
+'School name', 'P.S. 155 - BROOKLYN', 12
+'School name', 'EAST WILLIAMSBURG SCHOLARS ACA', 2
+'School name', 'P.S. 971 - BROOKLYN', 1
+'School name', 'WADLEIGH SECONDARY SCHOOL FOR', 2
+'School name', 'NEW DESIGN HS - MANHATTAN', 8
+'School name', 'I.S. 61 - QUEENS', 7
+'School name', 'P.S. 153 - QUEENS', 7
+'School name', 'HS FOR INFORMATION TECH - QUEE', 2
+'School name', 'PS 23 @ HILLSIDE PSYCH - Q', 3
+'School name', 'P.S. 4 - STATEN ISLAND', 4
+'School name', 'G MCCOWN EXPEDITIONARY LRNG SC', 8
+'School name', 'MILLENIUM ART ACADEMY - BRONX', 17
+'School name', 'P.S. 177 - BROOKLYN', 17
+'School name', 'PRE-K CENTER @ 355 EAST 76 ST', 4
+'School name', 'P.S. 54 - QUEENS', 11
+'School name', 'P.S. 151 - QUEENS', 11
+'School name', 'I.S. 192 - QUEENS', 1
+'School name', 'P.S. 182 - BRONX', 12
+'School name', 'CASCADES CTR FOR TCHING & LNG', 7
+'School name', 'BERGTRAUM HS (ECF)', 1
+'School name', 'P.S. 38 - QUEENS', 5
+'School name', 'P.S. 69 - QUEENS', 17
+'School name', 'P.S. 95 - QUEENS', 8
+'School name', 'ACADEMY OF AMERICAN STUDIES', 4
+'School name', 'P.S. 16 - BRONX', 7
+'School name', 'SCHL FOR TOURISM AND HOSPITALY', 4
+'School name', 'P.S. 150 - BROOKLYN', 11
+'School name', 'I.S. 240 - BROOKLYN', 10
+'School name', 'BROOKLYN INTERNATIONAL HS - K', 2
+'School name', 'P.S. 364 - MANHATTAN', 2
+'School name', 'P.S./I.S. 276 - MANHATTAN', 3
+'School name', 'P.S. 80 - QUEENS', 8
+'School name', 'P.S. 82 - QUEENS', 21
+'School name', 'I.S. 125 - QUEENS', 2
+'School name', 'P.S. 176 - QUEENS', 16
+'School name', 'P.S. 30 - STATEN ISLAND', 12
+'School name', 'P.S. 14 - BRONX', 11
+'School name', 'P.S. 75 - BRONX', 4
+'School name', 'P.S. 102 - BRONX', 5
+'School name', 'P.S. 130 - BRONX', 4
+'School name', 'SOUNDVIEW ACADEMY FOR CULTURE', 1
+'School name', 'P.S. 137 - BROOKLYN', 3
+'School name', 'P.S. 276 - BROOKLYN', 8
+'School name', 'P.S. 305 - BROOKLYN', 2
+'School name', 'WILLIAM MAXWELL VOC HS - K', 13
+'School name', 'MIDDLE COLLEGE HIGH SCHOOL - Q', 1
+'School name', 'QNS HS OF TEACH., LIB. ARTS&SC', 9
+'School name', 'BETHEL MISSION LOVING CHILD CA', 1
+'School name', 'P.S. 5 - BRONX', 1
+'School name', 'I.S. 351 - BROOKLYN', 4
+'School name', 'M169 SPED - MANHATTAN', 7
+'School name', 'P.S. 130 - MANHATTAN', 3
+'School name', 'P.S. 20 - BROOKLYN', 11
+'School name', 'SPRING CREEK COMMUNITY SCHOOL', 1
+'School name', 'FRANKLIN D. ROOSEVELT HS - K', 7
+'School name', 'P.S. 334 - MANHATTAN', 2
+'School name', 'I.S. 131 - MANHATTAN', 8
+'School name', 'P.S. 85 - QUEENS', 9
+'School name', 'P.S. 105 - QUEENS', 5
+'School name', 'P.S. 135 - QUEENS', 2
+'School name', 'I.S. 49 - STATEN ISLAND', 24
+'School name', 'P.S. 107 - BRONX', 1
+'School name', 'P.S. 310 - BRONX', 6
+'School name', 'HS FOR ENERGY AND TECH - X', 5
+'School name', 'P.S. 114 - BROOKLYN', 8
+'School name', 'EBC HS FOR PUB. SERV. - BUSHWI', 2
+'School name', 'P.S. 33 - MANHATTAN', 4
+'School name', 'GLOBAL LEARNING COLLABORATIVE', 4
+'School name', 'P.S. 213 - QUEENS', 14
+'School name', 'P.S. 182 - QUEENS', 1
+'School name', 'ACAD FOR CAREERS IN TV AND FIL', 1
+'School name', 'ROCKAWAY COLLEGIATE HIGH SCHOO', 3
+'School name', 'FRANCIS LEWIS HS ANNEX - Q', 8
+'School name', 'BRONX ARENA HIGH SCHOOL - BRON', 1
+'School name', 'P.S. 94 - BROOKLYN', 18
+'School name', 'I.S. 227 - BROOKLYN', 11
+'School name', 'I.S. 265 - BROOKLYN', 2
+'School name', 'P.S. 308 - BROOKLYN', 9
+'School name', 'FDNY - CAPTAIN VERNON A. RICHA', 2
+'School name', 'JK ONASSIS HS FOR INT CAREERS', 4
+'School name', 'HILLSIDE ACADEMY FOR ARTS', 4
+'School name', 'P.S. 41 - BRONX', 8
+'School name', 'LEGACY COLLEGE PREPARATORY - B', 1
+'School name', 'P.S. 180 - BROOKLYN', 3
+'School name', 'VICTORY COLLEGIATE HS - K', 4
+'School name', 'I.S. 653 - BROOKLYN', 4
+'School name', 'M.S. 358 - QUEENS', 2
+'School name', 'QUEENS COLLEGIATE SCHOOL - Q', 20
+'School name', 'QUEENS SATELLITE HS FOR OPPTY', 4
+'School name', 'P.S. 61 - BRONX', 6
+'School name', 'P.S. 73 - BRONX', 3
+'School name', 'M.S./H.S. 269 - BRONX', 3
+'School name', 'COMM HS FOR SOCIAL JUSTICE - X', 2
+'School name', '3K CENTER @ WEST FARMS ROAD', 4
+'School name', 'P.S. 40 - BROOKLYN', 9
+'School name', 'BKLYN STUDIO SEC. SCL - B', 4
+'School name', 'P.S. 111 - MANHATTAN', 6
+'School name', 'CITY-AS-SCHOOL - MANHATTAN', 1
+'School name', 'P.S. 256 ANNEX - QUEENS', 4
+'School name', '3K CENTER @ 2530 VICTORY BLVD', 4
+'School name', 'JILL CHAIFETZ TRANSFER HS', 4
+'School name', 'BEGINNING WITH CHLDRN CHRTR II', 4
+'School name', 'P.S. @ 836-841 5TH AVENUE', 4
+'School name', 'P.S. 88 - QUEENS', 17
+'School name', 'P.S. 164 - QUEENS', 3
+'School name', 'P.S. 181 - QUEENS', 5
+'School name', 'VERITAS ACADEMY', 3
+'School name', 'M.S. 282 - QUEENS', 26
+'School name', 'EAGLE ACADEMY III - QUEENS', 1
+'School name', 'I.S. 75 - STATEN ISLAND', 22
+'School name', 'SUSAN E. WAGNER HS - STATEN IS', 18
+'School name', 'P.S. 80 - STATEN ISLAND', 10
+'School name', 'P.S. 94 - BRONX', 5
+'School name', 'P.S. 200 - BROOKLYN', 8
+'School name', 'P.S. 257 - BROOKLYN', 5
+'School name', 'SCI AND MEDICINE MIDDLE SCHL', 4
+'School name', 'P.S. 123 - MANHATTAN', 6
+'School name', 'NEW DESIGN MIDDLE SCHOOL - MAN', 2
+'School name', 'URBAN ASSEMBLY HS - MANHATTAN', 2
+'School name', 'HS OF GRAPHIC COMM. ARTS (VOC)', 8
+'School name', 'P.S. 154 - QUEENS', 4
+'School name', 'P.S./I.S. 266 - QUEENS', 4
+'School name', 'EPIC HIGH SCHOOL - NORTH', 3
+'School name', 'BUREAU OF SUPPLIES - QUEENS', 6
+'School name', 'P.S. 102 - BROOKLYN', 11
+'School name', 'P.S. 361 - MANHATTAN', 2
+'School name', 'P.S. 102 - MANHATTAN', 9
+'School name', 'REDWOOD MIDDLE SCHOOL', 2
+'School name', 'P.S. 254 - QUEENS', 6
+'School name', 'ARTS & MEDIA PREP ACADEMY - K', 1
+'School name', 'P.S. 506 - BROOKLYN', 5
+'School name', 'HS FOR ARTS & TECHNOLOGY - M', 8
+'School name', 'P.S. 98 - QUEENS', 6
+'School name', 'P.S. 118 - QUEENS', 3
+'School name', 'THE CHILDREN'S LAB SCHOOL', 1
+'School name', 'RENAISSANCE CHARTER SCHOOL', 1
+'School name', 'P.S. 50 - BRONX', 4
+'School name', 'P.S. 25 - BROOKLYN', 6
+'School name', 'P.S. 225 - MANHATTAN', 5
+'School name', 'P.S. @ HUDSON SQUARE - M', 4
+'School name', 'QUEENS ACADEMY HIGH SCHOOL - Q', 8
+'School name', 'P.S. 173 - QUEENS', 7
+'School name', 'J.H.S. 185 - QUEENS', 11
+'School name', 'FOREST HILLS HS', 4
+'School name', 'QUEENS METROPOLITAN HIGH SCHOO', 3
+'School name', 'QUEENS GATEWAY TO HEALTH SCIEN', 1
+'School name', 'THE FAMILY SCHOOL - BRONX', 4
+'School name', 'I.S. 101 - BRONX', 6
+'School name', 'I.S. 206B - BRONX', 9
+'School name', 'ASTOR COLLEGIATE HS - BRONX', 1
+'School name', 'P.S. 179 - BROOKLYN', 1
+'School name', 'P.S. 48 - MANHATTAN', 7
+'School name', 'THURGOOD MARSHALL ACADEMY - MA', 1
+'School name', 'THE RIVERVIEW SCHOOL - QUEENS', 1
+'School name', 'P.S. 160 - BRONX', 11
+'School name', 'P.S. 300 - BRONX', 1
+'School name', 'P.S. 6 - MANHATTAN', 7
+'School name', 'M721 SPED - MANHATTAN', 12
+'School name', 'P.S. 26 - QUEENS', 11
+'School name', 'P.S. 41 - QUEENS', 11
+'School name', 'P.S. 317 - QUEENS', 10
+'School name', 'CSI HS INTERNATIONAL STUDIES', 1
+'School name', 'P.S. 65 - STATEN ISLAND', 1
+'School name', 'I.S. 326 - BRONX', 1
+'School name', 'RENAISSANCE HS FOR MUS THEATRE', 1
+'School name', 'HS OF BUSINESS - BRONX', 18
+'School name', 'SAMUEL GOMPERS VOC HS - X', 4
+'School name', 'P.S. 164 - BROOKLYN', 11
+'School name', 'HUDSON HS OF LEARNING TECH - M', 2
+'School name', 'HS FOR ECONOMICS & FINANCE - M', 1
+'School name', 'FLUSHING HS - QUEENS', 17
+'School name', 'P.S. 21 - BRONX', 9
+'School name', 'JANE ADDAMS VOC HS - X', 1
+'School name', 'P.S. 315 - BRONX', 1
+'School name', 'P.S. 194 - BROOKLYN', 8
+'School name', 'TELECOM. ARTS & TECH. HS - K', 4
+'School name', 'P.S. 113 - QUEENS', 3
+'School name', 'P.S. 201 - QUEENS', 17
+'School name', 'P.S. 28 - BRONX', 17
+'School name', 'I.S. 391 - BRONX', 6
+'School name', 'I.S. 136 - BROOKLYN', 23
+'School name', 'P.S. 361 - BROOKLYN', 2
+'School name', 'HIGH SCHOOL FOR CIVIL RIGHTS -', 3
+'School name', 'P.S. 172 - BROOKLYN', 4
+'School name', 'P.S. 106 - QUEENS', 2
+'School name', 'P.S. 92 - QUEENS', 3
+'School name', 'I.S. 98 - BRONX', 7
+'School name', 'WESTCHESTER SQUARE ACADEMY - B', 1
+'School name', 'P.S. 119 - BROOKLYN', 13
+'School name', 'M226 SPED - MANHATTAN', 5
+'School name', 'P.S. 45 - QUEENS', 7
+'School name', 'P.S. 101 - QUEENS', 3
+'School name', 'P.S. 157- BRONX', 8
+'School name', 'P.S. 207 - BROOKLYN', 7
+'School name', 'SCHOOL FOR CLASSICS HS - BROOK', 4
+'School name', 'PRE-K CENTER AT BISHOP FORD SC', 4
+'School name', 'P.S. 146 - QUEENS', 8
+'School name', 'COLLABORATIVE ARTS MIDDLE SCHO', 1
+'School name', 'FREDERICK DOUGLASS ACADEMY III', 10
+'School name', 'P.S. 209 - BRONX', 4
+'School name', 'P.S. 204 - BRONX', 2
+'School name', 'COLLEGIATE INST FOR MATH & SCI', 16
+'School name', 'KINGSBRIDGE INTERNATIONAL HS -', 2
+'School name', 'P.S. 222 - BROOKLYN', 11
+'School name', 'DIGITAL ARTS AND CINEMA TECHNO', 1
+'School name', 'URBAN ASSEMBLY HS - BROOKLYN', 1
+'School name', 'INTERNATIONAL HIGH SCHOOL - K', 4
+'School name', 'J.H.S. 190 - QUEENS', 9
+'School name', 'I.S. 230 - QUEENS', 2
+'School name', 'G. WASHINGTON CRVR HS FOR SCI', 8
+'School name', 'P.S. 90 - BROOKLYN', 4
+'School name', 'NORMAN THOMAS H.S.', 1
+'School name', 'P.S. 186 - QUEENS', 2
+'School name', 'X010 SPED - BRONX', 2
+'School name', 'HS OF COMPUTERS & TECHNOLOGY', 12
+'School name', 'CAROL & FRANK BONDI EDU CTR -', 1
+'School name', 'I.S. 62 - BROOKLYN', 12
+'School name', 'SCHOOL OF THE FUTURE BROOKLYN', 6
+'School name', 'JAMES MADISON HS - BROOKLYN', 24
+'School name', 'GREGORIO LUPERON PREP. SCHOOL', 12
+'School name', 'MASPETH HIGH SCHOOL - QUEENS', 8
+'School name', 'PORT RICHMOND HS - S.I.', 8
+'School name', 'P.S. 106 - BRONX', 4
+'School name', 'K811 SPED - BROOKLYN', 9
+'School name', 'IT TAKES A VILLAGE ACADEMY - K', 21
+'School name', 'FORT HAMILTON H.S.', 1
+'School name', 'NEW EXPLORATIONS - M', 6
+'School name', 'P.S. 21 - STATEN ISLAND', 10
+'School name', 'P.S. 33 - BRONX', 4
+'School name', 'FAIRMONT NEIGHBORHOOD SCHOOL', 1
+'School name', 'BRONX ENVISION ACADEMY - BRONX', 1
+'School name', 'P.S. 58 - BROOKLYN', 7
+'School name', 'P.S. 249 - BROOKLYN', 7
+'School name', 'MATH, ENGINEERING, AND SCIENCE', 4
+'School name', 'I.S. 292 - BROOKLYN', 3
+'School name', 'M079 SPED - MANHATTAN', 2
+'School name', 'I.S. 349 - MANHATTAN', 1
+'School name', 'LANDMARK HS - MANHATTAN', 3
+'School name', 'M751 SPED - MANHATTAN', 7
+'School name', 'THE FLUSHING INTERNATIONAL HS', 6
+'School name', 'P.S. 87 - BRONX', 8
+'School name', 'P.S. 132 - BROOKLYN', 7
+'School name', 'I.S. 265 -BROOKLYN', 4
+'School name', 'PARK SLOPE COLLEGIATE - K', 1
+'School name', 'P.S. 326 - BROOKLYN', 10
+'School name', 'P.S. 42 - MANHATTAN', 6
+'School name', 'I.S. 59 - QUEENS', 9
+'School name', 'P.S. 115 - QUEENS', 14
+'School name', 'I.S. 419 - QUEENS', 4
+'School name', 'FRANCIS LEWIS H.S.', 1
+'School name', 'I.S. 424 - BRONX', 10
+'School name', 'P.S. 135 - BROOKLYN', 9
+'School name', 'P.S. 152 - BROOKLYN', 8
+'School name', 'P.S. 226 - BROOKLYN', 7
+'School name', 'P.S. 399 - BROOKLYN', 5
+'School name', 'P.S. @ 736 48TH ST - BROOKLYN', 4
+'School name', 'P.S. 64 - MANHATTAN', 5
+'School name', 'P.S. 112 - MANHATTAN', 2
+'School name', 'P.S. 195 - QUEENS', 8
+'School name', 'JAMAICA GATEWAY TO THE SCIENCE', 2
+'School name', 'P.S./I.S. 499 - QUEENS', 1
+'School name', 'THE WALTON AVENUE SCHOOL', 2
+'School name', 'I.S. 129 - BRONX', 1
+'School name', 'P.S. 224 - BROOKLYN', 1
+'School name', 'P.S. 368 - MANHATTAN', 3
+'School name', 'JAMES BALDWIN SCHOOL - M', 8
+'School name', 'HUMANITIES PREPARATORY ACAD', 4
+'School name', 'P.S. 15 - QUEENS', 11
+'School name', 'I.S. 27 - STATEN ISLAND', 7
+'School name', 'MORRIS COLLAB HS TECH & HUMAN', 5
+'School name', 'TALENT UNLIMITED HS - MANHATTA', 4
+'School name', 'J. K. ONASSIS HS FOR INT CAREE', 1
+'School name', 'NYC PUBLIC SCHOOL REPERTORY CO', 6
+'School name', 'P.S. 14 - QUEENS', 18
+'School name', 'Q075 SPED - QUEENS', 15
+'School name', 'P.S. 50 - QUEENS', 3
+'School name', 'VALIDUS PREPRATORY ACADEMY -X', 3
+'School name', 'P.S. 63 - MANHATTAN', 11
+'School name', 'URBAN ACADEMY LABORATORY HS -', 4
+'School name', 'GATEWAY HEALTH & SCIENCES H.S.', 1
+'School name', 'P.S. 13 - STATEN ISLAND', 7
+'School name', 'P.S. 53 - STATEN ISLAND', 11
+'School name', 'EAST NEW YORK ELEMENTARY SCHL', 4
+'School name', 'P.S. 160 - BROOKLYN', 6
+'School name', 'P.S. 233 - BROOKLYN', 10
+'School name', 'BROOKLYN THEATRE ARTS H.S. - K', 1
+'School name', 'P.S. 245 - BROOKLYN', 12
+'School name', 'P.S. 108 - MANHATTAN', 11
+'School name', 'P.S. 333 - MANHATTAN', 8
+'School name', 'P.S. 129 - MANHATTAN', 9
+'School name', 'BERGTRAUM HS - MANHATTAN', 12
+'School name', 'P.S. 58 - QUEENS', 6
+'School name', 'P.S. 139 - QUEENS', 13
+'School name', 'ACADEMY OF AMERICAN STUDIES -', 3
+'School name', 'LONG ISLAND CITY H.S.', 4
+'School name', 'R. F. KENNEDY COMM. MIDDLE/HS-', 3
+'School name', 'P.S. 103 - BRONX', 4
+'School name', 'I.S. 331 - BRONX', 2
+'School name', 'HS FOR WRITING & COMM ARTS - X', 1
+'School name', 'I.S. 492- BROOKLYN', 1
+'School name', 'I.S. 259 - BROOKLYN', 13
+'School name', 'SHEEPSHEAD BAY HS - BROOKLYN', 4
+'School name', 'EMMA LAZARUS HIGH SCHOOL', 5
+'School name', 'ENERGY TECH HIGH SCHOOL', 1
+'School name', 'INSTITUTE FOR HEALTH PROFESSIO', 2
+'School name', 'AVIATION HS - QUEENS', 12
+'School name', 'LIBERATION DIPLOMA PLUS H.S.', 4
+'School name', 'P.S. 34 - MANHATTAN', 1
+'School name', 'P.S. 347 - MANHATTAN', 1
+'School name', 'EASTSIDE COMMUNITY HS - M', 2
+'School name', 'UNION SQUARE ACADEMY FOR HLTH', 5
+'School name', 'THE EMERSON SCHOOL - QUEENS', 3
+'School name', 'P.S. 123 - QUEENS', 19
+'School name', 'J.H.S. 194 - QUEENS', 12
+'School name', 'ELM TREE ELEMENTARY SCHOOL', 11
+'School name', 'P.S. 32 - BROOKLYN', 6
+'School name', 'P.S. 89 - QUEENS', 14
+'School name', 'P.S. @ 69-02 QUEENS BOULEVARD', 4
+'School name', 'CONCORD H.S.', 1
+'School name', 'BRONX HS FOR THE VISUAL ARTS', 4
+'School name', 'BROOKLYN TECH HS - K', 51
+'School name', 'I.S. 223 - MANHATTAN', 4
+'School name', 'HS FOR MEDIA & COMM - M', 8
+'School name', 'PATHWAYS COLL. PREP SCHOOL - Q', 3
+'School name', 'P.S. 244 - QUEENS', 2
+'School name', 'QUEENS SCHOOL FOR LEADERSHIP', 1
+'School name', '3K CENTER @ 101-49 WOODHAVEN', 4
+'School name', 'NEWCOMERS HIGH SCHOOL - Q', 8
+'School name', 'CURTIS HS - STATEN ISLAND', 3
+'School name', 'P.S. 161 - BRONX', 12
+'School name', 'LEADERSHIP PREP CHARTER - K', 4
+'School name', 'P.S. 36 - QUEENS', 30
+'School name', 'P.S. 133 - QUEENS', 7
+'School name', 'P.S. 196 - QUEENS', 11
+'School name', 'JOHN BOWNE HS - QUEENS', 14
+'School name', 'P.S. 29 - STATEN ISLAND', 16
+'School name', 'I.S. 316 - BRONX', 6
+'School name', 'I.S. 556 - BRONX', 7
+'School name', 'M.S./H.S. 225 - BRONX', 6
+'School name', 'LEARNING THROUGH PLAY PRE-K', 4
+'School name', 'P.S. 748 - BROOKLYN', 10
+'School name', 'ALC - BROOKLYN CHOICES', 4
+'School name', 'P.S. 497 - MANHATTAN', 2
+'School name', 'M138 SPED - MANHATTAN', 3
+'School name', 'I.S. 245 - MANHATTAN', 8
+'School name', 'P.S. 203 - BROOKLYN', 7
+'School name', 'P.S. 126 - MANHATTAN', 11
+'School name', 'P.S. 197 - MANHATTAN', 4
+'School name', 'QUEENS VOC HS - Q', 4
+'School name', 'P.S. 19 - STATEN ISLAND', 6
+'School name', 'P.S. 198 - BROOKLYN', 2
+'School name', 'I.S. 364 - BROOKLYN', 10
+'School name', 'NEW YORK HARBOR SCHOOL - MANHA', 2
+'School name', 'P.S. 21 - QUEENS', 4
+'School name', 'P.S. 31 - QUEENS', 12
+'School name', 'P.S. 46 - STATEN ISLAND', 8
+'School name', 'P.S. 21 - BROOKLYN', 8
+'School name', 'WEST BROOKLYN COMMUNITY HS - K', 5
+'School name', 'LEADERSHIP & PUBLIC SERVICE HS', 1
+'School name', 'P.S. 163 - QUEENS', 16
+'School name', 'QUEENS HIGH SCHOOL FOR LANGUAG', 2
+'School name', 'P.S. 32 - STATEN ISLAND', 9
+'School name', 'P.S. 112 - BRONX', 6
+'School name', 'P.S. 169 - BRONX', 1
+'School name', 'WILLIAMSBURG CHARTER SCHOOL -', 4
+'School name', 'P.S. 205 - BROOKLYN', 5
+'School name', 'I.S. 367 - MANHATTAN', 5
+'School name', 'BEACON HS - MANHATTAN', 1
+'School name', 'P.S. 184 - QUEENS', 5
+'School name', 'PELHAM LAB HIGH SCHOOL', 2
+'School name', 'P.S. 190 - BROOKLYN', 5
+'School name', 'I.S. 452', 5
+'School name', 'KURT HAHN EXPED LEARNING SCH -', 1
+'School name', 'COAL. SCHOOL FOR SOCIAL CHANGE', 6
+'School name', 'Q233 SPED - QUEENS', 2
+'School name', 'P.S. 47 - BRONX', 4
+'School name', 'DOE ADMINISTRATIVE OFFICE - X', 5
+'School name', 'MILLENIUM BROOKLYN HIGH SCHOOL', 2
+'School name', 'BKLYN STUDIO SEC. SCL - BROOKL', 6
+'School name', 'P.S. 200 - MANHATTAN', 3
+'School name', 'INDEPENDENCE HS - MANHATTAN', 1
+'School name', 'PREPARATORY ACADEMY FOR WRITER', 1
+'School name', 'P.S. 58 - STATEN ISLAND', 12
+'School name', 'I.S. 45 - BRONX', 7
+'School name', 'ELLIS PREPARATORY ACADEMY-X', 1
+'School name', 'P.S. 180 - MANHATTAN', 1
+'School name', 'URBAN ASSEMBLY MAKER ACADEMY', 1
+'School name', 'HS FOR MATH, SCI AND ENGINEERI', 1
+'School name', 'TEACHER'S COLLEGE COMMUNITY SC', 3
+'School name', 'P.S. 68 - QUEENS', 10
+'School name', 'AUGUST MARTIN HS - QUEENS', 23
+'School name', 'P.S. 078 - STATEN ISLAND', 14
+'School name', 'DISCOVERY HS - BRONX', 1
+'School name', 'THE ACADAMY OF TALENTED SCHOLA', 4
+'School name', 'BROOKLYN HIGH SCHOOL FOR LAW A', 1
+'School name', 'P.S. 20 - MANHATTAN', 2
+'School name', 'MURRAY HILL ACADEMY HS - M', 15
+'School name', 'CHALLENGE PREP CHARTER SCHOOL', 3
+'School name', 'ROCKAWAY PARK HS FOR ENVIRONME', 1
+'School name', 'I.S. 302 - BRONX', 20
+'School name', 'P.S. 75 - BROOKLYN', 9
+'School name', 'P.S. 503 - BROOKLYN', 14
+'School name', 'K396 SPED - BROOKLYN', 9
+'School name', 'FREDERICK DOUGLASS ACADEMY VI,', 2
+'School name', 'I.S. 217 - BRONX,', 6
+'School name', 'P.S. 27 - BRONX,', 9
+'School name', 'P.S. 360 - BRONX,', 1
+'School name', 'P.S. 10 - BROOKLYN,', 7
+'School name', 'P.S. 23 - BROOKLYN,', 8
+'School name', 'I.S. 187 - BROOKLYN,', 11
+'School name', 'J.H.S. 8 - QUEENS,', 15
+'School name', '3K CENTER @ 1 TELEPORT DRIVE,', 4
+'School name', 'I.S. 29 - BRONX,', 1
+'School name', 'YOUNG VOICES ACADEMY OF THE BR,', 1
+'School name', 'HS FOR CONTEMPORARY ARTS - X,', 2
+'School name', 'P.S. 316 - BROOKLYN,', 7
+'School name', 'GLOBAL TECHNOLOGY PREPARATORY,', 1
+'School name', 'INSTITUTE FOR COLLABORATIVE ED,', 2
+'School name', 'J.H.S. 25 - QUEENS,', 4
+'School name', 'I.S. 126 - QUEENS,', 16
+'School name', 'P.S. 56 - STATEN ISLAND,', 10
+'School name', 'P.S. 15 - BRONX,', 3
+'School name', 'WEST PREP ACADEMY - MANHATTAN,', 9
+'School name', 'P.S. 452 - MANHATTAN,', 8
+'School name', 'MANHATTAN BRIDGES - MANHATTAN,', 10
+'School name', 'THE 30TH AVENUE SCHOOL,', 6
+'School name', 'P.S. 132 - QUEENS,', 9
+'School name', 'P.S. 6 - STATEN ISLAND,', 15
+'School name', 'P.S. 62 - BRONX,', 4
+'School name', 'K368 SPED - BROOKLYN,', 7
+'School name', 'P.S. 185 - BROOKLYN,', 7
+'School name', 'I.S. 383 - BROOKLYN,', 5
+'School name', 'P.S. 96 - MANHATTAN,', 4
+'School name', 'HAMILTON GRANGE MIDDLE SCHOOL,', 5
+'School name', 'HARLEM VILLAGE ACADEMY CHARTER,', 1
+'School name', 'QUEST TO LEARN - MANHATTAN,', 2
+'School name', 'I.S. 141 - QUEENS,', 16
+'School name', 'PORT RICHMOND HS - R,', 11
+'School name', 'P.S. 9 - BRONX,', 10
+'School name', 'I.S. 301 - BRONX,', 2
+'School name', 'M.S./H.S. 368 - BRONX,', 5
+'School name', 'ACHIEVEMENT FIRST ASPIRE CHART,', 4
+'School name', 'SUNSET PARK AVENUES ELEMENTARY,', 5
+'School name', 'P.S. 770 - BROOKLYN,', 6
+'School name', 'P.S. 7 - QUEENS,', 10
+'School name', 'P.S. 12 - QUEENS,', 8
+'School name', 'ROCKAWAY COLLEGIATE HIGH SCHL,', 4
+'School name', 'CIVIC LEADERSHIP ACADEMY - QUE,', 1
+'School name', 'P.S. 41 - STATEN ISLAND,', 11
+'School name', 'MOTT HALL CHARTER SCHOOL,', 12
+'School name', 'P.S. 229 - BROOKLYN,', 6
+'School name', 'I.S. 291 - BROOKLYN,', 16
+'School name', 'HS FOR INNOVATION IN AD - BKLY,', 2
+'School name', 'Q256 SPED - QUEENS,', 12
+'School name', 'P.S. 1 - MANHATTAN,', 6
+'School name', 'P.S. 19 - MANHATTAN,', 8
+'School name', 'MANHATTAN BUSINESS ACADEMY,', 1
+'School name', 'INT'L HS AT UNION SQUARE - MAN,', 1
+'School name', 'TEACHERS COLLEGE COMMUNITY SC,', 8
+'School name', 'EDWARD REYNOLDS WEST SIDE HS,', 8
+'School name', 'P.S. 34 - QUEENS,', 5
+'School name', 'J.H.S. 158 - QUEENS,', 13
+'School name', 'MARTIN VAN BUREN HS - QUEENS,', 25
+'School name', 'P.S. 18 - STATEN ISLAND,', 4
+'School name', 'I.S. 72 - STATEN ISLAND,', 24
+'School name', 'SCHOOL FOR ENVIR CITIZEN - BRO,', 2
+'School name', 'I.S. 117 - BRONX,', 3
+'School name', 'P.S. 207 - BRONX,', 12
+'School name', 'I.S. 534 - BROOKLYN,', 2
+'School name', 'ACADEMY OF INNOV TECH - BROOKL,', 5
+'School name', 'P.S. 57 - MANHATTAN,', 6
+'School name', 'P.S. 232 - QUEENS,', 6
+'School name', 'P.S. 57 - STATEN ISLAND,', 12
+'School name', 'I.S. 232 - BRONX,', 13
+'School name', 'P.S. 13 - BRONX,', 4
+'School name', 'EAGLE ACADEMY FOR YOUNG MEN -,', 1
+'School name', 'P.S. 5 - BROOKLYN,', 4
+'School name', 'P.S. 104 - BROOKLYN,', 14
+'School name', 'P.S. 2 - MANHATTAN,', 1
+'School name', 'P.S. 223,', 4
+'School name', 'P.S. 78 - QUEENS,', 4
+'School name', 'P.S. 4 - BRONX,', 2
+'School name', 'LIBERTY AVENUE MIDDLE SCHOOL,', 4
+'School name', 'J.H.S. 7 - MANHATTAN,', 1
+'School name', 'P.S. 163 - MANHATTAN,', 10
+'School name', 'I.S. 293 - MANHATTAN,', 7
+'School name', 'P.S. 44 - STATEN ISLAND,', 14
+'School name', 'P.S. 81 - STATEN ISLAND,', 6
+'School name', 'I.S. 96 - BRONX,', 2
+'School name', 'I.S. 14 - BROOKLYN,', 12
+'School name', 'VAN SICLEN COMMUNITY MIDDLE SC,', 2
+'School name', 'P.S. 173 - MANHATTAN,', 19
+'School name', 'ART & DESIGN VOC HS - MANHATTA,', 2
+'School name', 'J.H.S. 12,', 4
+'School name', 'CORONA ARTS AND SCIENCES ACADE,', 1
+'School name', 'P.S. 16 - BROOKLYN,', 3
+'School name', 'I.S. 89 - MANHATTAN,', 1
+'School name', 'P.S. 98 - MANHATTAN,', 16
+'School name', 'P.S. 125 - MANHATTAN,', 10
+'School name', 'P.S. 145 - MANHATTAN,', 12
+'School name', 'WEST END SECONDARY SCHOOL - MA,', 5
+'School name', 'FREDERICK DOUGLASS ACAD VI HS,', 4
+'School name', 'CARDOZO HIGH SCHOOL ANNEX - Q,', 4
+'School name', 'I.S./H.S. 167 - QUEENS,', 3
+'School name', 'I.S. 447 - BRONX,', 13
+'School name', 'P.S. 38 - MANHATTAN,', 5
+'School name', 'P.S. 362 - QUEENS,', 1
+'School name', 'YOUNG W LEADERSHIP SCL ASTORIA,', 4
+'School name', 'LONGWOOD PREPARATORY ACADEMY,', 9
+'School name', 'P.S. 4 - BROOKLYN,', 12
+'School name', 'I.S. 381 - BROOKLYN,', 2
+'School name', 'P.S. 309 - BROOKLYN,', 6
+'School name', 'WILLIAMSBURG HS FOR ARCH & DES,', 1
+'School name', 'J.H.S. 189 - QUEENS,', 2
+'School name', 'P.S. 23 - STATEN ISLAND,', 6
+'School name', 'I.S. 61 - STATEN ISLAND,', 15
+'School name', 'BRONX EXPEDITIONARY LEARNG HS,', 3
+'School name', 'NEW DIRECTIONS SECONDARY SCHOO,', 1
+'School name', 'P.S. 39 - BROOKLYN,', 2
+'School name', 'I.S. 61 - BROOKLYN,', 9
+'School name', 'P.S. 181 - BROOKLYN,', 5
+'School name', 'P.S. 184 - BROOKLYN,', 11
+'School name', 'P.S. 86 - QUEENS,', 10
+'School name', 'P.S. 169 - QUEENS,', 23
+'School name', 'I.S. 2 - STATEN ISLAND,', 11
+'School name', 'I.S. 125 - BRONX,', 6
+'School name', 'HERBERT H. LEHMAN HS - X,', 27
+'School name', 'I.S. 4 - BRONX,', 2
+'School name', 'I.S. 394 - BROOKLYN,', 6
+'School name', 'MIDWOOD HS - BROOKLYN,', 12
+'School name', 'ERASMUS YABC,', 1
+'School name', 'DIV. COMPUTER INFO-DATA CNTR,', 4
+'School name', 'I.S. 328 - MANHATTAN,', 9
+'School name', 'J.H.S. 72 - QUEENS,', 10
+'School name', 'I.S. @ 3-04 4TH STREET - Q,', 8
+'School name', 'HILLCREST HS - QUEENS,', 12
+'School name', 'CAMBRIA HEIGHTS ACADEMY - Q,', 5
+'School name', 'ALTRNATIVE LEARNING CENTER - Q,', 2
+'School name', 'P.S. 287 - BROOKLYN,', 5
+'School name', 'THE BROOKLYN SCHOOL FOR SOCIAL,', 8
+'School name', 'I.S. 372 - MANHATTAN,', 1
+'School name', 'HARVEST COLLEGIATE HIGH SCHOOL,', 2
+'School name', '3K CENTER @ 0 AVENUE - QUEEN,', 1
+'School name', 'P.S. 74 - STATEN ISLAND,', 16
+'School name', 'P.S. 179 - BRONX,', 12
+'School name', 'THE LABORATORY SCHL OF FINANCE,', 4
+'School name', 'P.S. 205 - BRONX,', 7
+'School name', 'THE INTERNATIONAL HS - BROOKLY,', 8
+'School name', 'INNOVATION DIPLOMA PLUS,', 8
+'School name', 'P.S. 166 - QUEENS,', 4
+'School name', 'THOMAS A. EDISON HS - Q,', 22
+'School name', 'P.S. 6 - BRONX,', 2
+'School name', 'MOTT HALL BRONX HS - BRONX,', 1
+'School name', 'P.S. 131 - BROOKLYN,', 7
+'School name', 'K077 SPED - BROOKLYN,', 6
+'School name', 'I.S. 54 - MANHATTAN,', 10
+'School name', 'P.S. 146 - MANHATTAN,', 2
+'School name', 'GEORGE WASHINGTON H.S.,', 4
+'School name', 'I.S. 250 - QUEENS,', 1
+'School name', 'THE CHILD CENTER OF NEW YORK,', 1
+'School name', 'H.S. @ 51-30 NORTHERN BLVD,', 4
+'School name', 'P.S. 536 - BRONX,', 1
+'School name', 'DREAMYARD PREPARATORY SCHOOL,', 1
+'School name', 'LIBERATION DIPLOMA PLUS H.S. -,', 4
+'School name', 'P.S. 185 - MANHATTAN,', 3
+'School name', 'NORMAN THOMAS HS - MANHATTAN,', 4
+'School name', 'P.S. 76 - QUEENS,', 10
+'School name', 'P.S. 333 - QUEENS,', 2
+'School name', 'P.S. /I.S 25 - QUEENS,', 9
+'School name', 'NORTH BRNX SCHL OF EMPOWERMENT,', 16
+'School name', 'P.S. 100 - BROOKLYN,', 8
+'School name', 'P.S./I.S. @ 3269 ATLANTIC AVE,', 4
+'School name', 'I.S. 53 - QUEENS,', 14
+'School name', 'P.S. 191 - QUEENS,', 11
+'School name', 'J.H.S. 216 - QUEENS,', 22
+'School name', 'P.S. 51 - QUEENS,', 2
+'School name', 'P.S. 38 - STATEN ISLAND,', 10
+'School name', 'P.S. 42 - STATEN ISLAND,', 21
+'School name', 'P.S. 42 - BRONX,', 7
+'School name', 'P.S. 72 - BRONX,', 11
+'School name', 'P.S. 121 - BRONX,', 7
+'School name', 'P.S. 16 - BRONX,', 4
+'School name', 'FORDHAM HS FOR THE ARTS - BRON,', 1
+'School name', 'BRONX COMMUNITY HIGH SCHOOL,', 4
+'School name', 'MARBLE HILL INTERNATIONAL HS -,', 1
+'School name', 'CONTINUING EDUCATION PROGRAM,', 1
+'School name', 'P.S. 15 - BROOKLYN,', 7
+'School name', 'BROOKLYN COMMUNITY ARTS & MEDI,', 1
+'School name', 'THE ACADEMY OF URBAN PLANNING,', 1
+'School name', 'P.S. 1 - QUEENS,', 7
+'School name', 'I.S. 7 - STATEN ISLAND,', 15
+'School name', '3K CENTER @ 10 HOUSMAN AVENUE,', 4
+'School name', 'CONCORD HS - R,', 5
+'School name', 'FORDHAM HS FOR THE ARTS - X,', 4
+'School name', 'P.S. 142 - MANHATTAN,', 3
+'School name', 'SAMARA COMMUNITY SCHOOL,', 5
+'School name', 'I.S. 221 - BRONX,', 16
+'School name', 'P.S. 270 - BROOKLYN,', 4
+'School name', 'P.S. 295 - BROOKLYN,', 7
+'School name', 'P.S. 30 - MANHATTAN,', 13
+'School name', 'M000 - MANHATTAN,', 6
+'School name', 'AVIATION VOCATIONAL H.S.,', 1
+'School name', 'HS FOR CNST TRADES, ENG.& ARCH,', 4
+'School name', 'SCHOOL FOR TOURISM AND HOSPITA,', 2
+'School name', 'K7 SPED - BROOKLYN,', 3
+'School name', 'FACING HISTORY SCHOOL - MANHAT,', 1
+'School name', 'P.S. 13 - QUEENS,', 4
+'School name', 'HS OF COMMN. ARTS & TECH - QUE,', 1
+'School name', 'P.S. 60 - STATEN ISLAND,', 4
+'School name', 'RALPH R. MCKEE CAREER AND TECH,', 17
+'School name', 'P.S. 54 - BRONX,', 10
+'School name', 'I.S. 243 - BRONX,', 1
+'School name', 'NEW EXPLORERS HIGH SCHOOL - BR,', 1
+'School name', 'P.S. 13 - BROOKLYN,', 7
+'School name', 'I.S. 722 - BROOKLYN,', 6
+'School name', 'BRKLYN SCHL FOR SOCIAL JUSTICE,', 4
+'School name', 'EAST NY FAMILY ACAD.  - K,', 1
+'School name', 'P.S. 128 - MANHATTAN,', 11
+'School name', 'P.S. 290 - MANHATTAN,', 13
+'School name', 'D.O.T. - QUEENS,', 1
+'School name', 'P.S.  - BRONX,', 7
+'School name', 'P.S. 29 - BRONX,', 1
+'School name', 'P.S. 52 - BROOKLYN,', 7
+'School name', 'BUSHWICK COMMUNITY HS - BROOKL,', 1
+'School name', 'I.S. 224 - MANHATTAN,', 1
+'School name', 'P.S. 10 - QUEENS,', 2
+'School name', 'BROOKLYN EMERGING LEADERS ACAD,', 4
+'School name', 'BELIEVE NORTHSIDE CHARTER HIGH,', 1
+'School name', 'I.S. 58 - BROOKLYN,', 2
+'School name', 'THE FRESH CREEK SCHOOL - BROOK,', 7
+'School name', 'I.S. 285 - BROOKLYN,', 18
+'School name', 'P.S. 29 - BROOKLYN,', 3
+'School name', 'EL PUENTE ACADEMY - BROOKLYN,', 4
+'School name', 'P.S. 354 - QUEENS,', 17
+'School name', 'HUMANITIES & THE ARTS HS - Q,', 9
+'School name', 'P.S. 55 - STATEN ISLAND,', 3
+'School name', 'P.S. 24 - BRONX,', 9
+'School name', 'THE URBAN ASSEMBLY BRONX ACAD,', 4
+'School name', 'P.S. 116 - BROOKLYN,', 3
+'School name', 'P.S. 13 - BROOKLYN,', 2
+'School name', 'I.S. 281 - BROOKLYN,', 5
+'School name', 'BROOKLYN HS OF THE ARTS,', 12
+'School name', 'W.E.B.  DUBOIS HS - BROOKLYN,', 1
+'School name', 'PASSAGES ACADEMY,', 4
+'School name', 'P.S. 31 - MANHATTAN,', 4
+'School name', 'P.S. 206 - QUEENS,', 18
+'School name', 'P.S. 290 - QUEENS,', 3
+'School name', 'P.S. 246 - BRONX,', 13
+'School name', 'BRONX THEATRE HS - BRONX,', 2
+'School name', 'YOUNG WOMEN'S LEADERSHIP SCHOO,', 3
+'School name', 'THE HERITAGE SCHOOL - MANHATTA,', 2
+'School name', 'URBAN ASMBLY SCHL GLBL COMMRCE,', 4
+'School name', 'I.S. 346 - MANHATTAN,', 1
+'School name', 'CITY KNOLL MIDDLE SCHOOL,', 2
+'School name', 'P.S. 239 - QUEENS,', 5
+'School name', 'I.S. 190 - BRONX,', 2
+'School name', 'I.S. 180 - BRONX,', 3
+'School name', 'BROOKLYN ENVIRONMENTAL EXPLORA,', 2
+'School name', 'R. CARSON SCL OF COASTAL ST-K,', 3
+'School name', 'KINGSBOROUGH EARLY COLLEGE SCH,', 14
+'School name', 'PERFORMING ARTS AND TECH. HS -,', 2
+'School name', 'E NY VOC HS OF TRANSIT TECH.-K,', 6
+'School name', 'I.S. 390 - BRONX,', 16
+'School name', 'THE YOUNG SCHOLARS ACADEMY - B,', 1
+'School name', 'P.S. 22 - BRONX,', 1
+'School name', 'I.S. 349 - BROOKLYN,', 2
+'School name', 'JAMES MADISON HS,', 4
+'School name', 'SOUTH BROOKLYN COMM. HS - K,', 2
+'School name', 'P.S. 2 - QUEENS,', 17
+'School name', 'NEWTOWN HS - QUEENS,', 26
+'School name', 'P.S. 93 - BRONX,', 6
+'School name', 'P.S. 5 - BROOKLYN,', 7
+'School name', 'P.S. 12 - BROOKLYN,', 6
+'School name', 'CLARA BARTON HS - K,', 3
+'School name', 'ADULT AND CONTINUING EDUCATION,', 5
+'School name', 'P.S. 206 - MANHATTAN,', 5
+'School name', 'HS FOR ENVIRONMENTAL STUDIES -,', 1
+'School name', 'P.S. 203 - QUEENS,', 9
+'School name', 'P.S. @ PARCEL C - QUEENS,', 4
+'School name', 'P.S. 85 - BRONX,', 15
+'School name', 'P.S./I.S. 189 (@STEENWICK AVE),', 4
+'School name', 'LEHMAN HS,', 4
+'School name', 'SUCCESS ACADEMY CHARTER SCHOOL,', 9
+'School name', 'EAGLE ACAD YOUNG MEN AT OCEAN,', 4
+'School name', 'P.S. 27 - BROOKLYN,', 3
+'School name', 'I.S. 30 - MANHATTAN,', 1
+'School name', 'I.S. 86 - MANHATTAN,', 2
+'School name', 'P.S. 35 - QUEENS,', 8
+'School name', 'P.S. 7 - BROOKLYN,', 11
+'School name', 'I.S. 78 - BROOKLYN,', 15
+'School name', 'EDUCATIONAL CAMPUS @ 500 19TH,', 4
+'School name', 'P.S. 375 - BROOKLYN,', 6
+'School name', 'JOHN DEWEY HS - BROOKLYN,', 21
+'School name', 'P.S. 8 - MANHATTAN,', 2
+'School name', 'UNIVERSITY NEIGHBORHOOD HS - M,', 2
+'School name', 'P.S. 32 - QUEENS,', 9
+'School name', 'P.S. 13 ANNEX - QUEENS,', 4
+'School name', 'P.S. 26 - STATEN ISLAND,', 4
+'School name', 'BRONX AEROSPACE HS - BRONX,', 1
+'School name', 'BRONX LEADERSHIP ACADEMY II HS,', 1
+'School name', 'P.S. 274 - BROOKLYN,', 18
+'School name', 'P.S. 289 - BROOKLYN,', 1
+'School name', 'P.S. 89 - MANHATTAN,', 3
+'School name', 'I.S. 17 - MANHATTAN,', 6
+'School name', 'I.S./H.S. @ 715 OCEAN TERRACE,', 4
+'School name', 'P.S. 95 - BRONX,', 13
+'School name', 'P.S. 110 - BRONX,', 3
+'School name', 'I.S. 562 - BRONX,', 4
+'School name', 'I.S. 127 - BRONX,', 14
+'School name', 'I.S. 144 - BRONX,', 2
+'School name', 'P.S. 178 - BRONX,', 4
+'School name', 'UFT CHARTER SCHOOL - BROOKLYN,', 4
+'School name', 'P.S. 328 - BROOKLYN,', 12
+'School name', 'CYBERARTS STUDIO ACADEMY - K,', 4
+'School name', 'P.S. 184 - MANHATTAN,', 12
+'School name', 'P.S. 19 - BRONX,', 4
+'School name', 'I.S. 171 - BROOKLYN,', 15
+'School name', 'M.S. 354 - BROOKLYN,', 13
+'School name', 'BROOKLYN COLLEGE ACADEMY - K,', 13
+'School name', 'P.S. 53 - MANHATTAN,', 1
+'School name', 'FRANK MCCOURT HS- MANHATTAN,', 2
+'School name', 'PARK EAST ALT HS,', 4
+'School name', 'P.S. 43 - QUEENS,', 10
+'School name', 'THE EAGLE ACADEMY FOR YOUNG ME,', 1
+'School name', 'P.S. 178 - BROOKLYN,', 3
+'School name', 'P.S. 20 - BROOKLYN,', 9
+'School name', 'PS/IS 75 - MANHATTAN,', 3
+'School name', 'P.S. 17 - BROOKLYN,', 12
+'School name', 'I.S. 35 - BROOKLYN,', 12
+'School name', 'P.S. 5 - BROOKLYN,', 9
+'School name', 'I.S. 32 - BROOKLYN,', 9
+'School name', 'BOYS AND GIRLS YABC,', 1
+'School name', 'EAST SIDE COMMUNITY SCHOOL,', 6
+'School name', 'HS FOR LANGUAGE AND DIPLOMACY,', 1
+'School name', 'P.S. 22 - QUEENS,', 24
+'School name', 'P.S. 6 - QUEENS,', 4
+'School name', 'HAWTREE CREEK MIDDLE SCHOOL -,', 1
+'School name', 'P.S. 279 - BROOKLYN,', 8
+'School name', 'P.S. 306 - BROOKLYN,', 12
+'School name', 'PROGRESS HS - K,', 16
+'School name', 'P.S. 35 - MANHATTAN,', 2
+'School name', 'I.S. 204 - QUEENS,', 12
+'School name', 'RALPH MCKEE VOC HS - S. I.,', 4
+'School name', 'P.S. 44 - BRONX,', 7
+'School name', 'P.S. 9 - BROOKLYN,', 5
+'School name', 'THURGOOD MARSHALL ACADEMY - M,', 4
+'School name', 'P.S. @ PARCEL F - QUEENS,', 4
+'School name', 'GROVER CLEVELAND HS - QUEENS,', 19
+'School name', 'P.S. 18 - BRONX,', 9
+'School name', 'THE LONGWOOD ACADEMY,', 4
+'School name', 'P.S. 21 - BRONX,', 4
+'School name', 'P.S. 170 - BRONX,', 9
+'School name', 'ARTURO A. SCHOMBERG SATELLITE,', 1
+'School name', 'THE METROPOLITAN SOUNDVIEW HIG,', 1
+'School name', 'BRONX HS OF SCIENCE - X,', 10
+'School name', 'P.S. 340 ANNEX - BRONX,', 8
+'School name', 'X721 SPED - BRONX,', 6
+'School name', 'FAMILY LIFE ACADEMY CHARTER SC,', 1
+'School name', 'P.S. 19 - MANHATTAN,', 4
+'School name', 'WILLIAM C. BRYANT HS - QUEENS,', 12
+'School name', 'HS FOR ARTS AND BUSINESS - QUE,', 2
+'School name', 'P.S. 119 - BRONX,', 20
+'School name', 'HS OF COMPUTERS & TECHNOLOGY -,', 1
+'School name', 'RIVERDALE AVENUE MIDDLE SCHOOL,', 5
+'School name', 'P.S. 56 - BROOKLYN,', 2
+'School name', 'P.S. 1 ANNEX - BROOKLYN,', 4
+'School name', 'P.S. 18 - BROOKLYN,', 4
+'School name', 'MILLENNIUM HS - MANHATTAN,', 2
+'School name', 'P.S. 191 - BROOKLYN,', 17
+'School name', 'P.S. 26 - MANHATTAN,', 7
+'School name', 'THE BUSINESS OF SPORTS SCHOOL,', 2
+'School name', 'I.S. 5 - QUEENS,', 11
+'School name', 'P.S. 28 - QUEENS,', 4
+'School name', 'P.S. 63 - QUEENS,', 1
+'School name', 'R. F. WAGNER SEC SCL ARTS & TE,', 4
+'School name', 'THE KATHLEEN GRIMM SCHOOL FOR,', 2
+'School name', 'P.S. 154 - BRONX,', 2
+'School name', 'HS FOR ENVIRONMENTAL STUDIES,', 8
+'School name', 'P.S. 33 - QUEENS,', 5
+'School name', 'P.S. 207 - QUEENS,', 5
+'School name', 'HS OF APPLIED COMMUNICATION-Q,', 3
+'School name', 'P.S. 39 - STATEN ISLAND,', 7
+'School name', 'P.S. 46 - BRONX,', 9
+'School name', 'I.S. 459 - BRONX,', 16
+'School name', 'SCIENCE SKILLS CENTER HS - K,', 1
+'School name', 'UNITY HS - MANHATTAN,', 1
+'School name', 'P.S. 8 - QUEENS,', 10
+'School name', 'P.S. 16 - QUEENS,', 9
+'School name', 'I.S. 96 - BROOKLYN,', 3
+'School name', 'P.S. 896 - BROOKLYN,', 1
+'School name', 'P.S. 9 - MANHATTAN,', 5
+'School name', 'P.S. 77 - MANHATTAN,', 2
+'School name', 'P.S. 49 - QUEENS,', 3
+'School name', 'P.S. 136 - QUEENS,', 4
+'School name', 'I.S./J.H.S. 3 - STATEN ISLAND,', 6
+'School name', 'I.S. 821 - BROOKLYN,', 9
+'School name', 'P.S. 139 - BROOKLYN,', 16
+'School name', 'K372 SPED - BROOKLYN,', 1
+'School name', 'I.S. 286 - MANHATTAN,', 5
+'School name', 'J.H.S. 52 - MANHATTAN,', 10
+'School name', 'P.S. 11 - MANHATTAN,', 6
+'School name', 'P.S. 178 - QUEENS,', 2
+'School name', 'INTERNATIONAL HS - QUEENS,', 1
+'School name', 'BKLYN HS FOR LEADERSHIP & COMM,', 1
+'School name', 'P.S. 307 - BROOKLYN,', 6
+'School name', 'LEON GOLDSTEIN HS - BROOKLYN,', 3
+'School name', 'WADLEIGH SECONDARY SCHOOL,', 4
+'School name', 'WADLEIGH SCNDRY SCHL FOR PERMG,', 4
+'School name', 'PAN AMERICAN INTERNATIONAL HS,', 11
+'School name', 'P.S. 6 - BROOKLYN,', 3
+'School name', 'HIGH SCHOOL OF SPORTS MGMT- K,', 1
+'School name', 'I.S. 378 - MANHATTAN,', 2
+'School name', 'P.S. 343 - MANHATTAN,', 2
+'School name', 'CAMBRIA HEIGHTS ACADEMY - QUEE,', 1
+'School name', 'P.S. 35 - STATEN ISLAND,', 2
+'School name', 'P.S. 50 - STATEN ISLAND,', 8
+'School name', 'X017 SPED - BRONX,', 5
+'School name', 'METROPOLITAN LIGHTHOUSE CHARTE,', 1
+'School name', 'BRONX RIVER HIGH SCHOOL,', 1
+'School name', 'CROTONA INTERNATIONAL HIGH SCH,', 1
+'School name', 'P.S. 84 - BROOKLYN,', 1
+'School name', 'MIDWOOD H.S.,', 4
+'School name', 'P.S. 198 - MANHATTAN,', 15
+'School name', 'CHELSEA VOC HS - MANHATTAN,', 1
+'School name', 'P.S. 131 - QUEENS,', 19
+'School name', 'P.S. 31 - STATEN ISLAND,', 6
+'School name', 'THE DAVID MARQUIS SCHOOL OF TH,', 3
+'School name', 'P469 - THE BRONX SCHOOL FOR CO,', 2
+'School name', 'P.S. 106 - BROOKLYN,', 3
+'School name', 'P.S. 154 - BROOKLYN,', 8
+'School name', 'K371 SPED - BROOKLYN,', 8
+'School name', 'H.S. 745 - BROOKLYN,', 10
+'School name', 'BROOKLYN GENERATION SCHOOL - K,', 10
+'School name', 'ESSEX STREET ACADEMY - MANHATT,', 2
+'School name', 'P.S. 8 - QUEENS,', 1
+'School name', 'P.S. 140 - QUEENS,', 2
+'School name', 'P.S. 144 - QUEENS,', 16
+'School name', 'P.S. 307 - BRONX,', 2
+'School name', 'I.S. 681 - BROOKLYN,', 10
+'School name', 'P.S. 284 - BROOKLYN,', 12
+'School name', 'SECONDARY SCHOOL FOR LAW - K,', 7
+'School name', 'I.S. 839 - MANHATTAN,', 5
+'School name', 'P.S. 66 - QUEENS,', 9
+'School name', 'R. F. KENNEDY COMM. MIDDLE/HS,', 4
+'School name', 'P.S. 63 - BRONX,', 12
+'School name', 'THE CINEMA SCHOOL - BRONX,', 1
+'School name', 'P.S. 109 - BROOKLYN,', 11
+'School name', 'I.S. 255 - MANHATTAN,', 1
+'School name', 'URBAN ASSEMBLY SCHOOL - MANHAT,', 1
+'School name', 'HS FOR HEALTH CAREER & SCIENCE,', 29
+'School name', 'P.S. 47 - QUEENS,', 12
+'School name', 'P.S. 193 - QUEENS,', 18
+'School name', 'P.S. 65 - QUEENS,', 1
+'School name', 'P.S. 397 - BROOKLYN,', 6
+'School name', 'I.S. 3 - MANHATTAN,', 1
+'School name', 'I.S. 39 - MANHATTAN,', 1
+'School name', 'I.S. 145 - QUEENS,', 6
+'School name', 'P.S. 280 - QUEENS,', 5
+'School name', 'FRANK SINATRA SCL OF THE ARTS,', 9
+'School name', 'P.S. 44 - BROOKLYN,', 6
+'School name', 'P.S. 15 - BROOKLYN,', 6
+'School name', 'THE BOERUM HILL SCHOOL FOR INT,', 2
+'School name', 'ACAD. FOR ENVIRON. LDRSHP - K,', 5
+'School name', 'P.S. 124 - MANHATTAN,', 3
+'School name', 'I.S. 73 - QUEENS,', 23
+'School name', 'BARD HS EARLY COLLEGE II - QUE,', 6
+'School name', 'I.S. 24 - STATEN ISLAND,', 21
+'School name', 'E BRONX ACADMY FOR THE FUTURE,', 4
+'School name', 'P.S. 133 - MANHATTAN,', 5
+'School name', 'P.S. 149 - QUEENS,', 8
+'School name', 'CHANNEL VIEW SCL FOR RESEARCH,', 10
+'School name', 'TOWNSEND HARRIS HS - Q,', 13
+'School name', 'VOYAGES PREPARATORY - QUEENS,', 1
+'School name', 'PENINSULA PREPARATORY ACADEMY,', 1
+'School name', 'P.S. 340 - BRONX,', 1
+'School name', 'PELHAM HIGH SCHOOL FOR LANGUAG,', 2
+'School name', 'P.S. 11 - BROOKLYN,', 8
+'School name', 'BKLYN GARDENS ELEMENTARY SCHL,', 4
+'School name', 'P.S. 244 - BROOKLYN,', 13
+'School name', 'P.S. 24 - BROOKLYN,', 7
+'School name', 'P.S. @ 525 8TH AVENUE,', 4
+'School name', 'NYC ISCHOOL - MANHATTAN,', 1
+'School name', 'P.S. 71 - QUEENS,', 22
+'School name', 'P.S. 7 - QUEENS,', 9
+'School name', 'P.S. 335 - BRONX,', 1
+'School name', 'I.S. 131 - BRONX,', 10
+'School name', 'P.S. 13 - BRONX,', 2
+'School name', 'M.S./H.S. 245 - BRONX,', 1
+'School name', 'P.S. 264 - BROOKLYN,', 1
+'School name', 'CHELSEA VOCATIONAL H.S.,', 1
+'School name', 'COLLEGE POINT COLLABORATIVE,', 1
+'School name', 'STATEN ISLAND TECHNICAL HS - S,', 8
+'School name', 'BRONX LAB SCHOOL - BRONX,', 1
+'School name', 'ANTONIA PANTOJA PREP ACADEMY -,', 1
+'School name', 'P.S. 38 - BROOKLYN,', 5
+'School name', 'I.S. 448 - BROOKLYN,', 11
+'School name', 'P.S. 34 - BROOKLYN,', 8
+'School name', 'I.S. 382 - BROOKLYN,', 11
+'School name', 'SCIENCE TECHNOLOGY & RESEARCH,', 4
+'School name', 'P.S. 5 - MANHATTAN,', 9
+'School name', 'I.S. 3 - MANHATTAN,', 2
+'School name', 'P.S. 24 - QUEENS,', 7
+'School name', 'I.S. 34 - STATEN ISLAND,', 26
+'School name', 'P.S. 75 - BRONX,', 1
+'School name', 'PATHWAYS TO GRADUATION - CITYW,', 1
+'School name', 'P.S. 91 - BROOKLYN,', 5
+'School name', 'P.S. 170 - BROOKLYN,', 18
+'School name', 'I.S. 303 - BROOKLYN,', 13
+'School name', 'EAST NY FAMILY ACADEMY - K,', 4
+'School name', 'P.S. @ 836-81 5TH AVENUE - BR,', 4
+'School name', 'Q7 SPED - QUEENS,', 17
+'School name', 'P.S. 8 - BRONX,', 1
+'School name', 'P.S. 36 - BRONX,', 10
+'School name', 'I.S. 224 - BRONX,', 13
+'School name', 'BRONX HS FOR THE VISUAL ARTS -,', 1
+'School name', 'P.S. 112 - BROOKLYN,', 5
+'School name', 'P.S. 151 - BROOKLYN,', 7
+'School name', 'I.S. 223 - BROOKLYN,', 8
+'School name', 'LIFE ACADEMY H.S. FILM & MUSIC,', 8
+'School name', 'BUSHWICK LEADERS - K,', 7
+'School name', 'KEY COLLEGIATE CHARTER SCHOOL,', 1
+'School name', 'OLD MABLE DEAN BACON VOC HS AX,', 4
+'School name', 'P.S. 81 - QUEENS,', 14
+'School name', 'P.S. 156 - QUEENS,', 7
+'School name', 'P.S. 242 - QUEENS,', 12
+'School name', 'P.S. 215 - BROOKLYN,', 10
+'School name', 'M.S. 352 - BROOKLYN,', 1
+'School name', 'BROOKLYN SCHOOL FOR MATH AND R,', 1
+'School name', 'PACE HIGH SCHOOL - MANHATTAN,', 3
+'School name', 'I.S. 28 - MANHATTAN,', 5
+'School name', 'JOHN V. LINDSAY WILDCAT ACADEM,', 1
+'School name', 'P.S. 11 - QUEENS,', 5
+'School name', 'RICHMOND HILL HS - QUEENS,', 19
+'School name', 'QUEENS METROPOLITAN HIGH SCHL,', 4
+'School name', 'I.S. 88 - BROOKLYN,', 12
+'School name', 'I.S. 2 - BROOKLYN,', 18
+'School name', 'I.S. 45 - MANHATTAN,', 1
+'School name', 'NYC LAB MIDDLE SCHOOL - MANHAT,', 4
+'School name', 'A. PHILIP RANDOLPH HS -MANHATT,', 2
+'School name', 'LANDMARK H.S. @ COALITION,', 1
+'School name', 'YORK EARLY COLLEGE ACADEMY - Q,', 9
+'School name', 'P.S. 84 - QUEENS,', 11
+'School name', 'JOHN ADAMS HS - QUEENS,', 26
+'School name', 'P.S. 11 - STATEN ISLAND,', 13
+'School name', 'NAPLES STREET ELEMENTARY SCHOO,', 8
+'School name', 'KAPPA - BRONX,', 1
+'School name', 'P.S. 121 - BROOKLYN,', 7
+'School name', 'I.S. 201 - BROOKLYN,', 6
+'School name', 'K77 SPED - BROOKLYN,', 1
+'School name', 'P.S. 16 - BROOKLYN,', 5
+'School name', 'P.S. 199 - MANHATTAN,', 6
+'School name', 'P.S. 234 - MANHATTAN,', 5
+'School name', 'SATELLITE ACADEMY - M,', 2
+'School name', 'P.S. 138 - QUEENS,', 10
+'School name', 'MOTT HALL COMMUNITY SCHOOL - B,', 2
+'School name', 'WORLD CULTURES HS - X,', 8
+'School name', 'P.S. 321 - BROOKLYN,', 15
+'School name', 'I.S. 340 - BROOKLYN,', 6
+'School name', 'JULIA RICHMAN H.S.,', 4
+'School name', 'P.S. 57 - MANHATTAN,', 2
+'School name', 'P.S. 6 - QUEENS,', 5
+'School name', 'P.S. 62 - QUEENS,', 4
+'School name', 'P.S. 205 - QUEENS,', 6
+'School name', 'P.S. 88 - BRONX,', 2
+'School name', 'I.S. 343 - BRONX,', 7
+'School name', 'P.S. 48 - BROOKLYN,', 9
+'School name', 'P.S. 209 - BROOKLYN,', 5
+'School name', 'P.S. 219 - BROOKLYN,', 13
+'School name', 'P.S. 250 - BROOKLYN,', 7
+'School name', 'I.S. 318 - BROOKLYN,', 2
+'School name', 'P.S. 110 - MANHATTAN,', 3
+'School name', 'P.S. 183 - MANHATTAN,', 16
+'School name', 'M811 SPED - MANHATTAN,', 4
+'School name', 'QUEENS UNITED MIDDLE SCHOOL,', 1
+'School name', 'P.S. 174 - QUEENS,', 11
+'School name', 'HOLCOMBE L. RUCKER SCHOOL,', 8
+'School name', 'P.S. 114 - BRONX,', 7
+'School name', 'BRONX DELTA SCHOOL,', 1
+'School name', 'P.S. 16 - BROOKLYN,', 5
+'School name', 'I.S. 68 - BROOKLYN,', 22
+'School name', 'P.S. 69 - BROOKLYN,', 8
+'School name', 'ASPIRATIONS DIPLOMA HS - BROOK,', 1
+'School name', 'P.S. 1 - MANHATTAN,', 5
+'School name', 'P.S./I.S. 278 - MANHATTAN,', 4
+'School name', 'P.S. 162 - QUEENS,', 12
+'School name', 'INSTITUTE FOR HEALTH PROFESSNL,', 4
+'School name', 'P.S. 20 - STATEN ISLAND,', 6
+'School name', 'I.S. 62 - BRONX,', 1
+'School name', 'THE URBAN ASSEMBLY CHARTER SCH,', 1
+'School name', 'P.S. 195 - BROOKLYN,', 2
+'School name', 'MIDDLE SCHOOL FOR ART & PHILOS,', 10
+'School name', 'K036 SPED - BROOKLYN,', 1
+'School name', 'P.S. 13 - MANHATTAN,', 5
+'School name', 'P.S. 160 - QUEENS,', 7
+'School name', 'J.H.S. 172 - QUEENS,', 6
+'School name', 'P.S. 214 - QUEENS,', 6
+'School name', 'ACAD. OF MEDICAL TECHNOLOGY -,', 1
+'School name', 'ACADEMY OF FIN. AND ENTERPRISE,', 1
+'School name', 'P.S. 304 - BRONX,', 9
+'School name', 'HS OF ENTERPRISE, BUS. & TECH.,', 4
+'School name', 'ADULT LEARNING CENTER - BKLYN,', 1
+'School name', 'P.S. 134 - BROOKLYN,', 2
+'School name', 'P.S. 104 - QUEENS,', 12
+'School name', 'YOUNG WOMENS LEADERSHIP SCHL,', 9
+'School name', 'P.S. 48 - BRONX,', 7
+'School name', 'P.S. 1 - BRONX,', 7
+'School name', 'P.S. 105 - BROOKLYN,', 12
+'School name', 'P.S. 216 - BROOKLYN,', 9
+'School name', 'THE MAURICE SENDAK COMMUNITY S,', 2
+'School name', 'P.S. 3 - MANHATTAN,', 10
+'School name', 'P.S. 36 - MANHATTAN,', 17
+'School name', 'HS FOR MEDIA & COMM - MANHATTA,', 1
+'School name', 'RIVERTON STREET CHARTER SCHOOL,', 1
+'School name', 'P.S. 91 - BRONX,', 5
+'School name', 'P.S. 153 - BRONX,', 9
+'School name', 'BROOKLYN ACADEMY OF GLOBAL FIN,', 1
+'School name', 'P.S. 221 - BROOKLYN,', 3
+'School name', 'CHRISTOPHER AVENUE COMMUNITY S,', 4
+'School name', 'K30 SPED - BROOKLYN,', 7
+'School name', 'SCIENCE TECH & RESEARCH - K,', 4
+'School name', 'CAMPUS ACAD. FOR BUS. & TECH.,', 1
+'School name', 'P.S. 155 - MANHATTAN,', 3
+'School name', 'P.S. 18 - MANHATTAN,', 7
+'School name', 'P.S. 859 - MANHATTAN,', 3
+'School name', 'HARLEM HEBREW LANGUAGE CHARTER,', 2
+'School name', 'Q811 SPED - QUEENS,', 14
+'School name', 'P.S. 14 - STATEN ISLAND,', 2
+'School name', 'P.S. 20 - BRONX,', 3
+'School name', 'P.S. 298 - BROOKLYN,', 14
+'School name', 'STATEN ISLAND TECHNICAL HS - R,', 7
+'School name', 'P.S. 96 - BRONX,', 2
+'School name', 'M.S./H.S. 141 - BRONX,', 12
+'School name', 'P.S. 3 - BROOKLYN,', 9
+'School name', 'K053 SPED - BROOKLYN,', 11
+'School name', 'P.S. 50 - MANHATTAN,', 8
+'School name', 'P.S. 182 - MANHATTAN,', 3
+'School name', 'P.S. 87 - QUEENS,', 9
+'School name', 'P.S. 277 - BRONX,', 5
+'School name', 'BKLYN BROWNSTONE SCL - K,', 1
+'School name', 'I.S. 98 - BROOKLYN,', 5
+'School name', 'P.S. 255 - BROOKLYN,', 6
+'School name', 'PATHWAYS IN TECHNOLOGY,', 8
+'School name', 'URBAN ASSEMBLY SCHOOL FOR THE,', 1
+'School name', 'I.S. 104 - MANHATTAN,', 7
+'School name', 'WASHINGTON IRVING HS - M,', 8
+'School name', 'ELEANOR ROOSEVELT HS - MANHATT,', 3
+'School name', 'P.S. 29 - BRONX,', 8
+'School name', 'M.S./H.S. 342 - BRONX,', 14
+'School name', 'FORT GREENE PREPARATORY ACADEM,', 1
+'School name', 'P.S. 261 - BROOKLYN,', 5
+'School name', 'P.S. 132 - MANHATTAN,', 11
+'School name', 'DOS PUENTES ELEMENTARY SCHOOL,', 2
+'School name', 'WOMEN'S ACADEMY OF EXCELLENCE,', 2
+'School name', 'HS OF TEACHING & PROFESSIONS -,', 2
+'School name', 'X32 SPED - BRONX,', 5
+'School name', 'P.S. 56 - BROOKLYN,', 13
+'School name', 'M.S. 839 - BROOKLYN,', 1
+'School name', 'K721 SPED - BROOKLYN,', 6
+'School name', 'P.S. 210 - MANHATTAN,', 7
+'School name', 'P.S. @ 56-10 21 STREET - Q,', 4
+'School name', 'PRE-K CENTER @ 98-22 55 AVENUE,', 1
+'School name', 'FAR ROCKAWAY HS,', 4
+'School name', 'YOUNG W. LEADERSHIP SCL ASTORI,', 9
+'School name', 'UFT  - BRONX,', 1
+'School name', 'SUMMIT ACADEMY CHARTER SCHOOL,', 11
+'School name', 'BED-STUYVESANT PREPARATORY HS,', 4
+'School name', 'FORT HAMILTON HS - K,', 21
+'School name', 'I.S. 250 - MANHATTAN,', 1
+'School name', 'P.S. 4 - MANHATTAN,', 8
+'School name', 'P.S. 114 - QUEENS,', 9
+'School name', 'QUEENS COLLEGIATE SCHOOL - QUE,', 3
+'School name', 'P.S. 60 - QUEENS,', 3
+'School name', 'NEW DORP HS - STATEN ISLAND,', 14
+'School name', 'BRONXDALE HIGH SCHOOL - BRONX,', 2
+'School name', 'P.S. 24 - BROOKLYN,', 10
+'School name', 'P.S. 176 - BROOKLYN,', 5
+'School name', 'P.S. 197 - BROOKLYN,', 13
+'School name', 'P.S. 398 - BROOKLYN,', 5
+'School name', 'NEW UTRECHT HS - BROOKLYN,', 12
+'School name', 'BROOKLYN PROSPECT CHARTER SCHO,', 3
+'School name', 'P.S. 83 - MANHATTAN,', 9
+'School name', 'P.S. 192 - MANHATTAN,', 3
+'School name', 'CURIOUS YOUNG LEARNERS PRE-K C,', 1
+'School name', 'JOHN F. KENNEDY HS - BRONX,', 4
+'School name', 'P.S. 186 - BROOKLYN,', 4
+'School name', 'P.S. 18 - BROOKLYN,', 4
+'School name', 'P.S. 7 - MANHATTAN,', 1
+'School name', 'I.S. 231 - QUEENS,', 5
+'School name', 'FRANCIS LEWIS HS - QUEENS,', 19
+'School name', 'P.S. @ 357 TARGEE STREET - R,', 4
+'School name', 'I.S. 244 - BRONX,', 15
+'School name', 'P.S. 29 - BROOKLYN,', 4
+'School name', 'I.S. 518 - BROOKLYN,', 4
+'School name', 'DISTRICT 13 PRE-K CENTER,', 4
+'School name', 'LYFE,', 4
+'School name', 'I.S. 27 - MANHATTAN,', 4
+'School name', 'RICHARD R. GREEN HS OF TEACHIN,', 2
+'School name', 'P.S. 40 - QUEENS,', 9
+'School name', 'DISTRICT 30 PRE-K CENTER,', 2
+'School name', 'I.S. 9,', 1
+'School name', 'INTERNATIONAL COMMUNITY HS - B,', 1
+'School name', 'I.S. 229 - BRONX,', 4
+'School name', 'SUNSET PARK HS - BROOKLYN,', 5
+'School name', 'P.S. @ ALBEE SQUARE WEST - K,', 4
+'School name', 'P.S. 92 - MANHATTAN,', 11
+'School name', 'PRE-K CENTER @ 606 WEST 57TH,', 4
+'School name', 'P.S. 5 - QUEENS,', 2
+'School name', 'P.S. 228 - QUEENS,', 1
+'School name', 'P.S. 229 - QUEENS,', 21
+'School name', 'P.S. 376 - QUEENS,', 1
+'School name', 'ARCHIMEDES ACADEMY FOR MATH  -,', 1
+'School name', 'UNIVERSITY HEIGHTS HS - BRONX,', 13
+'School name', 'P.S. 41 - BROOKLYN,', 9
+'School name', 'P.S. 138 - BROOKLYN,', 6
+'School name', 'THE INTERNATIONAL HS - BKLYN,', 4
+'School name', 'ORIGINS HIGH SCHOOL,', 4
+'School name', 'M035 SPED - MANHATTAN,', 8
+'School name', 'GRAMERCY ARTS HS - MANHATTAN,', 13
+'School name', 'R025 SPED - STATEN ISLAND,', 13
+'School name', 'P.S. 23 - BRONX,', 5
+'School name', 'P.S. @ 1570 BOONE AVENUE - X,', 4
+'School name', 'PELHAM PREP HS - BRONX,', 1
+'School name', 'P.S. 92 - BROOKLYN,', 25
+'School name', 'P.S. 110 - BROOKLYN,', 4
+'School name', 'URBN ASSY SCHL CRIM JUSTICE,', 4
+'School name', 'COMMUNITY PARTNERSHIP CHARTER,', 5
+'School name', 'BKLYN SCHL FOR SOCIAL JUSTICE,', 9
+'School name', 'P.S. 29 - QUEENS,', 6
+'School name', 'HS FOR LAW ENFORCEMENT - QUEEN,', 1
+'School name', 'CITY WIDE,', 1
+'School name', 'BX HS OF PERFORMANCE & STAGE -,', 1
+'School name', 'I.S. 254 - BRONX,', 6
+'School name', 'P.S. 230 - BROOKLYN,', 21
+'School name', 'P.S. 19 - MANHATTAN,', 6
+'School name', 'P.S. 2 - MANHATTAN,', 8
+'School name', 'P.S. 1 - MANHATTAN,', 4
+'School name', 'P.S. 171 - MANHATTAN,', 18
+'School name', 'P.S. 188 - MANHATTAN,', 10
+'School name', 'WORLD JOURNALISM PREPARATORY-Q,', 6
+'School name', 'P.S. 129 - QUEENS,', 10
+'School name', 'EAST ELMHURST COMMUNITY SCHOOL,', 2
+'School name', 'FORT HILL COLLABORATIVE ELEMEN,', 4
+'School name', 'P.S.15 - BRONX,', 4
+'School name', 'P.S. 43 - BRONX,', 5
+'School name', 'BX CHARTER SCH FOR THE ARTS -,', 2
+'School name', 'P.S. 46 - BROOKLYN,', 7
+'School name', 'SCHOOL BASED HEALTH CENTER - B,', 3
+'School name', 'NEW BRIDGES,', 2
+'School name', 'WORLD ACAD FOR COMMUNITY HEALT,', 2
+'School name', 'TELECOM ARTS & TECHNOLOGY H.S.,', 4
+'School name', 'MARTE VALLE HS - MANHATTAN,', 6
+'School name', 'I.S. 377 - MANHATTAN,', 2
+'School name', 'PARK WEST H. S. (ECF),', 1
+'School name', 'MANHATTAN ACADEMY OF ARTS AND,', 1
+'School name', 'P.S. 46 - QUEENS,', 11
+'School name', 'P.S. 68 - BRONX,', 5
+'School name', 'MONROE ACAD FOR VISUAL ARTS -,', 2
+'School name', 'P.S. 145 - BROOKLYN,', 9
+'School name', 'P.S. 7 - BROOKLYN,', 14
+'School name', 'P.S. 161 - BROOKLYN,', 10
+'School name', 'PK/3K CENTER @ 21 BAY 11TH ST,', 4
+'School name', 'K004 SPED - BROOKLYN,', 1
+'School name', 'P.S. 212 - MANHATTAN,', 3
+'School name', 'HUNTER SCIENCE HS - MANHATTAN,', 4
+'School name', 'P.S. 17 - QUEENS,', 9
+'School name', 'P.S. 199 - QUEENS,', 15
+'School name', 'I.S. 215 - BRONX,', 6
+'School name', 'P.S. 101 - BROOKLYN,', 11
+'School name', 'HS FOR MEDICAL PROFESSIONS - K,', 4
+'School name', 'P.S. @ 4302 4TH AVE - BROOKLYN,', 12
+'School name', 'J.H.S. 67 - QUEENS,', 13
+'School name', 'P.S. 92 - BRONX,', 6
+'School name', 'I.S. 239 - BROOKLYN,', 4
+'School name', 'ESSEX STREET ACADEMY - M,', 4
+'School name', 'G. WASHINGTON CARVER HS FOR SC,', 2
+'School name', 'P.S. 69 - BRONX,', 1
+'School name', 'SHERIDAN ACADEMY FOR YOUNG LEA,', 1
+'School name', 'P.S. 126 - BRONX,', 7
+'School name', 'HARRY S. TRUMAN HS - X,', 14
+'School name', 'J.H.S. 47 (SCH FOR THE DEAF) -,', 5
+'School name', 'P.S. 15 - MANHATTAN,', 8
+'School name', 'THE RIVERSIDE SCHOOL FOR MAKER,', 2
+'School name', 'STEPHEN T. MATHER BUILDING ART,', 5
+'School name', 'M.S. 137 - QUEENS,', 6
+'School name', 'P.S. 219 - QUEENS,', 10
+'School name', 'P.S.  - BRONX,', 1
+'School name', 'P.S. 105 - BRONX,', 23
+'School name', 'P.S. 8 - BROOKLYN,', 1
+'School name', 'P.S. 115 - BROOKLYN,', 2
+'School name', 'P.S. 303 - QUEENS,', 8
+'School name', 'QUEENS SATELLITE HS FOR OPPORT,', 6
+'School name', 'NAPLES STREET ELEMENTARY SCHL,', 8
+'School name', 'GIRLS PREP CHARTER SCHOOL - X,', 1
+'School name', 'M.S. 18 - BRONX,', 2
+'School name', 'P.S. 44 - BROOKLYN,', 1
+'School name', 'P.S. 26 - BROOKLYN,', 8
+'School name', 'P.S. 158 - BROOKLYN,', 16
+'School name', 'THE URBAN ASSEMBLY SCHOOL FOR,', 1
+'School name', 'BROOKLYN DAILY DISCOVERY PRE-K,', 1
+'School name', 'SOUTH BX CHARTER FOR INTL ARTS,', 1
+'School name', 'I.S. 577 - BROOKLYN,', 6
+'School name', 'I.S. 246 - BROOKLYN,', 11
+'School name', 'P.S. 345 - BROOKLYN,', 11
+'School name', 'DEMOCRACY PREP HARLEM CHARTER,', 4
+'School name', 'I.S. 258 - MANHATTAN,', 11
+'School name', 'PARK EAST HS - MANHATTAN,', 3
+'School name', 'I.S. 77 - QUEENS,', 5
+'School name', 'P.S. 89 - BRONX,', 7
+'School name', 'SCHOOL BASED HEALTH CENTER - X,', 1
+'School name', 'JONAS BRONCK ACADEMY - BRONX,', 4
+'School name', 'PUBLIC SCHOOL 9 THE SARAH SMIT,', 1
+'School name', 'I.S. 113 - BROOKLYN,', 4
+'School name', 'BOYS & GIRLS HS - BROOKLYN,', 13
+'School name', 'DISTRICT 20 PRE-K CENTER,', 5
+'School name', 'P.S. 964 - MANHATTAN,', 3
+'School name', 'MANHTN CT FOR MATH & SCI. HS -,', 1
+'School name', 'DEWITT CLINTON HS - X,', 22
+'School name', 'HIGH SCHOOL FOR ENERGY AND TEC,', 1
+'School name', 'P.S. 0 - BROOKLYN,', 2
+'School name', 'P.S. 36 - BROOKLYN,', 4
+'School name', 'FIORELLO LAGUARDIA HS - M,', 16
+'School name', 'P.S. 127 - QUEENS,', 4
+'School name', 'P.S. 152 - QUEENS,', 4
+'School name', 'P.S. 1 - QUEENS,', 2
+'School name', 'P.S. 5 - STATEN ISLAND,', 13
+'School name', 'BRONX MATH PREP - BRONX,', 9
+'School name', 'HERO HIGH HS,', 4
+'School name', 'P.S. 167 - BROOKLYN,', 5
+'School name', 'EAST FLATBUSH COMMUNITY RESCH,', 8
+'School name', 'P.S. 297 - BROOKLYN,', 3
+'School name', 'P.S. 165 - MANHATTAN,', 26
+'School name', 'SCHOOL OF DIPLOMACY,', 6
+'School name', 'P.S. 33 ANNEX - BRONX,', 4
+'School name', 'BRONX SCHOOL OF LAW & FINANCE,', 1
+'School name', 'LYONS COMMUNITY SCHOOL - K,', 3
+'School name', 'P.S. 254 - BROOKLYN,', 16
+'School name', 'HS FOR YOUTH & COMMUNITY DEV.,', 1
+'School name', 'EAST HARLEM SCHOLARS ACADEMY C,', 2
+'School name', 'JAMES BALDWIN SCHOOL - MANHATT,', 4
+'School name', 'P.S. 330 - QUEENS,', 2
+'School name', 'QUEENS TECH HS - Q,', 5
+'School name', 'RED HOOK NEIGHBORHOOD SCHOOL,', 13
+'School name', 'P.S. 189 - BROOKLYN,', 5
+'School name', 'P.S./I.S. 323 - BROOKLYN,', 10
+'School name', 'P.S. 75 - MANHATTAN,', 12
+'School name', 'P.S. 59 - MANHATTAN,', 2
+'School name', 'COALITION H.S. - LEGACY,', 1
+'School name', 'P.S. 7 - QUEENS,', 9
+'School name', 'P.S. 222 - QUEENS,', 4
+'School name', 'PATHWAYS TO GRADUATION - Q,', 4
+'School name', 'P.S. 22 - STATEN ISLAND,', 10
+'School name', 'P.S. 13 ANNEX - STATEN ISLAND,', 4
+'School name', 'YOUNG LEADERS ELEM - BRONX,', 4
+'School name', 'I.S. 529 - BRONX,', 17
+'School name', 'I.S. 181 - BRONX,', 7

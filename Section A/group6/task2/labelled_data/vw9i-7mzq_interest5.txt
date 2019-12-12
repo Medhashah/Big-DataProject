@@ -1,0 +1,16 @@
+'Areas of study', 'Humanities and Interdisciplinary', 1
+'Areas of study', 'Performing Arts/Visual Art & Design', 1
+'Areas of study', 'Engineering', 3
+'Areas of study', 'None', 0
+'Areas of study', 'Zoned', 3
+'Areas of study', 'Communications', 2
+'Areas of study', 'JROTC', 2
+'Areas of study', 'Science & Math,', 2
+'Areas of study', 'Law & Government,', 2
+'Areas of study', 'Business,', 1
+'Areas of study', 'Performing Arts,', 10
+'Areas of study', 'Computer Science & Technology,', 3
+'Areas of study', 'Humanities & Interdisciplinary,', 2
+'Areas of study', 'Health Professions,', 2
+'Areas of study', 'Visual Art & Design,', 2
+'Areas of study', 'Cosmetology,', 1

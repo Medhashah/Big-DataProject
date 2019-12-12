@@ -1,0 +1,2373 @@
+'Person name', 'Beach Channel Playground - PS 183', 2
+'Person name', 'Northerleigh Park', 1
+'Person name', 'School - JHS 67 Louis Pasteur', 7
+'Person name', 'School - PS 19 The Curtis School', 4
+'Person name', 'School - PS 251 Queens', 3
+'Person name', 'School - Gregorio Luperon High School for Science and Mathematics', 2
+'Person name', 'School - PS 20 Port Richmond', 2
+'Person name', 'School - PS 128 Audubon', 3
+'Person name', 'Juniper Valley Park', 31
+'Person name', 'Closed School - Academy for Careers in Sports High School', 2
+'Person name', 'Admiral Farragut Playground', 4
+'Person name', 'School - August Martin High School', 29
+'Person name', 'Playground Twenty One - PS 184', 3
+'Person name', 'Leif Ericson Drive Shore Parkway - Six Diamonds', 3
+'Person name', '132 St Block Association Park', 2
+'Person name', 'School - PS 225 The Eileen E Zaglin', 10
+'Person name', 'Closed School - JHS 139 Alexander Burger', 1
+'Person name', 'School - The Urban Assembly School for Media Studies', 9
+'Person name', 'School - PS 118 Lorraine Hansberry', 3
+'Person name', 'School - Aviation Career and Technical Education High School', 4
+'Person name', 'School - Street Academy High School', 4
+'Person name', 'School - PS 200 Benson School', 1
+'Person name', 'School - PS 41 Crocheron', 1
+'Person name', 'Harlem River Park', 18
+'Person name', 'Central Park - Adventure Playground', 6
+'Person name', 'Chelsea Park', 10
+'Person name', 'Cuite Park', 4
+'Person name', 'Public Theatre', 2
+'Person name', 'School - Bronx Guild', 3
+'Person name', 'School - Tito Puente Education Complex', 17
+'Person name', 'School - Eximius College Preparatory Academy: A College Board School', 10
+'Person name', 'School - PS 304 Early Childhood School', 5
+'Person name', 'School - PS 133 Fred R Moore', 10
+'Person name', 'School - PS 36', 6
+'Person name', 'School - PS 287 Bailey K Ashford', 1
+'Person name', 'School - Pathways College Preparatory School: A College Board School', 5
+'Person name', 'School - PS 193 Gil Hodges', 1
+'Person name', 'Tudor Park', 4
+'Person name', 'Leif Ericson Park', 12
+'Person name', 'Terrapin Playground - JHS 51', 10
+'Person name', 'Fort Tryon Park - Anne Loftus Playground', 11
+'Person name', 'Central Park - Heckscher Ballfields and Playground', 1
+'Person name', 'Bath Playground', 1
+'Person name', 'School - Brooklyn Academy High School', 2
+'Person name', 'School - PS 205 Alexander Graham Bell', 4
+'Person name', 'School - Mark Twain IS 239 for the Gifted and Talented', 7
+'Person name', 'School - PS 260 Breuckelen', 7
+'Person name', 'School - PS 41 New Dorp', 4
+'Person name', 'School - PS 15 Jackie Robinson', 2
+'Person name', 'Fort Tryon Park - Jacob Javits Playground', 8
+'Person name', 'Detective Keith L. Williams Pk', 6
+'Person name', 'Pelham Bay Park - Playground For All Children', 3
+'Person name', '115th Street Playground', 6
+'Person name', 'School - PS 199 Jessie Isador Straus', 1
+'Person name', 'School - PS 134', 5
+'Person name', 'School - JHS 123 James M Kieran', 6
+'Person name', 'Closed School - New School for Arts and Science', 2
+'Person name', 'School - IS 238 Susan B Anthony', 11
+'Person name', 'Closed School - Ida B Wells', 8
+'Person name', 'School - PS 83 Luis Munoz Rivera', 3
+'Person name', 'School - Manhattan Village Academy', 2
+'Person name', 'Cedar Grove', 3
+'Person name', 'School - MS 319 - Maria Teresa', 5
+'Person name', 'Mckinley Park - Mckinley Park Playground', 11
+'Person name', 'Roberto Clemente Ballfield', 3
+'Person name', 'Alley Pond Park - Nature Center and Trails', 4
+'Person name', 'Powell Playground', 1
+'Person name', 'Prospect Park - Third Street Playground', 4
+'Person name', 'Closed School - JHS 258 David Ruggles', 9
+'Person name', 'School - PS 328 Phyllis Wheatley', 7
+'Person name', 'Recreation Center - St. Vartan', 1
+'Person name', 'School - PS 255', 2
+'Person name', 'School - PS 95 The Gravesend', 10
+'Person name', 'School - PS 108 Sal Abbracciamento', 5
+'Person name', 'School - PULSE - Providing Urban Learners Success in Education High School 2 - expired', 1
+'Person name', 'Poppenhusen Playground', 11
+'Person name', 'Lt Federico Narvaez Tot Lot', 2
+'Person name', 'Playground 70', 1
+'Person name', 'Forest Park - Jackson Pond Playground', 2
+'Person name', 'Crotona Park - Martin Van Buren Playground', 1
+'Person name', 'Closed School - Martin Luther King High School', 8
+'Person name', 'School - PS 75', 8
+'Person name', 'School - PS 214 Michael Friedsam', 4
+'Person name', 'School - Isaac Newton Middle School for Math and Science', 4
+'Person name', 'School - PS 127 Aerospace Science Magne', 4
+'Person name', 'School - Bronx Writing Academy', 2
+'Person name', 'Pool - Asser Levy', 3
+'Person name', 'Montbellier Park', 2
+'Person name', 'Harry Chapin Park', 3
+'Person name', 'Paul W Kolbert Park and Rachel Haber Cohen Playground', 6
+'Person name', 'Wakefield Playground', 1
+'Person name', 'School - PS 81 Thaddeus Stevens', 3
+'Person name', 'School - PS 117 J Keld - Briarwood School', 5
+'Person name', 'School - West Bronx Academy for the Future', 4
+'Person name', 'School - PS 307 Daniel Hale Williams', 2
+'Person name', 'School - East Harlem Village Academy Charter', 1
+'Person name', 'School - PS 305 Dr Peter Ray', 1
+'Person name', 'Weeping Beech - Margaret I Carmen Green', 12
+'Person name', 'Pugsley Creek Park', 9
+'Person name', 'Prospect Park - Grand Army Plaza', 14
+'Person name', 'School - IS 347 School of Humanities', 3
+'Person name', 'Metcalf Playground', 2
+'Person name', 'School - Ps-IS 268', 11
+'Person name', 'School - PS 274 Kosciusko', 9
+'Person name', 'Closed School - PS 60 George L Gallego', 1
+'Person name', 'Closed School - MS 390 Maggie L Walker', 7
+'Person name', 'School - PS 87 Bronx', 3
+'Person name', 'School - PS 100 Glen Morris', 3
+'Person name', 'School - Bronx Regional High School', 3
+'Person name', 'School - PS 16 John J Driscoll', 8
+'Person name', 'Carl Schurz Park', 59
+'Person name', 'Riverside Park - Dinosaur Playground', 37
+'Person name', 'Central Park - Wild West Playground', 6
+'Person name', 'Orchard Beach Park - Nature Center', 5
+'Person name', 'School - JHS 8 Richard S Grossley', 19
+'Person name', 'School - Baccalaureate School for Global Education', 2
+'Person name', 'School - PS 273 Wortman', 2
+'Person name', 'School - PS 119 Amersfort', 3
+'Person name', 'School - Bronx Academy of Health Careers', 1
+'Person name', 'Bloomingdale Park', 20
+'Person name', 'Alternative Superintendency', 5
+'Person name', 'Mae Grant Playground', 4
+'Person name', 'Allerton Playground', 4
+'Person name', 'Recreation Center - Hunt's Point', 9
+'Person name', 'School - PS 183 Robert L Stevenson', 1
+'Person name', 'School - PS 69 Daniel D Tompkins', 5
+'Person name', 'School - PS 2 Meyer London', 1
+'Person name', 'School - Progress High School for Professional Careers', 3
+'Person name', 'School - PS 291', 2
+'Person name', 'School - Lower East Side School at PS 315', 1
+'Person name', 'School - Urban Science Academy', 2
+'Person name', 'School - School for Excellence', 1
+'Person name', 'Kissena Corridor East', 12
+'Person name', 'Rudd Playground', 1
+'Person name', 'Playground Of The Americas', 2
+'Person name', 'Penn South Playground', 1
+'Person name', 'Rockaway Beach and Boardwalk - Beach 17th St Playground', 2
+'Person name', 'School - JHS 88 Peter Rouget', 9
+'Person name', 'School - PS 189 Lincoln Terrace', 6
+'Person name', 'School - Landmark High School', 1
+'Person name', 'School - PS 188', 6
+'Person name', 'Recreation Center - St. Mary's', 2
+'Person name', 'School - Fordham Leadership Academy for Business and Technology', 1
+'Person name', 'School - PS 158 Bayard Taylor', 1
+'Person name', 'Pool - Lasker in Central Park', 3
+'Person name', 'School - PS 277 Gerritsen Beach', 2
+'Person name', 'Highbridge Park - Wallenberg Playground', 7
+'Person name', 'Cherry Tree Playground', 2
+'Person name', 'Prospect Park - Park Side Avenue', 8
+'Person name', 'Middleton Playground', 9
+'Person name', 'School - PS 18 John G Whittier', 5
+'Person name', 'School - PS 307 Eames Place', 4
+'Person name', 'School - PS 169 Bay Terrace', 3
+'Person name', 'School - PS 6 Lillie D Blake', 3
+'Person name', 'School - High School of Applied Communication', 2
+'Person name', 'School - PS 138 Samuel Randall', 6
+'Person name', 'Beach - Manhattan', 33
+'Person name', 'Rodney Park Center', 1
+'Person name', 'Prospect Park - Lower Long Meadow', 5
+'Person name', 'Van Cortlandt Park - Gun Hill Meadow', 4
+'Person name', 'Colgate Close', 2
+'Person name', 'School - Academy of Environmental Science Secondary High School', 1
+'Person name', 'School - PS 166 The Richard Rodgers School of the Arts and Technology', 8
+'Person name', 'School - MS 250 West Side Collaborative Middle School', 4
+'Person name', 'School - William Cullen Bryant High School', 6
+'Person name', 'School - Bronx Studio School', 1
+'Person name', 'School - PS 13 Clement C Moore', 1
+'Person name', 'Midland Beach - Playland Playground', 6
+'Person name', 'Evergreen Playground', 2
+'Person name', 'Grand Ave Playground', 10
+'Person name', 'Clearview Park and Golf Course', 1
+'Person name', 'William E Kelly Memorial Park', 2
+'Person name', 'Tudor Grove Playground', 1
+'Person name', 'School - PS 290 Manhattan New School', 3
+'Person name', 'School - Kappa III', 3
+'Person name', 'School - PS 109 Sedgwick', 1
+'Person name', 'School - IS 229 Roland Patterson', 3
+'Person name', 'Closed School - J A Reisenbach Charter School', 1
+'Person name', 'Forest Park - Mary Whalen Playground', 8
+'Person name', 'Riverside Park - Riverbank Playground', 10
+'Person name', 'Noble Playground', 1
+'Person name', 'Central Park - Wien Walk and Arsenal', 2
+'Person name', 'Pool - Howard', 1
+'Person name', 'School - PS 198', 10
+'Person name', 'School - Satellite Academy High School', 11
+'Person name', 'School - EBC High School for Public Service - Bushwick', 3
+'Person name', 'School - PS 16 Wakefield', 15
+'Person name', 'School - PS 37 - Multiple Intelligence School', 5
+'Person name', 'School - PS 207', 11
+'Person name', 'School - PS 279 Captain Manuel Rivera Jr', 5
+'Person name', 'Recreation Center - St. John's', 3
+'Person name', 'Behagen Playground', 2
+'Person name', 'St Nicholas Park', 32
+'Person name', 'East River Park', 41
+'Person name', 'Allison Park', 5
+'Person name', 'Seton Falls Park - High Rock Playground', 3
+'Person name', 'Flushing Meadows and Corona Park - World's Fair Playground', 4
+'Person name', 'Linden Park', 14
+'Person name', 'Staten Island Greenbelt', 2
+'Person name', 'Browne Park - Boone Playground', 7
+'Person name', 'Frederick B Judge Memorial Playground', 1
+'Person name', 'School - PS 316 Elijah Stroud', 16
+'Person name', 'School - PS 169 - Robert F Kennedy', 5
+'Person name', 'School - PS 196 Ten Eyck', 1
+'Person name', 'School - PS 161 Pedro Albizu Campos', 5
+'Person name', 'School - PS 92 Harry T Stewart Sr', 1
+'Person name', 'School - PS 64 Robert Simon', 2
+'Person name', 'School - Channel View School for Research', 1
+'Person name', 'School - Stuyvesant High School', 4
+'Person name', 'Monsignor Mcgolrick Park', 8
+'Person name', 'Gouverneur Playground', 2
+'Person name', 'Recreation Center - Pelham Fritz', 7
+'Person name', 'School - The Felisa Rincon De Gautier Institute for Law and Public Policy', 5
+'Person name', 'School - New Voices School of Academic and Creative Arts', 3
+'Person name', 'School - PS 40 George W Carver', 4
+'Person name', 'School - PS 163 Flushing Heights', 1
+'Person name', 'School - PS 6 West Farms', 6
+'Person name', 'School - Bronx School for Law Government Justice', 4
+'Person name', 'Yellowstone Municipal Park - Katzman Playground', 7
+'Person name', 'Twenty Four Sycamores Park', 4
+'Person name', 'Breukelen Park', 3
+'Person name', 'Aqueduct Walk - 227 Street Playground', 1
+'Person name', 'Coney Island - Abe Stark Ice Skating Rink', 1
+'Person name', 'Father Macris Park', 1
+'Person name', 'School - PS 66 School of Higher Expectations', 3
+'Person name', 'Golf Course - South Shore', 2
+'Person name', 'School - IS 7 Elias Bernstein', 7
+'Person name', 'School - Acorn Community High School', 8
+'Person name', 'School - PS 8 Shirlee Solomon', 1
+'Person name', 'School - PS 84 Steinway', 1
+'Person name', 'City Hall Park', 28
+'Person name', 'Pelham Bay Park - Pelham South Park Headquarters', 6
+'Person name', 'Prospect Park - Lookout Hill', 7
+'Person name', 'Merriam Playground', 3
+'Person name', 'Hoyt Playground', 4
+'Person name', 'Lost Battalion Hall', 1
+'Person name', 'Aqueduct Walk - Olinville Playground', 3
+'Person name', 'School - PS 249 The Caton', 4
+'Person name', 'School - MS K266 - Park Place Community Middle School', 2
+'Person name', 'School - PS 98 Shorac Kappock', 4
+'Person name', 'School - PS 50 Vito Marcantonio', 5
+'Person name', 'School - PS 215 Morris H Weiss', 16
+'Person name', 'School - PS 11 Kathryn Phelan', 2
+'Person name', 'School - Brooklyn College Academy', 1
+'Person name', 'School - Williamsburg Charter School', 1
+'Person name', 'School - Bronx Leadership Academy II High School', 1
+'Person name', 'Randalls Island Park', 26
+'Person name', 'Joseph Rodman Drake Park', 1
+'Person name', 'Mckinley Park', 23
+'Person name', 'American Playground', 8
+'Person name', 'Classon Playground', 4
+'Person name', 'Alley Pond Park - Wild Flower Meadow', 5
+'Person name', 'Central Park - Lasker Ice Skating Rink', 1
+'Person name', 'School - Robert F Wagner Jr Secondary School for Arts and Technology', 7
+'Person name', 'School - PS 79 Creston', 10
+'Person name', 'School - PS 30 Hernandez-Hughes', 11
+'Person name', 'School - High School for Public Service Heroes of Tomorrow', 1
+'Person name', 'School - The East Village Community School', 2
+'Person name', 'School - IS 303 Leadership and Community Service', 2
+'Person name', 'Dome Playground', 2
+'Person name', 'School - PS 54 Hillside', 13
+'Person name', 'School - PS 130 The Parkside', 1
+'Person name', 'School - Alfred E Smith Career and Technical Education High School', 11
+'Person name', 'School - PS 297 Abraham Stockton', 2
+'Person name', 'School - Bushwick Community High School', 1
+'Person name', 'Brooklyn Civic Center Parks', 1
+'Person name', 'Baisley Pond Park', 23
+'Person name', 'School - PS 93 William H Prescott', 4
+'Person name', 'Col Charles Young Playground', 5
+'Person name', 'Pat Williams Playground', 3
+'Person name', 'Evergreen Pk - PS 68', 1
+'Person name', 'School - PS 105 Senator Abraham Bernstein', 8
+'Person name', 'School - PS 219 Kennedy-King', 8
+'Person name', 'School - High School for Youth and Community Development at Erasmus', 1
+'Person name', 'School - PS 222 Katherine R Snyder', 6
+'Person name', 'Lincoln Terrace Park', 21
+'Person name', 'Van Cortlandt Park - Mosholu Golf Course', 12
+'Person name', 'School - PS 43', 19
+'Person name', 'Russell Sage Playground - JHS 190', 1
+'Person name', 'Doctor Gertrude B Kelly Playground', 4
+'Person name', 'Arverne Playground', 2
+'Person name', 'Floyd Patterson Field', 1
+'Person name', 'School - PS 242 Gwendolyn Powell Brown Computer School', 6
+'Person name', 'School - PS 217 Colonel David Marcus School', 4
+'Person name', 'Grace Playground', 2
+'Person name', 'Closed School - IS 280 Brooklyn Studio School', 3
+'Person name', 'School - PS 1 Alfred E Smith', 2
+'Person name', 'Dimattina Playground', 4
+'Person name', 'Jennifer's Playground', 6
+'Person name', 'Columbus Park - Korean War Veterans Plaza', 9
+'Person name', 'Pulaski Playground', 1
+'Person name', 'School - PS 42 R Vernam', 17
+'Person name', 'School - PS 153 Adam Clayton Powell', 4
+'Person name', 'School - PS 18 Winchester', 4
+'Person name', 'School - PS 107', 3
+'Person name', 'School - New Millennium Business Academy Middle School', 1
+'Person name', 'School - IS 5 - The Walter Crowley Intermediate School', 4
+'Person name', 'Rochdale Park', 2
+'Person name', 'Woodruff Playground', 1
+'Person name', 'Crispus Attucks Playground', 3
+'Person name', 'School - The High School of Fashion Industries', 10
+'Person name', 'School - PS 112 Bronxwood', 2
+'Person name', 'School - NYC Lab Middle School for Collaborative Studies', 2
+'Person name', 'School - IS 025 Adrien Block', 3
+'Person name', 'School - Cynthia Jenkins School', 3
+'Person name', 'Fort Totten Park', 4
+'Person name', 'Linnaeus Playground', 3
+'Person name', 'Strong Street Playground', 6
+'Person name', 'Prospect Park - Imagination Playground', 6
+'Person name', 'School - PS 299 Thomas Warren Field', 14
+'Person name', 'School - PS 79 - Horan School', 2
+'Person name', 'School - PS 160 Walt Disney', 8
+'Person name', 'School - PS-IS 323', 9
+'Person name', 'School - PS 397 Foster-Laurie', 2
+'Person name', 'Brower Park', 8
+'Person name', 'Central Park - Mariners Gate Playground', 1
+'Person name', 'Alexander Hamilton Playground', 2
+'Person name', 'Carlton Park', 2
+'Person name', 'School - A Philip Randolph Campus', 13
+'Person name', 'School - PS 201 The Discovery School for Inquiry and Research', 4
+'Person name', 'School - Murray Bergtraum High School', 13
+'Person name', 'School - PS 195', 1
+'Person name', 'School - WEB Dubois Academic High School', 3
+'Person name', 'School - PS 3 The Bedford Village', 4
+'Person name', 'Powells Cove Park', 7
+'Person name', 'Carroll Park', 13
+'Person name', 'School - PS 150 Queens', 10
+'Person name', 'School - JHS 218 James P Sinnott', 3
+'Person name', 'School - James Madison High School', 19
+'Person name', 'School - Bushwick Leaders High School for Academic Excellence', 12
+'Person name', 'School - MS 246 Crossroads School', 7
+'Person name', 'Closed School - PS 109 Century', 1
+'Person name', 'Van Cortlandt Park - Golf House and Lower Putnam Trail', 6
+'Person name', 'Forest Park - Joseph Devoy Playground', 4
+'Person name', 'Pelham Bay Park - Orchard Beach Parking Lot', 3
+'Person name', 'Mcdonald Playground - Brooklyn', 4
+'Person name', 'Bulova Park', 3
+'Person name', 'Closed School - Queens Academy High School', 3
+'Person name', 'Convent Gardens', 1
+'Person name', 'Sol Lain Playground', 1
+'Person name', 'School - PS 124 Yung Wing', 1
+'Person name', 'School - PS 51 Bronx New School', 1
+'Person name', 'School - Academy of American Studies', 2
+'Person name', 'Gorman Playground', 6
+'Person name', 'Closed School - Community School at MS 142 MS 82', 1
+'Person name', 'P.O. Serrano Playground', 3
+'Person name', 'School - The Heritage School', 6
+'Person name', 'Dodger Playground', 5
+'Person name', 'Colucci Playground', 1
+'Person name', 'School - JHS 142 John Philip Sousa', 8
+'Person name', 'School - Magnet School for Science and Technology', 14
+'Person name', 'School - PS 203 Oakland Gardens', 2
+'Person name', 'School - Bronx Academy High School', 1
+'Person name', 'Pratt Playground', 4
+'Person name', 'Claremont Park', 15
+'Person name', 'Forest Park - Carousel', 2
+'Person name', 'Taaffe Playground', 2
+'Person name', 'Harmony Park', 1
+'Person name', 'Rev J Polite Playground and Stebbins Playground', 1
+'Person name', 'ABC Playground', 3
+'Person name', 'Flushing Meadows and Corona Park - Albert H. Mauro Playground', 1
+'Person name', 'Recreation Center - Alfred E. Smith', 9
+'Person name', 'School - University Heights Secondary School at Bronx Community College', 3
+'Person name', 'School - PS 159 Isaac Pitkin', 3
+'Person name', 'School - Brooklyn Technical High School', 20
+'Person name', 'School - PS 8 Robert Fulton', 9
+'Person name', 'Pool - West 59th Street', 4
+'Person name', 'School - PS 107 Thomas A Dooley', 1
+'Person name', 'School - New Explorers High School', 3
+'Person name', 'School - PS 215 Lucretia Mott', 12
+'Person name', 'School - PS 197 The Ocean School', 6
+'Person name', 'Recreation Center - Owen Dolen Senior Center', 1
+'Person name', 'Gravesend Park', 5
+'Person name', 'Silver Lake Park', 32
+'Person name', 'Cedar Playground', 4
+'Person name', 'Coney Island Creek Park', 5
+'Person name', 'Central Park - James Michael Levin Playground', 1
+'Person name', 'Nostrand Playground', 1
+'Person name', 'Highbridge Park - Adventure Playground', 2
+'Person name', 'Central Park - The Mall and Rumsey Playfield', 1
+'Person name', 'School - IS 49 Berta A Dreyfus', 15
+'Person name', 'School - IS 34 Tottenville', 12
+'Person name', 'School - River East Elementary', 4
+'Person name', 'School - IS 339', 5
+'Person name', 'School - PS 85 Judge Charles Vallone', 5
+'Person name', 'School - Bronx Charter School for Arts', 1
+'Person name', 'Pelham Bay Park - Bartow-Pell Woods', 4
+'Person name', 'Riverside Park - Running Track and 78th St Ballfields', 14
+'Person name', 'Daniel M O'Connell Playground', 4
+'Person name', 'Hudson River Park', 32
+'Person name', 'Baisley Pond Park - Lakeview Lane Playground', 7
+'Person name', 'Jackie Robinson Park - Playground One Fifty Two Clii', 2
+'Person name', 'Tilden Playground', 1
+'Person name', 'School - Kappa II', 8
+'Person name', 'School - PS 21 Philip H Sheridan', 8
+'Person name', 'School - JHS 296 The Halsey', 8
+'Person name', 'School - Bronx Aerospace High School', 1
+'Person name', 'School - PS 209 Clearview Gardens', 3
+'Person name', 'School - PS 346 Abe Stark', 7
+'Person name', 'School - Amber Charter School', 1
+'Person name', 'Bennett Park', 27
+'Person name', 'Silent Springs Playground', 1
+'Person name', 'William F Passanante Ballfield', 7
+'Person name', 'Corlears Hook Park', 5
+'Person name', 'St Andrew's Playground', 4
+'Person name', 'Flushing Meadows and Corona Park - World's Fair Ice Arena Skating Rink', 13
+'Person name', 'Caserta Playground', 4
+'Person name', 'Bayside Fields', 1
+'Person name', 'Underhill Playground - Brooklyn', 5
+'Person name', 'Paerdegat Park', 1
+'Person name', 'Playground Ninety Six - XCVII', 1
+'Person name', 'School - PS 345 Patrolman Robert Bolden', 8
+'Person name', 'School - PS 23 at Queens Children Center', 2
+'Person name', 'School - South Richmond High School IS-PS 25', 3
+'Person name', 'School - JHS 62 Ditmas', 6
+'Person name', 'Closed School - Walton High School', 6
+'Person name', 'School - PS 009', 1
+'Person name', 'Prospect Park', 99
+'Person name', 'Prospect Park - Middle Long Meadow', 6
+'Person name', 'Riverside Park - Neufeld Playgound', 8
+'Person name', 'Castle Hill Little League', 1
+'Person name', 'Pool - Commodore Barry', 2
+'Person name', 'Manhattan Beach - Pat Perlato Playground', 2
+'Person name', 'School - PS-IS 218 Rafael Hernandez Dual Language Magnet School', 6
+'Person name', 'School - PS 86 The Irvington', 2
+'Person name', 'School - PS 8 Issac Varian', 11
+'Person name', 'School - PS 46 Alley Pond', 1
+'Person name', 'School - Brownsville Diploma Plus High School', 2
+'Person name', 'Pol. Officer Edward Byrne Park', 3
+'Person name', 'College Point Park', 7
+'Person name', 'Playground 90 and PS 148 Playground', 1
+'Person name', 'School - IS 281 Joseph B Cavallaro', 6
+'Person name', 'School - PS 101 School in the Gardens', 6
+'Person name', 'Recreation Center - North Meadow', 5
+'Person name', 'School - PS 167 The Parkway', 10
+'Person name', 'School - James Weldon Johnson', 7
+'Person name', 'Closed School - MS 201', 6
+'Person name', 'Marine Park - Doctor Johns Playground', 6
+'Person name', 'Prospect Park - Kate Wollman Ice Skating Rink', 9
+'Person name', 'Loreto Park', 12
+'Person name', 'Jackie Robinson Park', 8
+'Person name', 'Isham Park', 39
+'Person name', 'Prospect Park - Lefferts Homestead Carousel', 11
+'Person name', 'Riverside Park - Classic Playground', 9
+'Person name', 'Rachel Carson Playground', 1
+'Person name', 'Abyssinian Tot Lot', 3
+'Person name', 'School - PS 368', 8
+'Person name', 'School - PS 224', 4
+'Person name', 'School - PS 112 Jose Celso Barbosa', 2
+'Person name', 'School - Frederick Douglass Academy II Secondary School', 6
+'Person name', 'Closed School - IS 55 Ocean Hill Brownsville', 2
+'Person name', 'Union Square Park', 102
+'Person name', 'Breininger Park', 4
+'Person name', 'Bradys Pond Park', 1
+'Person name', 'School - PS 87 Middle Village', 7
+'Person name', 'School - PS 55 Maure', 3
+'Person name', 'School - PS 26 The Carteret School', 4
+'Person name', 'Closed School - JHS 143 John Peter Tetard', 1
+'Person name', 'Luiz Lopez Playground', 2
+'Person name', 'Virginia Principe Playground', 2
+'Person name', 'Capt Tilly Park', 1
+'Person name', 'School - High School of Graphic Communication Arts', 8
+'Person name', 'School - PS 91 Richard Arkwright', 6
+'Person name', 'School - PS 188 Michael E Berdy', 14
+'Person name', 'School - Automotive High School', 4
+'Person name', 'School - PS 53 Bay Terrace', 6
+'Person name', 'School - IS 318 Math, Science, and Technology Through Arts', 2
+'Person name', 'School - Neighborhood School', 1
+'Person name', 'School - PS 84 Jose De Diego', 1
+'Person name', 'Pool - Jackie Robinson Park', 1
+'Person name', 'School - PS 148 Queens', 2
+'Person name', 'John Jay Park and Pool', 13
+'Person name', 'Rappaport Playground', 5
+'Person name', 'Harris Field', 6
+'Person name', 'Greenpoint Playground', 4
+'Person name', 'Van Cortlandt Park - Indian Memorial To Indian Field', 4
+'Person name', 'Central Park - 110th Street Playground', 9
+'Person name', 'Newport Playground', 3
+'Person name', 'Curtis Park', 4
+'Person name', 'Aqueduct Walk - Bronx River Parkway East', 4
+'Person name', 'Glenwood Playground', 1
+'Person name', 'Mellett Playground', 1
+'Person name', 'Recreation Center - J. Hood Wright', 2
+'Person name', 'School - JHS 98 Herman Ridder', 10
+'Person name', 'School - IS 228 David A Boody', 26
+'Person name', 'School - PS 59 The Community School of Technology', 11
+'Person name', 'School - The Urban Assembly for Applied Math and Science', 3
+'Person name', 'School - Kipp Academy Charter School', 1
+'Person name', 'Abingdon Square', 7
+'Person name', 'Sheepshead Bay Piers', 3
+'Person name', 'Bufano Playground', 5
+'Person name', 'Electric  Playground', 3
+'Person name', 'Brook Park', 3
+'Person name', 'Mount Hope Garden', 1
+'Person name', 'Pelham Bay Park - Orchard Beach Pavilion', 2
+'Person name', '107th Street Pier', 4
+'Person name', 'School - MS 245 The Computer School', 8
+'Person name', 'School - PS 19 Asher Levy', 4
+'Person name', 'School - PS 65 Mother Hale Academy', 6
+'Person name', 'School - PS 40 Samuel Huntington', 11
+'Person name', 'School - Secondary School for Journalism', 2
+'Person name', 'School - Lafayette High School', 3
+'Person name', 'Crotona Park - Crotona Park Lake', 20
+'Person name', 'Aqueduct Walk - Waring Playground', 7
+'Person name', 'Miracle Garden', 1
+'Person name', 'School - PS 6', 2
+'Person name', 'School - PS 298 Dr Betty Shabazz', 10
+'Person name', 'Closed School - JHS 135 Frank D Whalen', 22
+'Person name', 'School - PS 31 William T Davis', 26
+'Person name', 'School - PS 108 Assemblyman Angelo Del Toro Educational Complex', 4
+'Person name', 'School - Rachel Carson High School for Coastal Studies', 2
+'Person name', 'School - PS 175 The Lynn Gross Discovery School', 4
+'Person name', 'School - PS 110 Theodore Schoenfeld', 7
+'Person name', 'School - PS 66', 5
+'Person name', 'School - Dual Language and Asian Studies High School', 1
+'Person name', 'School - International School for Liberal Arts', 1
+'Person name', 'Closed School - Brooklyn Literacy Center', 2
+'Person name', 'School - PS 9 Sarah Anderson', 4
+'Person name', 'School - PS 10', 3
+'Person name', 'School - Frederick Douglass Academy III Secondary School', 2
+'Person name', 'School - PS 50 Talfourd Lawn Elementary School', 3
+'Person name', 'School - PS 187 Hudson Cliffs', 3
+'Person name', 'School - Henry Street School for International Studies', 1
+'Person name', 'Saratoga Square Park', 6
+'Person name', 'Downing Playground', 2
+'Person name', 'Westbourne Playground', 1
+'Person name', 'School - IS 187', 2
+'Person name', 'School - PS 19 Marino Jeantet', 7
+'Person name', 'Pool - Liberty', 3
+'Person name', 'School - Satellite Three', 1
+'Person name', 'School - PS 65 The Raymond York Elementary School', 4
+'Person name', 'Closed School - Seward Park High School', 5
+'Person name', 'School - IS 313 School of Leadership Development', 7
+'Person name', 'School - PS 49 Dorothy Bonawit Kole', 2
+'Person name', 'School - PS 150 Charles James Fox', 3
+'Person name', 'School - MS 328 - Manhattan Middle School for Scientific Inquiry', 1
+'Person name', 'School - PS 315 Lab School', 1
+'Person name', 'Howard Playground', 1
+'Person name', 'Beach - Orchard', 42
+'Person name', 'Gorman Memorial Park', 10
+'Person name', 'Luther Gulick Playground', 9
+'Person name', 'Red Hook Park - Bush Clinton Park Playground', 6
+'Person name', 'School - PS 123 Mahalia Jackson', 9
+'Person name', 'Pinocchio Playground', 1
+'Person name', 'Bryant Park - Citi Pond Ice Skating Rink', 1
+'Person name', 'School - PS 235 Lenox School', 21
+'Person name', 'School - PS 153 Hellen Keller', 18
+'Person name', 'School - PS 5 Port Morris', 6
+'Person name', 'School - JHS 78 Roy H Mann', 16
+'Person name', 'School - Beach Channel High School', 16
+'Person name', 'School - PS 13 Roberto Clemente', 7
+'Person name', 'School - High School for Arts and Business', 1
+'Person name', 'School - MS 571', 1
+'Person name', 'Closed School - MS 320 Jackie Robinson', 1
+'Person name', 'Central Park - Reservoir Northwest', 1
+'Person name', 'School - Queens Vocational and Technical High School', 6
+'Person name', 'School - PS 48 William C Wilcox', 3
+'Person name', 'School - George Westinghouse Career and Technical Education High School', 2
+'Person name', 'School - Transit Technology Career and Technical Education High School', 8
+'Person name', 'School - MS 172 Irwin Altman', 1
+'Person name', 'Frank Golden Park - 136 Street Playground', 1
+'Person name', 'Crotona Park - Nature Center', 2
+'Person name', 'Sidney Hillman Playground', 2
+'Person name', 'Delphin Greene Playground - PS 176', 2
+'Person name', 'Cleopatra Playground', 4
+'Person name', 'School - MS 224 Manhattan East School for Arts and Academics', 3
+'Person name', 'School - IS 117 Joseph H Wade', 5
+'Person name', 'Alley Pond Park', 41
+'Person name', 'Telephone Playground - PS 205', 3
+'Person name', 'Jacobs Ladder', 5
+'Person name', 'Prospect Park - Prospect Lake Near West Island', 2
+'Person name', 'Van Cortlandt Park - Mansion, Tennis Courts, Memorial Grove', 2
+'Person name', 'Horace Harding Playground - PS 206', 1
+'Person name', 'Martin Luther Playground', 2
+'Person name', 'School - MS 51 William Alexander', 6
+'Person name', 'School - PS 183 Dr Richard R Green', 19
+'Person name', 'School - PS 207 Rockwood Park', 10
+'Person name', 'School - PS 254', 3
+'Person name', 'School - Beacon High School', 2
+'Person name', 'Bleecker Playground', 8
+'Person name', 'Seven Oaks', 2
+'Person name', 'Dry Dock Playground', 13
+'Person name', 'Woodtree Playground', 7
+'Person name', 'Faber Park', 1
+'Person name', 'School - PS 46 Arthur Tappan', 4
+'Person name', 'School - PS 261 Philip Livingston', 4
+'Person name', 'School - Manhattan Bridges High School', 1
+'Person name', 'Pool - Tony Dapolito (formerly Carmine)', 3
+'Person name', 'Fort Independence Playground', 24
+'Person name', 'Galileo Park', 4
+'Person name', 'Cunningham Park - 210th St Playground', 4
+'Person name', 'Dyker Beach Park - Bay 8 Playground', 20
+'Person name', 'Prospect Park - Garfield Tot Lot Playground', 4
+'Person name', 'Closed School - IS 116 Rafael Hernandez', 4
+'Person name', 'School - New World High School', 3
+'Person name', 'School - PS 102 Bayview', 4
+'Person name', 'School - Williamsburg Preparatory School', 4
+'Person name', 'School - JHS 22 Jordan L Mott', 5
+'Person name', 'School - PS 161 The Crown', 8
+'Person name', 'School - PS 245', 3
+'Person name', 'School - PS 161 Arthur Ashe School', 2
+'Person name', 'School - Astor Collegiate Academy', 1
+'Person name', 'School - PS 396 - Brooklyn', 1
+'Person name', 'School - New York Harbor School - Brooklyn', 1
+'Person name', 'Central Park - 110th Street and Lenox Avenue Playground', 10
+'Person name', 'St Albans Park', 4
+'Person name', 'Schenck Playground', 3
+'Person name', 'Sunners Playground', 4
+'Person name', 'Betsy Head Park', 5
+'Person name', 'Joseph Austin Playground', 1
+'Person name', 'Marcy Playground', 1
+'Person name', 'School - PS-MS 147 Ronald Mcnair', 7
+'Person name', 'School - PS 100 Isaac Clason', 5
+'Person name', 'School - Francis Lewis High School', 4
+'Person name', 'School - PS 45 Horace E Greene', 6
+'Person name', 'School - Queens College School for Math and Science', 2
+'Person name', 'School - Tag Young Scholars', 3
+'Person name', 'Parkside Playground - Bronx', 1
+'Person name', 'School - PS 23 The New Childrens School', 8
+'Person name', 'School - IS 231 Magnetech 2000', 12
+'Person name', 'School - PS 39 Henry Bristow', 1
+'Person name', 'Captain Mario Fajardo Park Playground', 2
+'Person name', 'School - PS 153 Maspeth Elem', 3
+'Person name', 'Closed School - JHS 113 Richard R Green', 9
+'Person name', 'School - JHS 118 William W Niles', 3
+'Person name', 'School - PS 149 Sojourner Truth', 10
+'Person name', 'School - PS 188 Island School', 5
+'Person name', 'School - PS 72 Dr William Dorney', 5
+'Person name', 'Cunningham Park', 22
+'Person name', 'Corona Golf Playground', 4
+'Person name', 'Tiger Playground', 2
+'Person name', 'Staten Island Greenbelt Park - William T. Davis Wildlife Refuge', 1
+'Person name', 'Ambrosini Field', 1
+'Person name', 'School - PS 185 John M Langston', 1
+'Person name', 'Sant Nicholas Olive St Garden', 2
+'Person name', 'School - The High School for Global Citizenship', 1
+'Person name', 'Prospect Park - Prospect Lake Near Duck Island', 2
+'Person name', 'Jacob Joffe Fields', 3
+'Person name', 'Bushwick Playground', 4
+'Person name', 'MacDonald Park', 1
+'Person name', 'Monsignor Kett', 1
+'Person name', 'Arcilla Playground', 1
+'Person name', 'School - MS 35 Stephen Decatur', 3
+'Person name', 'School - PS 52 Queens', 6
+'Person name', 'School - JHS 158 Marie Curie', 7
+'Person name', 'Marconi Park', 7
+'Person name', 'Van Cortlandt Park - Southwest Playground', 10
+'Person name', 'Mccaffrey Playground', 3
+'Person name', 'Little Bay Park', 10
+'Person name', 'Ferry Point Park', 14
+'Person name', 'Fresh Creek Nature Preserve', 1
+'Person name', 'Sperandeo Brothers Playground', 1
+'Person name', 'Beach - Wolfe's Pond', 2
+'Person name', 'Prall Playground', 3
+'Person name', 'School - Abraham Lincoln High School', 11
+'Person name', 'School - PS 73 Bronx', 9
+'Person name', 'School - PS-IS 72 Annette P Goldman', 9
+'Person name', 'School - PS 26 Jesse Owens', 3
+'Person name', 'School - PS 48 Mapleton', 2
+'Person name', 'School - PS 138', 4
+'Person name', 'School - PS 326', 1
+'Person name', 'School - PS 90 Edna Cohen School', 4
+'Person name', 'School - PS 241 Emma L Johnston', 2
+'Person name', 'School - Celia Cruz Bronx High School of Music', 2
+'Person name', 'Clove Lakes Park', 29
+'Person name', 'Marcus Garvey Park', 40
+'Person name', 'Bill Brown Memorial Playground', 6
+'Person name', 'Richman Echo Park', 8
+'Person name', 'Coffey Park', 4
+'Person name', 'Rainey Park - Queens', 7
+'Person name', 'Staten Island Greenbelt Park - Willowbrook Park Natural Area', 1
+'Person name', 'Field Of Dreams Park', 1
+'Person name', 'School - PS 155', 2
+'Person name', 'School - PS 191 Amsterdam', 10
+'Person name', 'Howard Von Dohlen Playground', 1
+'Person name', 'School - New Day Academy', 1
+'Person name', 'Riverside Park - Skate Park', 14
+'Person name', 'Linden Park Playground', 7
+'Person name', 'Dematti Playground', 3
+'Person name', 'School - PS 4 - Queens', 2
+'Person name', 'School - PS 90 George Meany', 14
+'Person name', 'School - PS 205 Clarion', 2
+'Person name', 'Queensbridge Park', 8
+'Person name', 'Kaiser Park', 15
+'Person name', 'Kissena Park', 52
+'Person name', 'Bridge Park 3', 2
+'Person name', 'Forest Park - The Bandshell', 3
+'Person name', 'Cobble Hill Park', 21
+'Person name', 'School - IS 75 Frank D Paulo', 5
+'Person name', 'School - PS 132 Ralph Bunche', 2
+'Person name', 'School - Manhattan Center for Science and Mathematics', 5
+'Person name', 'School - MS 101 Edward R Byrne', 2
+'Person name', 'School - PS 116 Mary Lindley Murray', 2
+'Person name', 'Irving Square Park', 5
+'Person name', 'Prospect Park - Main Entrance', 6
+'Person name', 'Governor Smith Playground', 1
+'Person name', 'Tottenville Shore Park', 1
+'Person name', 'School - PS-IS 54', 8
+'Person name', 'School - The Seeall Academy', 6
+'Person name', 'School - JHS 278 Marine Park', 7
+'Person name', 'School - East New York Family Academy', 4
+'Person name', 'School - Jonathan Levin High School for Media and Communications', 1
+'Person name', 'School - IS 059 Springfield Gardens', 9
+'Person name', 'Givans Creek Woods Park', 1
+'Person name', 'Garibaldi Playground', 2
+'Person name', 'Murphys Brothers Playground', 2
+'Person name', 'Forest Park - Giovannelli Playground', 1
+'Person name', 'Geo Soilan Park - Battery Park City', 2
+'Person name', 'School - PS 21 Crispus Attucks', 4
+'Person name', 'School - PS 20 P O George J Werdan III', 6
+'Person name', 'Pool - Brownsville Recreation Center', 1
+'Person name', 'School - All City Leadership Secondary School', 1
+'Person name', '6th St and Ave B Community Garden', 2
+'Person name', 'Francis Lewis Park', 4
+'Person name', 'School - PS 56 Norwood Heights', 5
+'Person name', 'School - PS 28 The Thomas Emanuel Early Childhood Center', 1
+'Person name', 'School - MS 53 Brian Piccolo', 10
+'Person name', 'Pool - Red Hook Park', 4
+'Person name', 'School - Khalil Gibran International Academy', 4
+'Person name', 'School - PS 48 Joseph R Drake', 5
+'Person name', 'Midland Field', 3
+'Person name', 'Walker Park', 7
+'Person name', 'Crotona Park - Tremont Park', 9
+'Person name', 'Hinton Park', 6
+'Person name', 'Prospect Park - West Parade Grounds', 2
+'Person name', 'School - PS 14 Cornelius Vanderbilt', 10
+'Person name', 'School - PS 22', 9
+'Person name', 'School - PS 11 Highbridge', 7
+'Person name', 'School - PS 13 M L Lindemeyer', 3
+'Person name', 'School - IS 61 Leonardo Da Vinci', 9
+'Person name', 'School - PS 204 Vince Lombardi', 3
+'Person name', 'School - PS 35', 1
+'Person name', 'School - School for International Studies', 1
+'Person name', 'School - Repertory Company High School for Theatre Arts', 1
+'Person name', 'Frank Golden Park', 8
+'Person name', 'Sobel Green', 1
+'Person name', 'Owl's Head Park 1', 23
+'Person name', 'School - Banana Kelly High School', 3
+'Person name', 'Springfield Park', 7
+'Person name', 'Joseph C Sauer Playground', 4
+'Person name', 'Amersfort Park', 4
+'Person name', 'Ramon Aponte Park', 2
+'Person name', 'South Rochdale Playground - PS 80', 1
+'Person name', 'Closed School - IS 391 Mahalia Jackson', 2
+'Person name', 'School - High School for Health Careers and Sciences', 1
+'Person name', 'School - PS 41 Gun Hill Road', 9
+'Person name', 'School - PS 279 Herman Schreiber', 7
+'Person name', 'Riverside Park', 328
+'Person name', 'Flushing Meadows and Corona Park - Jurassic Playground', 2
+'Person name', 'Mullaly Park', 9
+'Person name', 'Central Park - Nutters Battery and Fort Clinton Site', 1
+'Person name', 'Aqueduct Walk - Brady Playground', 7
+'Person name', 'Dyker Heights Playground', 2
+'Person name', 'North Pacific Playground', 3
+'Person name', 'Morgan Playground', 1
+'Person name', 'Jacob Schiff Playground - PS 192', 1
+'Person name', 'School - Art and Design High School', 6
+'Person name', 'Closed School - IS 158 Theodore Gathings', 8
+'Person name', 'School - New Explorations Science, Technology and Math High School', 6
+'Person name', 'School - JHS 185 Edward Bleeker', 2
+'Person name', 'School - PS 18 Park Terrace', 3
+'Person name', 'School - PS 76 The Bennington School', 6
+'Person name', 'Recreation Center - Detective Keith Williams (Liberty Park)', 1
+'Person name', 'Rockaway Freeway and Kohlridir Sq', 4
+'Person name', 'Harding Park', 9
+'Person name', 'Red Hook Park', 6
+'Person name', 'Arthur Von Briesen Park', 7
+'Person name', 'Macombs Dam Park - Summit Playground', 2
+'Person name', 'School - PS 189', 5
+'Person name', 'School - PS 15 Roberto Clemente', 3
+'Person name', 'School - IS 171 Abraham Lincoln', 5
+'Person name', 'School - PS 89 Cypress Hills', 2
+'Person name', 'School - IS 303 Herbert S Eisenberg', 5
+'Person name', 'School - PS 96 Richard Rodgers', 1
+'Person name', 'School - PS 209', 2
+'Person name', 'Washington Square Park', 67
+'Person name', 'Park Slope Playground', 10
+'Person name', 'Jamaica Playground - PS 40', 1
+'Person name', 'Closed School - JHS 99', 1
+'Person name', 'School - PS 30 Westerleigh', 10
+'Person name', 'School - PS 79 Francis Lewis', 5
+'Person name', 'School - Mott Hall High School', 7
+'Person name', 'School - Hillcrest High School', 15
+'Person name', 'School - Edward R Murrow High School GED', 1
+'Person name', 'School - New Horizons School', 3
+'Person name', 'School - PS 129 Twin Parks Upper', 11
+'Person name', 'School - PS 3 Raul Julia Micro Society', 5
+'Person name', 'School - PS 102 The Bayview', 3
+'Person name', 'School - Robert E Peary School', 3
+'Person name', 'School - PS-MS 4 Crotona Park West', 3
+'Person name', 'Golf Course - Silver Lake', 2
+'Person name', 'Closed School - Harry Van Arsdale High School', 2
+'Person name', 'Closed School - Erasmus Campus - Science and Math', 1
+'Person name', 'Astoria Park - Charybdis Playground', 7
+'Person name', 'Fish Playground', 2
+'Person name', 'Rodney Playground South', 1
+'Person name', 'School - PS 56 Harry Eichler', 3
+'Person name', 'Playground Eighty - PS 115', 2
+'Person name', 'School - PS 111 Adolph S Ochs', 7
+'Person name', 'School - PS 179 Kensington', 4
+'Person name', 'School - Frank Sinatra School of the Arts High School', 3
+'Person name', 'School - PS 228 Early Childhood Magnet School of the Arts', 2
+'Person name', 'School - Lower Manhattan Arts Academy', 2
+'Person name', 'School - Cascade Center for Teaching and Learning', 1
+'Person name', 'School - The James Baldwin School - A School for Expeditionary Learning', 1
+'Person name', 'Roy Wilkins Recreation Center', 25
+'Person name', 'Monsignor Crawford Field', 3
+'Person name', 'Green Central Knoll', 8
+'Person name', 'Crescent Beach', 3
+'Person name', 'Leif Ericson Drive Shore Parkway', 2
+'Person name', 'University Woods', 2
+'Person name', 'Jamaica Bay Park', 2
+'Person name', 'School - PS 198 Isador E Ida Straus', 5
+'Person name', 'School - Magnet School of Math, Science and Design Technology', 7
+'Person name', 'School - PS 20 Clinton Hill', 13
+'Person name', 'School - IS 349 Math, Science, and Technology', 2
+'Person name', 'Closed School - PS 156 Benjamin Banneker', 6
+'Person name', 'School - PS 106 Parkchester', 16
+'Person name', 'School - PS 212 - Queens', 3
+'Person name', 'School - Far Rockaway High School', 5
+'Person name', 'A Chiarantano Park', 3
+'Person name', 'School - Fannie Lou Hamer Middle School', 1
+'Person name', 'Bowne Park', 47
+'Person name', 'Closed School - Academy for Performing Art', 6
+'Person name', 'Henry Hudson Park', 21
+'Person name', 'Courtney Callender Playground', 5
+'Person name', 'Pool - Windmuller', 2
+'Person name', 'School - PS 154 Queens', 2
+'Person name', 'School - Acorn High School for Social Justice', 18
+'Person name', 'School - Collegiate Institute for Math and Science', 3
+'Person name', 'School - PS 34 Franklin D Roosevelt', 6
+'Person name', 'School - Herbert Lehman High School', 16
+'Person name', 'School - Frederick Douglass Academy IV Secondary School', 4
+'Person name', 'School - PS 163 Arthur A Schomburg', 5
+'Person name', 'School - PS 62 Inocensio Casanova', 1
+'Person name', 'St Mary's Park', 15
+'Person name', 'Reeds Basket Willow's Swamp', 2
+'Person name', 'Starlight Park - Bridge Playground', 1
+'Person name', 'School - Washington Irving High School', 23
+'Person name', 'City Line Park', 2
+'Person name', 'School - PS 157 Benjamin Franklin', 3
+'Person name', 'School - PS 63 Author's Academy', 4
+'Person name', 'School - South Shore High School', 4
+'Person name', 'School - PS 186 Walter J Damrosch School', 6
+'Person name', 'School - John Adams Evening High School - Mondays and Wednesdays', 1
+'Person name', 'School - PS 92 Mary McLeod Bethune', 4
+'Person name', 'School - PS 152 Gwendolyn Alleyne', 1
+'Person name', 'School - Bronx Little School', 1
+'Person name', 'Sol  Bloom Playground', 14
+'Person name', 'School - MS K394', 5
+'Person name', 'Peter's Field', 2
+'Person name', 'School - JHS 54 Booker T Washington', 32
+'Person name', 'School - PS 181 Brooklyn', 17
+'Person name', 'School - Monroe Academy for Visual Arts and Design', 15
+'Person name', 'School - JHS 151 Lou Gehrig', 2
+'Person name', 'School - PS 254 Dag Hammarskjold', 4
+'Person name', 'School - PS 67 Charles A Dorsey', 6
+'Person name', 'School - Discovery High School', 2
+'Person name', 'School - PS 133 William A Butler', 3
+'Person name', 'School - Crotona Academy High School', 1
+'Person name', 'Harlem Lane Park', 1
+'Person name', 'Closed School - Borough Academy', 1
+'Person name', 'Eugenio Maria De Hostos Playground', 1
+'Person name', 'School - PS 256', 2
+'Person name', 'Laurelton Parkway', 2
+'Person name', 'School - Business, Computer Applications, and Entrepreneurship High School', 6
+'Person name', 'School - IS 227 Louis Armstrong', 10
+'Person name', 'School - PS 212 Lady Deborah Moody', 9
+'Person name', 'School - PS 5 Huguenot', 1
+'Person name', 'School - PS 6 Corporal Allan F Kivlehan School', 3
+'Person name', 'Closed School - JHS 10 Frederick Douglas', 1
+'Person name', 'School - PS 32 Samuels Mills Sprole', 1
+'Person name', 'Ranaqua Park', 3
+'Person name', 'Sutton Place Park', 20
+'Person name', 'Fort Greene Park', 26
+'Person name', 'Levy Playground', 5
+'Person name', 'Closed School - Theodore Roosevelt High School', 2
+'Person name', 'Recreation Center - Recreation Center 54', 15
+'Person name', 'School - Curtis High School', 10
+'Person name', 'Pool - Tottenville', 2
+'Person name', 'School - PS 3 The Margaret Gioiosa School', 4
+'Person name', 'School - PS-IS 384 Frances E Carter', 3
+'Person name', 'School - PS 152 Evergreen', 5
+'Person name', 'Unspecified', 1867704
+'Person name', 'Sunset Park', 44
+'Person name', 'Central Park - Park South', 17
+'Person name', 'Forest Park - Nature Center', 5
+'Person name', 'Walter Ward Playground - PS 207', 9
+'Person name', 'School - PS 33 Timothy Dwight', 3
+'Person name', 'Seth Low Playground', 4
+'Person name', 'Ralph Demarco Park', 1
+'Person name', 'Lefferts Playground', 1
+'Person name', 'Patterson Playground', 1
+'Person name', 'Sophie Irene Loeb', 2
+'Person name', 'School - PS 232 Lindenwood', 11
+'Person name', 'School - JHS 226 Virgil I Grissom', 21
+'Person name', 'School - PS 398 Walter Weaver', 12
+'Person name', 'School - PS 75 Emily Dickinson', 20
+'Person name', 'School - PS 33 Chelsea School', 9
+'Person name', 'School - PS 136 Roy Wilkins', 11
+'Person name', 'School - PS 92 Adrian Hegeman', 10
+'Person name', 'School - PS 48 William Wordsworth', 1
+'Person name', 'School - IS 285 Meyer Levin', 7
+'Person name', 'School - Medgar Evers College Preparatory School', 7
+'Person name', 'School - PS 120 Carlos Tapia', 7
+'Person name', 'School - PS 203 Floyd Bennett', 3
+'Person name', 'School - Grover Cleveland High School', 5
+'Person name', 'Railroad Park Playground', 1
+'Person name', 'Baruch Playground', 1
+'Person name', 'Melrose Playground', 1
+'Person name', 'School - Christopher Columbus High School', 14
+'Person name', 'School - Bayside High School', 14
+'Person name', 'Pool - Crotona', 8
+'Person name', 'School - JHS 72 Catherine and Count Basie', 12
+'Person name', 'School - PS 329 Surfside', 2
+'Person name', 'School - Louis D Brandeis High School', 15
+'Person name', 'School - PS 5 Dr Ronald Mcnair', 6
+'Person name', 'School - Hostos-Lincoln Academy of Science', 2
+'Person name', 'School - PS 47 John Randolph', 5
+'Person name', 'School - PS 182 Samantha Smith', 3
+'Person name', 'School - PS 28 The Warren Prep Academy', 2
+'Person name', 'School - High School for Civil Rights', 3
+'Person name', 'School - PS 2 Morrisania', 3
+'Person name', 'School - Bell Academy', 1
+'Person name', 'School - In-Tech Academy MS-HS 368', 2
+'Person name', 'Nelson Playground', 5
+'Person name', 'Doughboy Plaza', 6
+'Person name', 'Sternberg Park', 9
+'Person name', 'Van Cortlandt Park - Nature Center', 4
+'Person name', 'Mosholu Playground - PS 8', 8
+'Person name', 'Harry Maze Memorial Park', 5
+'Person name', 'Macon Playground', 4
+'Person name', 'School - IS 61 William A Morris', 12
+'Person name', 'Closed School - IS 192 Piagentini-Jones', 7
+'Person name', 'School - MS 180 Dr Daniel Hale Williams', 8
+'Person name', 'School - Frederick Douglass Academy', 5
+'Person name', 'School - High School of Telecommunication Arts and Technology', 3
+'Person name', 'Closed School - High School of Redirection', 1
+'Person name', 'School - PS 105 The Blythebourne', 2
+'Person name', 'School - PS 42 Claremont', 4
+'Person name', 'Franz Sigel Park', 12
+'Person name', 'Greenwood Playground', 6
+'Person name', 'Benniger Playground', 6
+'Person name', 'School - Sunset Park Prep', 4
+'Person name', 'School - PS 102 Joseph O Loretan', 14
+'Person name', 'School - PS 139 Alexine A Fenty', 10
+'Person name', 'School - PS 176', 6
+'Person name', 'School - PS 126 Dr Marjorie H Dunbar', 6
+'Person name', 'School - PS 36 Margaret Douglas', 3
+'Person name', 'School - PS 181 Brookfield', 5
+'Person name', 'School - The Marie Curie School for Medicine, Nursing, and Health Professions', 2
+'Person name', 'School - PS 96', 2
+'Person name', 'Crotona Park - Hylan Park', 3
+'Person name', 'Staten Island Greenbelt Park - Deere Park', 1
+'Person name', 'Kissena Corridor West', 3
+'Person name', 'Willoughby Playground', 2
+'Person name', 'Jacob Riis Park', 9
+'Person name', 'Aqueduct Walk - River Park', 3
+'Person name', 'Newtown Barge Terminal Playground', 1
+'Person name', 'School - PS 108 Philip J Abinanti', 7
+'Person name', 'School - IS 72 Rocco Laurie', 10
+'Person name', 'School - PS 35 The Clove Valley School', 2
+'Person name', 'Pool - Haffen', 7
+'Person name', 'School - JHS 265 Susan S McKinney', 4
+'Person name', 'School - IS 219 New Venture School', 2
+'Person name', 'Soundview Park', 13
+'Person name', 'School - PS 811 Connie Lekas School', 11
+'Person name', 'Highbridge Park - CPF Playground', 1
+'Person name', 'Bellevue South Park', 1
+'Person name', 'Williamsbridge Oval - P G  Mini Pool and Courts', 4
+'Person name', 'Closed School - PS 183 Daniel Chappie James', 13
+'Person name', 'School - JHS 292 Margaret S Douglas', 12
+'Person name', 'School - IS 51 Edwin Markham', 7
+'Person name', 'School - IS 141 The Steinway', 13
+'Person name', 'School - PS 14 Senator John Calandra', 2
+'Person name', 'School - PS 209 Margaret Mead', 7
+'Person name', 'School - PS 89 Elmhurst', 3
+'Person name', 'Judge Moses Weinstein Playground', 6
+'Person name', 'Bushwick Playground and Pool', 5
+'Person name', 'Lannett Playground - PS 197', 4
+'Person name', 'Nautilus Playground - Brooklyn', 3
+'Person name', 'Pool - Sunset Park', 7
+'Person name', 'Pool - Tompkins Square', 3
+'Person name', 'Reiff Playground', 1
+'Person name', 'Pool - Roy Wilkins', 2
+'Person name', 'School - Franklin K Lane High School', 7
+'Person name', 'School - Dewitt Clinton High School', 9
+'Person name', 'School - PS 122 Mamie Fay', 4
+'Person name', 'Robert Moses Playground', 7
+'Person name', 'Willow Lake Playground - PS 197', 7
+'Person name', 'Webster Playground', 4
+'Person name', 'School - PS 96 Joseph Lanzetta', 6
+'Person name', 'School - PS 226 - Manhattan', 1
+'Person name', 'School - PS 86 Kingsbridge Heights', 4
+'Person name', 'School - Williamsburg High School for Architecture and Design', 1
+'Person name', 'Closed School - Bushwick High School', 2
+'Person name', 'Prospect Park - Prospect Park West', 48
+'Person name', 'Albemarle Playground', 3
+'Person name', 'Seton Falls Park', 9
+'Person name', 'Barretto Park', 12
+'Person name', 'Central Park - Rudin Playground', 3
+'Person name', 'Century Playground', 2
+'Person name', 'School - PS 165 Edith K Bergtraum', 4
+'Person name', 'Closed School - JHS 168 Parsons', 6
+'Person name', 'Closed School - JHS 49 William J Gaynor', 7
+'Person name', 'School - JHS 127 The Castle Hill', 8
+'Person name', 'School - PS 69 The New Vision School', 5
+'Person name', 'School - PS 41 Greenwich Village', 5
+'Person name', 'School - JHS 162 The Willoughby', 1
+'Person name', 'Closed School - Park West High School', 3
+'Person name', 'School - Mathematics, Science Research, and Technology Magnet High School', 2
+'Person name', 'Central Park - Billy Johnson Playground', 3
+'Person name', 'Recreation Area - First Park', 4
+'Person name', 'Grand and Canal Courts', 3
+'Person name', 'School - PS 46 Edward C Blum', 6
+'Person name', 'School - PS 333 Manhattan School for Children', 7
+'Person name', 'School - PS 11 Purvis J Behan', 8
+'Person name', 'School - IS 223 Mott Hall', 4
+'Person name', 'Closed School - Project Blend', 1
+'Person name', 'Lemon Creek Park', 13
+'Person name', 'Burns Playground', 2
+'Person name', 'Van Nest Park', 3
+'Person name', 'Rocket Park', 1
+'Person name', 'School - PS 7 John B Russwurm,', 19
+'Person name', 'School - JHS 44 William J O'Shea,', 17
+'Person name', 'School - PS 68 Cambridge,', 1
+'Person name', 'School - PS 306 Ethan Allen,', 17
+'Person name', 'School - Port Richmond High School,', 9
+'Person name', 'School - PS 30 Wilton,', 1
+'Person name', 'School - PS 73 Thomas S Boyland,', 9
+'Person name', 'School - PS 13 Henrietta Szold,', 4
+'Person name', 'School - IS 10 Horace Greeley,', 3
+'Person name', 'School - PS 13 Hollis,', 4
+'Person name', 'Pool - St. John's Recreation Center,', 4
+'Person name', 'School - High School of World Cultures,', 1
+'Person name', 'Virginia Playground,', 4
+'Person name', 'Prospect Park - Vanderbilt Playground,', 7
+'Person name', 'Tenney Park,', 10
+'Person name', 'Central Park - Belvedere Castle Turtle Pond and Shakespeare Garden,', 4
+'Person name', 'Pool - Betsy Head Park,', 1
+'Person name', 'School - PS 14 Andrew Jackson,', 5
+'Person name', 'School - JHS 13 Jackie Robinson,', 7
+'Person name', 'Closed School - IS 232 The Winthrop,', 8
+'Person name', 'School - PS 95 Eastwood,', 1
+'Person name', 'Riverside Park - Hippo Playground,', 14
+'Person name', 'Saw Mill Playground,', 9
+'Person name', 'Closed School - PS 23 Twin Parks,', 4
+'Person name', 'Dean Playground,', 4
+'Person name', 'School - JHS 74 Nathaniel Hawthorne,', 3
+'Person name', 'School - PS 290 Juan Morel Campos,', 5
+'Person name', 'School - Choir Academy of Harlem,', 10
+'Person name', 'School - PS 178 - Dr Selman Waksman,', 2
+'Person name', 'School - PS 70 Johann Dekalb,', 2
+'Person name', 'School - PS 10 Christopher,', 5
+'Person name', 'Recreation Center - Crotona Park,', 2
+'Person name', 'School - PS 42 Eltingville,', 5
+'Person name', 'School - PS 6 Francisco Oller,', 1
+'Person name', 'Seton Park,', 21
+'Person name', 'Washington Hall Park,', 1
+'Person name', 'Leif Ericson Drive Shore Parkway - Homecrest Playground,', 3
+'Person name', 'Cabbell Park and Cambria Playground,', 2
+'Person name', 'River Garden,', 1
+'Person name', 'School - Clara Barton High School,', 12
+'Person name', 'School - PS  Duke Ellington,', 4
+'Person name', 'School - PS 35 Franz Siegel,', 2
+'Person name', 'Liotti and Ikefugi Playground,', 2
+'Person name', 'School - High School for Public Service - Heroes of Tomorrow,', 1
+'Person name', 'School - PS 186 Dr Irving A Gladstone,', 4
+'Person name', 'School - PS 236 Langston Hughes,', 1
+'Person name', 'Beach - Midland and South Beach,', 42
+'Person name', 'Fox Playground 1,', 2
+'Person name', 'Captain Mario Fajardo Park,', 1
+'Person name', 'Ennis Park,', 3
+'Person name', 'Closed School - Evander Childs High School,', 11
+'Person name', 'School - JHS 50 John D Wells,', 8
+'Person name', 'School - PS 108 Captain Vincent G Fowler,', 7
+'Person name', 'School - PS 162 John Golden,', 8
+'Person name', 'School - PS 26 Rufus King,', 3
+'Person name', 'School - PS 49 Christa Mcauliffe,', 1
+'Person name', 'School - PS 234,', 5
+'Person name', 'School - High School for Teaching and the Professions,', 1
+'Person name', 'Rainey Park - Bronx,', 4
+'Person name', 'Ditmars Park,', 6
+'Person name', 'East Springfield Playground,', 1
+'Person name', 'School - Ralph A Fabrizio School,', 4
+'Person name', 'Pool - Lyons,', 3
+'Person name', 'School - PS 7 Kingsbridge,', 1
+'Person name', 'Closed School - IS 184 Rafael C Y Molina,', 5
+'Person name', 'School - PS 221 Toussaint L'Ouverture,', 6
+'Person name', 'School - Bronx High School of Business,', 2
+'Person name', 'Hunts Point Playground,', 4
+'Person name', 'Penn Triangle,', 5
+'Person name', 'Theodore Roosevelt Park,', 8
+'Person name', 'School - PS 134 George F Bristow,', 11
+'Person name', 'Recreation Center - Lost Battalion Hall,', 6
+'Person name', 'School - PS 50 Frank Hankinson,', 8
+'Person name', 'School - PS 214,', 15
+'Person name', 'Dugan Playground,', 7
+'Person name', 'Augustus Saint Gaudens,', 2
+'Person name', 'School - Bronx Health Sciences High School,', 2
+'Person name', 'School - PS 20 George H Lindsay,', 5
+'Person name', 'School - PS 23 The Carl Ullman School,', 1
+'Person name', 'School - PS 184 Newport,', 2
+'Person name', 'Conference House Park,', 16
+'Person name', '79th Street Boat Basin Marina,', 2
+'Person name', 'School - PS 71 Stephen Mcsweeney School,', 2
+'Person name', 'School - PS 174 William Sidney Mount,', 3
+'Person name', 'School - High School for Leadership and Public Service,', 2
+'Person name', 'School - Foreign Language Academy of Global Studies,', 1
+'Person name', 'Loring Field,', 1
+'Person name', 'Central Park - Strawberry Fields,', 1
+'Person name', 'Frederick Johnson Park,', 3
+'Person name', 'Pool - David Fox - PS 51,', 2
+'Person name', 'School - PS 40 Augustus Saint Gaudens,', 7
+'Person name', 'School - PS 65 - The Little Red School House,', 7
+'Person name', 'School - PS 182,', 10
+'Person name', 'School - Global Enterprise High School,', 1
+'Person name', 'School - PS 154 Harriet Tubman,', 7
+'Person name', 'School - PS 79,', 1
+'Person name', 'Closed School - JHS 64 Edward W Stitt,', 1
+'Person name', 'Hells Kitchen Park,', 15
+'Person name', 'School - PS 100 The Coney Island School,', 8
+'Person name', 'Closed School - PS 220 Mott Haven Village School,', 8
+'Person name', 'School - PS 6 Lewis H Latimer,', 5
+'Person name', 'School - Manhattan Institute for Academic and Visual Arts,', 1
+'Person name', 'Ten Eyck Playground,', 1
+'Person name', 'Nathan Weidenbaum - Little Bush Park,', 4
+'Person name', 'Fountain Of Youth Playground,', 1
+'Person name', 'School - J M Rapport School Career Development,', 5
+'Person name', 'School - Tompkins Square Middle School Extension,', 2
+'Person name', 'School - JHS 3 Ronald Edmonds Learning Center,', 1
+'Person name', 'School - Conselyea Preparatory School,', 1
+'Person name', 'Prospect Park - Lullwater and Boathouse,', 2
+'Person name', 'Vidalia Park,', 4
+'Person name', 'Rienzi Playground,', 1
+'Person name', 'School - PS 202 Ernest S Jenkyns,', 18
+'Person name', 'School - Tottenville High School,', 13
+'Person name', 'School - Thurgood Marshall Academy for Learning and Social Change,', 6
+'Person name', 'School - PS 48 P O Michael J Buczek,', 10
+'Person name', 'School - PS 177,', 3
+'Person name', 'School - PS 41 Francis White,', 12
+'Person name', 'School - PS 77,', 5
+'Person name', 'School - PS-IS 155 Nicholas Herkimer,', 3
+'Person name', 'Haffen Park,', 6
+'Person name', 'Ruppert Park,', 21
+'Person name', 'Lie Playground - Real Good Park,', 2
+'Person name', 'School - PS 89 Bronx,', 27
+'Person name', 'School - JHS 10 Simon Baruch,', 4
+'Person name', 'School - PS 112 Lefferts Park,', 3
+'Person name', 'School - Food and Finance High School,', 2
+'Person name', 'School - PS 32 Dr Rose B English,', 7
+'Person name', 'School - PS 53 - Brooklyn,', 2
+'Person name', 'School - PS 11 Throop,', 2
+'Person name', 'School - University Neighborhood Middle School,', 6
+'Person name', 'School - PS 28 Mount Hope,', 1
+'Person name', 'Aqueduct Walk - Bronx Park,', 9
+'Person name', 'Gene Gray Playground,', 4
+'Person name', 'Lt Nicholaus Lia Playground,', 4
+'Person name', 'Alley Pond Park - Horatio Playground,', 5
+'Person name', 'Henry M Jackson Playground,', 2
+'Person name', 'School - PS 308 Clara Cardwell,', 14
+'Person name', 'School - PS 109,', 6
+'Person name', 'School - Wings Academy,', 3
+'Person name', 'School - PS 2 Eubie Blake School,', 5
+'Person name', 'School - The Gordon Parks School,', 2
+'Person name', 'Prospect Park - Lincoln Road Playground,', 13
+'Person name', 'Willets Point Playground - PS 209,', 12
+'Person name', 'Closed School - Borough Academies,', 7
+'Person name', 'Tompkins Square Park,', 28
+'Person name', 'Bath Beach Playground,', 3
+'Person name', 'Steuben Playground,', 2
+'Person name', 'Jackie Robinson Playground,', 2
+'Person name', 'Pool - Astoria Park,', 10
+'Person name', 'School - Brooklyn Academy of Science and the Environment,', 3
+'Person name', 'School - JHS 190 Russell Sage,', 11
+'Person name', 'School - Community High School for Social Justice,', 4
+'Person name', 'School - PS 19 Raoul Wallenberg,', 4
+'Person name', 'School - PS 7 Louis F Simeone,', 5
+'Person name', 'Closed School - PS 62 M,', 1
+'Person name', 'Beach - Rockaway,', 178
+'Person name', 'Dyker Beach Park,', 30
+'Person name', 'Pool - PS 20 Playground (Adelphi),', 1
+'Person name', 'Kaiser Park - Leon S Kaiser Playground,', 2
+'Person name', 'Wards Island Park,', 2
+'Person name', 'School - Brooklyn Studio Secondary School,', 27
+'Person name', 'School - PS 1 The Bergen,', 5
+'Person name', 'School - PS 62 Chester Park,', 5
+'Person name', 'School - PS 84 Shuang Wen,', 1
+'Person name', 'Recreation Center - Asser Levy,', 19
+'Person name', 'Canarsie Park,', 16
+'Person name', 'Mott Playground,', 2
+'Person name', 'School - Marta Valle Secondary School,', 13
+'Person name', 'Pool - Lindower Park,', 3
+'Person name', 'Pelham Bay Park - Memorial Grove,', 2
+'Person name', 'Cooper Park - Carnegie Playground,', 1
+'Person name', 'School - PS 111 Jacob Blackwell,', 9
+'Person name', 'Closed School - PS 304 Casimir Pulaski,', 11
+'Person name', 'School - PS 36 J C Drumgoole,', 12
+'Person name', 'School - Pace High School,', 2
+'Person name', 'Recreation Center - St. James,', 5
+'Person name', 'School - PS 08 Elsa Ebeling,', 2
+'Person name', 'Fort Washington Park,', 17
+'Person name', 'Pool - Douglas and Degraw,', 3
+'Person name', 'Commodore Barry Park,', 1
+'Person name', 'School - PS 152 Dyckman Valley,', 7
+'Person name', 'School - JHS 52 Inwood,', 6
+'Person name', 'Closed School - IS 252 Arthur S Somers,', 3
+'Person name', 'High Rock Park,', 5
+'Person name', 'Cadman Plaza Park,', 22
+'Person name', 'Renaissance Playground,', 2
+'Person name', 'Inwood Hill Park - Payson Playground,', 17
+'Person name', 'Grand Army Plaza,', 5
+'Person name', 'Ten Eyck Plaza,', 1
+'Person name', 'Railroad Park,', 2
+'Person name', 'Pomonok,', 2
+'Person name', 'Annandale Playground - PS 175,', 6
+'Person name', 'School - Newcomers High School,', 4
+'Person name', 'School - PS 47 Brooklyn,', 2
+'Person name', 'School - PS 276 Louis Marshall,', 12
+'Person name', 'School - Paula Hedbavny School,', 5
+'Person name', 'School - Bronx Excellence Charter School,', 1
+'Person name', 'School - PS 197 Brooklyn,', 2
+'Person name', 'School - Talent Unlimited High School,', 1
+'Person name', 'Golf Course - Kissena,', 3
+'Person name', 'Westerleigh Park,', 10
+'Person name', 'Haviland Playground,', 3
+'Person name', 'Mahoney Playground,', 3
+'Person name', 'Aqueduct Walk - French Charley Playground,', 3
+'Person name', 'School - JHS 2 The Montauk,', 23
+'Person name', 'School - PS 54 Charles W Leng,', 6
+'Person name', 'School - PS 230 Dr Roland N Patterson,', 9
+'Person name', 'School - JHS 16 George J Ryan,', 2
+'Person name', 'School - PS 204 Morris Heights,', 3
+'Person name', 'School - PS 91 Bronx,', 3
+'Person name', 'School - High School of Computers and Technology,', 1
+'Person name', 'Fort Tryon Park,', 48
+'Person name', 'Pool - Claremont,', 3
+'Person name', 'School - PS 208 Alain L Locke,', 3
+'Person name', 'School - PS 151 Mary D Carter,', 7
+'Person name', 'Central Park - Dana Discovery Nature Center,', 3
+'Person name', 'School - PS 36 Saint Albans School,', 4
+'Person name', 'School - Brooklyn Collegiate: A College Board School,', 4
+'Person name', 'School - Sisulu-Walker Charter School,', 1
+'Person name', 'Mariner's Playground,', 1
+'Person name', 'Crotona Park - Crotona Tennis House and Courts,', 1
+'Person name', 'School - IS 195 Roberto Clemente,', 18
+'Person name', 'School - PS 375 Jackie-Robinson School,', 17
+'Person name', 'School - PS 12,', 11
+'Person name', 'School - PS 95 Sheila Mencher,', 10
+'Person name', 'School - PS 69 Vincent D Grippo School,', 2
+'Person name', 'School - PS 137 John L Bernstein,', 2
+'Person name', 'School - Richard R Green High School of Teaching,', 6
+'Person name', 'School - Bronx Center for Science and Mathematics,', 1
+'Person name', 'South Beach Wetlands,', 2
+'Person name', 'Mccarren Park - Vincent V Abate Playground,', 14
+'Person name', 'Col David Marcus Playground,', 7
+'Person name', 'Ocean Breeze Park,', 2
+'Person name', 'Benson Playground,', 4
+'Person name', 'Rockaway Beach and Boardwalk - Beach 59th St Playground,', 3
+'Person name', 'Ampere Playground - PS 64,', 2
+'Person name', 'Closed School - JHS 117 Francis Scott Key,', 9
+'Person name', 'Power Playground,', 2
+'Person name', 'School - PS 23 - Queens,', 5
+'Person name', 'School - PS 94 The Henry Longfellow,', 11
+'Person name', 'Closed School - Thomas Jefferson High School,', 3
+'Person name', 'School - Belmont Preparatory High School,', 2
+'Person name', 'School - PS 138 Sunrise,', 10
+'Person name', 'School - New Utrecht High School,', 9
+'Person name', 'School - Health Professions and Human Services,', 7
+'Person name', 'School - PS 37,', 2
+'Person name', 'School - PS 0 Edward K Ellington,', 14
+'Person name', 'Bicentennial Veterinary Park At Weir Center,', 1
+'Person name', 'Inwood Hill Park - Emerson Playground,', 9
+'Person name', 'Closed School - Erasmus Campus - Business and Technology,', 5
+'Person name', 'Astoria Park,', 40
+'Person name', 'Asser Levy Park,', 7
+'Person name', 'Annunciation Park,', 9
+'Person name', 'Dawson Playground,', 1
+'Person name', 'School - Chelsea Career and Technical Education High School,', 2
+'Person name', 'School - PS 306,', 5
+'Person name', 'School - Cobble Hill School of American Studies,', 6
+'Person name', 'School - IS 131 Dr Sun Yat Sen,', 2
+'Person name', 'School - Benjamin N Cardozo High School,', 7
+'Person name', 'School - Kappa V,', 2
+'Person name', 'Closed School - Springfield Gardens High School,', 1
+'Person name', 'Maurice A Fitzgerald Playground,', 1
+'Person name', 'Central Park - Cedar Hill,', 5
+'Person name', 'Farm In The Bronx,', 3
+'Person name', 'Equity Park,', 1
+'Person name', 'School - PS  Henry M Boehm,', 5
+'Person name', 'School - Sheepshead Bay High School,', 10
+'Person name', 'School - PS 192 Jacob H Schiff,', 3
+'Person name', 'School - Samuel Gompers Career and Technical Education High School,', 6
+'Person name', 'School - PS-IS 224,', 5
+'Person name', 'Closed School - John Jay High School,', 2
+'Person name', 'Recreation Center - Tony Dapolito (formerly Carmine),', 4
+'Person name', 'Flushing Meadows and Corona Park,', 64
+'Person name', 'Fermi Playground,', 1
+'Person name', 'Broad Channel American Park,', 3
+'Person name', 'Mathew  Muliner Playground,', 8
+'Person name', 'Central Park - Bethesda Terrace,', 4
+'Person name', 'Midland Playground,', 3
+'Person name', 'Callahan-Kelly Playground,', 3
+'Person name', 'Wald Playground,', 1
+'Person name', 'School - High School for Law Enforcement and Public Safety,', 7
+'Person name', 'School - PS 288 The Shirley Tanyhill,', 7
+'Person name', 'School - PS 33 Edward M Funk,', 4
+'Person name', 'School - Harlem Day Charter School,', 3
+'Person name', 'School - PS 34 John Harvard,', 8
+'Person name', 'School - Health Opportunities High School,', 1
+'Person name', 'School - PS 269 Nostrand,', 1
+'Person name', 'School - PS-MS 3 The William Lloyd Garrison,', 1
+'Person name', 'School - Theodore Roosevelt Evening High School - Mondays and Wednesdays,', 1
+'Person name', 'Golf Course - Randalls Island Driving Range,', 1
+'Person name', 'Kissena Park - 160 St Playground,', 14
+'Person name', 'Space Time Playground,', 1
+'Person name', 'Longfellow Garden,', 2
+'Person name', 'Veterans Grove,', 5
+'Person name', 'School - PS 45 John Tyler,', 2
+'Person name', 'Recreation Center - Von King Cultural Arts Center,', 2
+'Person name', 'Mckinley Playground,', 8
+'Person name', 'C C Moore Homestead Park,', 5
+'Person name', 'M L King Houses Playground,', 5
+'Person name', 'Asser Levy - Asser Levy Playground,', 4
+'Person name', 'School - PS 30 Queens,', 7
+'Person name', 'School - PS 219 Paul Klapper,', 3
+'Person name', 'School - PS 13 The Conselyea School,', 2
+'Person name', 'School - PS 156 Laurelton,', 2
+'Person name', 'School - PS 139 Rego Park,', 2
+'Person name', 'School - Manhattan Theatre Lab,', 1
+'Person name', 'Bayview Playground,', 1
+'Person name', 'Mother Cabrini Park,', 10
+'Person name', 'Herbert Von King Park,', 5
+'Person name', 'Challenge Playground - PS 187,', 4
+'Person name', 'Forest Park - Victory Field,', 8
+'Person name', 'May Matthews Playground,', 2
+'Person name', 'Little Claremont Park,', 1
+'Person name', 'Ethan Allen Playground,', 1
+'Person name', 'Spirit Playground - PS 76,', 1
+'Person name', 'School - PS 88 S Silverstein Little Sparrow School,', 5
+'Person name', 'School - IS 45 Joseph Pulitzer,', 1
+'Person name', 'School - Scholars Academy,', 3
+'Person name', 'School - Central Park East I,', 4
+'Person name', 'School - PS 145 The Bloomingdale School,', 9
+'Person name', 'School - PS 396 - Bronx,', 2
+'Person name', 'School - PS 21 Margaret Emery-Elm Park,', 6
+'Person name', 'Forest Park - Sobelsohn Park,', 7
+'Person name', 'Baisley Pond Park - 157th St Playground,', 8
+'Person name', 'Flushing Meadows and Corona Park - Lawrence Playground,', 1
+'Person name', 'Remsen Playground,', 1
+'Person name', 'School - PS 11 Patrick Henry,', 7
+'Person name', 'School - PS 6 - Bronx,', 2
+'Person name', 'School - John F Kennedy High School,', 23
+'Person name', 'Recreation Center - Metropolitan Pool and Fitness Center,', 7
+'Person name', 'Closed School - JHS 33 Mark Hopkins,', 6
+'Person name', 'School - PS 76 William Hallet,', 10
+'Person name', 'School - PS 171 Peter G Van Alst,', 4
+'Person name', 'School - JHS 162 Lola Rodriguez De Tio,', 4
+'Person name', 'School - Law, Government and Community Service High School,', 5
+'Person name', 'School - PS 372 -The Children's School,', 1
+'Person name', 'School - Bronx High School of Science,', 4
+'Person name', 'School - PS 192 - The Magnet School for Math and Science Inquiry,', 4
+'Person name', 'School - Middle School for the Arts,', 2
+'Person name', 'Clement Clarke Moore Park,', 4
+'Person name', 'Fulton Park,', 1
+'Person name', 'School - PS 44 Marcus Garvey,', 12
+'Person name', 'School - PS 75 Mayda Cortiella,', 19
+'Person name', 'School - PS 97 Forest Park,', 3
+'Person name', 'School - George Washington Carver High School for the Sciences,', 2
+'Person name', 'School - PS 124 Osmond A Church,', 11
+'Person name', 'De Witt Clinton Park,', 7
+'Person name', 'Elijah Stroud Playground,', 2
+'Person name', 'School - Childrens Workshop School,', 1
+'Person name', 'School - PS 31 East Flatbush Early Childhood School,', 6
+'Person name', 'School - PS 2 Charles H Houston,', 3
+'Person name', 'School - JHS 131 Albert Einstein,', 11
+'Person name', 'School - PS 360,', 7
+'Person name', 'School - IS 30 Mary White Ovington,', 4
+'Person name', 'Blue Heron Park Preserve,', 15
+'Person name', 'Cunningham Park - Redwood Playground,', 3
+'Person name', 'William T Davis Wildlife Refuge,', 5
+'Person name', 'St Vartan Park,', 8
+'Person name', 'Canarsie Park - Dinapoli Playground,', 2
+'Person name', 'Pool - Sheltering Arms Park,', 2
+'Person name', 'Pelham Bay Park - Central Woodland,', 2
+'Person name', 'Grove Hill Playground,', 3
+'Person name', 'Public Place,', 1
+'Person name', 'School - Boys and Girls High School,', 31
+'Person name', 'School - PS 29 John M Harrigan,', 5
+'Person name', 'School - JHS 125 Henry Hudson,', 21
+'Person name', 'School - PS 164 Caesar Rodney,', 3
+'Person name', 'School - PS 86,', 3
+'Person name', 'Bronx River Park,', 14
+'Person name', 'Van Cortlandt Park - Woodlawn Playground,', 5
+'Person name', 'Osborn Playground,', 1
+'Person name', 'School - Fort Hamilton High School,', 37
+'Person name', 'School - IS 24 Myra S Barnes,', 11
+'Person name', 'School - PS 315,', 12
+'Person name', 'School - The Queens School of Inquiry,', 1
+'Person name', 'School - PS 18 John Peter Zenger,', 6
+'Person name', 'School - PS 196,', 2
+'Person name', 'School - The Bronxwood Preparatory Academy,', 2
+'Person name', 'School - PS 30 Doris L Cohen,', 2
+'Person name', 'School - PS 229 Dyker,', 1
+'Person name', 'Zimmerman Playground,', 5
+'Person name', 'Nathan Straus Playground - PS 140,', 8
+'Person name', 'Mazzei Playground,', 3
+'Person name', 'Marcus Garvey Park - Mount Morris East Playground,', 15
+'Person name', 'Vinmont Veteran Park,', 16
+'Person name', 'School - Andries Hudde,', 12
+'Person name', 'Francis Lewis Playground - PS 10,', 3
+'Person name', 'Abigail Playground,', 4
+'Person name', 'Jamie Campiz Playground,', 1
+'Person name', 'School - IS 206 Ann Mersereau,', 5
+'Person name', 'School - PS 56 The Louis Desario School,', 2
+'Person name', 'School - Bronx Engineering and Technology Academy,', 2
+'Person name', 'School - Bayard Rustin Educational Complex,', 6
+'Person name', 'School - Secondary School for Research,', 2
+'Person name', 'Golf Course - Clearview Park,', 1
+'Person name', 'School - PS 9 Bardwell,', 2
+'Person name', 'Wolfes Pond Park,', 14
+'Person name', 'Bergen Beach Playground,', 11
+'Person name', 'Alfred Smith - PS 1,', 2
+'Person name', 'Sakura Park,', 2
+'Person name', 'Evergreen Park,', 1
+'Person name', 'Highbridge Park - Sunken Playground,', 1
+'Person name', 'Watson Gleason Playground,', 2
+'Person name', 'Mclaughlin Park,', 2
+'Person name', 'Central Park - Bendheim Playground,', 1
+'Person name', 'School - Norman Thomas High School,', 9
+'Person name', 'School - PS 11 William T Harris,', 8
+'Person name', 'School - PS-IS 17 Rachel Jean Mitchell,', 3
+'Person name', 'School - MS 203,', 13
+'Person name', 'School - PS 140 Nathan Straus,', 7
+'Person name', 'School - Jonas Bronck Academy,', 2
+'Person name', 'School - PS 256 Benjamin Banneker,', 4
+'Person name', 'School - MS 399,', 4
+'Person name', 'Central Park - East 6th Street Playground,', 9
+'Person name', 'Udalls Park Preserve,', 1
+'Person name', 'Shore Road Park - Vinland Playground,', 6
+'Person name', 'Elton Playground,', 1
+'Person name', 'School - JHS 145 Arturo Toscaninni,', 8
+'Person name', 'School - IS 204 Oliver W Holmes,', 3
+'Person name', 'School - PS 64 Joseph P Addabbo,', 5
+'Person name', 'Chester Playground,', 1
+'Person name', 'Prospect Park - Breeze Hill,', 5
+'Person name', 'Bensonhurst Park,', 19
+'Person name', 'School - PS 257 John F Hylan,', 4
+'Person name', 'School - Edward R Murrow High School,', 5
+'Person name', 'School - Juan Morel Campos Secondary School,', 4
+'Person name', 'School - MS 126 John Ericsson,', 4
+'Person name', 'School - Legacy School,', 5
+'Person name', 'School - PS 206 Joseph F Lamb,', 3
+'Person name', 'School - Bronx Coalition Community High School,', 4
+'Person name', 'School - PS 177 The Marlboro,', 5
+'Person name', 'School - Monroe Academy for Business-Law,', 3
+'Person name', 'School - JHS 220 John J Pershing,', 1
+'Person name', 'School - PS 2 Alfred Zimberg,', 1
+'Person name', 'Playground Eighty Nine LXXXIX,', 4
+'Person name', 'Murray Hill Playground - PS 22,', 4
+'Person name', 'Tanahey Playground,', 5
+'Person name', 'Elizabeth Stroud Playground,', 1
+'Person name', 'Pelham Bay Park - Pelham Riding Stable,', 1
+'Person name', 'School - PS 2,', 7
+'Person name', 'Closed School - Prospect Heights High School,', 4
+'Person name', 'Closed School - PS 34 Luis Munoz Marin,', 1
+'Person name', 'Grover Cleveland Park,', 21
+'Person name', 'Baisley Pond Park - Sutphin Playground,', 1
+'Person name', 'Lindower Park,', 7
+'Person name', 'William H Seward Park,', 16
+'Person name', 'Spuyten Duyvil Playground,', 3
+'Person name', 'El Hajj Malik El Shabazz Playground,', 2
+'Person name', 'East Elmhurst Playground - PS 27,', 1
+'Person name', 'Arden Woods,', 2
+'Person name', 'Wingate Park,', 4
+'Person name', 'School - PS 241 Family Academy,', 6
+'Person name', 'School - MS 260 Clinton School Writers and Artists,', 1
+'Person name', 'School - The Angelo Patri Middle School,', 3
+'Person name', 'School - PS 174 Dumont,', 6
+'Person name', 'School - Leon Goldstein High School Sciences,', 3
+'Person name', 'Prospect Park - Harmony Playground,', 20
+'Person name', 'Sailors Snug Harbor,', 9
+'Person name', 'Morris Garden,', 6
+'Person name', 'School - PS 212 - Bronx,', 11
+'Person name', 'School - IS 181 Pablo Casals,', 5
+'Person name', 'School - Pablo Neruda Academy for Architecture and World Studies,', 1
+'Person name', 'School - PS 133,', 2
+'Person name', 'School - Brooklyn Preparatory High School,', 2
+'Person name', 'School - Kappa IV,', 1
+'Person name', 'School - PS 135 Sheldon A Brookner,', 2
+'Person name', 'Williamsbridge Oval,', 12
+'Person name', 'Veterans Park,', 5
+'Person name', 'Sheltering Arms Park,', 2
+'Person name', 'Eastern Parkway Malls,', 2
+'Person name', 'School - Susan E Wagner High School,', 13
+'Person name', 'School - PS 110 Florence Nightingale,', 5
+'Person name', 'School - PS 22 North Hills,', 1
+'Person name', 'School - The Bronx Lighthouse Charter School,', 3
+'Person name', 'School - PS 97 Bronx,', 8
+'Person name', 'Closed School - McKinney High School,', 1
+'Person name', 'School - School for the Physical City High School,', 2
+'Person name', 'Moore Playground,', 1
+'Person name', 'Ten Mile River Playground,', 1
+'Person name', 'School - PS 105 The Bay School,', 8
+'Person name', 'School - PS 163 Alfred E Smith,', 7
+'Person name', 'School - Fanny High School for Fire and Life Safety,', 2
+'Person name', 'School - JHS 217 Robert A Van Wyck,', 5
+'Person name', 'Riverside Park - Over The Tracks Tennis Courts,', 5
+'Person name', 'Captain Tilly Playground,', 4
+'Person name', 'Dongan Playground,', 5
+'Person name', 'Frost Playground,', 1
+'Person name', 'Astoria Heights Playground,', 9
+'Person name', 'White Playground,', 3
+'Person name', 'School - Manhattan School for Career Development,', 2
+'Person name', 'School - PS 93 Albert G Oliver,', 7
+'Person name', 'School - IS 211 John Wilson,', 6
+'Person name', 'School - MS 25 Academic and Athletic Excellence,', 6
+'Person name', 'School - PS 8 Great Expectations,', 5
+'Person name', 'School - PS 58 School of Heroes,', 3
+'Person name', 'School - Pelham Preparatory Academy,', 2
+'Person name', 'Closed School - Brooklyn Comprehensive Night High School,', 1
+'Person name', 'School - PS 58 The Carroll,', 2
+'Person name', 'School - PS 88 Seneca,', 2
+'Person name', 'Highbridge Park - Quisqueya Playground,', 2
+'Person name', 'Carver Playground,', 7
+'Person name', 'Lillian D Wald Playground,', 4
+'Person name', 'Crotona Park - Bathgate Playground,', 5
+'Person name', 'Lafayette Playground,', 1
+'Person name', 'Kennedy Playground,', 2
+'Person name', 'Frank D. O'Connor Playground,', 1
+'Person name', 'Inwood Hill Park - Indian Road Playground,', 8
+'Person name', 'Seven Gables Playground - IS 74,', 1
+'Person name', '6BC Botanical Garden,', 1
+'Person name', 'School - Paul Robeson High School,', 15
+'Person name', 'School - The Young Scholars Academy of the Bronx,', 5
+'Person name', 'School - Jean Nuzzi Intermediate School,', 24
+'Person name', 'School - PS 199 The Shakespeare School,', 12
+'Person name', 'School - PS 8,', 5
+'Person name', 'School - PS 90 Horace Mann,', 8
+'Person name', 'School - JHS 45 John S Roberts,', 3
+'Person name', 'School - Professional Performing Arts,', 1
+'Person name', 'Southern Fields,', 3
+'Person name', 'John Paul Jones Park,', 3
+'Person name', 'Spuyten Duyvil Shorefront Park and Half Moon Overlook,', 6
+'Person name', 'Willis Playground,', 6
+'Person name', 'Maurice Park,', 5
+'Person name', 'School - PS 158 Warwick,', 19
+'Person name', 'Queens Valley Playground - PS 16,', 4
+'Person name', 'School - IS 093 Ridgewood,', 5
+'Person name', 'School - Brooklyn High School of the Arts,', 5
+'Person name', 'School - JHS 202 Robert H Goddard,', 7
+'Person name', 'School - PS 21 New Lots,', 3
+'Person name', 'School - JHS 227 Edward B Shallow,', 5
+'Person name', 'School - PS 157 Grove Hill,', 4
+'Person name', 'School - PS 335 Granville T Woods,', 12
+'Person name', 'School - PS 89 Manhattan,', 2
+'Person name', 'School - PS 220 Edward Mandel,', 3
+'Person name', 'School - PS 46 Albert V Maniscalco,', 2
+'Person name', 'School - JHS 194 William Carr,', 2
+'Person name', 'Double Nickel Playground - PS 55,', 1
+'Person name', 'Centerville Playground,', 1
+'Person name', 'Ciccarone Park,', 1
+'Person name', 'School - IS 232,', 4
+'Person name', 'School - IS 192 The Linden,', 11
+'Person name', 'School - PS 9 The Highlawn,', 7
+'Person name', 'School - Queens High School of Teaching, Liberal Arts, and the Sciences,', 5
+'Person name', 'School - PS 57 Crescent,', 9
+'Person name', 'School - PS 11 Nelson A Rockefeller,', 2
+'Person name', 'School - The Urban Assembly School for the Urban Environment,', 1
+'Person name', 'Calvert Vaux,', 1
+'Person name', '74th St Playground,', 1
+'Person name', 'Aqueduct Walk - Allerton Fields In Bronx Park,', 4
+'Person name', 'Grand Ferry Park,', 1
+'Person name', 'Flushing Meadows and Corona Park - Saturn Play Equipment,', 2
+'Person name', 'Van Cortlandt Park - Healy Field and Gaelic Field,', 7
+'Person name', 'Crotona Park - Prospect Park Playground,', 1
+'Person name', 'School - IS 237,', 14
+'Person name', 'School - PS 138 Brooklyn,', 9
+'Person name', 'School - Agnes Y Humphrey School for Leadership,', 5
+'Person name', 'School - PS 4 Maurice Wollin,', 11
+'Person name', 'School - Park East High School,', 1
+'Person name', 'Closed School - IS 222,', 1
+'Person name', 'Recreation Center - Jackie Robinson,', 2
+'Person name', 'School - Midwood High School,', 5
+'Person name', 'School - Performing Arts and Technology High School,', 2
+'Person name', 'School - PS 9 Queens,', 2
+'Person name', 'School - Mott Hall IV,', 1
+'Person name', 'Central Park,', 327
+'Person name', 'Aqueduct Walk - Frisch Field In Bronx Park,', 3
+'Person name', 'Schmul Park,', 2
+'Person name', 'Davidson Ave Community Playground,', 2
+'Person name', 'Springfield Park North,', 2
+'Person name', 'Park Strip,', 1
+'Person name', 'Van Cortlandt Park - Kelley Fields,', 5
+'Person name', 'Broad Channel Park,', 3
+'Person name', 'School - The Urban Assembly School of Business for Young Women,', 3
+'Person name', 'School - Muscota,', 6
+'Person name', 'School - PS 1 Leonard Dunkly,', 6
+'Person name', 'School - PS 53 Basheer Quisim,', 14
+'Person name', 'School - PS-MS 194,', 13
+'Person name', 'School - Community Action School - MS 28,', 5
+'Person name', 'School - PS 771,', 6
+'Person name', 'School - PS 19 John H Finley,', 2
+'Person name', 'Morningside Park,', 53
+'Person name', 'Eibs Pond Park,', 6
+'Person name', 'Cypress Hills Park,', 8
+'Person name', 'Middle Village Playground,', 6
+'Person name', 'Scarangella Park,', 2
+'Person name', 'Parade Ground,', 8
+'Person name', 'Alice Kornegay,', 3
+'Person name', 'Saul Weprin Playground - PS 62,', 1
+'Person name', 'School - PS 239,', 5
+'Person name', 'School - PS 125 Ralph Bunche,', 15
+'Person name', 'School - Richmond Hill High School,', 13
+'Person name', 'Greencroft Playground - PS 3,', 5
+'Person name', 'Playground One Twenty Five - PS 25,', 1
+'Person name', 'Recreation Center - Roy Wilkins,', 10
+'Person name', 'Roebling Playground,', 2
+'Person name', 'Jerome Playground,', 2
+'Person name', 'PFC Norton Playground,', 2
+'Person name', 'School - Forest Hills High School,', 15
+'Person name', 'Closed School - Erasmus Campus - Humanities,', 3
+'Person name', 'School - PS 13 Bath Beach,', 6
+'Person name', 'School - PS 84 Lillian Weber,', 25
+'Person name', 'Crotona Park - Clinton Playground,', 1
+'Person name', 'School - PS 3 The Pacific,', 8
+'Person name', 'School - Riverdale Kingsbridge Academy,', 3
+'Person name', 'School - PS 17 Isaac Remsen,', 4
+'Person name', 'School - PS 3 Old South,', 6
+'Person name', 'School - PS 92 Bronx,', 3
+'Person name', 'School - The Richard H Hungerford School,', 1
+'Person name', 'Pool - Hamilton Fish Park,', 3
+'Person name', 'School - PS 3 Bayside,', 1
+'Person name', 'School - Millennium Art Academy,', 1
+'Person name', 'Albert J Parham Playground,', 4
+'Person name', 'Laurelton Playground,', 6
+'Person name', 'Maple Playground,', 12
+'Person name', 'School - Bronx Latin,', 2
+'Person name', 'School - High School for Law, Advocacy and Community Justice,', 3
+'Person name', 'Golf Course - Marine Park,', 2
+'Person name', 'School - Brooklyn Excelsior Charter,', 4
+'Person name', 'School - Accion Academy,', 3
+'Person name', 'West Playground,', 12
+'Person name', 'Mccarren Park,', 40
+'Person name', 'Fort Washington Park - Lily Brown Playground,', 10
+'Person name', 'Saw Mill Creek Marsh,', 1
+'Person name', 'Hallets Cove Playground,', 2
+'Person name', 'Nehemiah Park,', 1
+'Person name', 'School - PS 165 Ida Posner,', 4
+'Person name', 'School - JHS 189 Daniel Carter Beard,', 3
+'Person name', 'School - PS 103 Hector Fontanez,', 8
+'Person name', 'School - PS 15 Institute for Environmental Learning,', 6
+'Person name', 'School - PS-IS 104 The Fort Hamilton School,', 6
+'Person name', 'School - Canarsie High School,', 10
+'Person name', 'School - MS 22 The Laboratory School of Finance and Technology,', 3
+'Person name', 'School - MS 13 America's School of Heroes,', 7
+'Person name', 'School - Academy for Social Action: A College Board School,', 1
+'Person name', 'School - PS 86 Castlewood,', 1
+'Person name', 'Galapo Playground,', 2
+'Person name', 'London Planetree Playground,', 2
+'Person name', 'Belmont Playground - Bronx,', 3
+'Person name', 'Bayside Playground - JHS 80,', 1
+'Person name', 'Hester St Playground,', 1
+'Person name', 'School - Space Shuttle Columbia School,', 7
+'Person name', 'School - New Design High School,', 1
+'Person name', 'School - The Bronx High School of Performance and Stagecraft,', 1
+'Person name', 'School - Brooklyn Secondary School for Collaborative Studies,', 1
+'Person name', 'Cloves Lake Park - War Memorial Ice Skating Rink,', 33
+'Person name', 'Riverside Park - Claremont Playground,', 11
+'Person name', 'Castle Hill Playground,', 3
+'Person name', 'School - New Dorp High School,', 19
+'Person name', 'PS 198 Samuel Seabury Playground,', 4
+'Person name', 'Flushing Fields,', 6
+'Person name', 'Stanley Isaacs Court,', 4
+'Person name', 'Sarsfield Playground,', 7
+'Person name', 'Newtown Playground,', 3
+'Person name', 'Van Cortlandt Park - Allen Shandler Rec Area,', 7
+'Person name', 'Clark Playground,', 1
+'Person name', 'Drew Playground,', 1
+'Person name', 'School - Jamaica High School,', 7
+'Person name', 'School - High School for Media and Communications,', 3
+'Person name', 'School - PS 370,', 4
+'Person name', 'School - PS 146 Howard Beach,', 7
+'Person name', 'School - PS 32 William Penn,', 1
+'Person name', 'Pool - Marcus Garvey Park,', 1
+'Person name', 'School - High School for Math Science and Engineering at CCNY,', 4
+'Person name', 'Flushing Meadows and Corona Park - Playground For All Children,', 1
+'Person name', 'School - PS 67 Mohegan School,', 13
+'Person name', 'School - Martin Van Buren High School,', 20
+'Person name', 'School - Harry S Truman High School,', 30
+'Person name', 'School - PS 224 Hale A Woodruff,', 17
+'Person name', 'Recreation Center - Vic Hanson,', 1
+'Person name', 'School - PS 199 Maurice A Fitzgerald,', 2
+'Person name', 'Greenbelt - Nature Center,', 1
+'Person name', 'Central Park - North Of The Arsenal,', 6
+'Person name', 'Stuyvesant Square,', 24
+'Person name', 'Almeda Playground - PS 42,', 1
+'Person name', 'Rosemary's Playground - JHS 9,', 3
+'Person name', 'Marble Hill Playground,', 3
+'Person name', 'Hickman Playground,', 1
+'Person name', 'St Nicholas Playground South,', 1
+'Person name', 'School - Thomas A Edison Career and Technical Education High School,', 12
+'Person name', 'School - William E Grady Career and Technical Education High School,', 8
+'Person name', 'Recreation Center - Hansborough,', 10
+'Person name', 'School - PS 6 Alfred De B Mason,', 2
+'Person name', 'School - Merrick Academy Charter School,', 1
+'Person name', 'School - PS 80 Thurgood Marshall Magnet,', 5
+'Person name', 'Booker T Washington Playground,', 4
+'Person name', 'Joan of Arc Park,', 2
+'Person name', 'Central Park - West 100th Street Playground,', 2
+'Person name', 'School - Queens High School for the Sciences at York College,', 1
+'Person name', 'School - ESMT - IS 190,', 3
+'Person name', 'Closed School - George W Wingate High School,', 3
+'Person name', 'Closed School - IS 174 Eugene T Maleska,', 11
+'Person name', 'School - PS 120 Queens,', 7
+'Person name', 'Prescott Playground,', 1
+'Person name', 'School - Enterprise, Business, and Technology High School,', 4
+'Person name', 'School - Central Park East High School,', 5
+'Person name', 'School - Harriet Tubman Charter School,', 2
+'Person name', 'Toad Hall Playground,', 1
+'Person name', 'School - Young Women's Leadership School - Queens,', 1
+'Person name', 'Starlight Park - Jennie Jerome Playground,', 3
+'Person name', 'Staten Island Greenbelt - Southwest Latourette,', 3
+'Person name', 'Happy Warrior Playground,', 1
+'Person name', 'Smokey Oval,', 3
+'Person name', 'P.O. Nicholas Demutis Playground,', 4
+'Person name', 'Starr Playground,', 1
+'Person name', 'Lt Joseph Petrosino Park,', 1
+'Person name', 'School - IS 254,', 10
+'Person name', 'School - PS 23 Richmondtown,', 1
+'Person name', 'School - PS 3 Jonas Bronck,', 4
+'Person name', 'School - East Bronx Academy for the Future,', 3
+'Person name', 'School - PS 32 Belmont,', 5
+'Person name', 'Brooklyn Heights Promenade,', 9
+'Person name', 'Cuyler Gore Playground,', 2
+'Person name', 'Inwood Hill Park - Nature Center,', 16
+'Person name', 'Frederick Douglass Playground,', 2
+'Person name', 'Bedford Playground,', 4
+'Person name', 'Saint Johns Recreation Center,', 3
+'Person name', 'Recreation Center - Red Hook,', 1
+'Person name', 'Recreation Center - Fifty-Nine West,', 5
+'Person name', 'School - PS 164 Queens Valley,', 2
+'Person name', 'School - MS 21 - Minerva,', 3
+'Person name', 'School - Teachers Preparatory School,', 1
+'Person name', 'School - PS 49 Willis Avenue,', 5
+'Person name', 'Stapleton Playground,', 2
+'Person name', 'Harold Schneiderman Playground - PS 22,', 3
+'Person name', 'Quarry Ballfields,', 1
+'Person name', 'Naples Playground,', 1
+'Person name', 'School - PS 44 David C Farragut,', 5
+'Person name', 'School - IS 2 George L Egbert,', 7
+'Person name', 'School - The Metropolitan High School,', 2
+'Person name', 'School - PS 16 Arturo Toscanini,', 2
+'Person name', 'School - PS 319,', 2
+'Person name', 'School - PS 121 Queens,', 4
+'Person name', 'School - School of Business, Finance, and Entrepreneurship,', 2
+'Person name', 'Marine Park,', 85
+'Person name', 'Cpl Thompson Park,', 2
+'Person name', 'Alfred E Smith Park,', 4
+'Person name', 'Cooper Park,', 10
+'Person name', 'John J Carty Park,', 7
+'Person name', 'School - PS 25 Bilingual School,', 9
+'Person name', 'School - PS 272 Curtis Estabrook,', 8
+'Person name', 'School - Women's Academy of Excellence,', 4
+'Person name', 'Williamsburg Bridge Playground,', 1
+'Person name', 'School - City College Academy of the Arts,', 1
+'Person name', 'Highland Park,', 17
+'Person name', 'School - PS 231,', 7
+'Person name', 'Bryant Park,', 4
+'Person name', 'School - PS 8 George Cromwell,', 3
+'Person name', 'School - JHS 1 Shell Bank,', 4
+'Person name', 'School - Grace Dodge Career and Technical Education High School,', 6
+'Person name', 'Pool - Highbridge,', 1
+'Person name', 'School - PS 22 Graniteville,', 5
+'Person name', 'School - PS 35 Nathaniel Woodhull,', 2
+'Person name', 'School - PS 233 Langston Hughes,', 14
+'Person name', 'School - Bronx High School for the Visual Arts,', 1
+'Person name', 'School - JHS 291 Roland Hayes,', 5
+'Person name', 'School - Bronx Leadership Academy High School,', 2
+'Person name', 'School - PS 146 Edward Collins,', 7
+'Person name', 'School - School for Community Research and Learning,', 1
+'Person name', 'School - PS 64 Pura Belpre,', 8
+'Person name', 'J Hood Wright Park,', 25
+'Person name', 'Martins Field Playground,', 5
+'Person name', 'Kennedy King Playground,', 2
+'Person name', 'Closed School - Region 8 YABC,', 1
+'Person name', 'School - PS 377 Alejandrina B De Gautier,', 8
+'Person name', 'School - PS 144 Col Jeromus Remsen,', 7
+'Person name', 'School - Bronx Lab School,', 2
+'Person name', 'Central Park - 79th Street Yard and Summit Rock,', 15
+'Person name', 'Firemen's Memorial Garden,', 1
+'Person name', 'Closed School - IS 75 Thelma J Hamilton,', 2
+'Person name', 'School - IS 125 Thom J McCann Woodside,', 6
+'Person name', 'School - Bronx Academy of Letters,', 4
+'Person name', 'School - PS 165 Robert E Simon,', 10
+'Person name', 'School - JHS 18 Eugenio Maria De Hostos,', 3
+'Person name', 'Pool - Recreation Center 54,', 1
+'Person name', 'School - PS 73 Fresh Meadows,', 1
+'Person name', 'School - PS 96 Grand Central Parkway,', 1
+'Person name', 'Central Park - Wollman Ice Skating Rink,', 23
+'Person name', 'Brighton Playground,', 5
+'Person name', 'Macneil Park,', 14
+'Person name', 'Briarwood Playground - JHS 217,', 3
+'Person name', 'Pool - Thompson Street,', 3
+'Person name', 'School - W H Maxwell Career and Technical Education High School,', 7
+'Person name', 'School - PS-MS 29 Melrose School,', 7
+'Person name', 'Closed School - JHS 88 Wadleigh,', 2
+'Person name', 'School - PS-IS 208,', 7
+'Person name', 'School - PS 6 Edgar Allan Poe,', 4
+'Person name', 'School - Science Skills Center High School for Science, Technology, and the Creative Arts,', 10
+'Person name', 'School - PS 166 Henry Gradstein,', 10
+'Person name', 'School - MS 246 Walt Whitman,', 5
+'Person name', 'School - IS 77,', 3
+'Person name', 'School - PS 811 - Mickey Mantle School,', 5
+'Person name', 'School - PS 3 Abigail Adams,', 1
+'Person name', 'School - NYC Laboratory School,', 1
+'Person name', 'Hollis Playground - JHS 192,', 4
+'Person name', 'Slope Park,', 8
+'Person name', 'Shore Road Park,', 9
+'Person name', 'Corporal John A Seravalli Playground,', 2
+'Person name', 'Addabbo Playground,', 6
+'Person name', 'School - PS 70 Max Schoenfeld,', 9
+'Person name', 'School - PS 99 Kew Gardens,', 4
+'Person name', 'School - Manhattan - Hunter Science High School,', 3
+'Person name', 'School - JHS 5 Thomas C Giordano,', 4
+'Person name', 'School - PS 255 Barbara Reing School,', 4
+'Person name', 'School - MS 302 Luisa Dessus Cruz,', 7
+'Person name', 'School - PS 17 McKinley Park,', 2
+'Person name', 'School - PS 70,', 1
+'Person name', 'Hines Park,', 3
+'Person name', 'The Big Park - Grandview Playground,', 1
+'Person name', 'School - PS 91 The Albany Avenue School,', 2
+'Person name', 'School - Brooklyn School for Global Studies,', 10
+'Person name', 'School - PS 114 Ryder Elementary,', 8
+'Person name', 'School - PS 36 Mill Basin,', 2
+'Person name', 'School - MS 301 Paul L Dunbar,', 7
+'Person name', 'Travers Park,', 8
+'Person name', 'Stanton St Courts,', 1
+'Person name', 'Eastchester  Playground,', 1
+'Person name', 'School - Adlai E Stevenson High School,', 4
+'Person name', 'Recreation Center - Louis Armstrong,', 1
+'Person name', 'Palmetto Playground,', 5
+'Person name', 'Under The Tracks Playground,', 1
+'Person name', 'School - JHS 143 Eleanor Roosevelt,', 8
+'Person name', 'School - PS 50 Clara Barton,', 7
+'Person name', 'School - Fiorello H Laguardia High School of Music and Art and Performing Arts,', 7
+'Person name', 'School - PS 312 Bergen Beach,', 8
+'Person name', 'School - PS 160 Walter Francis Bishop,', 2
+'Person name', 'Recreation Center - Betsy Head CBO- Amboy Neighborhood Center,', 1
+'Person name', 'School - PS 205 Fiorello Laguardia,', 3
+'Person name', 'Bland Playground,', 5
+'Person name', 'Golf Course - Dyker Beach,', 1
+'Person name', 'School - PS 4 Fairview,', 1
+'Person name', 'School - Benjamin Banneker Academy,', 3
+'Person name', 'School - Tompkins Square Middle School,', 3
+'Person name', 'School - PS 9 Ryer Avenue Elementary School,', 4
+'Person name', 'Riverside Park - Palisades Playground,', 6
+'Person name', 'Vesuvio Playground,', 16
+'Person name', 'Fox Playground 2,', 4
+'Person name', 'Gen Douglas Macarthur Park,', 2
+'Person name', 'Underhill Playground - Queens,', 9
+'Person name', 'La Guardia Playground,', 1
+'Person name', 'School - East Side Middle School,', 2
+'Person name', 'School - MS 32 - Writers Today and Leaders Tomorrow,', 6
+'Person name', 'School - PS 198 Brooklyn,', 3
+'Person name', 'Cedar Grove Playground - JHS 28,', 1
+'Person name', 'Tecumseh Playground,', 11
+'Person name', 'Aqueduct Walk - Ben Abrams Playground,', 5
+'Person name', 'James J Walker Park,', 9
+'Person name', 'Blackrock Playground,', 1
+'Person name', 'School - PS 199 Frederick Wachtel,', 2
+'Person name', 'Closed School - Morris High School,', 4
+'Person name', 'School - IS 73 - The Frank Sansivieri Intermediate School,', 5
+'Person name', 'School - PS 107 John W Kimball,', 3
+'Person name', 'School - PS 206 Jose Celso Barbosa,', 3
+'Person name', 'School - JHS 144 Michelangelo,', 6
+'Person name', 'Riverside Park - Baseball Fields,', 16
+'Person name', 'Owen Dolen Golden Age Center,', 2
+'Person name', 'Closed School - PS 39,', 1
+'Person name', 'Riverside Park - River Run Playground,', 25
+'Person name', 'Macombs Dam Park,', 9
+'Person name', 'Dr Charles R Drew Memorial Park,', 13
+'Person name', 'Central Park - Heckscher Playground,', 2
+'Person name', 'Prospect Park - South West Entrance,', 1
+'Person name', 'People's Park,', 1
+'Person name', 'School - PS 123,', 22
+'Person name', 'School - PS 246 Poe Center,', 5
+'Person name', 'School - Bushwick School for Social Justice,', 3
+'Person name', 'School - IS 528 Bea Fuller Rodgers School,', 3
+'Person name', 'School - PS 4 - Brooklyn,', 1
+'Person name', 'Ewen Park,', 26
+'Person name', 'Ocean Hill Playground,', 4
+'Person name', 'Staten Island Greenbelt - High Rock Park,', 4
+'Person name', 'School - Urban Academy Laboratory High School,', 2
+'Person name', 'John Allen Payne Park,', 3
+'Person name', 'School - PS 185 Walter Kassenbrock,', 2
+'Person name', 'School - PS 94 Kings College School,', 5
+'Person name', 'School - IS 64 Gateway,', 3
+'Person name', 'Hamilton Fish Park,', 5
+'Person name', 'Battery Park,', 66
+'Person name', 'Gunn Park - PS 18,', 2
+'Person name', 'Coleman Square Playground,', 5
+'Person name', 'Asser Levy Recreation Center,', 5
+'Person name', 'Pool - West Brighton,', 4
+'Person name', 'Starlight Park - Daniel Boone Playground,', 5
+'Person name', 'Sean's Place,', 8
+'Person name', 'Samuel N 2nd Bennerson Playground,', 1
+'Person name', 'School - PS 168,', 9
+'Person name', 'School - PS 72,', 5
+'Person name', 'Pool - Thomas Jefferson,', 4
+'Person name', 'School - PS 32 The Gifford School,', 13
+'Person name', 'School - PS 60 Alice Austen,', 8
+'Person name', 'School - PS-IS 178 Holliswood,', 2
+'Person name', 'School - PS 72 Beacon School of Excellence,', 1
+'Person name', 'School - PS 7,', 3
+'Person name', 'School - PS 11 Thomas Dongan School,', 3
+'Person name', 'School - IS 250 The Robert F Kennedy Community Middle School,', 1
+'Person name', 'School - PS 97,', 1
+'Person name', 'Berry Playground,', 3
+'Person name', 'Thomas Jefferson Park,', 22
+'Person name', 'Van Cortlandt Park - NW Forest,', 3
+'Person name', 'Big Bush Park,', 5
+'Person name', 'Closed School - William Howard Taft High School,', 7
+'Person name', 'Bay Terrace Playground - PS 169,', 4
+'Person name', 'Markham Playground,', 9
+'Person name', 'Pool - John Jay,', 2
+'Person name', 'School - PS 71 Rose E Scala,', 45
+'Person name', 'School - The Urban Assembly School for Law and Justice,', 7
+'Person name', 'School - PS 376,', 4
+'Person name', 'School - PS 19 Roberto Clemente,', 4
+'Person name', 'School - Mott Hall Bronx High School,', 1
+'Person name', 'School - Excelsior Preparatory High School,', 1
+'Person name', 'Pulaski Park,', 1
+'Person name', 'Skyline Playground,', 2
+'Person name', 'Aesop Playground,', 4
+'Person name', 'School - PS 51,', 6
+'Person name', 'School - JHS 157 Stephen A Halsey,', 49
+'Person name', 'Hoe Garden,', 1
+'Person name', 'School - PS 143 Louis Armstrong,', 2
+'Person name', 'School - School for Democracy and Leadership,', 1
+'Person name', 'Pool - Mullaly,', 3
+'Person name', 'Marine Park - Salt Marsh Nature Center,', 13
+'Person name', 'Hoffman Park,', 2
+'Person name', 'Peter Minuit Park,', 6
+'Person name', 'Crocheron Park - Golden Pond In Crocheron Park,', 7
+'Person name', 'Vleigh Playground - PS 165,', 2
+'Person name', 'Central Park - East 72nd Street Playground,', 8
+'Person name', 'School - High School for Contemporary Arts,', 2
+'Person name', 'Closed School - Powell Middle School for Law and Social Justice,', 14
+'Person name', 'School - JHS 210 Elizabeth Blackwell,', 13
+'Person name', 'School - PS 126 Jacob Riis Community School,', 5
+'Person name', 'School - PS 268 Emma Lazarus,', 7
+'Person name', 'School - PS 30 Marble Hill,', 1
+'Person name', 'School - PS 16 Waverly,', 5
+'Person name', 'School - PS-MS 280 Mosholu Parkway,', 5
+'Person name', 'School - PS 106 Edward Everett Hale,', 2
+'Person name', 'School - PS 184 Flushing Manor,', 5
+'Person name', 'School - PS 169 Sunset Park,', 5
+'Person name', 'School - MS 247 Dual Language Middle School,', 1
+'Person name', 'Oxport Playground,', 1
+'Person name', 'Crocheron Park,', 13
+'Person name', 'Golf Course - Van Cortlandt,', 4
+'Person name', 'William McCray Playground,', 1
+'Person name', 'Rainbow Playground,', 5
+'Person name', 'School - PS 76 A Philip Randolph,', 16
+'Person name', 'School - PS 178 Saint Clair McKelway,', 16
+'Person name', 'School - Information Technology High School,', 11
+'Person name', 'School - PS 55 Benjamin Franklin,', 1
+'Person name', 'School - PS 115 Daniel Mucatel School,', 7
+'Person name', 'School - 723,', 1
+'Person name', 'School - PS 146,', 2
+'Person name', 'Prospect Park - East Parade Grounds,', 3
+'Person name', 'Taylor Playground,', 1
+'Person name', 'Clinton Cherry Playground,', 1
+'Person name', 'Recreation Center - Brownsville,', 19
+'Person name', 'School - PS 44 Thomas C Brown,', 12
+'Person name', 'School - PS 243 The Weeksville School,', 7
+'Person name', 'School - Life Sciences Secondary School,', 4
+'Person name', 'School - East Side Community High School,', 3
+'Person name', 'Closed School - MS 43 Performing and Fine Arts,', 1
+'Person name', 'Friends Field,', 13
+'Person name', 'Aqueduct Walk - Parque De Los Ninos Playground,', 8
+'Person name', 'Linwood Playground,', 1
+'Person name', 'Star Spangled Playground,', 1
+'Person name', 'Hillside Park - JHS 72,', 1
+'Person name', 'Fort Hamilton Athletic Field,', 2
+'Person name', 'School - PS 4 Andrew Jackson,', 2
+'Person name', 'School - Ella Baker School,', 2
+'Person name', 'School - PS 101 The Verrazano,', 4
+'Person name', 'School - PS 55 William Paca,', 1
+'Person name', 'School - PS 28 Juniper Valley,', 1
+'Person name', 'Jefferson Market Garden,', 1
+'Person name', 'School - Bronx High School for Law and Community Service,', 1
+'Person name', 'Lenape Playground,', 20
+'Person name', 'School - PS 1 Tottenville,', 5
+'Person name', 'Golf Course - Pelham and Split Rock,', 2
+'Person name', 'Closed School - MS 823 MDE Dios Unanae Journal,', 1
+'Person name', 'Spring Creek Park Addition,', 1
+'Person name', 'Bellaire Playground - PS 35,', 1
+'Person name', 'Recreation Center - Williamsbridge Oval,', 2
+'Person name', 'Recreation Center - Highbridge,', 2
+'Person name', 'School - PS 106,', 15
+'Person name', 'School - Newtown High School,', 9
+'Person name', 'School - PS 52 John C Thompson,', 6
+'Person name', 'School - JHS 383 Philippa Schuyler,', 4
+'Person name', 'School - PS 340,', 2
+'Person name', 'Golf Course - Mosholu,', 1
+'Person name', 'School - Bronx Theatre High School,', 1
+'Person name', 'Highbridge Park - Fort George Playground,', 6
+'Person name', 'Central Park - Sheep Meadow,', 2
+'Person name', 'Brust Park,', 2
+'Person name', 'Pool - Hansborough,', 9
+'Person name', 'School - Kappa,', 1
+'Person name', 'School - JHS 57 Whitelaw Reid,', 4
+'Person name', 'School - NYC Museum School,', 2
+'Person name', 'School - Amistad Dual Language School,', 1
+'Person name', 'Madison Square Park,', 24
+'Person name', 'St Catherine's Park,', 4
+'Person name', 'East River Playground - PS 46,', 1
+'Person name', 'Lozada Playground,', 2
+'Person name', 'School - PS 82 Hammond,', 5
+'Person name', 'Pool - Metropolitan Avenue,', 14
+'Person name', 'School - Bronx High School for Writing and Communication Arts,', 1
+'Person name', 'Recreation Center - Thomas Jefferson,', 6
+'Person name', 'Pool - St. Mary's,', 1
+'Person name', 'Marine Park - PS 27 Playground,', 8
+'Person name', 'Inwood Hill Park,', 26
+'Person name', 'Poe Park,', 1
+'Person name', 'School - PS 5,', 3
+'Person name', 'Mercer St. Playground,', 2
+'Person name', 'School - PS  Abraham Lincoln,', 7
+'Person name', 'School - PS-IS 116 William C Hughley,', 14
+'Person name', 'School - PS 18 Edward Bush,', 2
+'Person name', 'School - PS 101 Andrew Draper,', 12
+'Person name', 'School - PS 161 Ponce De Leon,', 2
+'Person name', 'School - Victory Collegiate High School,', 2
+'Person name', 'School - PS 83 Donald Hertz,', 14
+'Person name', 'Cauldwell Playground,', 2
+'Person name', 'Staten Island Greenbelt Park - Amundsen Trail,', 2
+'Person name', 'The Pearly Gates,', 1
+'Person name', 'School - MS 2,', 8
+'Person name', 'School - PS 238 Anne Sullivan,', 5
+'Person name', 'School - PS 206 The Horace Harding School,', 1
+'Person name', 'School - Pacific High School,', 2
+'Person name', 'School - JHS 0 The Mosholu Parkway,', 8
+'Person name', 'School - Bronx School of Law and Finance,', 2
+'Person name', 'School - PS 8 - Queens,', 1
+'Person name', 'Emerald Playground - PS 00,', 2
+'Person name', 'Maclaughlin,', 3
+'Person name', 'School - IS 218 Salome Urena,', 9
+'Person name', 'School - PS 159,', 3
+'Person name', 'School - PS 229 Emanuel Kaplan,', 4
+'Person name', 'Annadale Green,', 1
+'Person name', 'School - Bronx Charter School for Children,', 1
+'Person name', 'School - PS 60 Woodhaven,', 1
+'Person name', 'School - New Dorp Evening High School - Mondays and Wednesdays,', 1
+'Person name', 'Great Kills Veterans Playground - PS 8,', 6
+'Person name', 'Riverdale Park,', 5
+'Person name', 'Devoe Park,', 12
+'Person name', 'Rufus King Park,', 4
+'Person name', 'Clawson Playground Playground at PS 50,', 10
+'Person name', 'Utopia Playground,', 5
+'Person name', 'School - PS 28 George V Brower,', 9
+'Person name', 'Bryant Park Playground,', 1
+'Person name', 'School - IS 340,', 7
+'Person name', 'School - PS 140 Eagle,', 3
+'Person name', 'Sara D Roosevelt Park,', 31
+'Person name', 'Willowbrook Park,', 16
+'Person name', 'Columbus Park Playground,', 21
+'Person name', 'Castlewood Playground - PS 186,', 2
+'Person name', 'Andrews Playground,', 3
+'Person name', 'Greene Playground,', 1
+'Person name', 'School - IS 392,', 4
+'Person name', 'School - IS 27 Anning S Prall,', 6
+'Person name', 'School - Wadleigh Secondary School for the Performing and Visual Arts,', 11
+'Person name', 'School - PS 211,', 5
+'Person name', 'Closed School - JHS 5 Corlears,', 6
+'Person name', 'School - IS 86 Renaissance Military Leadership Academy,', 2
+'Person name', 'Van Cortlandt Park - North East Forest,', 6
+'Person name', 'Joseph F Mafera Park,', 11
+'Person name', 'Sedgwick Playground,', 1
+'Person name', 'Alice Austen House and Park,', 7
+'Person name', 'Louis J Valentino Jr Park and Pier,', 3
+'Person name', 'Athens Square - PS 17,', 6
+'Person name', 'Dutch Kills Playground  - PS 112,', 3
+'Person name', 'Central Park - West 68th Street Playground,', 1
+'Person name', 'Sunshine Playground,', 1
+'Person name', 'Thomas Greene Playground,', 1
+'Person name', 'School - PS 284 Lew Wallace,', 11
+'Person name', 'School - PS 112 Dutch Kills,', 9
+'Person name', 'School - PS 244 Richard R Green,', 8
+'Person name', 'School - PS - MS 114 Belle Harbor,', 8
+'Person name', 'School - PS 9 Teunis G Bergen,', 5
+'Person name', 'School - PS 104 The Bays Water,', 2
+'Person name', 'School - The Urban Assembly School of Music and Art,', 3
+'Person name', 'School - Institute for Collaborative Education,', 1
+'Person name', 'Pool - Chelsea,', 1
+'Person name', 'Boerum Park,', 6
+'Person name', 'Jackie Robinson Park Playground - School,', 1
+'Person name', 'Forest Park - Dry Harbor Playground,', 1
+'Person name', 'School - PS 154 Jonathan D Hyatt,', 3
+'Person name', 'School - PS 17,', 3
+'Person name', 'School - IS 8 Isaac Bildersee,', 6
+'Person name', 'School - University Neighborhood High School,', 2
+'Person name', 'School - Queens School for Career Development,', 1
+'Person name', 'School - PS 23 Carter G Woodson,', 4
+'Person name', 'Pierrepont Playground,', 5
+'Person name', 'Joyce Kilmer Park,', 11
+'Person name', 'Steinway Playground and JHS 141,', 2
+'Person name', 'Van Cortlandt Park - Van Cortlandt Stadium,', 3
+'Person name', 'Starlight Park - Plimpton Playground,', 1
+'Person name', 'Recreation Center - Flushing Memorial,', 1
+'Person name', 'School - PS 207 Elizabeth G Leary,', 4
+'Person name', 'Bartlett Playground,', 3
+'Person name', 'School - PS 54 Samuel C Barnes,', 19
+'Person name', 'Holy Cow Playground  - PS 79,', 1
+'Person name', 'School - PS 38 Roberto Clemente,', 12
+'Person name', 'School - Academy for Public Relations,', 1
+'Person name', 'School - PS 176 Ovington,', 5
+'Person name', 'School - PS 115 Glen Oaks,', 2
+'Person name', 'School - PS 81 Jean Paul Richter,', 2
+'Person name', 'Prospect Park - Litchfield Villa,', 9
+'Person name', 'Hamilton Metz Field,', 13
+'Person name', 'Old Fort Number 4 Park,', 3
+'Person name', 'Andries Playground,', 1
+'Person name', 'Aqueduct Walk - Rosewood Playground,', 4
+'Person name', 'Harvey Park,', 11
+'Person name', 'Pool - Van Cortlandt,', 3
+'Person name', 'Cunningham Park - Mclaughlin Playground,', 4
+'Person name', 'Central Park - Spector Playground,', 2
+'Person name', 'Pool - Kosciusko,', 6
+'Person name', 'John Adams  Playground,', 1
+'Person name', 'Marcy Park South,', 2
+'Person name', 'Blue Heron Park - Nature Center,', 1
+'Person name', 'School - JHS 167 Robert F Wagner,', 2
+'Person name', 'School - School of the Future,', 3
+'Person name', 'School - Morris Collaborative High School for Technology and Humanities,', 2
+'Person name', 'Closed School - PS 176,', 2
+'Person name', 'Rockaway Beach and Boardwalk - Beach 9th St Playground,', 2
+'Person name', 'School - PS 71 Forest,', 5
+'Person name', 'Manhattan Beach - Manhattan Beach Park Playground,', 5
+'Person name', 'Morton Playground,', 2
+'Person name', 'Shore Road Park - 79th Street Playground,', 6
+'Person name', 'Heckscher Playground,', 1
+'Person name', 'Police Officer Reinaldo Salgado Playground,', 2
+'Person name', 'Angelo Campanero Playground,', 3
+'Person name', 'School - John Adams High School,', 11
+'Person name', 'School - PS 309 George E Wibecan,', 10
+'Person name', 'School - PS 75 School for Career Development,', 3
+'Person name', 'School - Jane Addams High School for Academic Careers,', 5
+'Person name', 'School - School for Legal Studies,', 2
+'Person name', 'School - Academy of Business and Community Development,', 2
+'Person name', 'School - The Bellaire School,', 3
+'Person name', 'School - PS 93 Alfred J Kennedy,', 1
+'Person name', 'Gowanus Playground,', 6
+'Person name', 'Inwood Hill Park - Dyckman Fields,', 9
+'Person name', 'Rockaway Park,', 3
+'Person name', 'Pelham Bay Park - Aileen Ryan Recreation Complex,', 3
+'Person name', 'Noonan Playground,', 3
+'Person name', 'School - Humanities and Arts Magnet High School,', 4
+'Person name', 'School - JHS 234 Arthur W Cunningham,', 10
+'Person name', 'School - MS 1 Dr Gladstone H Atwell,', 6
+'Person name', 'School - PS - IS 266,', 3
+'Person name', 'School - PS 69 Jackson Heights,', 3
+'Person name', 'School - PS 77 Lower Lab School,', 1
+'Person name', 'School - PS 42 Benjamin Altman,', 1
+'Person name', 'School - 5 Avenue Academy - The Path To Academic Excellence,', 1
+'Person name', 'School - PS 7,', 1
+'Person name', 'Yellowstone Municipal Park,', 9
+'Person name', 'Whitestone Playground - PS 193,', 12
+'Person name', 'Story Playground,', 5
+'Person name', 'Oakland Gardens - PS 20,', 3
+'Person name', 'Decatur Playground,', 3
+'Person name', 'Fresh Meadows Playground - PS 173,', 5
+'Person name', 'Flushing Meadows and Corona Park - Unisphere,', 1
+'Person name', 'Garden Playground,', 1
+'Person name', 'School - Albert Shanker School for Visual and Performing Arts,', 20
+'Person name', 'School - JHS 302 Rafael Cordero,', 8
+'Person name', 'Recreation Center - Hamilton Fish,', 4
+'Person name', 'School - PS 180 Hugo Newman,', 6
+'Person name', 'School - Community Partnership Charter,', 2
+'Person name', 'Closed School - IS 83 Paul Robeson,', 1
+'Person name', 'Highbridge Park,', 44
+'Person name', 'St Michaels Playground,', 4
+'Person name', 'Lawerence Virgilio Playground,', 3
+'Person name', 'Epiphany Playground,', 9
+'Person name', 'Rock Garden Park,', 2
+'Person name', 'Marion Hopkinson Playground,', 2
+'Person name', 'School - Antonia Pantoja Preparatory Academy: A College Board School,', 1
+'Person name', 'School - Unity Center for Urban Technologies,', 1
+'Person name', 'Crotona Park,', 65
+'Person name', 'School - PS 369 Coy L Cox School,', 7
+'Person name', 'Lyons Playground,', 5
+'Person name', 'Closed School - IS 90 Mirabel Sisters,', 2
+'Person name', 'School - High School for Environmental Studies,', 5
+'Person name', 'School - PS 16,', 5
+'Person name', 'Central Park - Pilgrim Hill and Conservatory Water,', 1
+'Person name', 'School - PS 223 Lyndon B Johnson,', 6
+'Person name', 'School - MS 390,', 4
+'Person name', 'School - PS 195 William Haberle,', 2
+'Person name', 'School - Freedom Academy High School,', 2
+'Person name', 'School - Urban Peace Academy,', 1
+'Person name', 'School - Jacqueline Kennedy Onassis High School,', 1
+'Person name', 'School - Urban Assembly School of Design and Construction,', 1
+'Person name', 'Murray Playground,', 15
+'Person name', 'Central Park - Diana Ross Playground,', 10
+'Person name', 'Forest Park,', 67
+'Person name', 'Dr Richard Green Playground,', 2
+'Person name', 'Terrace Playground,', 3
+'Person name', 'Bloomingdale Playground,', 4
+'Person name', 'Glendale Playground,', 2
+'Person name', 'Tappen Park,', 1
+'Person name', 'Beanstalk Playground,', 4
+'Person name', 'School - PS 94,', 6
+'Person name', 'School - PS 52 Sheepshead Bay,', 6
+'Person name', 'School - PS 5 Patrick F Daly,', 1
+'Person name', 'School - PS 119,', 2
+'Person name', 'School - Mott Hall III,', 1
+'Person name', 'South Pacific Playground,', 1
+'Person name', 'Beach - Brighton and Coney Island,', 135
+'Person name', 'Maria Hernandez Park,', 10
+'Person name', 'Forest Park - Greenhouse Playground,', 10
+'Person name', 'Van Cortlandt Park - Parade Ground South,', 3
+'Person name', 'Ravenswood  Playground,', 1
+'Person name', 'Hart Playground,', 2
+'Person name', 'Kosciusko Street Garden,', 1
+'Person name', 'Riverdale Playground - JHS 4,', 1
+'Person name', 'School - JHS 201 The Dyker Heights,', 10
+'Person name', 'School - PS 175 Henry H Garnet,', 6
+'Person name', 'School - EBC-ENY High School for Public Safety and Law,', 8
+'Person name', 'School - PS 6 Bronx,', 8
+'Person name', 'School - PS 75 City Island,', 1
+'Person name', 'School - PS 160 William T Sampson,', 2
+'Person name', 'School - PS 19 Judith K Weiss,', 3
+'Person name', 'School - Long Island City High School,', 8
+'Person name', 'School - PS 14 Cadwallader Colden,', 2
+'Person name', 'Brookville Park,', 29
+'Person name', 'Yak Playground,', 1
+'Person name', 'Crotona Malls,', 1
+'Person name', 'School - International High School at Kingsborough Community College,', 2
+'Person name', 'School - JHS 166 Roberto Clemente,', 11
+'Person name', 'School - PS 1 Courtlandt School,', 11
+'Person name', 'School - PS 29 Patricia Larkin,', 1
+'Person name', 'School - Bread and Roses Integrated Arts High School,', 2
+'Person name', 'Closed School - JHS 98 Benjamin N Cardozo,', 1
+'Person name', 'Wright Brothers Park,', 5
+'Person name', 'J J Byrne Memorial Park,', 6
+'Person name', 'Aqueduct Walk,', 6
+'Person name', 'Ehrenreich-Austin St Playground,', 5
+'Person name', 'School - South Bronx Preparatory: A College Board School,', 5
+'Person name', 'Edenwald Playground,', 1
+'Person name', 'Turtle Playground,', 1
+'Person name', 'Sunrise Playground - PS 195,', 2
+'Person name', 'School - PS 115 Alexander Humboldt,', 2
+'Person name', 'School - Franklin Delano Roosevelt High School,', 4
+'Person name', 'School - New School 1 at PS 60,', 2
+'Person name', 'School - PS 380 John Wayne Elementary,', 5
+'Person name', 'School - PS 20 Anna Silver,', 3
+'Person name', 'Central Park - Conservatory Garden,', 5
+'Person name', 'PS 286 Playground,', 1
+'Person name', 'Locust Manor Playground  - PS 5,', 1
+'Person name', 'Louis Pasteur Park,', 4
+'Person name', 'School - John Bowne High School,', 13
+'Person name', 'School - PS 191 Paul Robeson,', 6
+'Person name', 'School - High School of Sports Management,', 9
+'Person name', 'School - PS 282 Park Slope,', 4
+'Person name', 'School - JHS 259 William Mckinley,', 7
+'Person name', 'School - JHS 166 George Gershwin,', 8
+'Person name', 'School - Bronx Expeditionary Learning High School,', 1
+'Person name', 'School - Fannie Lou Hamer Freedom High School,', 3
+'Person name', 'School - PS 8 Luis Belliard,', 12
+'Person name', 'Recreation Center - Fort Hamilton Senior Center,', 3
+'Person name', 'School - MS 324 - Patria Mirabal,', 5
+'Person name', 'School - PS 59 Beekman Hill International,', 2
+'Person name', 'School - PS 24 Spuyten Duyvil,', 7
+'Person name', 'School - PS 225 Seaside,', 7
+'Person name', 'School - PS 102 Jacques Cartier,', 6
+'Person name', 'School - PS 12 Suydam,', 3
+'Person name', 'School - IS 119 The Glendale,', 3
+'Person name', 'School - The Bronx School of Science Inquiry and Investigation,', 2
+'Person name', 'School - Family Life Academy Charter School,', 2
+'Person name', 'School - Harbor Sciences and Arts Charter School,', 2
+'Person name', 'School - Peace and Diversity Academy,', 1
+'Person name', 'Pelham Bay Park,', 37
+'Person name', 'Marie Curie Park - JHS 158,', 14
+'Person name', 'Freedom Square,', 1
+'Person name', 'Barrier Playground,', 1
+'Person name', 'School - High School of Economics and Finance,', 1
+'Person name', 'School - PS 190 Sheffield,', 5
+'Person name', 'School - Comm School - Comprehensive Education - expired,', 1
+'Person name', 'School - PS 17 Cambria Heights,', 6
+'Person name', 'School - Peninsula Preparatory Academy Charter School,', 3
+'Person name', 'School - Middle College High School,', 1
+'Person name', 'Highland Park Area A,', 16
+'Person name', 'Macarthur Park,', 3
+'Person name', 'School - Staten Island Technical High School,', 2
+'Person name', 'Crotona Park - Hill and Dale Playground,', 1
+'Person name', 'Saint Marys Playground,', 1
+'Person name', 'Flushing Meadows and Corona Park - Buzz Vollmer Playground,', 2
+'Person name', 'School - Flushing High School,', 8
+'Person name', 'School - PS 2 Garret A Morgan,', 13
+'Person name', 'School - PS 24,', 3
+'Person name', 'Kingfisher Park,', 2
+'Person name', 'Recreation Center - George Cromwell,', 5
+'Person name', 'Tribute Park,', 2
+'Person name', 'Central Park - Ancient Playground,', 10
+'Person name', 'Farm Playground,', 2
+'Person name', 'Knox-Gates Playground,', 1
+'Person name', 'Paul Raimonda Playground,', 8
+'Person name', 'Collyer Brothers Park,', 1
+'Person name', 'School - PS 59 William Floyd,', 4
+'Person name', 'D'Emic Playground,', 2
+'Person name', 'School - PS 81 Robert J Christen,', 5
+'Person name', 'School - PS 114 - Luis Llorens Torres Schools,', 6
+'Person name', 'School - PS 149 Danny Kaye,', 6
+'Person name', 'School - PS 88 Kingsbury,', 1
+'Person name', 'School - Academy of Finance and Enterprise,', 1
+'Person name', 'School - The Facing History School,', 2
+'Person name', 'School - PS 63 William McKinley,', 1
+'Person name', 'Minetta Playground,', 2
+'Person name', 'Bowne Playground,', 1
+'Person name', 'Jesse Owens Playground,', 2
+'Person name', 'John Golden Park,', 2
+'Person name', 'School - PS 142 Amalia Castro,', 8
+'Person name', 'School - PS 0 Michael J Petrides,', 8
+'Person name', 'Recreation Center - Chelsea,', 15
+'Person name', 'School - PS 4 Chris Galas,', 7
+'Person name', 'School - PS 222 - Fire Fighter Christopher A Santora School,', 1
+'Person name', 'School - PS 22 El Hajj Malik El Shabazz Elementary School,', 6
+'Person name', 'School - Samuel J Tilden High School,', 7
+'Person name', 'School - Future Leaders Institute,', 1
+'Person name', 'Bill Robinson,', 3
+'Person name', 'Tiffany Playground,', 5
+'Person name', 'School - PS 16 Ann M Short,', 4
+'Person name', 'School - PS 87 William Sherman,', 9
+'Person name', 'School - PS 153 Homecrest,', 7
+'Person name', 'School - PS 12 James B Colgate,', 3
+'Person name', 'School - Brooklyn Theatre Arts High School,', 1
+'Person name', 'Mt Prospect Park,', 14
+'Person name', 'Conch Playground - PS 05,', 1
+'Person name', 'School - John Dewey High School,', 13
+'Person name', 'School - PS 45 Clarence Witherspoon,', 3
+'Person name', 'School - PS 99 Isaac Asimov,', 2
+'Person name', 'Wagner Playground,', 2
+'Person name', 'St James Park,', 13
+'Person name', 'Luna Park Playground,', 6
+'Person name', 'School - PS 21 Edward Hart,', 4
+'Person name', 'Closed School - George Washington High School,', 5
+'Person name', 'School - PS 98 The Douglaston School,', 12
+'Person name', 'School - PS 0 Queens,', 7
+'Person name', 'School - PS 20 John Bowne,', 4
+'Person name', 'Classon Neighborhood Playground,', 1
+'Person name', 'Vernon Playground,', 3
+'Person name', 'Lou Lodati Playground,', 12
+'Person name', 'School - PS 194 Countee Cullen,', 18
+'Person name', 'School - PS 132 Juan Pablo Duarte,', 4
+'Person name', 'School - The Renaissance Charter School,', 2
+'Person name', 'School - PS 200- The James McCune Smith School,', 11
+'Person name', 'School - PS 28 Wright Brothers,', 7
+'Person name', 'Golf Course - Douglaston,', 2
+'Person name', 'Van Cortlandt Park,', 66
+'Person name', 'Alley Pond Park - Oakland Lake,', 19
+'Person name', 'Mcdonald Playground - Staten Island,', 1
+'Person name', 'Eugene Mccabe Field,', 2
+'Person name', 'Hot Spot Tot Lot,', 2
+'Person name', 'La Guardia Playground South,', 1
+'Person name', 'School - PS 5 Ellen Lurie,', 13
+'Person name', 'School - PS 78 Anne Hutchinson,', 19
+'Person name', 'School - Brooklyn International High School,', 1
+'Person name', 'School - PS 21 Paerdegat,', 5
+'Person name', 'School - High School for Arts, Imagination, and Inquiry,', 1
+'Person name', 'School - International High School at Prospect Heights,', 1
+'Person name', 'School - IS 98 Bay Academy,', 1

@@ -1,0 +1,1 @@
+{"column name": "Filing_Representative_First_Name", "semantic_types": [{"semantic_type": "person_name", "count": 41830}, {"semantic_type": "city", "count": 864}, {"semantic_type": "car_make", "count": 17}, {"semantic_type": "color", "count": 6}, {"semantic_type": "neighborhood", "count": 1}], "true_type": "person_name", "prediction_type": "person_name"}

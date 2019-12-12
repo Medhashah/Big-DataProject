@@ -1,0 +1,333 @@
+'City agency', 'NYC Faith in Action', 1
+'City agency', 'Office of Dr. Jaime F. Roman', 1
+'City agency', 'Health People', 1
+'City agency', 'Clinic - Lenox Avenue', 2
+'City agency', 'New York University', 5
+'City agency', 'East Harlem Council for Human Services, Boriken Neighborhood Health Center', 1
+'City agency', 'Queens Pride House', 1
+'City agency', 'HHC Washington Heights', 1
+'City agency', 'Unique People Services', 1
+'City agency', 'Office of Dr. Robert Shargani', 1
+'City agency', 'Health First', 1
+'City agency', 'The Nigerian LGBT Community in New York City', 1
+'City agency', 'Narco Freedom', 10
+'City agency', 'Bronx Parent Housing Network', 1
+'City agency', 'Watchful Eye', 1
+'City agency', 'AIDS Center of Queens County', 4
+'City agency', 'Jamaica Hospital Medical Center', 1
+'City agency', 'Casa Esperanza para Mujeres y Ninos', 1
+'City agency', 'Sisterlink', 1
+'City agency', 'Wyckoff Heights Medical Center', 1
+'City agency', 'NYC DOHMH', 13
+'City agency', 'NYC DOHMH HIV/AIDS Prevention and Control', 1
+'City agency', 'Bedford Stuyvesant Family Health Center', 2
+'City agency', 'Healthy Latino Community', 1
+'City agency', 'African Diaspora Unity of Global Ambassadors of Goodwill', 1
+'City agency', 'NYC DOHMH STD Control', 9
+'City agency', 'Project STAY - Services to Assist Youth', 1
+'City agency', 'Purpose for Life', 1
+'City agency', 'Community Health Action of Staten Island (CHASI)', 4
+'City agency', 'MIC Women's Health Center', 5
+'City agency', 'Caribbean Women's Health Association', 1
+'City agency', 'Sheltering Arms-Safe Space NYC', 1
+'City agency', 'Hispanic AIDS Forum', 2
+'City agency', 'Clergy United for Community Empowerment', 1
+'City agency', 'The City University of New York', 6
+'City agency', 'St. Ann's Corner of Harm Reduction', 1
+'City agency', 'FACES NY', 1
+'City agency', 'HHC Segundo Ruiz Belvis Diagnostic and Treatment Center', 1
+'City agency', 'New York City Seventh Day Baptist Church', 1
+'City agency', 'Steinway Child and Family Services', 1
+'City agency', 'New York Legal Assistance Group (NYLAG)', 1
+'City agency', 'God's Battalion of Prayer', 1
+'City agency', 'Maimonides Medical Center', 1
+'City agency', 'Walgreens/Duane Reade', 2
+'City agency', 'Red Hook Initiative', 1
+'City agency', 'HHC Judson Health Center', 1
+'City agency', 'Latino Commission on AIDS', 1
+'City agency', 'Safe Space', 3
+'City agency', 'HHC Roberto Clemente Health Center/Sylvia Del Villard', 1
+'City agency', 'Puerto Rican Family Institute', 1
+'City agency', 'Queens Borough President's Office', 1
+'City agency', 'New York State Health Department', 7
+'City agency', 'SUNY Downstate Medical Center Suny Downstate Medical Center', 7
+'City agency', 'SBH Health System', 1
+'City agency', 'Columbia University', 1
+'City agency', 'The Pentecostal House of Prayer', 1
+'City agency', 'Heritage Health and Housing', 1
+'City agency', 'Iris House', 2
+'City agency', 'Greater Miracle Ministries', 1
+'City agency', 'Love Alive International', 1
+'City agency', 'Ali Forney Center', 2
+'City agency', 'Convent Avenue Baptist Church', 1
+'City agency', 'Hudson River Park Trust', 1
+'City agency', 'MediSys Ozone Park and Senior Health Center Clinic', 1
+'City agency', 'Brooklyn Community Pride Center', 1
+'City agency', 'Mt. Pisgah Baptist Church', 1
+'City agency', 'Cornerstone Baptist Church', 1
+'City agency', 'Crossover Baptist Church', 1
+'City agency', 'Assembly District 61', 1
+'City agency', 'NDRI-USA', 1
+'City agency', 'The Center', 3
+'City agency', 'Harlem Pride', 1
+'City agency', 'Elmcor Youth & Adult Activities', 1
+'City agency', 'Christ the Rock World Restoration International Church', 1
+'City agency', 'CAUSE-NY Jewish Community Relations Council of New York', 1
+'City agency', 'Children's Aid Society', 2
+'City agency', 'Dominican Sisters Family Health Services', 1
+'City agency', 'American Medical and Public Health Services (AMPHS) National', 1
+'City agency', 'Visiting Nurse Service of New York', 1
+'City agency', 'West Baptist Church', 1
+'City agency', 'HHC Coney Island Hospital', 1
+'City agency', 'HHC Harlem Hospital Center', 1
+'City agency', 'Christian Fellowship Seventh-day Adventist Church', 1
+'City agency', 'The Young Men's Clinic', 1
+'City agency', 'After Hours Project', 1
+'City agency', 'Gay Men of African Descent', 1
+'City agency', 'NYC DPHO - Brooklyn', 1
+'City agency', 'Vocal-NY', 1
+'City agency', 'Dr. Martin Luther King Health Center', 1
+'City agency', 'Promesa', 3
+'City agency', 'HHC Metropolitan Hospital Center', 1
+'City agency', 'Transdiaspora Network', 1
+'City agency', 'National Black Leadership Commission on AIDS', 2
+'City agency', 'Guys and Girls', 1
+'City agency', 'Washington Heights CORNER Project', 1
+'City agency', 'The Family Center', 1
+'City agency', 'Bailey House', 1
+'City agency', 'Bronx Community College', 1
+'City agency', 'Alvin Ponder M.D.', 1
+'City agency', 'Help/PSI Primary Care Services', 3
+'City agency', 'Young Women of Color HIV/AIDS Coalition', 1
+'City agency', 'Women's HIV Collaboration of NY', 1
+'City agency', 'Greater Brooklyn Health Coalition', 1
+'City agency', 'Mayor's Office', 2
+'City agency', 'HHC Harlem Hospital - Family Planning Clinic', 1
+'City agency', 'The Institute for Family Health', 6
+'City agency', 'VA NY Harbor Healthcare Systems-- St. Alban's Community Living Center', 1
+'City agency', 'Brooklyn Rescue Mission', 1
+'City agency', 'Helpers Ministries International Church', 1
+'City agency', 'Destination Tomorrow', 1
+'City agency', 'Office of the Manhattan Borough President', 1
+'City agency', 'Bronx - Lebanon Hospital Center', 9
+'City agency', 'BronxWorks', 7
+'City agency', 'Translatina Network', 1
+'City agency', 'Dunamis Seventh-day Adventist Church', 1
+'City agency', 'Love Heals', 1
+'City agency', 'AIDS Service Center of NYC', 1
+'City agency', 'Urban Starzz', 1
+'City agency', 'Housing Works Housing Works', 5
+'City agency', 'HHC St. Nicholas House', 1
+'City agency', 'North Shore LIJ', 8
+'City agency', 'Charles B Wang Community Health Center - Teens', 3
+'City agency', 'Circle of Voices', 1
+'City agency', 'Brownsville Multi-Service Family Health Center', 5
+'City agency', 'Community Research Initiative on AIDS', 1
+'City agency', 'Interfaith Medical Center', 3
+'City agency', 'Brooklyn Hospital Center', 2
+'City agency', 'HHC Homecrest Pediatric and Adolescent Health Center', 1
+'City agency', 'Vanderveer Park United Methodist Church', 1
+'City agency', 'Morris Heights Health Center', 9
+'City agency', 'Concord Baptist Church of Christ', 1
+'City agency', 'Emblem Health', 1
+'City agency', 'Manhattan College', 1
+'City agency', 'Joseph P. Addabbo Family Health Center', 1
+'City agency', 'Africa Redemption Alliance International', 1
+'City agency', 'Council for Unity', 1
+'City agency', 'Richmond University Medical Center', 1
+'City agency', 'Center for Comprehensive Health Practice', 1
+'City agency', 'Betances Health Center', 1
+'City agency', 'ACRIA', 1
+'City agency', 'City Health Works', 1
+'City agency', 'Mariners Harbor Family Health Center Clinic', 1
+'City agency', 'Amethyst Women's Project', 1
+'City agency', 'Staten Island Mental Health Society', 1
+'City agency', 'Roberto Clemente Family Guidance Center', 1
+'City agency', 'HHC Central', 1
+'City agency', 'Albert Einstein College of Medicine', 5
+'City agency', 'The Legal Aid Society', 1
+'City agency', 'HHC Lenox Avenue', 1
+'City agency', 'Prophetic Praise Ministry', 1
+'City agency', 'Partnership for the Homeless', 2
+'City agency', 'African Hope Committee', 1
+'City agency', 'Academy of Medical and Public Health Services', 1
+'City agency', 'Selfhelp Community Services', 1
+'City agency', 'Center for Community Alternatives', 2
+'City agency', 'Metroplus Healthplan', 1
+'City agency', 'Project Achieve, New York Blood Center', 1
+'City agency', 'Preferred Health Partners', 1
+'City agency', 'Lehman College', 1
+'City agency', 'Community Health Center of Richmond', 2
+'City agency', 'Treatment Action Group', 1
+'City agency', 'Institute for Community Living', 1
+'City agency', 'ICL', 1
+'City agency', 'The Bronx Health Link', 1
+'City agency', 'Abundant Life Christian Center', 1
+'City agency', 'Damian Family Health Centers', 3
+'City agency', 'HHC Queens Hospital Center,', 1
+'City agency', 'James J. Peters VA Medical Center,', 1
+'City agency', 'Turning Point,', 1
+'City agency', 'All Med Medical & Rehabilitation Centers,', 3
+'City agency', 'Davidson Community Center,', 1
+'City agency', 'HHC Woodhull Medical and Mental Health Center,', 1
+'City agency', 'Fortune Society,', 1
+'City agency', 'Exponents,', 2
+'City agency', 'HeartShare Human Services of New York,', 1
+'City agency', 'U.S. Department of Health and Human Services,', 1
+'City agency', 'National Development and Research Institutes, Inc.,', 1
+'City agency', 'The Door,', 1
+'City agency', 'Office of the Bronx Borough President,', 1
+'City agency', 'START Treatment & Recovery Centers,', 3
+'City agency', 'HHC North Central Bronx Hospital,', 2
+'City agency', 'Pace University-LGBTQA & Social Justice Center,', 1
+'City agency', 'Beacon Christian Community Health Center,', 1
+'City agency', 'Harm Reduction Coalition,', 1
+'City agency', 'New York Community Hospital,', 1
+'City agency', 'Hopes Alive,', 1
+'City agency', 'Salvation Army,', 1
+'City agency', 'Arthur Ashe Urban Health,', 1
+'City agency', 'Restfull Nights Corporation,', 1
+'City agency', 'Faith Walk Enterprises,', 1
+'City agency', 'Services for the Underserved,', 1
+'City agency', 'Long Island City Health Center Clinic,', 1
+'City agency', 'Mobile Health Medical Services,', 1
+'City agency', 'The HIV Center for Clinical and Behavioral Studies at the New York State Psychiatric Institute and Columbia University,', 1
+'City agency', 'Mount Sinai Health System,', 14
+'City agency', 'Planned Parenthood-New York City Chapter,', 6
+'City agency', 'Covenant House New York/Under 2,', 1
+'City agency', 'NYC DOHMH TB Control,', 6
+'City agency', 'Manhattan Legal Services,', 1
+'City agency', 'CB District Manager,', 1
+'City agency', 'HIV Law Project,', 1
+'City agency', 'Salem Missionary Baptist Church,', 1
+'City agency', 'CK Life (Community Kinship),', 1
+'City agency', 'New York Harm Reduction Educators,', 1
+'City agency', 'Harlem United,', 5
+'City agency', 'Lower East Side Harm Reduction Center,', 1
+'City agency', 'Friendship Baptist Church,', 1
+'City agency', 'HHC Bellevue Hospital Center,', 1
+'City agency', 'Bronx Community Health Network,', 1
+'City agency', 'AIDS Healthcare Foundation,', 1
+'City agency', 'LGBT Network,', 1
+'City agency', 'HHC Morrisania Diagnostic and Treatment Center,', 1
+'City agency', 'Mentoring in Medicine,', 1
+'City agency', 'Project Renewal,', 1
+'City agency', 'Praxis Housing Initiatives,', 1
+'City agency', 'Forum of African Immigrant Associations,', 1
+'City agency', 'Tabernacle of Praise/TOP Development,', 1
+'City agency', 'United Family Church-Iglesia De La Familia Unida,', 1
+'City agency', 'Women's Prison Association and Home,', 2
+'City agency', 'Healthcare Innovation Technology (HIT) Lab,', 1
+'City agency', 'NY/NJ AIDS Education and Training Center,', 1
+'City agency', 'Bioscrip Pharmacy,', 1
+'City agency', 'Bronx HIV Advocacy Network,', 1
+'City agency', 'La Nueva Esparanza,', 1
+'City agency', 'VIP Community Services,', 1
+'City agency', 'HHC Jacobi Medical Center,', 1
+'City agency', 'Community Healthcare Network,', 16
+'City agency', 'Urban Justice Center (SWOP),', 1
+'City agency', 'Jesus Christ Family Church Brooklyn,', 1
+'City agency', 'Argus Community,', 1
+'City agency', 'Urban Health Plan,', 4
+'City agency', 'Public Health Solutions,', 2
+'City agency', 'Lesbian, Gay,Bisexual, and Transgender Community Center,', 1
+'City agency', 'Human Intonation,', 1
+'City agency', 'The Trustees of Columbia University in the City of New York,', 1
+'City agency', 'Bronx Clergy Task Force,', 1
+'City agency', 'Planned Parenthood Federation of America (Global Central Office),', 1
+'City agency', 'APICHA Community Health Center,', 1
+'City agency', 'Care for the Homeless,', 1
+'City agency', 'HHC Lincoln Medical and Mental Health Center,', 1
+'City agency', 'Safe Horizon,', 1
+'City agency', 'Soundview,', 4
+'City agency', 'Aid for AIDS,', 1
+'City agency', 'HHC East New York Diagnostic and Treatment Center,', 1
+'City agency', 'ACT UP,', 1
+'City agency', 'First Zion AME Church,', 1
+'City agency', 'Hospital for Special Surgery,', 1
+'City agency', 'HHC Renaissance Healthcare Network Diagnostic and Treatment Center,', 1
+'City agency', 'William F. Ryan Community Health Network,', 6
+'City agency', 'HHC Smith Communicare Health Center,', 1
+'City agency', 'HHC Ida G. Israel Community Health Center,', 1
+'City agency', 'Union Community Health Center,', 3
+'City agency', 'New York Presbyterian Hospital,', 11
+'City agency', 'Consulate General of Mexico,', 1
+'City agency', 'Family Services Network of New York,', 1
+'City agency', 'Lambda Legal,', 1
+'City agency', 'HHC Cumberland Diagnostic and Treatment Center,', 1
+'City agency', 'Village Center for Care,', 1
+'City agency', 'Mt. Hope Church,', 1
+'City agency', 'South Brooklyn Legal Services,', 1
+'City agency', 'Voces Latinas,', 1
+'City agency', 'Staten Island Partnership for Community Wellness,', 1
+'City agency', 'HHC La Clinica del Barrio,', 1
+'City agency', 'Brooklyn Borough Hall,', 1
+'City agency', 'New York Council on Adoptable Children,', 1
+'City agency', 'Centers for Disease Control and Prevention,', 1
+'City agency', 'VillageCare,', 1
+'City agency', 'In The Life Ministries,', 1
+'City agency', 'Union Settlement Association,', 1
+'City agency', 'The Child Center of NY,', 1
+'City agency', 'African Services Committee,', 1
+'City agency', 'Grace Baptist Church of Christ,', 1
+'City agency', 'End AIDS Now!,', 1
+'City agency', 'Muslim Women's Institute for Research and Development,', 1
+'City agency', 'Callen Lorde Community Health Center,', 2
+'City agency', 'Health Research,', 1
+'City agency', 'HHC Kings County Hospital Center,', 1
+'City agency', 'Office of Dr. Arthur Hall,', 1
+'City agency', 'Diaspora Community Services,', 1
+'City agency', 'The Floating Hospital,', 2
+'City agency', 'GMHC,', 2
+'City agency', 'Gilead Science,', 1
+'City agency', 'Teen RAP - (SIUH),', 2
+'City agency', 'HHC South Queens Multi-Service Center,', 1
+'City agency', 'Lucas Entertainment,', 1
+'City agency', 'Aureus Health Services,', 1
+'City agency', 'Legal Services NYC,', 1
+'City agency', 'Bristol-Myers Squibb,', 2
+'City agency', 'CAMBA (Church Avenue Merchants Block Association),', 2
+'City agency', 'Scafuri Associates,', 1
+'City agency', 'Network of Angels,', 1
+'City agency', 'New York Westchester Square Medical Center,', 1
+'City agency', 'HHC Gouverneur Health,', 1
+'City agency', 'United Community Baptist Church,', 1
+'City agency', 'Berean Community and Family Life Center,', 1
+'City agency', 'Choices Women's Medical Center,', 1
+'City agency', 'Black Leadership Commission on AIDS of New York City,', 1
+'City agency', 'Haitian Centers Council,', 1
+'City agency', 'NYU Lutheran Medical Center,', 12
+'City agency', 'God's Love We Deliver,', 1
+'City agency', 'St. Mary's Healthcare System for Children,', 1
+'City agency', 'St. Luke A.M.E. Church,', 1
+'City agency', 'Brookdale University Hospital and Medical Center,', 6
+'City agency', 'Community Health Care Association of New York State,', 1
+'City agency', 'Our Lady of Charity,', 1
+'City agency', 'First Baptist Church of Crown Heights,', 1
+'City agency', 'The Children's Aid Society - Milbank Clinic,', 1
+'City agency', 'Depressed Black Gay Men (DBGM),', 1
+'City agency', 'Hunts Point Multi-Service Center,', 1
+'City agency', 'BOOM! Health,', 3
+'City agency', 'Queens Village Committee for Mental Health, J-CAP,', 1
+'City agency', 'Community Resource Exchange,', 1
+'City agency', 'HHC Elmhurst Hospital Center,', 2
+'City agency', 'Kingsbrook Jewish Medical Center,', 2
+'City agency', 'Audubon Family Planning Center,', 1
+'City agency', 'Bridging Access to Care,', 4
+'City agency', 'Inner Force Tots,', 1
+'City agency', 'National Organization of Black Law Enforcement Executives,', 1
+'City agency', 'Monroe College,', 1
+'City agency', 'Brooklyn College,', 1
+'City agency', 'Calvary First Nigerian Seventh-day Adventist Church,', 1
+'City agency', 'Greater NY Hospitals Association,', 1
+'City agency', 'Brightpoint Health,', 4
+'City agency', 'Empire State Pride Agenda,', 1
+'City agency', 'Woodhaven JAME Masjid,', 1
+'City agency', 'Montefiore Medical Center,', 25
+'City agency', 'Hetrick-Martin Institute,', 1
+'City agency', 'SALGA-NYC,', 1
+'City agency', 'Staten Island LGBT Community Center,', 1
+'City agency', 'DC37 Lesbian and Gay Issues Committee,', 1
+'City agency', 'ACACIA Network ed for Community Empowerment,', 2
+'City agency', 'Brooklyn Plaza Medical Center,', 1
+'City agency', 'Project Hospitality,', 4

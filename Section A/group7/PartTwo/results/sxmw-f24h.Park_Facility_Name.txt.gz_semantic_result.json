@@ -1,0 +1,1 @@
+{"column name": "Park_Facility_Name", "semantic_types": [{"semantic_type": "other", "label": "park_playground", "count": 1788067}, {"semantic_type": "school_name", "count": 5605}, {"semantic_type": "park_playground", "count": 60}, {"semantic_type": "college_name", "count": 42}], "true_type": "park_playground", "prediction_type": "school_name"}

@@ -1,0 +1,1 @@
+{"column name": "DBA", "semantic_types": [{"semantic_type": "business_name", "count": 5359}, {"semantic_type": "street_name", "count": 90}, {"semantic_type": "building_classification", "count": 40}], "true_type": "business_name", "prediction_type": "business_name"}

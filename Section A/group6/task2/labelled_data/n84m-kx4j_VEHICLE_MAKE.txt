@@ -1,0 +1,37 @@
+'Car make', 'International', 460
+'Car make', 'Sterling', 67
+'Car make', 'Autocar', 60
+'Car make', 'White-GMC-Volvo', 30
+'Car make', 'Jeep', 2
+'Car make', 'Mitsubishi', 206
+'Car make', 'Caterpillar', 8
+'Car make', 'None', 0
+'Car make', 'Chevrolet', 177
+'Car make', 'Spector', 1
+'Car make', 'Volvo', 145
+'Car make', 'RAM', 16
+'Car make', 'Scania', 8
+'Car make', 'Hino', 184
+'Car make', 'Peterbilt', 993
+'Car make', 'Fruehauf', 2
+'Car make', 'Isuzu', 344
+'Car make', 'Other', 2
+'Car make', 'Mack,', 1918
+'Car make', 'Nissan-UD,', 55
+'Car make', 'Daewoo,', 1
+'Car make', 'Lincoln,', 1
+'Car make', 'Hackney,', 1
+'Car make', 'Acura,', 1
+'Car make', 'Kenworth,', 1188
+'Car make', 'GMC,', 253
+'Car make', 'Bering,', 5
+'Car make', 'Packard,', 3
+'Car make', 'Navistar,', 1
+'Car make', 'Freightliner,', 277
+'Car make', 'Mercedes Benz,', 15
+'Car make', 'Toyota,', 4
+'Car make', 'Dodge,', 33
+'Car make', 'Nissan,', 4
+'Car make', 'Western Star,', 121
+'Car make', 'Crane Carrier,', 2
+'Car make', 'Ford,', 899

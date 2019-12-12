@@ -1,0 +1,1 @@
+{"column name": "Business_Phone_Number", "semantic_types": [{"semantic_type": "phone_number", "count": 65007}, {"semantic_type": "other", "label": "phone_number", "count": 68}, {"semantic_type": "zip_code", "count": 26}], "true_type": "phone_number", "prediction_type": "phone_number"}

@@ -1,0 +1,7 @@
+'Subjects in school', 'Social Studies', 331
+'Subjects in school', 'Science', 330
+'Subjects in school', 'None', 0
+'Subjects in school', 'Math,', 332
+'Subjects in school', 'NUMBER OF STUDENTS,', 1
+'Subjects in school', 'English,', 334
+'Subjects in school', '-,', 1036

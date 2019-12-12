@@ -1,0 +1,63 @@
+'Neighborhood', 'Brooklyn Heights, Boerum Hill, Cobble Hill', 1
+'Neighborhood', 'Pelham Parkway', 1
+'Neighborhood', 'Midtown', 7
+'Neighborhood', 'Bayside', 1
+'Neighborhood', 'Jackson Heights', 1
+'Neighborhood', 'Washington Heights', 1
+'Neighborhood', 'Prospect Heights/Park Slope', 1
+'Neighborhood', 'Lincoln Center', 1
+'Neighborhood', 'Upper East Side', 1
+'Neighborhood', 'Westchester Square', 1
+'Neighborhood', 'None', 0
+'Neighborhood', 'New Dorp Town, Mid-Island', 1
+'Neighborhood', 'Fordham', 1
+'Neighborhood', 'Flatiron District', 1
+'Neighborhood', 'Fort Greene/Clinton Hill', 1
+'Neighborhood', 'Downtown Flushing', 1
+'Neighborhood', 'Hunts Point', 1
+'Neighborhood', 'Astoria', 1
+'Neighborhood', 'Lower East Side', 1
+'Neighborhood', 'East Village', 1
+'Neighborhood', 'Manhattan Valley', 1
+'Neighborhood', 'Sunset Park', 1
+'Neighborhood', 'Williamsburg', 1
+'Neighborhood', 'Morris Park', 1
+'Neighborhood', 'Sunnyside', 1
+'Neighborhood', 'Fort Greene / Clinton Hill', 1
+'Neighborhood', 'Hudson Square', 1
+'Neighborhood', 'Long Island City', 1
+'Neighborhood', 'Chinatown', 1
+'Neighborhood', 'Ridgewood', 1
+'Neighborhood', 'Downtown Manhattan', 1
+'Neighborhood', 'Upper West Side,', 1
+'Neighborhood', 'Annadale, Great Kills, Eltingville,', 1
+'Neighborhood', 'West Brighton,', 1
+'Neighborhood', 'Central Village,', 1
+'Neighborhood', 'Brooklyn Heights,', 1
+'Neighborhood', 'Bedford Stuyvesant,', 1
+'Neighborhood', 'Bloomfield and Chelsea,', 1
+'Neighborhood', 'Woodhaven,', 1
+'Neighborhood', 'Union Square,', 1
+'Neighborhood', 'Downtown Brooklyn,', 3
+'Neighborhood', 'Midwood,', 1
+'Neighborhood', 'DUMBO,', 1
+'Neighborhood', 'Belmont,', 1
+'Neighborhood', 'Kingsbridge,', 1
+'Neighborhood', 'Bay Ridge,', 2
+'Neighborhood', 'Harlem,', 1
+'Neighborhood', 'Springfield Gardens,', 1
+'Neighborhood', 'Northwest section of the Bronx,', 1
+'Neighborhood', 'Downtown Jamaica,', 3
+'Neighborhood', 'Concourse Village,', 1
+'Neighborhood', 'Jamaica,', 1
+'Neighborhood', 'East New York,', 1
+'Neighborhood', 'SoHo,', 1
+'Neighborhood', 'East Williamsburg,', 1
+'Neighborhood', 'Throggs Neck,', 1
+'Neighborhood', 'South Bronx,', 1
+'Neighborhood', 'Brownsville,', 1
+'Neighborhood', 'Brighton Beach,', 1
+'Neighborhood', 'Meatpacking District,', 1
+'Neighborhood', 'Flatbush,', 3
+'Neighborhood', 'East Midtown,', 1
+'Neighborhood', 'Park Slope,', 1

@@ -1,0 +1,1 @@
+{"column name": "Incident_Zip", "semantic_types": [{"semantic_type": "zip_code", "count": 1659990}, {"semantic_type": "other", "label": "zip_code", "count": 286}, {"semantic_type": "vehicel_type", "count": 3}, {"semantic_type": "borough", "count": 2}, {"semantic_type": "subject_in_school", "count": 1}], "true_type": "zip_code", "prediction_type": "zip_code"}

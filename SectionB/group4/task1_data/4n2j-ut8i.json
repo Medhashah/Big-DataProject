@@ -1,0 +1,592 @@
+{
+  "dataset_name": "4n2j-ut8i",
+  "columns": [
+    {
+      "data_types": [
+        {
+          "type": "DATE/TIME",
+          "count": [
+            38
+          ],
+          "min_value": "[datetime.datetime(2019, 12, 8, 0, 1, 15)]",
+          "max_value": "[datetime.datetime(2019, 12, 8, 0, 6, 52)]"
+        },
+        {
+          "type": "TEXT",
+          "count": 1639,
+          "average_length": 6.0,
+          "shortest_values": [
+            "01M063",
+            "01M064",
+            "01M110",
+            "01M134",
+            "01M137"
+          ],
+          "longest_values": [
+            "01M063",
+            "01M064",
+            "01M110",
+            "01M134",
+            "01M137"
+          ]
+        }
+      ],
+      "column_name": "DBN",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1582,
+      "frequent_values": [
+        "01M292",
+        "01M450",
+        "01M539",
+        "02M047",
+        "02M407"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "INTEGER",
+          "count": 1677,
+          "min_value": 1,
+          "max_value": 1,
+          "mean": 20.37030411449016,
+          "stddev": 19.44561152241197
+        }
+      ],
+      "column_name": "DISTRICT",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 35,
+      "frequent_values": [
+        "2",
+        "84",
+        "10",
+        "9",
+        "31"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1677,
+          "average_length": 29.099582587954682,
+          "shortest_values": [
+            "X723",
+            "Kappa",
+            "Kappa V",
+            "Muscota",
+            "P.S. 36"
+          ],
+          "longest_values": [
+            "NYC CHARTER HIGH SCHOOL FOR ARCHITECTURE, ENGINEERING AND CONSTRUCTION INDUSTRIES",
+            "English Language Learners and International Support Preparatory Academy (ELLIS)",
+            "Academy for College Preparation and Career Exploration: A College Board School",
+            "CITY POLYTECHNIC HIGH SCHOOL OF ENGINEERING, ARCHITECTURE, AND TECHNOLOGY",
+            "Knowledge and Power Preparatory Academy International High School (Kappa)"
+          ]
+        }
+      ],
+      "column_name": "SCHOOL",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1581,
+      "frequent_values": [
+        "Henry Street School for International Studies",
+        "East Side Community School",
+        "New Explorations into Science, Technology and Math",
+        "47 The American Sign Language and English Secondary School",
+        "Institute for Collaborative Education"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1677,
+          "average_length": 14.57304710793083,
+          "shortest_values": [
+            "None",
+            "Li Yan",
+            "Amy Hom",
+            "Lee Pan",
+            "Edna Cid"
+          ],
+          "longest_values": [
+            "Jabali Sawicki And Tim Saintsing",
+            "Steven Evangelista/Margaret Ryan",
+            "Kelly Demonaco And Kiri Soares",
+            "Anne Marie Snadecky-Scalfaro",
+            "Rosemarie Barbiere Nicoletti"
+          ]
+        }
+      ],
+      "column_name": "PRINCIPAL",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 1580,
+      "frequent_values": [
+        "Erin Balet",
+        "Mark Federman",
+        "Dr. Olga Livanis",
+        "Watfa A. Shama",
+        "John Pettinato"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1677,
+          "average_length": 2.744186046511628,
+          "shortest_values": [
+            "EC",
+            "HS",
+            "D75",
+            "EMS",
+            "HST"
+          ],
+          "longest_values": [
+            "YABC",
+            "D75",
+            "EMS",
+            "HST",
+            "EC"
+          ]
+        }
+      ],
+      "column_name": "PROGRESS REPORT TYPE",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 6,
+      "frequent_values": [
+        "EMS",
+        "HS",
+        "HST",
+        "EC",
+        "D75"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1677,
+          "average_length": 8.717948717948717,
+          "shortest_values": [
+            "K-2",
+            "K-3",
+            "K-8",
+            "YABC",
+            "Middle"
+          ],
+          "longest_values": [
+            "High School Transfer",
+            "High School",
+            "Elementary",
+            "Middle",
+            "YABC"
+          ]
+        }
+      ],
+      "column_name": "SCHOOL LEVEL*",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 8,
+      "frequent_values": [
+        "Elementary",
+        "High School",
+        "Middle",
+        "K-8",
+        "High School Transfer"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 1595,
+          "min_value": 1.24,
+          "max_value": 1.24,
+          "mean": 25.16363636363641,
+          "stddev": 25.670863254991698
+        },
+        {
+          "type": "TEXT",
+          "count": 82,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "PEER INDEX*",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 912,
+      "frequent_values": [
+        "None",
+        "2.38",
+        "2.36",
+        "2.45",
+        "2.2"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1677,
+          "average_length": 1.255813953488372,
+          "shortest_values": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "F"
+          ],
+          "longest_values": [
+            "None",
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ],
+      "column_name": "2009-2010 OVERALL GRADE",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 6,
+      "frequent_values": [
+        "B",
+        "C",
+        "A",
+        "None",
+        "D"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 1534,
+          "min_value": 0.1,
+          "max_value": 0.1,
+          "mean": 51.55710560625818,
+          "stddev": 18.55179221775629
+        },
+        {
+          "type": "TEXT",
+          "count": 143,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "2009-2010 OVERALL SCORE",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 660,
+      "frequent_values": [
+        "None",
+        "62.6",
+        "56.0",
+        "31.2",
+        "36.1"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 1534,
+          "min_value": 0.0,
+          "max_value": 0.0,
+          "mean": 8.096219035202077,
+          "stddev": 2.795176287131727
+        },
+        {
+          "type": "TEXT",
+          "count": 143,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "2009-2010 ENVIRONMENT CATEGORY SCORE",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 141,
+      "frequent_values": [
+        "None",
+        "8.6",
+        "6.8",
+        "8.3",
+        "6.4"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1677,
+          "average_length": 1.255813953488372,
+          "shortest_values": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "F"
+          ],
+          "longest_values": [
+            "None",
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ],
+      "column_name": "2009-2010 ENVIRONMENT GRADE",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 6,
+      "frequent_values": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "None"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 1534,
+          "min_value": 0.0,
+          "max_value": 0.0,
+          "mean": 9.740221642764013,
+          "stddev": 5.736314041043398
+        },
+        {
+          "type": "TEXT",
+          "count": 143,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "2009-2010 PERFORMANCE CATEGORY SCORE",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 238,
+      "frequent_values": [
+        "None",
+        "0.0",
+        "9.4",
+        "8.0",
+        "7.4"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1677,
+          "average_length": 1.255813953488372,
+          "shortest_values": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "F"
+          ],
+          "longest_values": [
+            "None",
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ],
+      "column_name": "2009-2010 PERFORMANCE GRADE",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 6,
+      "frequent_values": [
+        "C",
+        "D",
+        "B",
+        "A",
+        "F"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 1534,
+          "min_value": 0.0,
+          "max_value": 0.0,
+          "mean": 30.498565840938667,
+          "stddev": 11.568081362860655
+        },
+        {
+          "type": "TEXT",
+          "count": 143,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "2009-2010 PROGRESS CATEGORY SCORE",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 466,
+      "frequent_values": [
+        "None",
+        "34.2",
+        "0.0",
+        "31.9",
+        "36.7"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1677,
+          "average_length": 1.255813953488372,
+          "shortest_values": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "F"
+          ],
+          "longest_values": [
+            "None",
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ],
+      "column_name": "2009-2010 PROGRESS GRADE",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 6,
+      "frequent_values": [
+        "B",
+        "A",
+        "C",
+        "None",
+        "D"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "REAL",
+          "count": 1534,
+          "min_value": 0.0,
+          "max_value": 0.0,
+          "mean": 3.2230769230769503,
+          "stddev": 2.940891300398265
+        },
+        {
+          "type": "TEXT",
+          "count": 143,
+          "average_length": 4.0,
+          "shortest_values": [
+            "None"
+          ],
+          "longest_values": [
+            "None"
+          ]
+        }
+      ],
+      "column_name": "2009-2010 ADDITIONAL CREDIT",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 53,
+      "frequent_values": [
+        "0.0",
+        "None",
+        "3.0",
+        "1.5",
+        "4.5"
+      ]
+    },
+    {
+      "data_types": [
+        {
+          "type": "TEXT",
+          "count": 1677,
+          "average_length": 1.4955277280858676,
+          "shortest_values": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "F"
+          ],
+          "longest_values": [
+            "None",
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ],
+      "column_name": "2008-09 PROGRESS REPORT GRADE",
+      "number_non_empty_cells": 1677,
+      "number_empty_cells": 0,
+      "number_distinct_values": 6,
+      "frequent_values": [
+        "A",
+        "None",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  ],
+  "key_column_candidates": [
+    "DISTRICT",
+    "SCHOOL",
+    "PRINCIPAL",
+    "PROGRESS REPORT TYPE",
+    "SCHOOL LEVEL*",
+    "2009-2010 OVERALL GRADE",
+    "2009-2010 ENVIRONMENT GRADE",
+    "2009-2010 PERFORMANCE GRADE",
+    "2009-2010 PROGRESS GRADE",
+    "2008-09 PROGRESS REPORT GRADE"
+  ]
+}

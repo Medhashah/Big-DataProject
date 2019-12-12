@@ -1,0 +1,7 @@
+'Areas of study', 'Social Studies', 1825
+'Areas of study', 'Science', 1810
+'Areas of study', 'None', 0
+'Areas of study', 'Math,', 1840
+'Areas of study', 'English,', 1878
+'Areas of study', '-,', 5029
+'Areas of study', 'PERCENT OF STUDENTS IN DISTRICT / PROGRAM / GRADE / SUBJECT,', 1

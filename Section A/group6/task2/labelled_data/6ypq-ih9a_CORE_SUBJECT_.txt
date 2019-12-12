@@ -1,0 +1,7 @@
+'Subjects in school', 'Social Studies', 1832
+'Subjects in school', 'Science', 1812
+'Subjects in school', 'None', 0
+'Subjects in school', 'Math,', 1837
+'Subjects in school', 'English,', 1870
+'Subjects in school', '-,', 5144
+'Subjects in school', 'PERCENT OF STUDENTS IN DISTRICT / PROGRAM / GRADE / SUBJECT,', 1

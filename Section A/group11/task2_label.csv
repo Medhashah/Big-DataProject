@@ -1,0 +1,277 @@
+ID,Column Name,Label1,Label2
+s3k6-pzi2,website,Websites,
+mrxb-9w9v,BOROUGH___COMMUNITY,Borough,
+crc3-tcnm,CORE_SUBJECT,Subjects in school,
+aiww-p3af,Location,LAT/LON coordinates ,
+jhjm-vsp8,Agency,City agency,
+3rfa-3xsf,Incident_Zip,Zip code,
+pqg4-dm6b,Phone,Phone Number,
+mdcw-n682,First_Name,Person name,
+a5td-mswe,Vehicle_Color,Color,Other
+2bnn-yakx,Vehicle_Color,Color,Other
+mjux-q9d4,SCHOOL_LEVEL_,School Levels,
+jz4z-kudi,Violation_Location__City_,Neighborhood,City
+ge8j-uqbf,interest,Areas of study,
+niy5-4j7q,MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Neighborhood,Neighborhood,
+446w-773i,Address_1,Address,
+2sps-j9st,PERSON_FIRST_NAME,Person name,
+mdcw-n682,Last_Name,Person name,
+52dp-yji6,Owner_Last_Name,Person name,Business name
+43nn-pn8j,DBA,Business name,
+5fn4-dr26,City,City,
+7yay-m4ae,AGENCY_NAME,City agency,
+wcmg-48ep,CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,Subjects in school,
+vw9i-7mzq,interest1,Areas of study,
+3miu-myq2,COMPARABLE_RENTAL___2__Neighborhood,Neighborhood,
+upwt-zvh3,SCHOOL_LEVEL_,School Levels,
+uqxv-h2se,independentwebsite,Websites,
+yjub-udmw,Location__Lat__Long_,LAT/LON coordinates ,
+f3cg-u8bv,Agency,City agency,
+ahjc-fdu3,PRINCIPAL_PHONE_NUMBER,Phone Number ,
+a2pm-dj2w,Borough,Borough,
+vhah-kvpj,Borough,Borough,
+yg5a-hytu,CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,Subjects in school,
+qcdj-rwhu,BUSINESS_NAME2,Business name,
+n3p6-zve2,website,Websites,
+c284-tqph,Vehicle_Make,Car make ,Other
+pdpg-nn8i,CORE_SUBJECT___MS_CORE_and__9_12_ONLY_,Subjects in school,
+2bnn-yakx,Vehicle_Body_Type,Vehicle Type,Other
+ji82-xba5,address,Address,Other
+kiv2-tbus,Vehicle_Color,Color,Other
+q5za-zqz7,Agency,City agency,
+fb26-34vu,CORE_SUBJECT__MS_CORE_and_9_12_ONLY_,Subjects in school,
+yahh-6yjc,School_Type,School Levels,
+kiv2-tbus,Vehicle_Make,Car make ,Other
+faiq-9dfq,Vehicle_Body_Type,Vehicle Type,Other
+niy5-4j7q,COMPARABLE_RENTAL___2__Building_Classification,Building Classification,
+s3k6-pzi2,interest1,Areas of study,
+m59i-mqex,QUEENS_CONDOMINIUM_PROPERTY_Building_Classification,Building Classification,
+fzv4-jan3,SCHOOL_LEVEL_,School Levels,
+s9d3-x4fz,ZIP,Zip code,Other
+jt7v-77mi,Vehicle_Color,Color,Other
+cspg-yi7g,PHONE,Phone Number,Other
+vx8i-nprf,MI,Other,
+qgea-i56i,PREM_TYP_DESC,Type of location ,
+mjux-q9d4,SCHOOL,School name,Address
+cspg-yi7g,ADDRESS,Address,Other
+vx8i-nprf,MI,Other,
+qgea-i56i,PREM_TYP_DESC,Type of location,Parks/Playgrounds
+mjux-q9d4,SCHOOL,School name,Neighborhood
+cspg-yi7g,ADDRESS,Address,Zip code
+qusa-igsv,CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,Subjects in school ,
+ipu4-2q9a,Owner_s_House_Zip_Code,Zip code,
+va74-3m6c,company_phone,Phone Number,Zip code
+a9md-ynri,MI,Other,
+n84m-kx4j,VEHICLE_MAKE,Car make,
+8gpu-s594,SCHOOL_NAME,School name,Street name
+tg3t-nh4h,BusinessName,Business name,Street name
+mu46-p9is,Location,LAT/LON coordinates,
+4s7y-vm5x,CORE_SUBJECT,Subjects in school ,
+3rfa-3xsf,Street_Name,Street name,Address
+niy5-4j7q,MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification,Building Classification,
+6anw-twe4,FirstName,Person name,Business name
+weg5-33pj,SCHOOL_LEVEL_,School Levels,
+h9gi-nx95,VEHICLE_TYPE_CODE_2,Vehicle Type,Other
+2bnn-yakx,Vehicle_Make,Car make,Other
+hy4q-igkk,Intersection_Street_2,Street name,Address
+sxmw-f24h,Street_Name,Street name,Other
+sqcr-6mww,Park_Facility_Name,School name,Neighborhood
+6rrm-vxj9,parkname,Parks/Playgrounds,Type of location
+d3ge-anaz,CORE_COURSE__MS_CORE_and_9_12_ONLY_,Subjects in school,
+cvh6-nmyi,SCHOOL,School name,Address
+4kpn-sezh,Website,Websites,
+t8hj-ruu2,License_Business_City,City,Borough
+2sps-j9st,PERSON_LAST_NAME,Person name,Business name
+vwxi-2r5k,CORE_SUBJECT,Subjects in school,
+myei-c3fa,Neighborhood_2,Neighborhood,Borough
+2bmr-jdsv,DBA,Business name,Person name
+5mw2-hzqx,BROOKLYN_CONDOMINIUM_PROPERTY_Building_Classification,Building Classification,
+uq7m-95z8,neighborhood,Neighborhood,Borough
+pvqr-7yc4,Vehicle_Make,Car make,Other
+nhms-9u6g,Name__Last__First_,Person name,
+f4rp-2kvy,Street,Street name,Address
+3btx-p4av,COMPARABLE_RENTAL___1__Neighborhood,Neighborhood,Borough
+qpm9-j523,org_neighborhood,Neighborhood,Borough
+bbs3-q5us,ZIP,Zip code,Other
+erm2-nwe9,Landmark,Street name,Address
+72ss-25qh,Borough,Borough,Neighborhood
+jz4z-kudi,Violation_Location__Zip_Code_,Zip code,Other
+s27g-2w3u,School_Name,School name,Address
+yayv-apxh,SCHOOL_LEVEL_,School Levels,
+emnd-d8ba,PRINCIPAL_PHONE_NUMBER,Phone Number,
+cyfw-hfqk,STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood,Neighborhood,Borough
+s79c-jgrm,City,City,Neighborhood
+uzcy-9puk,Intersection_Street_2,Address,Street name
+Street name,Last_Name__only_2014_15_,Person name,
+6bgk-3dad,RESPONDENT_CITY,City,Neighborhood
+kwmq-dbub,CANDMI,Other,
+uzcy-9puk,Street_Name,Street name,Address
+uchs-jqh4,School_Name,School name,Address
+yrf7-4wry,COMPARABLE_RENTAL___2___Neighborhood,Neighborhood,Borough
+mdcw-n682,Agency_Website,Websites,
+dm9a-ab7w,APPLICANT_FIRST_NAME,Person name,Business name
+aiww-p3af,Incident_Zip,Zip code,
+2v9c-2k7f,DBA,City agency,
+dtmw-avzj,BOROUGH,Borough,
+ci93-uc8s,telephone,Phone Number,
+uwyv-629c,StreetName,Street name,
+3btx-p4av,COMPARABLE_RENTAL___1__Building_Classification,Building Classification,
+i8ys-e4pm,CORE_SUBJECT_9_12_ONLY_,Subjects in school,
+i6b5-j7bu,TOSTREETNAME,Street name,
+gez6-674h,BORO,Borough,
+mdcw-n682,Middle_Initial,Person name,
+pdk7-puui,Agency,City agency,
+p937-wjvj,LOCATION,LAT/LON coordinates,
+ph7v-u5f3,WEBSITE,Websites,
+iz2q-9x8d,Owner_s__Phone__,Phone Number,
+4qii-5cz9,CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,Subjects in school,
+ruce-cnp6,Agency,City agency,
+dm9a-ab7w,AUTH_REP_LAST_NAME,Person name,
+8gqz-6v9v,Website,Websites,
+h9gi-nx95,VEHICLE_TYPE_CODE_5,Vehicle Type,
+hy4q-igkk,Park_Facility_Name,School name,Parks/Playgrounds
+ipu4-2q9a,Site_Safety_Mgr_s_Last_Name,Person name,
+h9gi-nx95,VEHICLE_TYPE_CODE_1,Vehicle Type,
+ipu4-2q9a,Site_Safety_Mgr_s_First_Name,Person name,Business name
+ptev-4hud,City,City,
+sv2w-rv3k,BORO,Borough,
+n2mv-q2ia,Address_1__self_reported_,Address,
+faiq-9dfq,Vehicle_Body_Type,Car make,
+myei-c3fa,Neighborhood,Neighborhood,
+i8ys-e4pm,CORE_COURSE_9_12_ONLY_,Subjects in school,
+uzcy-9puk,School_Name,School name,Parks/Playgrounds
+8u86-bviy,Address_1__self_reported_,Address,
+y4fw-iqfr,Address,Address,
+cvh6-nmyi,SCHOOL_LEVEL_,School Levels,
+sxx4-xhzg,Park_Site_Name,Parks/Playgrounds,Address
+4e2n-s75z,Address,Address,Street name
+dm9a-ab7w,STREET_NAME,Street name,
+s3k6-pzi2,interest5,Areas of study,
+c284-tqph,Vehicle_Color,Color,
+wks3-66bn,School_Name,School name,
+3aka-ggej,CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,Areas of study,
+c284-tqph,Vehicle_Make,Car make,
+3btx-p4av,MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification,Building Classification,
+urc8-8bjy,BORO,Borough,
+6anw-twe4,LastName,Person name,
+yvxd-uipr,Location_1,LAT/LON coordinates,
+vwxi-2r5k,BOROUGH,Borough,
+7jkp-5w5g,Agency,City agency,
+s3zn-tf7c,QUEENS_CONDOMINIUM_PROPERTY_Neighborhood,Neighborhood,
+qu8g-sxqf,First_Name,Person name,Business name
+erm2-nwe9,Park_Facility_Name,Parks/Playgrounds,School name
+2bnn-yakx,Vehicle_Make,Car make,
+cvse-perd,Agency_Name,City agency,
+rmv8-86p4,BROOKLYN_CONDOMINIUM_PROPERTY_Building_Classification,Building Classification,
+xubg-57si,OWNER_BUS_STREET_NAME,Address,Street name
+6wcu-cfa3,CORE_COURSE__MS_CORE_and_9_12_ONLY_,Subjects in school,
+735p-zed8,CITY,City,
+w9ak-ipjd,Applicant_Last_Name,Person name,
+pqg4-dm6b,Address1,Address,
+2bnn-yakx,Vehicle_Body_Type,Car make,
+urzf-q2g5,Phone_Number,Phone Number,
+brga-xeqy,Agency,City agency,
+bs8b-p36w,LOCATION,LAT/LON coordinates,
+i9pf-sj7c,INTEREST,Areas of study,
+t8hj-ruu2,First_Name,Person name,
+dm9a-ab7w,AUTH_REP_FIRST_NAME,Person name,
+5uac-w243,PREM_TYP_DESC,Type of location,
+h9gi-nx95,VEHICLE_TYPE_CODE_3,Vehicle Type,
+6je4-4x7e,SCHOOL_LEVEL_,School Levels,
+4pt5-3vv4,Location,LAT/LON coordinates,
+4d7f-74pe,Agency,City agency,
+735p-zed8,CANDMI,Other,
+ph7v-u5f3,TOP_VEHICLE_MODELS___5,Car make,
+e9xc-u3ds,ZIP,Zip code,
+4n2j-ut8i,SCHOOL_LEVEL_,School Levels,
+3rfa-3xsf,Cross_Street_2,Street name,
+vrn4-2abs,SCHOOL_LEVEL_,School Levels,
+4hiy-398i,CORE_SUBJECT___MS_CORE_and__09_12_ONLY_,Subjects in school,
+ajxm-kzmj,NeighborhoodName,Neighborhood,
+ydkf-mpxb,CrossStreetName,Street name,
+bty7-2jhb,Site_Safety_Mgr_s_Last_Name,Person name,
+9z9b-6hvk,Borough,Borough/Neighborhood,
+sxmw-f24h,School_Name,School name,
+kwmq-dbub,CITY,City,
+faiq-9dfq,Vehicle_Color,Color,
+fbaw-uq4e,Location_1,LAT/LON coordinates,
+erm2-nwe9,Incident_Zip,Zip code,
+8eux-rfe8,INPUT_1_Borough,Borough/City,
+t8hj-ruu2,Business_Phone_Number,Phone Number,
+sxmw-f24h,Cross_Street_1,Street name,
+w9ak-ipjd,Owner_s_Business_Name,Business name,
+jz4z-kudi,Respondent_Address__Zip_Code_,Zip code/City/Borough,
+aiww-p3af,Street_Name,Street name,
+szkz-syh6,Prequalified_Vendor_Address,Street name,
+jt7v-77mi,Vehicle_Make,Car make,
+pq5i-thsu,DVC_MAKE,Car make,
+mqdy-gu73,Color,Color,
+3rfa-3xsf,Park_Facility_Name,Parks/Playgrounds  /School name,
+52dp-yji6,Owner_First_Name,Person name/Street name,
+ffnc-f3aa,SCHOOL_LEVEL_,School Levels,
+9b9u-8989,DBA,Street name,
+as69-ew8f,StartCity,Borough/City,
+qu8g-sxqf,MI,Other,
+956m-xy24,COMPARABLE_RENTAL_2__Building_Classification,Building Classification,
+dj4e-3xrn,SCHOOL_LEVEL_,School Levels,
+kiv2-tbus,Vehicle_Body_Type,Vehicle Type,
+pvqr-7yc4,Vehicle_Make,Car make,
+s3k6-pzi2,interest4,Areas of study,
+bdjm-n7q4,CrossStreet2,Street name,
+sqcr-6mww,Cross_Street_2,Street name,
+cgz5-877h,SCHOOL_LEVEL_,School Levels,
+en2c-j6tw,BRONX_CONDOMINIUM_PROPERTY_Building_Classification,Neighborhood,
+vw9i-7mzq,interest3,Areas of study,
+ic3t-wcy2,Zip,Zip code,
+k3cd-yu9d,CANDMI,Other,
+bjuu-44hx,DVV_MAKE,Car make ,
+w6yt-hctp,BROOKLYN_CONDOMINIUM_PROPERTY_Neighborhood,Neighborhood ,
+ic3t-wcy2,Applicant_s_First_Name,Person name,Business name 
+pvqr-7yc4,Vehicle_Color,Color ,School name
+crc3-tcnm,BOROUGH,Borough ,
+sqcr-6mww,Location,LAT/LON coordinates ,
+9b9u-8989,Esctablishment_Street,Street name ,
+kj4p-ruqc,StreetName,Street name ,Address 
+pvqr-7yc4,Vehicle_Body_Type,Vehicle Type,
+jz4z-kudi,Respondent_Address__City_,Address ,City 
+hy4q-igkk,Cross_Street_1,Address ,Street name 
+922w-z7da,address_1,Address ,
+w9ak-ipjd,Filing_Representative_First_Name,Person name,Business name 
+9ck8-hj3u,PRINCIPAL_PHONE_NUMBER,Phone Number ,
+4twk-9yq2,CrossStreet2,Street name ,Address 
+mq9d-au8i,School_Name,College/University names ,
+r4c5-ndkx,_Phone,Phone Number ,
+rtws-c2ai,School_Name,College/University names ,
+kiv2-tbus,Vehicle_Make,Car make ,City agency
+4twk-9yq2,CrossStreet2,Street name ,
+w9if-3pyn,School_Name,College/University names ,
+uq7m-95z8,interest1,Subjects in school,Areas of study
+n2s5-fumm,BRONX_CONDOMINIUM_PROPERTY_Neighborhood,Neighborhood ,
+72ss-25qh,Agency_ID,City agency,Business name 
+pvqr-7yc4,Vehicle_Body_Type,Vehicle Type,
+bdjm-n7q4,Location,LAT/LON coordinates ,
+h9gi-nx95,VEHICLE_TYPE_CODE_4,Vehicle Type,
+ebkm-iyma,Street_Address,Address ,
+tqtj-sjs8,FromStreetName,Street name ,
+uzcy-9puk,Incident_Zip,Zip code ,
+a5qt-5jpu,STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood,Neighborhood ,
+e9xc-u3ds,CANDMI,Other,
+7btz-mnc8,Provider_First_Name,Person name,Business name 
+8586-3zfm,School_Name,College/University names ,
+aiww-p3af,School_Name,College/University names ,Neighborhood 
+vr8p-8shw,DVT_MAKE,Car make ,
+xne4-4v8f,SCHOOL_LEVEL_,School Levels,
+ci93-uc8s,Website,Websites,
+7btz-mnc8,Provider_Last_Name,Person name,Business name 
+vw9i-7mzq,interest4,Subjects in school,
+as69-ew8f,TruckMake,Car make ,Business name 
+xck4-5xd5,website,Websites,
+dpm2-m9mq,owner_city,City ,Zip code 
+p937-wjvj,HOUSE_NUMBER,Address ,Zip code 
+f42p-xqaa,BROOKLYN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification,Building Classification,
+fxdy-q85h,Agency,City agency,School name
+w9ak-ipjd,City,City ,
+ci93-uc8s,Vendor_DBA,Business name ,
+ccgt-mp8e,Borough,Borough ,
+5cd6-v74i,School_Name,School name,
+uq7m-95z8,interest6,Subjects in school,Areas of study

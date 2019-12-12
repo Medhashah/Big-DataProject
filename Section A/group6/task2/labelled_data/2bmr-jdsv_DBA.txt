@@ -1,0 +1,194 @@
+'Business name', 'UBER-SIEBZEHN-NY,LLC', 158
+'Business name', 'NEW WEBSTER CAR & LIMO SERVICE', 161
+'Business name', 'NEW YORK FIRST CLASS', 164
+'Business name', 'LEGEND CAR SERVICE', 139
+'Business name', 'GATEWAY CAR & LIMO SVCE', 148
+'Business name', 'MASADA III', 137
+'Business name', 'ACTIVE EXPRESS CAR & LIMO 2', 126
+'Business name', 'UBER-ZEHN-NY LLC', 158
+'Business name', 'MINUTEMEN', 134
+'Business name', 'MID ISLAND CAR SVCE', 124
+'Business name', 'UBER-ZWEI-NY LLC', 158
+'Business name', 'JUNO', 264
+'Business name', 'EASTERN CAR SVCE', 141
+'Business name', 'RED CAP CAR SERVICE', 159
+'Business name', 'BOSTON COACH', 181
+'Business name', 'PREMIER CAR SERVICE', 139
+'Business name', 'LATCH CAR SERVICE', 74
+'Business name', 'GRANT CITY CAR SVC', 74
+'Business name', 'EVERYWHERE CAR SERVICE', 124
+'Business name', 'JAVA CAR & LIMOUSINE SERVICE', 115
+'Business name', 'LEADING BLACK CAR SERVICES', 7
+'Business name', 'CARIBE CAR SERVICE', 119
+'Business name', 'KYOEI LIMOUSINE, INC.', 143
+'Business name', 'PALPAL LIMO', 76
+'Business name', 'UNITED CAR & LIMO SERVICE', 132
+'Business name', 'CAR ON TIME', 140
+'Business name', 'ANGEL CAR SERVICE', 149
+'Business name', 'UBER-KUCHEN LLC', 11
+'Business name', 'HEIGHTS CAR & LIMO', 125
+'Business name', 'PROMINENT CAR & LIMO', 131
+'Business name', 'ISLANDER TRANS', 18
+'Business name', 'NATANYA TRANSPORTATION', 159
+'Business name', 'UBER-ZWANZIG-NY,LLC', 143
+'Business name', 'UBER-SECHZEHN-NY, LLC', 152
+'Business name', 'PRIVATE CHAUFFEUR CLUB', 71
+'Business name', 'DIGITAL CAR SERVICE', 111
+'Business name', 'NYMEX CAR SERVICE', 172
+'Business name', 'STRICTLY CONFIDENTIAL SERVICE', 150
+'Business name', 'HUANG HOU CAR SERVICES INC.', 181
+'Business name', 'QUALITY CAR SVCE', 134
+'Business name', 'D. WILTSHIRE STRETCH LIMO. INC.', 63
+'Business name', 'VIEW', 122
+'Business name', 'None', 0
+'Business name', 'EXCELLENT LIMOUSINE', 88
+'Business name', 'UBER-NEUN-NY LLC', 158
+'Business name', 'STRICTLY CAR SERVICE', 167
+'Business name', 'UPPER CAR SERVICE', 123
+'Business name', 'METROGREEN CAR SERVICE', 115
+'Business name', 'UBER-FUNFZEHN-NY, LLC', 150
+'Business name', 'UBER-SIEBEN-NY,LLC', 158
+'Business name', 'I + I TRANSPORTATION', 156
+'Business name', 'UBER-DANACH-NY,LLC', 193
+'Business name', 'LIMO LAND', 31
+'Business name', 'AA PDQ CAR & LIMOUSINE SERVICE', 136
+'Business name', 'UBER-DREIZEHN-NY, LLC', 158
+'Business name', 'COMMUNICARE CAR SERVICE', 146
+'Business name', 'WIRELESS CAR SERVICE', 146
+'Business name', 'GOOD LUCK CAR SVCE', 173
+'Business name', 'TOWN CARS', 186
+'Business name', 'ALL TRANSFERS SERVICE', 47
+'Business name', 'BLUE LINE', 189
+'Business name', 'CAR LINE TRANSPORTATION CORP.', 155
+'Business name', 'SSS LIMO SERVICE', 98
+'Business name', 'MEX EXPRESS CAR SERVICE', 156
+'Business name', 'PRESTIGE CAR SERVICE', 140
+'Business name', 'LAPUMA', 106
+'Business name', 'RUDY'S EXECUTIVE TRANSPORTATION', 142
+'Business name', 'HIGH BRIDGE C/S', 43
+'Business name', 'MILL BASIN CAR SVCE', 29
+'Business name', 'LSW CHAUFFEURED TRANSPORTATION', 46
+'Business name', 'UBER-HINTER LLC', 49
+'Business name', 'UNION LIMO AND CAR SERVICE INC', 151
+'Business name', 'UBER-ABATAR LLC', 138
+'Business name', 'EASTLAND CAR SERVICE', 178
+'Business name', 'ELECTRIC BLUE CAR SERVICE', 132
+'Business name', 'CARMEL C/L SVCE', 168
+'Business name', 'NYC TWO WAY INC.', 189
+'Business name', 'FLYTE TYME WORLDWIDE/ADDISON LEE', 159
+'Business name', 'UBER-FUNF-NY LLC', 158
+'Business name', 'UBER-SECHS-NY, LLC', 158
+'Business name', 'UBER-ELF-NY,LLC', 154
+'Business name', 'HARBORVIEW CAR SERVICE', 109
+'Business name', 'NICE GUYS LIMO', 145
+'Business name', 'GO GREENRIDE', 118
+'Business name', 'PRIME TIME GLOBAL', 136
+'Business name', 'ALFRED EXECUTIVE TRANSPORTATION', 100
+'Business name', '4 U LUXURY CAR SERVICE', 159
+'Business name', 'DEUCES TRANSPORT SERVICES', 53
+'Business name', 'DIAL 4 LIMO', 27
+'Business name', 'FOUR TWO'S PVT C/S', 154
+'Business name', 'VELOTAX CAR SERVICE', 145
+'Business name', 'ALL SEASONS CAR SERVICE', 11
+'Business name', 'UTOG CORPORATE CAR SERVICE', 152
+'Business name', 'ADON', 63
+'Business name', 'CAPITAL CAR SERVICE', 157
+'Business name', '15TH AVENUE CAR SERVICE', 36
+'Business name', 'UBER-SCHMECKEN LLC,', 189
+'Business name', 'UBER-DRINNEN-NY LLC,', 171
+'Business name', 'DANNY'S CAR SERVICE,', 39
+'Business name', 'GOLDEN CLASS LIMO,', 87
+'Business name', 'DELTA CAR SVCE,', 76
+'Business name', 'ECAR NEW YORK,', 109
+'Business name', 'HENRY LIMOUSINE,', 163
+'Business name', 'NEW EASTERN C/L SVCE,', 155
+'Business name', 'SKYWAY CAR SERVICE,', 151
+'Business name', 'SUNNYSIDE CAR SERVICE,', 103
+'Business name', 'NEW TOPACIO CAR SERVICE,', 56
+'Business name', 'YES CAR SERVICE,', 193
+'Business name', 'JEWEL CAR SERVICE,', 140
+'Business name', 'DIAL 7 ON DEMAND,', 55
+'Business name', 'UBER-ZWOLF-NY, LLC,', 158
+'Business name', 'MARLBORO CAR SERVICE,', 118
+'Business name', 'ESQ LIMO,', 26
+'Business name', 'LULU CAR SERVICES,', 156
+'Business name', 'UFO PVT C/L SERVICE,', 130
+'Business name', 'ON TIME CAR SERVICE,', 148
+'Business name', 'EXECUTIVE CARS,', 185
+'Business name', 'UBER-DREIST NY LLC,', 171
+'Business name', 'NEWPORT CAR SERVICE,', 144
+'Business name', 'INFINITY LIMO,', 166
+'Business name', 'EAST COAST WORLDWIDE LIMOUSINE,', 163
+'Business name', 'SEVENTH AVE CAR SERVICE,', 95
+'Business name', 'BELTWAY CAR SERVICE,', 8
+'Business name', 'BEST DEAL DOMINICAN C/S INC,', 160
+'Business name', 'VPZ EXECUTIVE LIMO,', 4
+'Business name', 'ACAPOLCO EXPRESS,', 147
+'Business name', 'GLEN BELLE CAR SERVICE,', 109
+'Business name', 'UBER-VIER-NY LLC,', 158
+'Business name', 'CLOVE LAKE CARS,', 38
+'Business name', 'GTS,', 108
+'Business name', 'MY LIMOUSINE SERVICE,', 141
+'Business name', 'JRIDE,', 76
+'Business name', 'NYS CAR SERVICE,', 150
+'Business name', 'UBER-WEITER LLC,', 193
+'Business name', 'AZTECA EXPRESS,', 145
+'Business name', 'UBER-UNTER LLC,', 192
+'Business name', 'DEJOY'S RED TOP,', 152
+'Business name', 'NUNU ROCHDALE CAR SERVICE,', 49
+'Business name', 'WHITE TOP CAR SERVICE,', 136
+'Business name', 'ARROW TRANSPORTATION,', 53
+'Business name', 'CLIQCAR,', 27
+'Business name', 'SUNSHINE CAR SERVICE,', 154
+'Business name', 'RUNNER LIMO & CAR SERVICE,', 49
+'Business name', 'A2B CORPORATE SEDAN,', 145
+'Business name', 'RELIABLE CAR & LIMO SERVICE,', 72
+'Business name', 'CARLINK,', 129
+'Business name', 'ELEGANTE,', 292
+'Business name', 'DELTA CARS,', 152
+'Business name', 'ABC CAR SERVICES,', 83
+'Business name', 'KISSENA CAR SERVICE,', 23
+'Business name', 'MAGNA,', 144
+'Business name', 'FOUR ONES CAR SERVICE,', 347
+'Business name', 'NOSTRAND CAR SVCE,', 162
+'Business name', 'SEASIDE CAR SERVICE,', 133
+'Business name', 'UBER-ACHT-NY,LLC,', 158
+'Business name', 'UBER-NEUNZEHN-NY, LLC,', 154
+'Business name', 'CHRIS LIMOUSINE U.S.A.,', 135
+'Business name', 'LYFT-TRI-CITY,', 180
+'Business name', 'UBER-EINS-NY,LLC,', 145
+'Business name', 'N.Y. MEXICANA CAR SERVICE,', 114
+'Business name', 'SAFEWAY CAR SVCE,', 125
+'Business name', 'RIDE SAFE CAR SERVICE,', 130
+'Business name', 'RAINBOW LIMO,', 114
+'Business name', 'PAISA CLASSIC,', 98
+'Business name', 'METROLINE CAR SERVICE,', 133
+'Business name', 'NATIONAL HIGH CLASS,', 106
+'Business name', 'OLLIE'S AIRPORT SERVICE,', 116
+'Business name', 'GROUNDLINK YOUR'E GOOD TO GO,', 184
+'Business name', 'VINCENT LIMOUSINE,', 86
+'Business name', 'RED OAK TRANSPORTATION,', 62
+'Business name', 'COZY TRANSIT,', 148
+'Business name', 'WALL STREET LIMOUSINE,', 52
+'Business name', 'UNIVERSAL CAR SERVICE,', 84
+'Business name', 'NURIDE,', 53
+'Business name', 'ALWAYS READY C/S,', 119
+'Business name', '18TH AVENUE PRIVATE CAR SERVICE INC,', 69
+'Business name', 'DELUX TRANSPORTATION SERVICES,', 172
+'Business name', 'TRISTAR WORLDWIDE CHAUFFEURED SERVICES,', 145
+'Business name', 'PARSONS CAR SERVICE,', 167
+'Business name', 'N Y LIMO & CAR SVCE,', 147
+'Business name', 'FIVE BOROUGHS CAR SERVICE,', 127
+'Business name', 'UBER-ACHTZEHN-NY, LLC,', 154
+'Business name', 'UBER-EINUNDZWANZIG-NY, LLC,', 150
+'Business name', 'CC LIMOUSINE WORLDWIDE,', 130
+'Business name', 'UBER-VIERZEHN-NY, LLC,', 149
+'Business name', 'FIFTH AVENUE CAR LIMO SERVICE,', 154
+'Business name', 'VIA-FLATIRON TRANSIT LLC,', 179
+'Business name', 'UBER-GRUN LLC,', 193
+'Business name', 'THREE GUY'S CAR SVCE,', 82
+'Business name', 'ACROPOLIS,', 104
+'Business name', 'DAI-ICHI LIMOUSINE,', 152
+'Business name', 'UNITED CARS,', 52
+'Business name', 'MARINE LIMO & CAR SERVICE,', 136
+'Business name', 'MALONES CAR SVCE,', 165

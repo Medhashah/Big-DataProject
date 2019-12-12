@@ -1,0 +1,983 @@
+'Business name', 'THE JOHN DORY OYSTER BAR', 1
+'Business name', 'SERENA'S', 1
+'Business name', 'PAT'E PALO', 1
+'Business name', 'LENOX PUBLIC', 1
+'Business name', 'DENINO'S PIZZERIA AND TAVERN', 1
+'Business name', 'BUS STOP', 1
+'Business name', 'DON ANGIE', 1
+'Business name', 'BELLE REVE', 1
+'Business name', 'ZIZI LEMONA', 1
+'Business name', 'PICCOLO CAFE', 1
+'Business name', 'LOCAL & VINE', 1
+'Business name', 'SPICE', 1
+'Business name', 'PARIS CAFE', 1
+'Business name', 'TALDE', 1
+'Business name', 'GARI COLUMBUS', 1
+'Business name', 'WICKED WOLF', 1
+'Business name', 'EMPIRE DINER', 1
+'Business name', 'THE DUPLEX', 1
+'Business name', 'Starbucks Coffee Company', 1
+'Business name', 'WOGIES', 1
+'Business name', 'THE ALCOVE RESTAURANT', 1
+'Business name', 'FLIP SIGI', 1
+'Business name', 'THE COPPER STILL', 1
+'Business name', 'THE COMMONS CHELSEA', 1
+'Business name', 'SALVO'S', 1
+'Business name', 'COMMUNITY FOOD & JUICE', 1
+'Business name', 'TABOON', 1
+'Business name', 'THE MOONLIGHT MILE', 1
+'Business name', 'DYCKMAN EXPRESS RESTAURANT', 1
+'Business name', 'L'EXPRESS', 1
+'Business name', 'PINK NORI', 1
+'Business name', 'THE RED LION', 1
+'Business name', 'WHITE HORSE TAVERN', 1
+'Business name', 'COLUMBUS GOURMET FOOD', 1
+'Business name', 'BROADSTONE TAP HOUSE', 1
+'Business name', 'MAMACHA', 1
+'Business name', 'MADE IN NEW YORK PIZZA', 1
+'Business name', 'SAGE', 1
+'Business name', 'BAGELS & CO', 1
+'Business name', 'THE HALAL GUYS', 1
+'Business name', 'ANCHOR HEIGHTS WINE BAR', 1
+'Business name', 'CAFE PETISCO', 1
+'Business name', 'ANEMOS', 1
+'Business name', 'FRANK MACS PUB', 1
+'Business name', 'NIU NOODLE', 1
+'Business name', 'GRASS ROOTS JUICERY', 1
+'Business name', 'LAS RAMBLAS', 1
+'Business name', 'CARMINE'S', 1
+'Business name', 'DELILLO PASTRY SHOP', 1
+'Business name', 'THE SMOKE JOINT', 1
+'Business name', 'OLIO E PIU', 1
+'Business name', 'ELYSIAN FIELDS', 1
+'Business name', 'LA ESQUINA', 2
+'Business name', 'JACKDAW', 1
+'Business name', 'LE MONDE', 1
+'Business name', 'DALTON'S', 1
+'Business name', 'NIGHTS & WEEKENDS', 1
+'Business name', 'SOUTHERN HOSPITALITY', 1
+'Business name', 'BIG DADDY'S', 1
+'Business name', 'GALAXY DINER', 1
+'Business name', 'JACQUES BRASSERIE', 1
+'Business name', 'SUR LA BAIE', 1
+'Business name', 'MATCH 65', 1
+'Business name', 'ITALIAN FOOD CENTER', 1
+'Business name', 'THE ABBEY TAVERN', 1
+'Business name', 'WILD PARK SLOPE', 1
+'Business name', '3 IN 1 KITCHEN', 1
+'Business name', 'NERAI', 1
+'Business name', 'ULIVO', 1
+'Business name', 'BONCHON', 1
+'Business name', 'EL TORO BLANCO', 1
+'Business name', 'ELLA NYC', 1
+'Business name', 'The 13th Step', 1
+'Business name', 'AWOL BAR & GRILL', 1
+'Business name', 'MOCA ASIAN BISTRO', 1
+'Business name', 'MOLE BY TACO TACO', 1
+'Business name', 'DINOSAUR BAR-B-QUE', 1
+'Business name', 'SIDEWALK BAR & RESTAURANT', 1
+'Business name', 'AOC EAST', 1
+'Business name', 'HI-LIFE BAR & GRILL', 1
+'Business name', 'HEARTH', 1
+'Business name', 'AT THE WALLACE', 1
+'Business name', 'CASA PUBLICA', 1
+'Business name', 'CAFE BOULUD', 1
+'Business name', 'PORTO BELLO RESTAURANT', 1
+'Business name', 'LOCANDA VERDE', 1
+'Business name', 'CRAVE', 1
+'Business name', 'CLEM'S', 1
+'Business name', 'CLEOPATRAS NEEDLE', 1
+'Business name', 'REEF', 1
+'Business name', 'IL MELOGRANO', 1
+'Business name', 'SUPREME PROVISIONS', 1
+'Business name', 'Sidecar', 1
+'Business name', 'LITTLE DOKEBI', 1
+'Business name', 'DOYLE'S CORNER', 1
+'Business name', 'DARLINGS', 1
+'Business name', 'VIRAGE', 1
+'Business name', 'SEXY TACO / DIRTY CASH', 1
+'Business name', 'HIGHLANDS CAFE', 1
+'Business name', 'ENGINAR', 1
+'Business name', 'ASELLINA', 1
+'Business name', 'MOMOYA UPPER WEST', 1
+'Business name', 'ONE LENOX', 1
+'Business name', 'WINE', 1
+'Business name', 'CHIRPING CHICKEN', 1
+'Business name', 'NUMERO 28', 3
+'Business name', 'DUTCH KILLS CENTRAAL', 1
+'Business name', 'CLARKS RESTAURANT', 1
+'Business name', 'MAISON PICKLE', 1
+'Business name', 'BUTTERMILK CHANNEL', 1
+'Business name', 'APPLEBEE'S', 1
+'Business name', 'PASTAI', 1
+'Business name', 'LYN GENET'S KITCHEN', 1
+'Business name', 'RDV', 1
+'Business name', 'JUICERIE', 1
+'Business name', 'THE PULLMEN KITCHEN', 1
+'Business name', 'DELICATESSEN', 1
+'Business name', 'TOMI-O taberna gallega', 1
+'Business name', 'ISTANBUL', 1
+'Business name', 'BRADO', 1
+'Business name', 'TEDDY'S BAR & GRILL', 1
+'Business name', 'THE BRAZEN TAVERN', 1
+'Business name', 'LENWICH', 4
+'Business name', 'PERA CAFE & LOUNGE', 1
+'Business name', 'CLAUDETTE', 1
+'Business name', 'BIER INTERNATIONAL HARLEM', 1
+'Business name', 'MEDITERRANEO', 1
+'Business name', 'DIANNE & ELISABETH', 1
+'Business name', 'SIGNATURE & FABERGE', 1
+'Business name', 'VIVE LA CREPE', 2
+'Business name', 'MARTHA'S BAKERY', 1
+'Business name', 'BUCA', 1
+'Business name', 'FRIJOLITOS', 1
+'Business name', 'RIVERCREST', 1
+'Business name', 'NYC BAGELS & COFFEE  HOUSE', 1
+'Business name', 'MEDOWSWEET', 1
+'Business name', 'DOS TOROS', 1
+'Business name', 'ORSAY RESTAURANT', 1
+'Business name', 'P.J. HORGAN'S', 1
+'Business name', 'PETE'S TAVERN S/C #111', 1
+'Business name', 'SWEETGREEN 61 & LEX', 1
+'Business name', 'LA RIPAILLE RESTAURANT', 1
+'Business name', 'SAN MARZANO', 1
+'Business name', 'PARLOUR CAFE', 1
+'Business name', 'PAPILLON', 1
+'Business name', 'TUBBY HOOK TAVERN', 1
+'Business name', 'GIAN PIERO BAKERY INC', 1
+'Business name', 'BAR 180', 1
+'Business name', 'SOHO PARK', 1
+'Business name', 'BISTRO CASSIS', 1
+'Business name', 'Khe-Yo', 1
+'Business name', 'DOMA NA ROHU', 1
+'Business name', 'PASCALOU', 1
+'Business name', 'VINATERIA', 1
+'Business name', 'BAR BRUNO', 1
+'Business name', 'THREE STAR DINER', 1
+'Business name', 'MIRIAM', 1
+'Business name', 'LENOX SOCIAL', 1
+'Business name', 'K. RICO', 1
+'Business name', 'BISTANGO RESTAURANT', 1
+'Business name', 'MORANS BROOKLYN BARBECUE', 1
+'Business name', 'MOLLY WEE PUB', 1
+'Business name', 'BREAD BROTHERS BAGEL CAFE', 1
+'Business name', 'TAQUERIA MARIA & RICARDO', 1
+'Business name', 'BISTRO LE STEAK', 1
+'Business name', 'THE VIAND DINER & BAR', 1
+'Business name', 'DORRIAN'S RED HAND', 1
+'Business name', 'BAO BY KAYA', 1
+'Business name', 'SPOTTED OWL TAVERN', 1
+'Business name', 'RE UNION', 1
+'Business name', 'CAFEINE', 1
+'Business name', 'Roll N Roaster', 1
+'Business name', 'SAL ANTHONY'S RESTAURANT', 1
+'Business name', '5 NAPKIN BURGER', 1
+'Business name', 'VIETNAAM', 1
+'Business name', 'BRAZEN FOX KITCHEN AND BAR', 1
+'Business name', 'MEDI WINEBAR LLC', 1
+'Business name', 'HORUS KABAB HOUSE', 1
+'Business name', 'NOVITA', 1
+'Business name', 'SPRITZENHAUS', 1
+'Business name', 'BRASSERIE ATHENEE', 1
+'Business name', 'ROSSOPOMODORO', 1
+'Business name', 'MAIDEN LANE', 1
+'Business name', 'AGNANTI', 1
+'Business name', 'CORNERSTONE CAFE', 1
+'Business name', 'ST TROPEZ WINE BAR', 1
+'Business name', 'SMORGAS CHEF', 1
+'Business name', 'LENOX SAPHIRE', 1
+'Business name', 'POP AND POUR', 1
+'Business name', 'MASSERIA DEI VINI', 1
+'Business name', 'CHARLEY ST.', 1
+'Business name', 'BZ GRILL', 1
+'Business name', 'SOMBRERO MEXICAN RESTAURANT', 1
+'Business name', 'BOULEVARD SEAFOOD COMPANY', 1
+'Business name', 'BORU BORU', 1
+'Business name', 'West Side Steakhouse', 1
+'Business name', 'BAR COASTAL', 1
+'Business name', 'ESPERANTO', 1
+'Business name', 'PIERRE LOTI', 1
+'Business name', 'SAN MATTEO PIZZERIA ESPRESSO BAR', 1
+'Business name', 'GIGINO TRATTORIA', 1
+'Business name', 'GRITO MEXICAN GRILL', 1
+'Business name', 'JAVELINA', 1
+'Business name', 'POP'S RESTAURANT', 1
+'Business name', 'None', 0
+'Business name', 'BURGER HEAVEN', 1
+'Business name', 'JAKE'S DILEMMA', 1
+'Business name', 'KUBEH', 1
+'Business name', 'TINY'S AND THE BAR UPSTAIRS', 1
+'Business name', 'POST OFFICE', 1
+'Business name', 'ONE STOP BEER SHOP LLC', 1
+'Business name', 'HARLEM SHAKE', 1
+'Business name', 'TIN MARIN RESTAURANT & LOUNGE', 1
+'Business name', 'FREEHAND NEW YORK', 1
+'Business name', 'POSITANO', 1
+'Business name', 'WATTY AND MEG', 1
+'Business name', 'JASPERS TAPHOUSE & KITCHEN', 1
+'Business name', 'La Napa', 1
+'Business name', 'MAXWELL'S', 2
+'Business name', 'RENAISSANCE HARLEM', 1
+'Business name', 'BAR VERDE', 1
+'Business name', 'NOISETTE', 1
+'Business name', 'BURGERFI', 1
+'Business name', '10TH AVENUE COOKSHOP', 1
+'Business name', 'OBIKA MOZZARELLA BAR', 1
+'Business name', 'BLACK FLAMINGO', 1
+'Business name', 'THE HALF KING', 1
+'Business name', 'OLIVE TREE CAFE & COMEDY CELLAR', 1
+'Business name', 'VIC'S', 1
+'Business name', 'TOM'S RESTAURANT', 1
+'Business name', 'BATHHOUSE', 1
+'Business name', 'Greene Grape Annex', 1
+'Business name', 'SEAMORE'S', 1
+'Business name', 'WEST VILLAGE FINEST DELI', 1
+'Business name', 'PESCATORE', 1
+'Business name', 'BLACKSTONE BAR & GRILL', 1
+'Business name', 'CAFE FRIDA', 1
+'Business name', 'BACI RISTORANTE', 1
+'Business name', 'MIDNIGHT EXPRESS', 1
+'Business name', 'Benelux', 1
+'Business name', 'LOLA TAVERNA', 1
+'Business name', 'THE HIGH WATER', 1
+'Business name', 'WESTBANK CAFE', 1
+'Business name', 'SLICE, THE PERFECT FOOD', 1
+'Business name', 'SWEETGREEN', 1
+'Business name', 'Applebees', 1
+'Business name', 'SINGLECUT BEERSMITHS', 1
+'Business name', 'THE DEAD POET', 1
+'Business name', 'WESTSIDE RESTAURANT E/S/C #417', 1
+'Business name', 'SANT AMBROEUS COFFEE BAR', 1
+'Business name', 'JOE & THE JUICE', 6
+'Business name', 'TIMMY'S BY THE RIVER', 1
+'Business name', 'COCINA CHENTE MEXICAN CUISINE', 1
+'Business name', 'AMELIA'S  RESTAURANT COFFEE SHOP', 1
+'Business name', 'CRAZY ANNIE'S', 1
+'Business name', 'Morgenstern's Finest Ice Cream', 1
+'Business name', 'HANDCRAFT KITCHEN & COCKTAILS', 1
+'Business name', 'MAMA'S BAR', 1
+'Business name', 'COCO BISTRO', 1
+'Business name', 'CIRCA BREWING COMPANY', 1
+'Business name', 'NIAGRA', 1
+'Business name', 'RITZ DINER', 1
+'Business name', 'CITROEN', 1
+'Business name', 'THE DRAFT HOUSE', 1
+'Business name', 'BLEECKER STREET PIZZA', 1
+'Business name', 'ELI'S ESSENTIALS', 2
+'Business name', 'CAFE D' ALSACE', 1
+'Business name', 'THE SKYLARK', 1
+'Business name', 'GEMMA', 1
+'Business name', 'MERCHANTS NY', 1
+'Business name', 'CELESTE', 1
+'Business name', 'INFAMOUS CHICKEN', 1
+'Business name', 'SWEETGREEN TRIBECA', 1
+'Business name', 'BOCADO BAKERY CAFE', 1
+'Business name', 'PHEBE'S', 1
+'Business name', 'Olma Caviar Boutique & Lounge', 1
+'Business name', 'MILLEFEUILLE BAKERY CORP.', 1
+'Business name', 'THE MILL', 1
+'Business name', 'BENITO ONE', 1
+'Business name', 'FUMO ITALIAN FOOD & PIZZA', 1
+'Business name', 'TERRA', 1
+'Business name', 'SAUVAGE', 1
+'Business name', 'TUE THAI FOOD', 1
+'Business name', 'SUNFLOWER CAFE', 1
+'Business name', 'THE SHADMOOR', 1
+'Business name', 'PATSY'S PIZZERIA', 1
+'Business name', 'STILLWATER BAR & GRILL', 1
+'Business name', 'HUDSON HOUND', 1
+'Business name', 'DBL', 1
+'Business name', 'CALLIE'S TAQUERIA & TEQUILA BAR', 1
+'Business name', 'The Malt House', 1
+'Business name', 'THE GREEK KITCHEN', 1
+'Business name', 'WESTVILLE', 1
+'Business name', 'SYLVIA'S RESTAURANT', 1
+'Business name', 'HENRY'S END', 1
+'Business name', 'THE ROCKING HORSE MEXICAN CAFE', 1
+'Business name', 'BELLA LUNA', 1
+'Business name', 'WATAWA JAPANESE REST', 1
+'Business name', 'Phillies Pizzeria Restaurant', 1
+'Business name', 'LE BILBOQUET', 1
+'Business name', 'EUGENE & CO', 1
+'Business name', 'THE RANDOLPH AT BROOME', 1
+'Business name', 'TELLY'S TAVERNA', 1
+'Business name', 'BROCCOLINO', 1
+'Business name', 'FIREHOUSE RESTAURANT', 1
+'Business name', 'THE SKILLMAN', 1
+'Business name', 'MAMASUSHI', 1
+'Business name', '1 HOTEL CENTRAL PARK', 1
+'Business name', 'GARDENIA TERRACE', 1
+'Business name', 'BAR 6', 1
+'Business name', 'THE WINSLOW', 1
+'Business name', 'GINA LA FORNARINA', 1
+'Business name', 'GROOVE', 1
+'Business name', 'BLUESTONE LANE', 1
+'Business name', 'ELDER GREENE', 1
+'Business name', 'BAGEL EXPRESS 11', 1
+'Business name', 'CALYER', 1
+'Business name', 'THE GRANGE BAR & EATERY', 1
+'Business name', 'PAOLA'S RESTAURANT', 1
+'Business name', 'THE TRIPLE CROWN', 1
+'Business name', 'NATSUMI', 1
+'Business name', 'ARIA HELLS' KITCHEN', 1
+'Business name', 'HAVANA SOCIAL', 1
+'Business name', 'AMY'S BREAD', 1
+'Business name', 'BEERZAAR NYC', 1
+'Business name', 'MUSTANG HARRY'S', 1
+'Business name', 'MAISON KAYSER BAKERY', 2
+'Business name', 'DIG INN SEASONAL MARKET', 1
+'Business name', 'SPRING NATURAL KITCHEN', 1
+'Business name', 'LUNELLA', 1
+'Business name', 'MARTHA'S COUNTRY BAKERY', 1
+'Business name', 'PIZZA PALACE', 1
+'Business name', 'HOP HOUSE HARLEM', 1
+'Business name', 'EDGAR'S CAFE', 1
+'Business name', 'Anejo Tribeca', 1
+'Business name', 'THE DITTY', 1
+'Business name', 'CELIA'S RESTAURANT BAR&GRILL', 1
+'Business name', 'EL MITOTE', 1
+'Business name', 'SALVATORES OF SOHO', 1
+'Business name', 'DINO RESTAURANT', 1
+'Business name', 'BLEND ASTORIA', 1
+'Business name', 'THE BONNIE', 1
+'Business name', 'MARLOW  BISTRO', 1
+'Business name', 'FRANKIE'S 570 SPUNTINO', 1
+'Business name', 'NEW YORK BURGER CO', 1
+'Business name', 'PASTICCERIA ROCCO', 1
+'Business name', 'CAFE SELECT', 1
+'Business name', 'NICE- MATIN', 1
+'Business name', 'CAFFE NAPOLI', 1
+'Business name', 'QUEEN'S ROOM', 1
+'Business name', '2 DIVE 4', 1
+'Business name', 'BEACH CAFE', 1
+'Business name', 'THE CLAM', 1
+'Business name', 'YUM YUM BANGKOK 3', 1
+'Business name', 'RANCHO TAQUILERIA', 1
+'Business name', 'SPRING NATURAL', 1
+'Business name', 'MESCAL', 1
+'Business name', 'VINO LEVANTINO', 1
+'Business name', 'CAFFE CAFE', 1
+'Business name', 'CANTINA TAQUERIA & TEQUILA BAR', 1
+'Business name', 'DINER', 1
+'Business name', 'BOTTEGA', 1
+'Business name', 'AMYLOS', 1
+'Business name', 'BARE BURGER', 2
+'Business name', 'THE JONES', 1
+'Business name', 'SWEETGREEN 75TH & AMSTERDAM', 1
+'Business name', 'THE STUMBLE INN', 2
+'Business name', 'LAVAGNA', 1
+'Business name', 'MULBERRY STREET BAR', 1
+'Business name', 'PILAR CUBAN EATERY', 1
+'Business name', 'BARKING DOG NYC', 1
+'Business name', 'SAC'S PLACE', 1
+'Business name', 'Vinotapa', 1
+'Business name', 'MR. DONAHUES', 1
+'Business name', 'HILL & BAY', 1
+'Business name', 'KISH KASH NYC', 1
+'Business name', 'POLLOS MARIO', 1
+'Business name', 'MCDONALD'S RESTAURANT', 1
+'Business name', 'PETRARCA', 1
+'Business name', 'VERNON GRILLE', 1
+'Business name', 'FIVE NAPKIN BURGER', 1
+'Business name', 'SPIEGEL', 1
+'Business name', '44&X-HELLS KITCHEN', 1
+'Business name', 'THEP THAI RESTAURANT', 1
+'Business name', 'The Trestle', 1
+'Business name', 'BAR PRIMI', 1
+'Business name', 'DUKES', 1
+'Business name', 'KETTLE BLACK', 1
+'Business name', 'BABA COOL', 1
+'Business name', 'ONE AND ONE', 1
+'Business name', 'MOHAWK TAVERN', 1
+'Business name', 'BLACK HOUSE PUB', 1
+'Business name', 'SUSHI OF GARI TRIBECA', 2
+'Business name', 'LADUREE', 1
+'Business name', 'MORNING STAR RESTAURANT', 1
+'Business name', 'WINE 34', 1
+'Business name', 'COCU', 1
+'Business name', 'PASQUALE JONES', 1
+'Business name', 'LA CAVA', 1
+'Business name', 'LE GRAINNE CAFE', 1
+'Business name', 'SERAFINA', 2
+'Business name', 'THREE DECKER RESTAURANT', 1
+'Business name', 'COWGIRL AND BAR K', 1
+'Business name', 'E'S BAR', 2
+'Business name', 'JACK'S WIFE FREDA', 2
+'Business name', 'LUKE'S BAR & GRILL', 1
+'Business name', 'LEFKOS PYRGOS', 1
+'Business name', 'CRAFT RESTAURANT', 1
+'Business name', 'SENZA GLUTEN', 1
+'Business name', 'CORNELIA STREET CAFE  S/C #480', 1
+'Business name', 'ILILI', 1
+'Business name', 'OASIS DINER', 1
+'Business name', 'MALATESTA TRATTORIA', 1
+'Business name', 'JACOB'S PICKLES', 1
+'Business name', 'TRIBECA GRAND HOTEL', 1
+'Business name', 'AMELIE', 1
+'Business name', 'LASAGNA RESTAURANT', 1
+'Business name', 'SKINNY'S CANTINA', 1
+'Business name', 'BLUE SMOKE', 1
+'Business name', 'BILL'S BAR AND BURGER DOWNTOWN', 1
+'Business name', 'DUDLEY'S', 1
+'Business name', 'SHRIMP BOX RESTAURANT', 1
+'Business name', 'Barn Joo', 1
+'Business name', 'THE GREAT GEORGIANA', 1
+'Business name', 'SAN MATTEO PIZZERIA E CUCINA', 1
+'Business name', 'BAYARD'S ALE HOUSE', 1
+'Business name', 'Mom's', 1
+'Business name', 'SOLELUNA', 1
+'Business name', 'THE ELLINGTON', 1
+'Business name', 'MARLOW AND SONS', 1
+'Business name', 'SWEETGREEN WILLIAMSBURG', 1
+'Business name', 'BREAD & TULIPS', 1
+'Business name', 'Caffe Palermo', 1
+'Business name', 'GREEN KITCHEN', 1
+'Business name', 'BUDDHA TACO BAR', 1
+'Business name', 'TAVERNA KYCLADES', 1
+'Business name', 'PIACERE', 1
+'Business name', 'BRAVO PIZZA', 1
+'Business name', '2A', 1
+'Business name', 'AGAVE', 1
+'Business name', 'FOLLIA', 1
+'Business name', 'AMARONE RESTAURANT', 1
+'Business name', 'STREET TACO', 1
+'Business name', 'BEARD PAPA'S', 1
+'Business name', 'FRANK RESTAURANT', 1
+'Business name', 'SOLE DI CAPRI', 1
+'Business name', 'ZORBA'S', 1
+'Business name', 'CAFE GITANE', 1
+'Business name', 'UPRIGHT BREW HOUSE', 1
+'Business name', 'Cascabel Taqueria', 1
+'Business name', 'TRATTORIA SPAGHETTO', 1
+'Business name', 'SELENA ROSA', 1
+'Business name', 'CHEECH & PEPPE'S', 1
+'Business name', 'VIA TRENTA', 1
+'Business name', 'REDEMPTION', 1
+'Business name', 'THE PENROSE', 1
+'Business name', 'BASIL', 1
+'Business name', 'SAUCE', 1
+'Business name', 'RIKO', 1
+'Business name', 'FABIANE'S CAFE & PASTRY', 1
+'Business name', 'CIAO', 1
+'Business name', 'WICKED WILLY'S', 1
+'Business name', 'VIAND CAFE', 1
+'Business name', 'FERMENTO', 1
+'Business name', 'CHEFS CLUB COUNTER', 1
+'Business name', 'MADAME SOUSOU', 1
+'Business name', 'YEFSI ESTAIATORIO', 1
+'Business name', 'JG MELON', 1
+'Business name', 'DIVE BAR', 1
+'Business name', 'LELI'S BAKERY & PASTRY SHOP', 1
+'Business name', 'SILVANA', 1
+'Business name', 'NY BRAT FACTORY', 1
+'Business name', '00 + CO', 1
+'Business name', 'STARBUCKS COFFEE COMPANY', 2
+'Business name', 'SEAWALK RESTAURANT', 1
+'Business name', 'BLACK FOREST BROOKLYN', 1
+'Business name', 'TOASTIES', 1
+'Business name', 'ARTHOUSE HOTEL NEW YORK CITY', 1
+'Business name', 'HAAGEN DAZS', 1
+'Business name', 'DOC WATSON'S', 1
+'Business name', 'QUALITY EATS', 1
+'Business name', 'COURT DELI', 1
+'Business name', 'DENIZ', 1
+'Business name', 'BOCCA DI BACCO', 1
+'Business name', 'CHRISTOS STEAK HOUSE', 1
+'Business name', 'GINA', 1
+'Business name', 'ROSEMARY'S', 1
+'Business name', 'Panca', 1
+'Business name', 'HERO'S CERTIFIED BURGERS', 1
+'Business name', 'THE GIN MILL', 1
+'Business name', 'DOS CAMINOS', 1
+'Business name', 'THE MERMAID INN,', 1
+'Business name', 'GREENWICH STREET TAVERN,', 1
+'Business name', 'HOLLYWOOD DINER,', 1
+'Business name', 'KENT ALE HOUSE,', 1
+'Business name', 'SEAN OG'S,', 1
+'Business name', 'ROOT & BONE,', 1
+'Business name', 'BEAN'S & LAGER,', 1
+'Business name', 'CAFETAL,', 1
+'Business name', 'SOFREH RESTAURANT, NYC,', 1
+'Business name', 'EJ'S LUNCHEONETTE,', 1
+'Business name', 'PRET A MANGER,', 4
+'Business name', 'CHARLESTON,', 1
+'Business name', 'THE BOMBAY BREAD BAR,', 1
+'Business name', 'LOCKSMITH BAR,', 1
+'Business name', 'FLAT TOP,', 1
+'Business name', 'SMITH & MILLS,', 1
+'Business name', 'JUNIORS RESTAURANT,', 1
+'Business name', 'THE FLYING COCK,', 1
+'Business name', 'LUKE'S LOBSTER,', 1
+'Business name', 'PHILIP MARIE,', 1
+'Business name', 'YO-BURGER,', 1
+'Business name', 'PAGANI,', 1
+'Business name', 'ANTIKA PIZZERIA,', 1
+'Business name', 'ETHOS,', 1
+'Business name', 'WANDERLUST,', 1
+'Business name', 'CAFE FREDERICK HARLEM PARLOR,', 1
+'Business name', 'BABALUCCI'S,', 1
+'Business name', 'THE CROOKED KNIFE,', 1
+'Business name', 'LA PECORA BIANCA,', 2
+'Business name', 'ZIA MARIA,', 1
+'Business name', 'BY CHLOE,', 1
+'Business name', 'BELLA VIA RESTAURANT,', 1
+'Business name', 'ASSET,', 1
+'Business name', 'REFRIED BEANS MEXICAN GRILL,', 1
+'Business name', 'RED MANGO YOGURT & SMOOTHIES,', 1
+'Business name', 'JIMMY RYAN'S,', 1
+'Business name', 'ALTA CALIDAD,', 1
+'Business name', 'MEKELBURG'S,', 1
+'Business name', 'TACO MAHAL,', 1
+'Business name', 'SLAINTE,', 1
+'Business name', 'IL PORTO,', 1
+'Business name', 'RANDOLPH BROOKLYN,', 1
+'Business name', 'LA VILLETTA,', 1
+'Business name', 'THE ANCHORED INN,', 1
+'Business name', 'PLAYA BETTY'S,', 1
+'Business name', 'ETHYL'S,', 1
+'Business name', 'ELMO,', 1
+'Business name', 'SHADY LADY,', 1
+'Business name', 'UNCLE JACKS MEAT HOUSE,', 1
+'Business name', 'BURGOS RESTAURANT,', 1
+'Business name', 'JACKSON'S,', 1
+'Business name', 'BUILDING ON BOND,', 1
+'Business name', 'PASTIS,', 1
+'Business name', 'RED HOOK LOBSTER POUND,', 1
+'Business name', 'BENVENUTO CAFE,', 1
+'Business name', 'TENZAN JAPANESE RESTAURANT,', 1
+'Business name', 'SAL'S PIZZA,', 1
+'Business name', 'PRET A MANGER (USA) LIMITED,', 1
+'Business name', 'GREENWICH STEAK HOUSE FG,', 1
+'Business name', 'MITI MITI,', 1
+'Business name', 'ERV'S ON BEEKMAN,', 1
+'Business name', 'JULIANA'S,', 1
+'Business name', 'CORNER BISTRO,', 1
+'Business name', 'Bluestone Lane,', 1
+'Business name', 'BARAWINE,', 1
+'Business name', 'LE PAIN QUOTIDIEN,', 9
+'Business name', 'ITALIAN VILLAGE PIZZA,', 1
+'Business name', 'TABLE 87,', 1
+'Business name', 'FRESH SALT,', 1
+'Business name', 'BLT PRIME,', 1
+'Business name', 'SQUARE DINER,', 1
+'Business name', 'PICK A BAGEL,', 2
+'Business name', 'CHAVELA'S,', 1
+'Business name', 'UPPER EAST CAFE,', 1
+'Business name', 'AMITY HALL,', 1
+'Business name', 'NOCHE DE MARGARITAS,', 1
+'Business name', 'SD26,', 1
+'Business name', 'LITTLE CAESARS,', 1
+'Business name', 'STAX NYC,', 1
+'Business name', 'FELICE WINE BAR,', 1
+'Business name', 'SABA'S PIZZA,', 1
+'Business name', 'AINSWORTH,', 1
+'Business name', 'SILVER STAR RESTAURANT,', 1
+'Business name', 'CACIO E PEPE,', 1
+'Business name', 'MY MOST FAVORITE FOOD,', 1
+'Business name', 'DER SCHWARZE KOELNER,', 1
+'Business name', 'BELLINI,', 1
+'Business name', 'TACOMBI,', 1
+'Business name', 'GARI,', 1
+'Business name', 'MAISON KEYSER,', 1
+'Business name', 'MARCO POLO RISTORANTE,', 2
+'Business name', 'RAHI,', 1
+'Business name', 'OTTO'S TACOS,', 2
+'Business name', 'DAR 525,', 1
+'Business name', 'JULIETTE,', 1
+'Business name', 'THE SMITH,', 1
+'Business name', 'PAPPARDELLA,', 1
+'Business name', 'DUE,', 1
+'Business name', 'MANETTAS RISTORANTE,', 1
+'Business name', 'FELICE,', 1
+'Business name', 'CLUB FORTE,', 1
+'Business name', 'GELATERIA GENTILE,', 1
+'Business name', 'DUNKIN DONUTS,', 1
+'Business name', 'La Bonbonniere Restaurant,', 1
+'Business name', 'ALIADA,', 1
+'Business name', 'STARBUCKS COFFEE #48340,', 1
+'Business name', 'BONO TRATTORIO,', 1
+'Business name', 'CAFE ARGENTINO,', 2
+'Business name', 'CAFE AMRITA,', 1
+'Business name', 'GYRO WORLD,', 1
+'Business name', '2ND AVENUE DELI,', 1
+'Business name', 'MCONDO 502,', 1
+'Business name', 'AOA BAR AND GRILL,', 1
+'Business name', 'THE GEM SALOON,', 2
+'Business name', 'NITEHAWK CINEMA/ LO-RES,', 1
+'Business name', 'CORRADO BAKERY,', 1
+'Business name', 'SOLE BISTRO ITALIANO,', 1
+'Business name', 'BUBBA'S,', 1
+'Business name', 'HARLEM FOOD BAR,', 1
+'Business name', 'BEARDED LADY,', 1
+'Business name', 'PIZZA BEACH,', 1
+'Business name', 'NECTAR CAFE,', 1
+'Business name', 'HINOMARU RAMEN,', 1
+'Business name', 'HUDSON & CHARLES DINETTE,', 1
+'Business name', 'CAPTAIN DAN'S GOOD TIME TAVERN,', 1
+'Business name', 'MAISON MAY VANDERBILT,', 1
+'Business name', 'DZIUPLA,', 1
+'Business name', 'THE HUNGARIAN PASTRY SHOP,', 1
+'Business name', 'ROCCO'S TACOS & TEQUILLA BAR,', 1
+'Business name', 'CEBU,', 1
+'Business name', 'BALZEM,', 1
+'Business name', 'THE STANDARD HIGH LINE,', 1
+'Business name', 'CIEN FUEGOS,', 1
+'Business name', 'BEYOGLU,', 1
+'Business name', 'TWO HANDS,', 1
+'Business name', 'CARMINE'S PIZZA,', 1
+'Business name', 'DAKOTA BAR,', 1
+'Business name', 'BACCHUS,', 1
+'Business name', 'LA NONNA,', 1
+'Business name', '27 MORTON,', 1
+'Business name', 'LOVERBOY,', 1
+'Business name', 'LEXINGTON PIZZA PARLOUR,', 1
+'Business name', 'AGED,', 1
+'Business name', 'BAREBURGER,', 5
+'Business name', 'SEVEN HILLS MEDITERRANEAN GRILL,', 1
+'Business name', 'OVELIA RESTAURANT,', 1
+'Business name', 'ENTHAICETHAIKITCHEN,', 1
+'Business name', 'BECO,', 1
+'Business name', 'EMMONS PALACE,', 1
+'Business name', 'GLADY'S,', 1
+'Business name', 'BARFLY,', 1
+'Business name', 'OFF THE HOOK,', 1
+'Business name', 'WAHLBURGER'S,', 1
+'Business name', 'SHAKE SHACK,', 3
+'Business name', 'TRATTORIA DELL'ARTE,', 1
+'Business name', 'SARABETH'S,', 2
+'Business name', 'BOXERS,', 1
+'Business name', 'MOTI MAHAL DELUXE,', 1
+'Business name', 'LAFAYETTE,', 1
+'Business name', 'MONDRIAN PARK AVENUE,', 1
+'Business name', 'PEPOLINO,', 1
+'Business name', 'EAT,', 1
+'Business name', 'SWEETGREEN 9ST & BROADWAY,', 1
+'Business name', 'BAR ITALIA,', 1
+'Business name', 'SEABIRD,', 1
+'Business name', 'Chateau 49,', 1
+'Business name', 'BISKOTI,', 1
+'Business name', 'NICA TRATTORIA,', 1
+'Business name', 'DANDANA CAFE,', 1
+'Business name', 'BIRDY'S,', 1
+'Business name', 'ABILENE,', 1
+'Business name', 'REGIONAL,', 1
+'Business name', 'MERCURY BAR,', 1
+'Business name', 'UNITED MINERS SOCCER,', 1
+'Business name', 'DOMINIQUE ANSEL KITCHEN,', 1
+'Business name', 'THE MEATBALL SHOP,', 1
+'Business name', 'GUACAMOLE TAQUERIA,', 1
+'Business name', 'GOOD ENOUGH TO EAT,', 1
+'Business name', 'ELORA SPANISH MEXICAN RESTAURANT INC.,', 1
+'Business name', 'SWAGAT,', 1
+'Business name', 'DA NICO RESTAURANT,', 1
+'Business name', 'BURGERFL,', 1
+'Business name', 'BISTRO NOMAD,', 1
+'Business name', 'THE DISTRICT,', 1
+'Business name', 'ACQUISTA TRATTORIA,', 1
+'Business name', 'Il GATTOPARDO,', 1
+'Business name', 'CONCORD HILL,', 1
+'Business name', 'SHERRY B DESSERT STUDIO,', 1
+'Business name', 'RIBALTA,', 1
+'Business name', 'BEER SHOP NYC,', 1
+'Business name', 'HUMMUS KITCHEN,', 1
+'Business name', 'AMAMI SUSHI,', 1
+'Business name', 'VIA CAROTA,', 1
+'Business name', 'PEPE GIALLO,', 1
+'Business name', 'NARGIS CAFE,', 1
+'Business name', 'PICANTE MEXICAN RESTAURANT,', 1
+'Business name', 'ROW HOUSE,', 1
+'Business name', 'LA SIRENE UWS,', 1
+'Business name', 'TACOMBI FORT GREENE,', 1
+'Business name', 'THE GRAND,', 1
+'Business name', 'COPPELIA,', 1
+'Business name', 'KOGANE RAMEN,', 1
+'Business name', 'WIN SON,', 1
+'Business name', 'MOLE,', 1
+'Business name', 'IL CORTILE RESTAURANT,', 1
+'Business name', 'EPSTEIN'S BAR, LLC,', 1
+'Business name', 'HAMILTONS,', 1
+'Business name', 'LITTLE FROG,', 1
+'Business name', 'SWEET AFTON,', 1
+'Business name', 'PERSEPOLIS,', 1
+'Business name', 'TIO PEPE,', 1
+'Business name', 'ADORO LEI,', 1
+'Business name', 'LAND THAI KITCHEN,', 1
+'Business name', 'SABROSURA,', 1
+'Business name', 'ZUCCHERO E POMODORI,', 1
+'Business name', 'SETTEPANI,', 1
+'Business name', 'CABANA RESTAURANT AND BAR,', 1
+'Business name', 'BROTHERS PIZZA,', 1
+'Business name', 'SAVANN,', 1
+'Business name', 'EL BASURERO BAR RESTAURANT,', 1
+'Business name', 'ANEJO TEQUILERIA,', 1
+'Business name', 'CHARLIE BIRD,', 1
+'Business name', 'WALKER'S,', 1
+'Business name', 'THE HORNY RAM,', 1
+'Business name', 'COPPOLAS,', 1
+'Business name', 'TESSA,', 1
+'Business name', 'BROTHER JIMMY'S BBQ,', 1
+'Business name', 'MOTI MAHAL DELUX,', 1
+'Business name', 'CAFE TABU,', 1
+'Business name', 'TORTARIA,', 1
+'Business name', 'TAMPOPO RAMEN,', 1
+'Business name', 'FIAT CAFE,', 1
+'Business name', 'BROOKLYN PUBLIC HOUSE,', 1
+'Business name', 'HUDSON BAR AND BOOKS,', 1
+'Business name', 'RANDOLPH BEER,', 1
+'Business name', 'EL CENTRO,', 1
+'Business name', 'GREY LADY,', 1
+'Business name', 'YES CHEF WINE BAR,', 1
+'Business name', 'ARTICHOKE BASILLE'S PIZZA,', 1
+'Business name', 'VANDAL,', 1
+'Business name', 'BRIGITTE,', 1
+'Business name', 'THE LOWERY BAR & KITCHEN,', 1
+'Business name', 'BUDDHA BEER BAR,', 1
+'Business name', 'HIGH STREET ON HUDSON,', 1
+'Business name', 'AGORA TAVERNA,', 1
+'Business name', 'TIVOLI CAFE,', 1
+'Business name', 'EL ENCANTO D LOLA 2,', 1
+'Business name', 'NU HOTEL,', 1
+'Business name', 'VIA BRAZIL,', 1
+'Business name', 'SALUMERIA ROSI,', 1
+'Business name', 'SALT & CHARCOAL,', 1
+'Business name', 'MARGHERITA,', 1
+'Business name', 'HUDSON CAFE,', 1
+'Business name', 'STONE PARK CAFE,', 1
+'Business name', 'KO SUSHI,', 1
+'Business name', 'SUTEISHI JAPANESE  RESTAURANT,', 1
+'Business name', 'FACTORY 380,', 1
+'Business name', 'THE MARSHALL,', 1
+'Business name', 'PUTNAM'S,', 1
+'Business name', 'LE SINGE VERT,', 1
+'Business name', 'BAGATELLE,', 1
+'Business name', 'CAFE ALTRO PARADISO,', 1
+'Business name', 'SUGAR FREAK,', 1
+'Business name', 'PISELLINO,', 1
+'Business name', 'WOODPECKER BY DAVID BURKE,', 1
+'Business name', 'MAMAN,', 1
+'Business name', 'BANTER,', 2
+'Business name', 'ROSARITO RESTAURANT,', 1
+'Business name', 'EAST HARLEM BOTTLING CO.,', 1
+'Business name', 'EL VEZ,', 1
+'Business name', '08 FOOD DRIED HOT POT,', 1
+'Business name', 'NAKED DOG,', 1
+'Business name', 'TAORMINA RESTAURANT,', 1
+'Business name', 'HOTEL PIERRE,', 1
+'Business name', 'GOTAN,', 1
+'Business name', 'ROUTE 66 CAFE,', 1
+'Business name', 'COOPERS CRAFT AND KITCHEN,', 1
+'Business name', 'THE PENNY FARTHING,', 1
+'Business name', 'V.I.P.'S CAFE,', 1
+'Business name', '2 CHAIRS CAFE,', 1
+'Business name', 'TARALLUCCI E VINO,', 1
+'Business name', 'WILLIAMSBURGER,', 1
+'Business name', 'CIBO E VINO,', 1
+'Business name', 'IGUANA,', 1
+'Business name', 'ITALIENNE,', 1
+'Business name', 'HUDSON CLEARWATER,', 1
+'Business name', 'LUSARDI'S RESTAURANT,', 1
+'Business name', 'HARLEM HOOKAH,', 1
+'Business name', 'BAR 43,', 1
+'Business name', 'ARCTICA,', 1
+'Business name', 'COOGANS,', 1
+'Business name', 'OSTERIA LAGUNA,', 1
+'Business name', 'CAFE REGGIO,', 1
+'Business name', 'RAFELE,', 1
+'Business name', 'CALEDONIA,', 1
+'Business name', 'PIZZA SUPERSTAR,', 1
+'Business name', 'RED FARM,', 1
+'Business name', 'PEARL'S SOCIAL & BILLY CLUB,', 1
+'Business name', 'BAR PITTI,', 1
+'Business name', 'LAMARCA CHEESE SHOP,', 1
+'Business name', 'SWEET CORNER BAKESHOP,', 1
+'Business name', 'WEST WAY DINER,', 1
+'Business name', 'GMT TAVERN,', 1
+'Business name', 'FULL MOON PIZZERIA,', 1
+'Business name', 'MAMA SUSHI,', 1
+'Business name', 'IL VIOLINO,', 1
+'Business name', 'SAPORI,', 1
+'Business name', 'MICKEY SPILLANE'S KITCHEN,', 1
+'Business name', 'FLEMING BY LE BILBOQUET,', 1
+'Business name', 'OXBOW TAVERN,', 1
+'Business name', 'MEXICAN FESTIVAL,', 1
+'Business name', 'GEORGES RESTAURANT,', 1
+'Business name', 'CARROLL PLACE,', 1
+'Business name', 'L'ANGOLO RISTORANTE,', 1
+'Business name', 'ROSIE O'GRADY'S,', 1
+'Business name', 'HORUS CORP.,', 1
+'Business name', 'MAMAK,', 1
+'Business name', 'GRAMERCY KITCHEN,', 1
+'Business name', '3RD AVE ALE HOUSE,', 1
+'Business name', 'zerza,', 1
+'Business name', 'OLIVER'S GASTROPUB,', 1
+'Business name', 'MISS LILY'S 7A,', 1
+'Business name', 'JOLIE CANTINA,', 1
+'Business name', 'SWEET CHICK,', 1
+'Business name', 'LA CONTRADA,', 1
+'Business name', 'YUMMY THAI,', 1
+'Business name', 'THE CRABBY SHACK,', 1
+'Business name', 'KIWIANA,', 1
+'Business name', 'TREADWELL PARK,', 2
+'Business name', 'L' AMICO,', 1
+'Business name', 'GENESIS,', 1
+'Business name', 'LITE BITES CAFE & GRILL,', 1
+'Business name', 'E/S/C #255,', 1
+'Business name', 'MAX,', 1
+'Business name', 'FORGTMENOT,', 1
+'Business name', 'CORNERSTONE TAVERN,', 1
+'Business name', 'THE BUTCHER'S DAUGHTER,', 1
+'Business name', 'MARUZZELLA,', 1
+'Business name', 'ATRIUM DUMBO,', 1
+'Business name', 'FRED'S,', 1
+'Business name', 'PHILIPPE,', 1
+'Business name', 'ALLIGATOR LOUNGE,', 1
+'Business name', 'OPS,', 1
+'Business name', 'VIA VAI,', 1
+'Business name', 'GROM,', 1
+'Business name', 'PENCIL FACTORY,', 1
+'Business name', 'WA-HI DINER,', 1
+'Business name', 'ASADERO LA FOGATA,', 1
+'Business name', 'DOG & BONE,', 1
+'Business name', 'NIZZA,', 1
+'Business name', 'CALIENTE CAB CO,', 1
+'Business name', 'DALLAS BBQ,', 4
+'Business name', 'MESA COYOACAN,', 1
+'Business name', 'BUTCHER BAR SMOKEHOUSE,', 1
+'Business name', 'GINO SORBILLO,', 1
+'Business name', 'SHAKESPEARE & CO.,', 1
+'Business name', 'FONDA CHELSEA,', 1
+'Business name', 'DONNA MARGHERITA,', 1
+'Business name', 'PIG & WHISTLE ON 3RD,', 1
+'Business name', 'GRECA,', 1
+'Business name', 'AG KITCHEN,', 1
+'Business name', 'JIN RAMEN,', 1
+'Business name', 'SMITH & WOLLENSKY,', 2
+'Business name', 'FUMO,', 1
+'Business name', '8 CABRINI,', 1
+'Business name', 'DEZ,', 1
+'Business name', 'MEME,', 1
+'Business name', 'SALVATORIA KITCHEN AND BAR,', 1
+'Business name', 'EMMY SQUARED,', 1
+'Business name', 'BUBBYS HIGHLINE,', 1
+'Business name', 'Gracie's on 2nd Diner,', 1
+'Business name', 'CHELSEA RISTORANTE ITALIANO,', 1
+'Business name', 'CERVECERIA HAVEMEYER,', 1
+'Business name', 'ALFIE'S,', 1
+'Business name', 'SAVORE RISTORANTE,', 1
+'Business name', 'THE SPOTTED DOG,', 1
+'Business name', 'DKALABASH,', 1
+'Business name', 'ZUMSCHNEIDER,', 1
+'Business name', 'ANASSA,', 1
+'Business name', 'BUTLER,', 1
+'Business name', 'PATISSERIE DES AMBASSADES,', 1
+'Business name', 'PURE GREEN,', 1
+'Business name', 'LA PEQUENA COLOMBIA,', 1
+'Business name', 'LA COMPAGNIES DES VINS SURNATURELS,', 1
+'Business name', 'THE HALF PINT,', 1
+'Business name', 'ASHOKA,', 1
+'Business name', 'THE STAGECOACH,', 2
+'Business name', 'Chalait,', 1
+'Business name', 'SONNYBOY,', 1
+'Business name', 'TABLE D' HOTE,', 1
+'Business name', 'MOTORINO BROADWAY,', 1
+'Business name', 'JUICE GENERATION,', 1
+'Business name', 'TIRAMISU RESTAURANT,', 1
+'Business name', 'SARAVANA BHAVAN,', 1
+'Business name', 'LAMANO,', 1
+'Business name', 'DA ANDREA,', 2
+'Business name', 'MEL'S BURGER BAR,', 2
+'Business name', 'BURGER CLUB,', 1
+'Business name', 'PIZZETTERIA BRUNETTI,', 1
+'Business name', 'THE LEROY HOUSE,', 1
+'Business name', 'TINOS DELICATESSEN,', 1
+'Business name', 'GRAY MARE,', 1
+'Business name', 'FIRENZE RISTORANTE,', 1
+'Business name', 'VARRIO 408,', 1
+'Business name', 'IL SOLE,', 1
+'Business name', 'BODRUM,', 1
+'Business name', 'DON GIOVANNI,', 1
+'Business name', 'LE SOUK HAREM,', 1
+'Business name', 'THE PORTER HOUSE AT FRAUNCES TAVERN,', 1
+'Business name', 'CASA BELLA RESTAURANT,', 1
+'Business name', 'KING THAI,', 1
+'Business name', 'LA LOTERIA,', 1
+'Business name', 'YVES,', 1
+'Business name', 'ZUCKER'S BAGELS,', 1
+'Business name', 'MIMI CHENG'S DUMPLINGS,', 2
+'Business name', 'NICKEL & DINER,', 1
+'Business name', 'ZAGARA WINE BAR,', 1
+'Business name', 'MARTINA,', 1
+'Business name', 'PIZZERIA SIRENETTA,', 1
+'Business name', 'CAFETERIA,', 1
+'Business name', 'RIPOSO 72,', 1
+'Business name', 'OTHELLO DELI,', 1
+'Business name', 'LE ZIE 2000,', 1
+'Business name', 'COVE LOUNGE,', 1
+'Business name', 'MR. BIGGS BAR & GRILL,', 1
+'Business name', 'BETTOLA,', 1
+'Business name', 'BAKER STREET,', 1
+'Business name', 'CASCABEL TAQUERIA,', 1
+'Business name', 'LOCAL 92,', 1
+'Business name', 'ROOT NOLITA,', 1
+'Business name', 'HARU,', 1
+'Business name', 'BIN 7,', 1
+'Business name', 'THE KITCHEN SINK,', 1
+'Business name', 'EATS,', 1
+'Business name', 'WALLFLOWER,', 1
+'Business name', 'JIN JIN HONG KONG CAFE,', 1
+'Business name', 'ASTORIA CRAFT,', 1
+'Business name', 'ELEA,', 1
+'Business name', 'ISOLA,', 1
+'Business name', 'PJ MORAN'S,', 1
+'Business name', 'ARTE RESTAURANT,', 1
+'Business name', 'RED ROOSTER HARLEM,', 1
+'Business name', 'GATO,', 1
+'Business name', 'BO CAPHE,', 1
+'Business name', 'DALE DINER,', 1
+'Business name', 'MAMAJUANA CAFE,', 2
+'Business name', 'AROQA,', 1
+'Business name', 'TANOREEN,', 1
+'Business name', 'STONEFRUIT ESPRESSO & KITCHEN,', 1
+'Business name', 'MOTTSU,', 1
+'Business name', 'THE RED DOORS BAR & GRILL,', 1
+'Business name', 'PERFECTO PIZZERIA,', 1
+'Business name', 'HI LIFE BAR & GRILL,', 1
+'Business name', 'KANA,', 1
+'Business name', 'THE BELL HOUSE,', 1
+'Business name', 'CARRO CAFE,', 1
+'Business name', 'GALWAY HOOKER BAR,', 1
+'Business name', 'YATENGA,', 1
+'Business name', 'SENN THAI COMFORT FOOD,', 1
+'Business name', 'LOKAL,', 1
+'Business name', 'CAFE CHAMPIGNON,', 1
+'Business name', 'THE SORELLE,', 1
+'Business name', 'BRIK LOUNGE AND KITCHEN,', 1
+'Business name', 'B BAR & GRILL,', 1
+'Business name', 'I TRULLI,', 1
+'Business name', 'BLIND PIG,', 1
+'Business name', 'IL BUCO ALIMENTARY & VINERIA,', 1
+'Business name', 'AN CHOI,', 1
+'Business name', 'ANCHOR WINEBAR,', 1
+'Business name', '44 SOUTHWEST,', 1
+'Business name', 'THINK COFFEE,', 1
+'Business name', 'LOVELY DAY,', 1
+'Business name', 'IL CARINO RESTAURANT,', 1
+'Business name', 'OFICINA LATINA,', 1
+'Business name', 'CAFE CORTADITO,', 1
+'Business name', 'VYNL,', 1
+'Business name', 'BENNY'S BURRITOS,', 1
+'Business name', 'THE HAAB,', 1
+'Business name', 'Bo Caphe,', 1
+'Business name', 'PICCOLA CUCINA,', 1
+'Business name', 'IL PICOOLO BUFALO,', 1
+'Business name', 'MOONSTRUCK DINER,', 1
+'Business name', 'THE THIRSTY KOALA,', 1
+'Business name', 'THE MALT HOUSE,', 1
+'Business name', 'LITTLE TONG NOODLE SHOP,', 1
+'Business name', 'The Copper Still,', 1
+'Business name', 'FREEKS MILL,', 1
+'Business name', 'TACUBA,', 1
+'Business name', 'RED LION,', 1
+'Business name', 'HAVE & MEYER,', 1
+'Business name', 'THEATER CAFE,', 1
+'Business name', 'CAFE DU SOLEIL,', 1

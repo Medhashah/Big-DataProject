@@ -1,0 +1,1 @@
+{"column name": "MI", "semantic_types": [{"semantic_type": "person_name", "count": 129075}, {"semantic_type": "borough", "count": 32654}, {"semantic_type": "subject_in_school", "count": 3}], "true_type": "person_name", "prediction_type": "person_name"}

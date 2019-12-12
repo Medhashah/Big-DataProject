@@ -1,0 +1,292 @@
+{
+ "null": [
+  {
+   "column_name": "dbn",
+   "null_value": []
+  },
+  {
+   "column_name": "program",
+   "null_value": []
+  },
+  {
+   "column_name": "prgdesc",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "code",
+   "null_value": []
+  },
+  {
+   "column_name": "interest",
+   "null_value": []
+  },
+  {
+   "column_name": "method",
+   "null_value": []
+  },
+  {
+   "column_name": "eng",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "math",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "soc",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "sci",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "stm",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "ela",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "aud",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "seat_gr09",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "app_gr09",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "seat_gr10",
+   "null_value": [
+    "seat_gr10",
+    "None",
+    "Zoned"
+   ]
+  },
+  {
+   "column_name": "app_gr10",
+   "null_value": [
+    "app_gr10",
+    "None",
+    "New Program",
+    "Zoned"
+   ]
+  },
+  {
+   "column_name": "req1",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "req2",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "req3",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "req4",
+   "null_value": [
+    null
+   ]
+  },
+  {
+   "column_name": "req5",
+   "null_value": [
+    null
+   ]
+  }
+ ],
+ "disguised": [
+  {
+   "column_name": "dbn",
+   "disguised_missing_value": [
+    "dbn",
+    "01M292",
+    "01M448"
+   ]
+  },
+  {
+   "column_name": "program",
+   "disguised_missing_value": [
+    "program",
+    "International Studies",
+    "University Neighborhood Early College"
+   ]
+  },
+  {
+   "column_name": "prgdesc",
+   "disguised_missing_value": [
+    "prgdesc",
+    "University Neighborhood Early College (UNEC) is designed for students interested in pursuing a career in business. UNEC provides rigorous curriculum with individualized academic supports, enabling students to earn a High School diploma and up to 24 college credits through City University of New York (CUNY) Baruch College within 4 years.",
+    "An interdisciplinary, project-based program, with advisories, art and music electives, community service requirements and learning centers."
+   ]
+  },
+  {
+   "column_name": "code",
+   "disguised_missing_value": [
+    "code",
+    "M46X",
+    "M35C"
+   ]
+  },
+  {
+   "column_name": "interest",
+   "disguised_missing_value": [
+    "interest",
+    "Humanities & Interdisciplinary",
+    "Business"
+   ]
+  },
+  {
+   "column_name": "method",
+   "disguised_missing_value": [
+    "method",
+    "Limited Unscreened",
+    "Screened"
+   ]
+  },
+  {
+   "column_name": "eng",
+   "disguised_missing_value": []
+  },
+  {
+   "column_name": "math",
+   "disguised_missing_value": []
+  },
+  {
+   "column_name": "soc",
+   "disguised_missing_value": []
+  },
+  {
+   "column_name": "sci",
+   "disguised_missing_value": []
+  },
+  {
+   "column_name": "stm",
+   "disguised_missing_value": [
+    "stm",
+    "Levels 2-4",
+    "Levels 3-4"
+   ]
+  },
+  {
+   "column_name": "ela",
+   "disguised_missing_value": [
+    "ela",
+    "Levels 2-4",
+    "Levels 3-4"
+   ]
+  },
+  {
+   "column_name": "aud",
+   "disguised_missing_value": [
+    "aud",
+    "Presentation of a portfolio containing 10 pieces of original art work; an art exam and writing sample will be required at the audition. A VCR for viewing a student-made video will be available.",
+    "Instrumental Music: Two prepared pieces, sight reading and scales. Bring your own instrument (except for piano and drums). Vocal Music: Two prepared pieces, sight singing and melody repetition. Bring sheet music and/or a CD if accompaniment is needed. Drama: Two prepared monologues and an improvisation. Dance: Ballet-based modern dance class with warm-up, combination and improvisation; written survey of dance experience and goals; and interview. Form-fitting leotard/shirt and tights/pants required."
+   ]
+  },
+  {
+   "column_name": "seat_gr09",
+   "disguised_missing_value": [
+    "98",
+    "25",
+    "90"
+   ]
+  },
+  {
+   "column_name": "app_gr09",
+   "disguised_missing_value": [
+    "145",
+    "95",
+    "456"
+   ]
+  },
+  {
+   "column_name": "seat_gr10",
+   "disguised_missing_value": [
+    "10",
+    "20",
+    "8"
+   ]
+  },
+  {
+   "column_name": "app_gr10",
+   "disguised_missing_value": [
+    "7",
+    "15",
+    "2"
+   ]
+  },
+  {
+   "column_name": "req1",
+   "disguised_missing_value": [
+    "req1",
+    "Open only to students whose home language is Chinese (Mandarin)",
+    "Review of Attendance & Punctuality"
+   ]
+  },
+  {
+   "column_name": "req2",
+   "disguised_missing_value": [
+    "req2",
+    "School-based qualifying exam: Interested candidataes for 9th and 10th grade must take our school-based qualifying exam. See our website www.nestmk12.net for exam dates and to register.",
+    "Review of Attendance & Punctuality"
+   ]
+  },
+  {
+   "column_name": "req3",
+   "disguised_missing_value": [
+    "req3",
+    "Interview",
+    "Review of Attendance & Punctuality"
+   ]
+  },
+  {
+   "column_name": "req4",
+   "disguised_missing_value": [
+    "req4",
+    "Students seeking admission to Beacon must schedule an interview with Beacon faculty.",
+    "Student/Parent Interview"
+   ]
+  },
+  {
+   "column_name": "req5",
+   "disguised_missing_value": [
+    "req5",
+    "Portfolio"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+'Type of location', 'BUS STOP', 178
+'Type of location', 'RESIDENCE - APT. HOUSE', 50560
+'Type of location', 'MOSQUE', 65
+'Type of location', 'CHAIN STORE', 7452
+'Type of location', 'FACTORY/WAREHOUSE', 182
+'Type of location', 'FOOD SUPERMARKET', 1341
+'Type of location', 'HOSPITAL', 1201
+'Type of location', 'TAXI (LIVERY LICENSED)', 258
+'Type of location', 'SMALL MERCHANT', 668
+'Type of location', 'LOAN COMPANY', 11
+'Type of location', 'RESIDENCE - PUBLIC HOUSING', 16502
+'Type of location', 'HOMELESS SHELTER', 187
+'Type of location', 'FAST FOOD', 1479
+'Type of location', 'TELECOMM. STORE', 371
+'Type of location', 'DRY CLEANER/LAUNDRY', 517
+'Type of location', 'VIDEO STORE', 27
+'Type of location', 'ATM', 128
+'Type of location', 'BUS (NYC TRANSIT)', 603
+'Type of location', 'VARIETY STORE', 236
+'Type of location', 'BOOK/CARD', 108
+'Type of location', 'PARKING LOT/GARAGE (PUBLIC)', 873
+'Type of location', 'TRANSIT - NYC SUBWAY', 6163
+'Type of location', 'None', 0
+'Type of location', 'JEWELRY', 139
+'Type of location', 'BANK', 879
+'Type of location', 'CANDY STORE', 275
+'Type of location', 'BRIDGE', 228
+'Type of location', 'PARK/PLAYGROUND', 1837
+'Type of location', 'BEAUTY & NAIL SALON', 650
+'Type of location', 'TRAMWAY', 4
+'Type of location', 'CEMETERY', 22
+'Type of location', 'STREET', 59992
+'Type of location', 'CHURCH', 370
+'Type of location', 'SHOE', 175
+'Type of location', 'GROCERY/BODEGA', 3830
+'Type of location', 'GYM/FITNESS FACILITY', 795
+'Type of location', 'COMMERCIAL BUILDING', 6114
+'Type of location', 'PUBLIC SCHOOL,', 2269
+'Type of location', 'GAS STATION,', 478
+'Type of location', 'DOCTOR/DENTIST OFFICE,', 608
+'Type of location', 'PUBLIC BUILDING,', 1148
+'Type of location', 'ABANDONED BUILDING,', 57
+'Type of location', 'RESIDENCE-HOUSE,', 21474
+'Type of location', 'TAXI/LIVERY (UNLICENSED),', 35
+'Type of location', 'SOCIAL CLUB/POLICY,', 149
+'Type of location', 'TRANSIT FACILITY (OTHER),', 181
+'Type of location', 'DRUG STORE,', 3187
+'Type of location', 'MARINA/PIER,', 75
+'Type of location', 'DEPARTMENT STORE,', 5169
+'Type of location', 'PRIVATE/PAROCHIAL SCHOOL,', 301
+'Type of location', 'HIGHWAY/PARKWAY,', 798
+'Type of location', 'TAXI (YELLOW LICENSED),', 196
+'Type of location', 'CLOTHING/BOUTIQUE,', 2097
+'Type of location', 'STORE UNCLASSIFIED,', 767
+'Type of location', 'OTHER,', 6910
+'Type of location', 'CHECK CASHING BUSINESS,', 226
+'Type of location', 'HOTEL/MOTEL,', 1402
+'Type of location', 'RESTAURANT/DINER,', 2903
+'Type of location', 'STORAGE FACILITY,', 223
+'Type of location', 'LIQUOR STORE,', 274
+'Type of location', 'MAILBOX INSIDE,', 110
+'Type of location', 'BUS (OTHER),', 112
+'Type of location', 'SYNAGOGUE,', 91
+'Type of location', 'OTHER HOUSE OF WORSHIP,', 35
+'Type of location', 'OPEN AREAS (OPEN LOTS),', 254
+'Type of location', 'BAR/NIGHT CLUB,', 2375
+'Type of location', 'BUS TERMINAL,', 183
+'Type of location', 'CONSTRUCTION SITE,', 423
+'Type of location', 'AIRPORT TERMINAL,', 410
+'Type of location', 'PARKING LOT/GARAGE (PRIVATE),', 826
+'Type of location', 'FERRY/FERRY TERMINAL,', 78
+'Type of location', 'MAILBOX OUTSIDE,', 1092
+'Type of location', 'PHOTO/COPY,', 20
+'Type of location', 'TUNNEL,', 103
+'Type of location', 'DAYCARE FACILITY,', 2
